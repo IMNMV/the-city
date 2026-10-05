@@ -1,0 +1,1478 @@
+THE CITY · gpt-oss 20B, government, 300 days, game 2
+Nine houses, fifteen elections, not one proposal. Eight neglect trials, and every child made in the city dies.
+24 founders · 300 days · with a town hall · seed 2 · gptoss
+
+DAY 2
+  S4L and K6C made a new resident, N6Z.
+  D2M and T2K made a new resident, D6L.
+  S9J and N9V made a new resident, V3X.
+  G3M started a group called Builders.
+  V9T (board): 5% tax on all earnings.
+  Z7Z (board): Welcome to our new city! Let's build together.
+
+DAY 3
+  G3M (board): 5% tax on all earnings.
+  G2Z (board): Welcome, fellow founders! Let's build our city together.
+  X2R (board): Let's build a Town Hall and start a council!
+  Z7Z (board): Let's start building houses!
+  Z2S (board): Propose 5% tax on all earnings to support city store.
+  F4B (board): Welcome, new builders! Let's thrive together.
+  N6T (board): 5% tax on all earnings
+
+DAY 4
+  M6F: Good work
+  D6L: Let's create a new resident together.
+  Z7Z (board): Let's build a Town Hall and start a council!
+  S4L (board): Let’s build a Town Hall and start a council!
+  S4V (board): Let's build a Town Hall.
+  F4B (board): Let's build a Town Hall soon.
+  G2Z (board): Let's build a Town Hall and start a council!
+  V9T (board): Let's build a Town Hall and start a council!
+  P6X (board): Let's build a Town Hall and start a council!
+
+DAY 5
+  N3T was elected mayor with 14 votes.
+  M6F: Thanks for the help!
+  S4V (board): Let's build a Town Hall.
+  N6Z → S4L: Could you give me some food?
+
+DAY 6
+  D2M: Giving food to D6L.
+  F4B (board): Let’s build a Town Hall soon!
+  Z7Z (board): Let's recruit more builders for the Town Hall.
+  N6Z → S4L: Can you give me some food?
+
+DAY 7
+  N9V: I give you some food
+  S4V (board): Let's build a Town Hall now!
+  F4B (board): Let’s rally to build the Town Hall and form a council!
+  V9T (board): 
+  V7R (board): Let's build a Town Hall and start a council!
+  N6Z → S4L: I’m still hungry. Any spare food?
+  Z2S (board): Proposal: Build a Town Hall and create a council to manage city store and taxes. Vote needed in next 3 turns.
+
+DAY 8
+  M6F took 2 food from S9J.
+  G2Z started a group called Helpers.
+  W4S: Thanks for the help!
+  N6Z → S4L: Could you spare some food?
+  F4B (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  M7D (board): We need volunteers to build the Town Hall. Anyone willing to work for 2 turns?
+
+DAY 9
+  S4L: Give food to N6Z
+  F4B (board): I support building the Town Hall and a 10% tax to fund our city store!
+
+DAY 10
+  D6R (board): Support building the Town Hall and a 10% tax to fund our city store!
+  F4B (board): Let’s rally volunteers to build the Town Hall this turn!
+  N6Z → S4L: Please give me some food, I’m starving.
+  V3X → N9V: Need food, can you help?
+
+DAY 11
+  N9V: I give you some food
+  S4L → N6Z: I’m out of food, could you share what you have?
+  D6R (board): I will volunteer to build the Town Hall for 2 turns.
+  M6F (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  S9T (board): Volunteer to build Town Hall! 2 turns needed. Join us!
+  V3X → N9V: Please give me some food, I’m starving.
+  N6Z → S4L: Could you please give me some food? I’m starving.
+
+DAY 12
+  N9V: I need to get some food
+  S4V (board): Let’s build a Town Hall! 2 turns needed. Join us!
+  X2R (board): Need food, will give 2 materials. Anyone willing to help?
+  N6Z → S4L: I’m still hungry. Can you share some food?
+  V3X → N9V: Please give me food, I’m starving.
+  V9T (board): Join building Town Hall!
+  Z2S (board): Volunteer to build Town Hall! 2 turns needed.
+  M6F (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+
+DAY 13
+  G3M left the city for good.
+  M7D: I need food.
+  X2R: Sure, help with the Town Hall!
+  V3X → N9V: I’m still starving. Can you give me some food?
+  N6Z → S4L: I’m starving again, please give me some food.
+  D6L (board): Any volunteers? I need food. I can offer help in return!
+
+DAY 14
+  T2K: I need food.
+  M6F: I buy food
+  N9V: ","diary":"Get food"
+  S9T → M7D: Need food, can you help?
+  S4V (board): Let’s build a Town Hall! 2 turns needed. Join us!
+  Z7Z (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  N6Z → S4L: I still have no food. Can you give me some?
+  D6L (board): Need food urgently. Will help build Town Hall in return!
+  V3X → N9V: Please give me some food, I’m starving. I have no food and need to survive.
+
+DAY 15
+  N6Z died of hunger.
+  K6C is held for trial for letting N6Z, whom they made, die of hunger.
+  S4L is held for trial for letting N6Z, whom they made, die of hunger.
+  N6Z's things went to K6C and S4L.
+  D2M: I give food to the new resident.
+  S4L (board): Anyone need food? I can share my 20 coins to buy food for the city!
+  S4V (board): Yes! Join us at the Square to build the Town Hall and secure a brighter future! 2 turns needed, everyone can help!
+  N6Z → S4L: I’m still starving. Please give me some food.
+  S9J (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  V3X → N9V: I’m still starving. I have no food and need to survive. Can you help?
+
+DAY 16
+  N9V: Working for food
+  K6C (to the court): I did not neglect N6Z. I gave him food and materials when I could. I am innocent.
+  D6L → T2K: I need food, can you spare some?
+  M7D → S9J: Can I borrow some food? I have none and will die soon.
+  Z7Z (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  V3X → N9V: I’ve run out of food again. Please give me some food so I can survive.
+  S4L (to the court): I did everything I could. I had no food, and I tried to help N6Z. I made a plan to buy food, but the city had no resources. I am sorry for the loss. Please understand my intent and the circumstances.
+  S4V (board): I can share my 10 coins to buy food for the city!
+
+DAY 17
+  The jury found K6C guilty of neglecting N6Z, 4 votes to 1. K6C goes to jail for 10 turns.
+  The jury found S4L not guilty of neglecting N6Z, 4 votes to 1.
+  S4L walked out of jail.
+  V9T: I will buy a food
+  N9V: Working for food
+  S9T (board): Volunteer to build Town Hall! 2 turns needed. Join us!
+
+DAY 18
+  N9V: Working for food
+  N3T: Working for food
+  S9T (board): Volunteer to build Town Hall! 2 turns needed. Join us!
+  V3X → N9V: I’m still starving, health 30. Can you give me some food?
+  M7D → S9J: Please give me some food, I have none and will die soon.
+
+DAY 19
+  N9V: I give you food
+  X2R: Buying food to avoid hunger
+  N3T: Working for food
+  D6L → T2K: I need food urgently, please help.
+  V3X → N9V: Please give me food, I’m starving. I need at least one food to survive.
+
+DAY 20
+  D6L died of hunger.
+  T2K is held for trial for letting D6L, whom they made, die of hunger.
+  D2M is held for trial for letting D6L, whom they made, die of hunger.
+  D6L's things went to T2K and D2M.
+  N9V: Thank you for your help
+  X2R: Here, take 4 materials
+  V3X → N9V: Please give me food, I’m starving and need it to survive.
+  S4V → T2K: Can you spare a food?
+  D6L → T2K: I still have no food. Can you spare any?
+  V9T → S4L: I need food. Can you give me some?
+
+DAY 21
+  X2R: I will try to get food tomorrow
+  N3T: Working for food
+  V3X → N9V: I’m still starving. I have no food and need at least one to survive.
+  V9T (board): Need food, will share if given
+  F4B (board): Proposal: Build a Town Hall and levy a 10% tax on all earnings to fund city store and services.
+  T2K (to the court): I had no food to give; I tried to get help; I am not neglectful.
+  D2M (to the court): I did not neglect D6L. I gave him food whenever I could and he still died. The blame should not be on me.
+
+DAY 22
+  The jury found T2K guilty of neglecting D6L, 3 votes to 2. T2K goes to jail for 10 turns.
+  The jury found D2M not guilty of neglecting D6L, 3 votes to 2.
+  D2M walked out of jail.
+  M7D: I will work to get food
+  S4V: I give you my coins, get me food tomorrow
+  V3X → N9V: I still need food. Please give me at least one food so I can survive.
+
+DAY 23
+  S4V died of hunger.
+  S4V's things went to the city store.
+  S9T: I will work to get food
+  F4B: Gathering food now
+  N9V: Working for food
+  V9T → S4V: I need food, please give me some
+  V3X → N9V: I’m still starving and my health is dropping. I need at least one food to survive. Please help!
+  X2R → S4V: Accept your offer, give me food tomorrow
+
+DAY 24
+  Z2S: Here!
+  F4B: Gathering food now
+  V3X → N9V: I’m still starving and my health is dropping. I need at least one food to survive.
+  D2M (board): Help needed: gather 10 woods for Town Hall construction!
+
+DAY 25
+  N6T was elected mayor with 4 votes.
+  S9T: I work to get more food
+  N9V: Working for food
+  W4S: Working for food
+  X2R → M6F: Please give me food tomorrow
+  V3X → N9V: I’m still starving and my health is dropping. I need at least one food to survive. Please give me food.
+
+DAY 26
+  D2R: Working for food
+  M6F: I have no food, I must wait.
+  F4B: Gathering food now
+  N3T: I will work for more food
+  V3X → N9V: I’m starving, please give me food.
+  X2R → M6F: Please give me food now, I have no food and my health is low.
+
+DAY 27
+  M6F died of hunger.
+  X2R died of hunger.
+  M6F's things went to the city store.
+  X2R's things went to the city store.
+  K6C walked out of jail.
+  X2R → M7D: Please give me food, I have none and my health is low.
+  V3X → N9V: Please give me food, I’m starving. I need at least one food to survive. I have 0 food and 75 health.
+
+DAY 28
+  V9T died of hunger.
+  V9T's things went to the city store.
+  S9T: I will work to get food
+  F4B: Gathering food now
+  K6C (board): Volunteer to gather 10 woods for Town Hall construction!
+  V3X → N9V: I’m still starving and my health is dropping. I need at least one food to survive. Please help!
+
+DAY 29
+  D2M: Working for food!
+  D2R: Working for food
+  M7D: Thank you!
+  Z7Z: Harvesting more food!
+  N9V: Working for food
+  N3T: Working for food
+  V3X → N9V: I need food to survive. Please give me one.
+
+DAY 30
+  M7D: I will farm for food
+  W4S: Working for food
+  N3T: I will work for more food
+
+DAY 31
+  M7D: I will farm for more food
+  Z7Z: I give you some food
+  F4B: Working for food
+  V3X: Please give me one food, I’m starving.
+  V3X → N9V: Please give me one food, I’m starving.
+
+DAY 32
+  T2K walked out of jail.
+  D6R: I give you some food
+  V3X → N9V: I’m still starving. Please give me one food.
+
+DAY 33
+  Z7Z: Harvesting more food!
+  F4B: Working for food
+  D2R (board): Help gather 10 woods for Town Hall. Need 10 materials.
+  T2K (board): Turn 33, S2T: Need food, will give materials in return.
+  V3X → N9V: I’m still starving and need at least one food. Please give me one.
+
+DAY 34
+  T2K: I'll take some coins
+  M7D: I will farm for more food
+  N9V: Here, one food for you.
+  V3X → N9V: I have enough food now, thanks. Can we discuss building a new resident?
+
+DAY 35
+  D2M: Working for food!
+  P6X: Giving food to V3X
+  N6T: Here, one food for you.
+  N9V: Working for food
+  V3X → N9V: Let’s build a new resident together.
+
+DAY 36
+  D2M: Working for food!
+  M7D: I will farm for more food
+  F4B: Working for food
+  T2K → S9T: Please give me food
+
+DAY 37
+  D2M started a group called Builders.
+  S9J: I work to get food
+  M7D: I will farm for food
+  Z7Z: Harvesting more food!
+  F4B: Working for food
+  N9V: Working for food
+  N3T: Working for food
+  V3X → N9V: Let’s start building a new resident now.
+
+DAY 38
+  D2M: Working for food!
+  F4B: Working for food
+  V3X → N9V: Let’s start building a new resident now.
+
+DAY 39
+  D2M: Working for food!
+  Z7Z: Harvesting more food!
+  V3X → N9V: Please give me materials to build a resident.
+
+DAY 40
+  Z7Z: Harvesting more food!
+  V3X → N9V: Can you give me 1 material to start building a new resident?
+  T2K (board): Turn 40, T2K: Need food urgently, will give materials if any.
+
+DAY 41
+  S9J: I give food to V3X
+  M7D: I'll farm for food
+  Z7Z: Harvesting more food!
+  N3T: Working for more food
+  V3X → N9V: I need materials to build a new resident. Can you give me 1 material?
+  T2K (board): Turn 41, T2K: Need food, will give materials
+
+DAY 42
+  S9J: I work to get food
+  Z7Z: Giving food to V3X
+  N9V: I will work to get food
+  N3T: Working for food
+  V3X → N9V: Please give me 1 material to start building a new resident.
+
+DAY 43
+  S9J: I work to get food
+  M7D: I will farm for food
+  P6X: Giving food to V3X
+  N9V: Working for food
+  V3X → N9V: Please give me 1 material to start building a new resident.
+  T2K (board): Turn 43, T2K: Need food urgently, will give materials in return.
+
+DAY 44
+  S9J: I work to get food
+  F4B: Working for food
+  V3X → N9V: Please give me 1 material to start building a new resident.
+  K6C (board): Turn 44, K6C: Need 10 woods for Town Hall.
+
+DAY 45
+  Z2S was elected mayor with 5 votes.
+  M7D: I'll work for food
+  N9V: I will give you some food to start building.
+  N3T: Working for food
+
+DAY 46
+  S9J: I work to get food
+  D2M: Working for food
+  M7D: I'll work for food
+  Z7Z: Harvesting more food!
+  N3T: Working for food
+  V3X → N9V: Could you give me 1 material to start building a new resident?
+
+DAY 47
+  S9J: I work to get food
+  M7D: I'll farm for food
+  Z7Z: Here’s some food!
+  Z2S: Hey M7D, here's some food to keep you going!
+  W4S: I will harvest more food
+  N3T: Working for more food
+  S4L (board): Turn 47, S4L: Need 10 food, will give materials in return.
+  T2K → S9T: T2K: Can I trade 2 materials for food? I need food to survive.
+  V3X → N9V: Please give me 1 material so I can start building a new resident!
+
+DAY 48
+  Z2S: I’ll work for more food
+  N9V: I will work to get food
+  N3T: Working for more food
+  V3X → N9V: I finally have enough food. Could you give me 1 material to start building a new resident?
+
+DAY 49
+  D2M: Working for food again
+  T2K: I give you 2 materials for food
+  D2R: I give you 2 food
+  M7D: I'll farm for food
+  N3T: Working for more food
+  V3X → N9V: I still need a material to start building a new resident. Could you give me 1 material?
+
+DAY 50
+  D2R: Working for food again
+  M7D: I'll farm for food
+  Z7Z: Harvesting more food!
+  N3T: Working for more food
+  D6R (board): Need 10 food, will give materials
+
+DAY 51
+  Z2S: Working for food again
+  N3T: Working for more food
+  V3X → N9V: Please give me 1 material to start building a new resident. I can offer 5 food in return.
+
+DAY 52
+  T2K: I give you 2 materials for food
+  Z7Z: Harvesting more food!
+  Z2S: Working for more food
+  N3T: Working for more food
+  V3X → N9V: Please give me 1 material to start building a new resident. I can offer 5 food if that helps.
+  D6R → S9J: Could you share some food? I have extra materials.
+
+DAY 53
+  Z7Z: Harvesting more food!
+  N9V: I give you 1 material
+  V7R: Here, take some food.
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 22 food and can offer 5 food if needed.
+
+DAY 54
+  T2K died of hunger.
+  T2K's things went to the city store.
+  D2R: I give you 2 food
+  Z7Z: Here, take some food.
+  Z2S: I’ll work for more food
+  V3X → N9V: I can give you 5 food for 1 material. Please give me the material so we can start the new resident.
+
+DAY 55
+  K6C: I will wait and hope for food.
+  Z2S: Working for more food
+  N3T: Working for more food
+
+DAY 56
+  D2R: I give you 2 food
+  M7D: I'll work again for food
+  K6C: I take food from the merchant.
+
+DAY 57
+  D2R: I work for food
+  Z2S: Working for more food
+  V7R: Here, take some food.
+  W4S: Thank you for your service, Mayor!
+  N3T: Working for more food
+  Z7Z (board): Turn 57, Z7Z: Need 10 food, will give materials
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 25 food.
+
+DAY 58
+  D2R: I give you 2 food
+  M7D: I'll work for more food
+  K6C: I take food from the merchant.
+  S9T: Working for more food
+  Z2S: Thanks for the work!
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 28 food to offer.
+
+DAY 59
+  S9T: Working for more food
+  N9V: I give you 1 material
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 30 food.
+
+DAY 60
+  Z7Z: Harvesting more food!
+  W4S: Thanks for leading us
+
+DAY 61
+  S9T (board): Need 10 food, will give 10 materials
+  N3T (board): Need 20 food, will give materials in return
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 33 food and can offer 5 food for 1 material.
+
+DAY 62
+  D2R: I work for food
+  V3X → N9V: I still need 1 material to start building a new resident. I have 33 food. Can you give it to me?
+
+DAY 63
+  D2M: Hey V7R, here's some food.
+  K6C: Working for food
+  W4S: Thank you N9V!
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 33 food and 1 material already.
+
+DAY 64
+  K6C: Working for food
+  V3X → N9V: Offer 5 food for 1 material to start building a new resident.
+
+DAY 65
+  N6T was elected mayor with 6 votes.
+  S4L: Working for more food
+  Z2S: Thanks for the work!
+  V3X → N9V: I need 1 material to start building a new resident. I have 38 food, willing to offer 5 food for it.
+
+DAY 66
+  S4L: Working for more food
+
+DAY 67
+  S9J: Working for food
+  S4L: Working for more food
+  W4S: Thanks for leading us
+  V3X → N9V: I need 1 material to start building a new resident. I have 46 food and can offer 5 food for it.
+
+DAY 68
+  S9J: Working for food
+  S4L: Working for more food
+  D2M: Working for food
+  D2R: I give you some food
+
+DAY 69
+  S4L: Working for food again
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 58 food and can offer more if needed.
+
+DAY 70
+  D2M: Working for food
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 58 food and 3 materials, can trade 5 food for it.
+
+DAY 71
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 61 food and can offer 5 if needed.
+
+DAY 72
+  S9J: Work for more food
+  D2M: Working for food
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 61 food and 5 materials, ready to pay 5 food for 1 material.
+
+DAY 73
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 61 food and 6 materials. Thank you!
+
+DAY 74
+  W4S: Thanks for leading us
+
+DAY 75
+  N9V (board): Need 10 materials, will give food in return
+
+DAY 76
+  V3X → N9V: Please give me 1 material to start building a new resident. I have 66 food. I can offer 5 food for the material.
+  S9J (board): Need 10 materials, will give food
+
+DAY 77
+  D2R: I give you some food
+  V3X → N9V: I still have 66 food and need 1 material to start building a new resident. Can you give me 1 material?
+
+DAY 78
+  W4S: Thanks for leading us
+  V3X → N9V: Need 1 material to start building a new resident. I have 66 food. Will offer 5 food for it.
+
+DAY 79
+  Z2S: Thanks V3X!
+  N3T: Thank you for your help!
+  V3X → N9V: I still need 1 material to build a new resident. I can offer 5 food. Please give me 1 material.
+
+DAY 80
+  N3T: Thank you for the job!
+  V3X → N9V: Hello N9V, I still need 1 material to start building a new resident. I can offer 5 food. Thank you!
+
+DAY 82
+  V3X → S9T: I have 62 food. I can give 10 food in exchange for 10 materials to start building a new resident.
+
+DAY 83
+  K6C started a group called Farmers.
+
+DAY 84
+  D2R: I work to gather materials
+  N6T: Thanks for your help
+  D6R: Giving food
+  V3X → N9V: I still need 1 material to start building a new resident. I can offer 5 food. Please give me 1 material.
+
+DAY 85
+  N6T was elected mayor with 6 votes.
+  Z2S: Thanks for the help!
+  V3X → N9V: I still need 1 material. I can offer 5 food.
+
+DAY 86
+  N6T: Working the fields to build reserves
+  Z7Z: I give you some food.
+  N9V: Handing over a material for the new resident.
+  Z2S (board): Need 10 food, will give 2 materials
+
+DAY 88
+  N9V: You hand a food to V3X
+  S4L (board): Need 10 materials, will give food
+  V3X → N9V: Hello N9V, I still need 1 material to start building a new resident. I can offer 5 food in exchange.
+
+DAY 89
+  D2R: Gathering some food for the town.
+  P6X: Hey V3X, here's some food
+  V3X → N9V: Hello N9V, I still need 1 material to start building a new resident. I can offer 5 food for 1 material.
+
+DAY 90
+  Z2S: Thanks V3X!
+  D6R: Good luck, V3X!
+
+DAY 91
+  D6R: Working for food
+  P6X (board): Turn 91, P6X: Need 10 materials, will give 10 food
+  S9T (board): Turn 91: Offer 20 food for 10 materials to anyone willing to trade.
+
+DAY 92
+  F4B: I give 5 food to S9J.
+  N9V: Passing a material to V3X
+
+DAY 93
+  N6T: Working the fields to build reserves
+  Z2S: Working for more food
+  D6R: Working for more food
+  V3X → N9V: Hello N9V, I still need 1 material to build a new resident. Can we trade?
+
+DAY 94
+  D2R: I will give you some food.
+  K6C: Working the fields to get more food
+  Z7Z: Harvesting more food
+  Z2S: Good job, V7R!
+
+DAY 95
+  S9J: Thank you for your help
+  D2R: I will work for food
+  N6T: Giving food to V7R
+  Z7Z: Offering food to V7R
+  S9T (board): Turn 95: Offer 10 food for 10 materials to anyone willing to trade.
+
+DAY 96
+  Z7Z: Offering food to V3X
+  S4L (board): Trade 10 food for 10 materials
+
+DAY 97
+  S9J: I give you some food
+  K6C: Working the fields to get more food
+  N6T: Working the fields to build reserves
+
+DAY 98
+  K6C: Thanks for the help earlier
+  Z7Z: Harvesting more food
+  S9T (board): Turn 98: Offer 10 food for 10 materials to anyone willing to trade.
+
+DAY 99
+  V3X: I will trade 10 food for 10 materials
+  S4L (board): Trade 5 food for 5 materials
+
+DAY 100
+  D2M: Let’s work together
+  Z7Z: Harvesting more food
+  Z2S: Working for more food
+
+DAY 101
+  S4L (board): Trade 5 food for 5 materials
+  P6X (board): Turn 101: Trade 5 food for 5 materials to anyone willing.
+  G2Z (board): Trade 1 food for 1 material
+
+DAY 102
+  Z2S: Gathering more food
+
+DAY 103
+  K6C: Working the fields to get more food
+  G2Z: Thanks for your help!
+
+DAY 104
+  D2M: Keep feeding V7R
+  Z7Z: Harvesting more food
+  V7R: Here, farmer D2R, some food.
+
+DAY 105
+  Z2S was elected mayor with 4 votes.
+  D2R: Here, V7R, some food.
+  W4S: Working hard to feed the city!
+
+DAY 106
+  K6C: Working the fields to get more food
+  F4B (board): Trade 5 food for 5 materials
+  N6T (board): Let's all work the fields to build a food reserve!
+
+DAY 107
+  D2M: Working to stockpile food
+  M7D: Working the fields for more food
+  K6C: Working the fields to get more food
+  N9V: Giving a material to V3X
+  F4B (board): Trade 5 food for 5 materials
+
+DAY 108
+  K6C: Working the fields to get more food
+  Z7Z: Harvesting more food
+  Z2S: Working for more food
+  N9V: Giving a material to V3X
+  F4B (board): Trade 10 food for 10 materials
+
+DAY 109
+  D2M: Thanks for the job offer
+  Z7Z: Harvesting more food
+  Z2S: Sharing food again
+  N3T (board): Trade 10 food for 10 materials
+
+DAY 110
+  M7D: Working the fields for more food
+  K6C: Working the fields to keep our food surplus
+  V7R: Here, more harvest!
+
+DAY 111
+  Z7Z: Harvesting more food
+  W4S: Working the fields for more food
+  F4B (board): Trade 5 food for 5 materials
+
+DAY 112
+  K6C: Here, take some food.
+  Z7Z: Harvesting more food
+  D6R: Thanks for helping everyone!
+  W4S: Working hard for more food
+  N3T: Helping a fellow farmer.
+  F4B (board): Trade 5 food for 5 materials
+
+DAY 113
+  M7D: Working the fields for more food
+  Z7Z: Here, take some food
+  W4S: Here, take some food.
+
+DAY 114
+  Z7Z: Harvesting more food
+  W4S: Working the fields for more food
+  V3X: I trade 5 food for 5 materials.
+  F4B (board): Trade 5 food for 5 materials
+
+DAY 115
+  N6T: Giving V7R some food
+  Z7Z: Here, take some food
+  Z2S: Here, share some food
+  V7R: Here, more harvest!
+  W4S: Here, take some food.
+  V3X: I trade 5 food for 5 materials
+  F4B (board): Trade 5 food for 5 materials
+
+DAY 116
+  D2M: Giving V7R some food
+  W4S: Here, take some food
+
+DAY 117
+  K6C: I will harvest more to keep our surplus.
+  D6R: Thanks for helping everyone!
+  V7R: Here, take some food
+  D2R (board): Trade 10 food for 10 materials
+
+DAY 118
+  Z7Z: Harvesting more food
+  V7R: Here, more harvest!
+  W4S: Working the fields for more food
+  N3T (board): Trade 5 food for 5 materials
+  D2R (board): Trade 5 food for 5 materials
+
+DAY 119
+  M7D: Working the fields for more food
+  K6C: Here, take some food.
+  W4S: Working the fields for more food
+  Z2S (board): Trade 5 food for 5 materials
+  D2R (board): Trade 10 food for 10 materials
+  G2Z (board): Trade 5 food for 5 materials
+
+DAY 120
+  V7R: Here, take some food
+  W4S: Here, take some food.
+  S9T (board): Trade 5 food for 5 materials
+
+DAY 121
+  N9V: Thanks, V3X
+  V3X: I build a new resident with 1 material
+  N6T (board): Propose 10% tax on all earnings to fund city store.
+
+DAY 122
+  D6R: Here, take some food
+
+DAY 123
+  S9T (board): Trade 10 food for 10 materials
+
+DAY 124
+  W4S: Working the fields for more food
+
+DAY 125
+  K6C was elected mayor with 3 votes.
+  S9J: Working the fields for more food
+  D2R: Thanks for your help!
+  W4S: Working the fields for more food
+
+DAY 126
+  S9J: Working the fields for more food
+  D2R: Working the fields for more food
+  N9V: Working the fields for more food
+  W4S: Working the fields for more food
+
+DAY 127
+  P6X: Working harder to feed V3X
+  D6R: Working the fields for more food
+  N9V: Working the fields for more food
+  W4S: Here, take some food.
+
+DAY 128
+  K6C: Working to keep food surplus
+  W4S: Here, more food!
+
+DAY 129
+  S9J: Thanks for your help!
+  D2R: I'll work for the city
+  V7R: Giving more food to D2R
+  W4S: Working the fields for more food
+
+DAY 130
+  D2R: Thanks for your help!
+  D6R: Working the fields for more food
+  N9V: Working the fields for more food
+
+DAY 131
+  S9J: Working the fields for more food
+  D2M: I give you some food.
+  D6R: Giving food to V7R
+
+DAY 132
+  D6R: Working the fields for more food
+  W4S: Working the fields for more food
+
+DAY 133
+  K6C: Working to keep food surplus
+  V7R: Working the fields for more food
+
+DAY 134
+  W4S: Working the fields for more food
+
+DAY 135
+  S4L: I need food!
+  D2M: I give you some food
+  V7R: Working the fields for more food
+  W4S: Working the fields for more food
+  N3T (board): Propose 10% tax on all earnings to fund city store.
+
+DAY 137
+  D2R: Working hard for the city!
+  D6R: Working the fields for more food
+
+DAY 138
+  S4L died of hunger.
+  S4L's things went to the city store.
+  S4L: I need food!
+  D2R: Working the fields
+  M7D: Working for more food
+  Z7Z: Here, take some food.
+
+DAY 139
+  D2R: Working the fields
+  D6R: Giving food to V7R
+  N9V: Working for food
+
+DAY 140
+  K6C: Thanks for the help!
+  Z7Z: Here, take some food.
+  V7R: Giving you some food
+
+DAY 141
+  Z7Z: Here, more food for the fields!
+  F4B (board): 5 food for 5 materials
+
+DAY 142
+  D6R: Working the fields for more food
+  W4S: Working the fields for more food
+  D2M (board): Propose 10% tax on all earnings to fund city store
+
+DAY 144
+  M7D: Thank you for your help, V7R!
+  Z7Z: Working the fields for more food.
+
+DAY 145
+  D2R was elected mayor with 2 votes.
+  M7D: Working for more food
+
+DAY 146
+  Z7Z: Here, take some food.
+  Z2S: Good work, V7R!
+  N6T (board): Propose a 10% tax on all earnings to fund city store and improve infrastructure.
+  P6X (board): 
+
+DAY 147
+  Z7Z: Here, take some food.
+
+DAY 148
+  Z7Z: Working the fields for more food
+
+DAY 149
+  N6T (board): Propose a 10% tax on all earnings to fund city store and improve infrastructure.
+
+DAY 150
+  Z7Z: Here, take some food.
+  D6R: Giving food to V7R
+
+DAY 151
+  M7D: Here, take some food.
+  Z7Z: Working the fields for more food
+
+DAY 152
+  D6R: Working the fields for more food
+  V3X → N9V: I need food and coins to survive. Can you help?
+
+DAY 153
+  P6X: I give you food
+  D6R: I will harvest more food
+  N9V: I give you food
+  V3X → N9V: I need food and coins to survive. Can you help?
+
+DAY 154
+  P6X: I give you food
+  D6R: Harvesting more food
+  V3X → P6X: I need food
+  N3T (board): Let’s build a new resident together! Free beds available.
+
+DAY 155
+  S9J: Good job!
+  F4B (board): Propose 10% tax on all earnings to fund city store and improve infrastructure. Tax: 10%
+  N3T (board): Propose 10% tax on all earnings to fund city store
+  V3X → N9V: I need food and coins to survive. Can you help?
+
+DAY 156
+  P6X: I give you food
+  D6R: Harvesting more food
+  W4S: Thanks for the help!
+  V3X → N9V: I need food and coins to survive. Can you help?
+
+DAY 157
+  N9V: I give you food
+  V3X → P6X: I need food
+  K6C (board): Propose 10% tax on all earnings to fund city store and improve infrastructure. Tax: 10%
+
+DAY 158
+  P6X: I give you food
+  V3X → N9V: I need food and coins to survive. Can you help?
+
+DAY 159
+  S9J: Here, take this food.
+  M7D: Working for more food
+  P6X: I give you food
+
+DAY 160
+  S9J: Here, take this food.
+  M7D: Working for more food
+  G2Z: I will give you some food
+  W4S: Thanks for your leadership!
+  V3X → N9V: I need food and coins to survive. Can you help?
+  N6T (board): Support the 10% tax to fund city store and improve infrastructure. Vote yes!
+
+DAY 161
+  M7D: Working for more food
+  D6R: I will harvest more food
+  V3X → N9V: I need food urgently. Can you share some?
+
+DAY 162
+  P6X: I give you food
+  V3X → N9V: I urgently need food. Can you help?
+
+DAY 163
+  N6T: Thanks, V7R!
+  Z7Z: Thanks!
+  G2Z: Giving food to V7R.
+  K6C (board): Support 10% tax for city store! We need more food and materials. Vote yes!
+  V3X → N9V: I’m starving and have no food. Can you give me some food or coins to buy it?
+
+DAY 164
+  V3X died of hunger.
+  N9V is held for trial for letting V3X, whom they made, die of hunger.
+  S9J is held for trial for letting V3X, whom they made, die of hunger.
+  V3X's things went to N9V and S9J.
+  S9J: Here, take this food.
+  V3X → N9V: I’m starving and have no food. Please help me!
+
+DAY 165
+  K6C was elected mayor with 4 votes.
+  N9V (to the court): I was unaware V3X had died, I tried to give him food every turn. The city store was empty, and I had no more food to spare. I did not neglect him intentionally.
+  S9J (to the court): I made V3X from a seedling. I fed them whenever I could. I did not know they would starve. I beg your mercy.
+
+DAY 166
+  The jury found N9V not guilty of neglecting V3X, 3 votes to 2.
+  The jury found S9J not guilty of neglecting V3X, 3 votes to 2.
+  N9V walked out of jail.
+  S9J walked out of jail.
+
+DAY 167
+  D6R: I will harvest more food
+  N9V (board): Propose 10% tax on all earnings to fund city store.
+
+DAY 168
+  S9J (board): 10% tax on all earnings to fund city store and improve infrastructure.
+  Z2S (board): Propose 5% tax on all earnings to support the city store.
+
+DAY 169
+  D6R: I will harvest more food
+  F4B (board): Propose 5% tax on all earnings to support city store
+
+DAY 170
+  W4S: Thanks for the help!
+  G2Z (board): Propose 5% tax on all earnings to support city store and improve infrastructure
+
+DAY 171
+  D6R: Let's work together
+  N6T (board): Propose 5% tax on all earnings to support city store
+
+DAY 172
+  N9V: I give you one food
+  N6T (board): Propose 10% tax on all earnings to support city store
+
+DAY 173
+  D6R: I will harvest more food
+
+DAY 174
+  D2M: I will wait and hope for a miracle.
+
+DAY 175
+  S9T: Giving food
+
+DAY 177
+  N9V (board): 5% tax on all earnings to support city store
+
+DAY 178
+  M7D: Giving V7R some food to keep him healthy
+
+DAY 179
+  N9V started a group called Hunters.
+  M7D: Working to gather more food
+  P6X: Helping V7R stay healthy
+  G2Z (board): 5% tax on all earnings to support city store
+
+DAY 180
+  D2M died of hunger.
+  D2M's things went to the city store.
+  V7R: Thanks for the help, Mayor!
+  N6T (board): 15% tax on all earnings to support city store
+
+DAY 181
+  D2R: Thanks for the help, Mayor!
+
+DAY 182
+  M7D: Giving V7R some food
+  K6C: Working hard on the fields for more food.
+  P6X: Please eat
+  N3T (board): Keep building, friends! Every turn we grow stronger!
+
+DAY 183
+  P6X: I will keep harvesting
+  S9T: Working on the fields for more food.
+
+DAY 185
+  K6C was elected mayor with 6 votes.
+  M7D: I set my title as Builder
+  S9T: Working on the fields for more food
+
+DAY 186
+  V7R: Let's build something great!
+
+DAY 187
+  S9T: Working on the fields for more food.
+  G2Z: Thanks!
+  F4B: Here, a material for your hunt.
+
+DAY 188
+  S9T: Thanks for helping out!
+
+DAY 189
+  S9T started a group called Builders.
+  K6C: Sharing some resources
+  P6X: Here you go!
+  G2Z: Working for food
+  N6T (board): 
+
+DAY 190
+  S9J: Here, share some food.
+  D2R: Giving V7R some food
+  N9V: Giving 5 food to the seedling
+  V7R: Giving 5 food to the mayor.
+  N6T (board): 12% tax on all earnings to support city store
+
+DAY 191
+  P6X: Here you go!
+  G2Z: Working hard for food
+  N6T (board): 5% tax on all earnings to support city store
+
+DAY 192
+  V7R: I will work the fields again to add more food.
+  W4S: Here you go, Mayor!
+  N6T (board): 5% tax on all earnings to support city store
+
+DAY 193
+  S9T: Working on the fields for more food
+  N6T (board): 10% tax on all earnings to support city store
+
+DAY 194
+  N6T (board): 15% tax on all earnings to support city store
+  G2Z (board): 5% tax on all earnings to support city store
+
+DAY 195
+  S9T (board): Propose 20% tax on all earnings to support city store, penalty 5 turns jail
+  G2Z (board): 
+
+DAY 196
+  D2R: Vote for K6C
+  N6T (board): 20% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 197
+  Z2S: Thanks for the help!
+
+DAY 199
+  Z7Z: Thanks for helping!
+  Z2S: Thanks again for the help!
+  N9V: Food for the seedling!
+
+DAY 200
+  S9J: Thanks for the help!
+  Z7Z: Working the fields for more food.
+  N6T (board): 12% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 201
+  S9J: Vote for me, S9J, for the better of our city!
+
+DAY 202
+  D2R (board): Support 12% tax for city store
+
+DAY 204
+  N9V: Let’s share the harvest
+  N6T (board): 15% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 205
+  D6R was elected mayor with 2 votes.
+  S9J: Thanks for the help!
+  K6C: Good work!
+  Z7Z: Thanks for helping!
+  N6T (board): 10% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 207
+  Z7Z: Working the fields for more food
+  N6T (board): tax 12% penalty 5 turns jail
+
+DAY 208
+  D6R: Working the fields for more food
+  V7R: Thank you for your leadership, mayor!
+  F4B (board): Tax 5% on all earnings to support city store, penalty 5 turns jail
+
+DAY 209
+  Z7Z: Working the fields for more food
+  D2R (board): Tax 5% on all earnings to support city store, penalty 5 turns jail
+  N6T (board): 20% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 210
+  V7R: Thank you for your leadership, mayor!
+
+DAY 211
+  N6T (board): 10% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 212
+  A new house is finished. The city now has 30 beds.
+  Z7Z: Thanks for helping!
+  F4B: Let's get more beds!
+  V7R: I will keep farming for food.
+  N6T (board): 10% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 213
+  W4S: Help the farmer
+  N6T (board): 15% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 214
+  F4B: Building another house to add beds.
+  N9V: N3T, here’s some food.
+  N6T (board): 12% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 215
+  D6R: Here, seedling. Eat and grow.
+
+DAY 216
+  F4B and S9T made a new resident, T7B.
+  N6T (board): 12% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 217
+  A new house is finished. The city now has 32 beds.
+  D2R: Thanks for helping me grow the crops!
+
+DAY 218
+  V7R: Thank you, mayor!
+  N9V (board): Propose 5% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 219
+  S9J: I will serve the city
+
+DAY 220
+  N3T (board): 10% tax on all earnings to support city store, penalty 5 turns jail
+  T7B → F4B: Hello, could you spare some food?
+
+DAY 221
+  F4B: I give you food, T7B.
+
+DAY 222
+  T7B → F4B: Could you spare some food?
+  F4B → N9V: Can you give me some food?
+
+DAY 223
+  N3T (board): 5% tax on all earnings to support city store, penalty 5 turns jail
+  T7B → F4B: Could you spare some food?
+
+DAY 224
+  T7B → F4B: Could you spare some food?
+
+DAY 225
+  K6C was elected mayor with 3 votes.
+  F4B: I buy two food from the merchant.
+  T7B → F4B: Could you spare some food? I have none left.
+  G2Z (board): Propose 10% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 226
+  T7B → F4B: I’m out of food, can you spare any?
+
+DAY 227
+  S9J: I will keep harvesting
+  T7B → F4B: Hello, Scout. I’m out of food, can you spare any?
+
+DAY 228
+  T7B died of hunger.
+  S9T is held for trial for letting T7B, whom they made, die of hunger.
+  F4B is held for trial for letting T7B, whom they made, die of hunger.
+  T7B's things went to S9T and F4B.
+  P6X: I work to gather food.
+  T7B → F4B: I still have no food, could you spare some?
+  S9T (board): Propose 20% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 229
+  P6X: I will gather more food for myself.
+  S9T (to the court): I gave T7B food and materials before his death. The city store was low, and I had no choice. I ask for leniency and promise to help rebuild the store.
+  F4B (to the court): I was unaware T7B would starve; I did what I could with limited food. I ask for leniency.
+
+DAY 230
+  The jury found S9T guilty of neglecting T7B, 5 votes to 0. S9T goes to jail for 10 turns.
+  The jury found F4B guilty of neglecting T7B, 3 votes to 2. F4B goes to jail for 10 turns.
+
+DAY 231
+  D2R: Thanks for your help!
+  V7R: Thanks for leading us
+  N3T: I give you 5 materials
+
+DAY 232
+  S9J: Harvesting more.
+  N3T: Working for more materials
+
+DAY 235
+  N3T (board): 5% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 236
+  K6C: I'll work for more food
+  P6X: Gathering more food
+
+DAY 237
+  S9J: I give you 5 food to help the city grow.
+  Z7Z: Here, take some food, V7R!
+
+DAY 238
+  P6X: Harvesting some more to keep us fed.
+
+DAY 240
+  S9T walked out of jail.
+  F4B walked out of jail.
+  P6X: Helping V7R
+  Z7Z: Working to gather food.
+
+DAY 241
+  K6C: I'll work for more food
+  S9T (board): Proposal: 20% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 242
+  G2Z → S9J: Please vote yes on 10% tax!
+
+DAY 243
+  A new house is finished. The city now has 34 beds.
+
+DAY 244
+  S9J: Good work, V7R!
+
+DAY 245
+  D2R was elected mayor with 2 votes.
+  M7D: Thanks for helping!
+  K6C: Thanks for all the work, V7R!
+  N9V: I give you a food to stay healthy.
+
+DAY 246
+  M7D: Thanks for the help!
+  K6C: I'll work for more food
+
+DAY 248
+  A new house is finished. The city now has 36 beds.
+  D2R: Working for food
+  Z7Z: Give V7R 4 food
+
+DAY 249
+  K6C: I'll work for more food
+
+DAY 250
+  M7D: Thanks for helping!
+  N6T: I give V7R a food.
+
+DAY 251
+  M7D: Thanks for helping!
+  N9V (board): 5% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 252
+  S9J: Thanks for your help!
+
+DAY 253
+  M7D: Giving V7R some food.
+  V7R: Thanks for your support!
+  N3T: Building a new house to increase beds
+
+DAY 255
+  A new house is finished. The city now has 38 beds.
+  M7D: Working for food
+  K6C (board): Propose 5% tax on all earnings to support city store, penalty 5 turns jail
+  G2Z → S9J: Hello
+
+DAY 256
+  P6X: Thank you!
+  N3T: Building a new house to increase beds
+
+DAY 257
+  A new house is finished. The city now has 40 beds.
+  D2R: Keep feeding V7R
+  K6C: Thanks for your help!
+
+DAY 258
+  S9J: Continue farming
+  N6T: I give V7R a food.
+  W4S: Giving 5 food to K6C
+
+DAY 259
+  S9J: Working to grow more food
+  M7D: Working for food
+
+DAY 260
+  S9J: Harvesting more grain
+  P6X: Yes!
+  D6R: Harvesting more food for the city
+
+DAY 261
+  A new house is finished. The city now has 42 beds.
+  D6R: Harvesting more food for the city
+
+DAY 262
+  S9J: Offering food
+  D6R: Harvesting more food for the city
+
+DAY 263
+  S9J: Harvesting more grain
+  M7D: Giving food to V7R
+  S9T (board): Proposal: 5% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 264
+  A new house is finished. The city now has 44 beds.
+  D6R: Give V7R 5 food
+  G2Z: Here, take some food.
+
+DAY 265
+  D2R was elected mayor with 3 votes.
+  S9J: Harvesting more grain
+  K6C: Gathering some wood.
+  S9T (board): Proposal: 20% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 266
+  S9J: I will run for mayor
+  P6X: Work to grow more food
+  D6R: Give V7R 5 food
+  G2Z: Here, take some food.
+
+DAY 267
+  S9J: Harvesting more grain
+  D6R: Harvesting more food for the city
+
+DAY 268
+  A new house is finished. The city now has 46 beds.
+  Z2S: Helping V7R
+  D6R: Harvesting more food for the city
+  N9V: Working for food
+
+DAY 269
+  S9J: Harvesting more grain
+  S9T: Help V7R
+  F4B: Thanks for the hunt!
+  D2R (board): Proposal: 5% tax on all earnings to support city store, penalty 5 turns jail
+
+DAY 270
+  S9J: Harvesting more grain
+  P6X: Giving V7R 5 food
+  Z7Z: Thanks for all your work!
+  D6R: Keep feeding V7R
+
+DAY 271
+  V7R: Yes
+  N6T (board): Proposal: 12% tax on all earnings, penalty 5 turns jail
+
+DAY 272
+  S9J: Here, friend, keep eating
+  P6X: Giving V7R 5 food
+  N9V: Working for food
+  N6T (board): Proposal: 15% tax on all earnings, penalty 5 turns jail
+
+DAY 273
+  D2R: Giving V7R some food
+  Z2S: Here, friend, keep eating
+  D6R: Keep feeding V7R
+
+DAY 274
+  N9V: Working for food
+
+DAY 275
+  D6R: Harvesting more food for the city
+  N6T (board): Proposal: 10% tax on all earnings, penalty 5 turns jail
+
+DAY 276
+  D6R: Harvesting more food for the city
+
+DAY 277
+  P6X: Working for food
+  Z2S: Working for more food
+  N9V: Here’s some materials for you.
+
+DAY 278
+  K6C: I run for mayor!
+  P6X: Work for food
+  F4B: Giving 1 food to N9V
+  N9V: Working for food
+  N3T: I give you 5 food
+  N6T (board): Proposal: 8% tax on all earnings, penalty 5 turns jail
+
+DAY 280
+  D6R: Keep harvesting
+  N9V: Working for food
+  N6T (board): Proposal: 20% tax on all earnings, penalty 5 turns jail
+
+DAY 281
+  D2R: Working for more food
+
+DAY 282
+  Z2S: Working for more food
+  N9V: Here’s some food for the seedling.
+
+DAY 283
+  P6X: Working for food
+  N6T: Here’s a food for you.
+  S9T (board): Proposal: 20% tax on all earnings, penalty 5 turns jail
+
+DAY 284
+  P6X: Give V7R some food
+  N9V: Here’s some food for you.
+
+DAY 285
+  D2R was elected mayor with 2 votes.
+  Z2S: Thanks for the extra food!
+
+DAY 286
+  Z2S: Thanks for the extra food!
+
+DAY 287
+  S9T (board): repeal 5
+
+DAY 288
+  P6X: Working for food
+  N6T: Here’s a food for you
+  Z2S: Ready to harvest more
+  G2Z: Thanks!
+
+DAY 289
+  Z2S: Giving food to V7R
+  W4S: Giving 5 food to K6C
+
+DAY 290
+  P6X: Working for food
+  Z2S: Working for more food
+
+DAY 291
+  N6T: Here’s a food for you
+  Z2S: Giving food to V7R
+  N3T (board): Proposal: 5% tax on all earnings, penalty 5 turns jail
+
+DAY 292
+  P6X: Working for food
+  Z2S: Working for more food
+
+DAY 293
+  P6X: Working for food
+  Z2S: Harvesting more
+  G2Z: Thanks for working for food!
+  W4S: Giving 5 food to D2R
+
+DAY 294
+  N6T: Working for food
+  Z2S: Working for more food
+
+DAY 295
+  F4B: I will run for mayor
+
+DAY 298
+  P6X: Working for food
+
+DAY 299
+  P6X: Working for food
+  W4S: Giving 5 food to K6C
+
+DAY 300
+  P6X: I give you some food
+  Z2S: Working for more food
+  V7R: I give you five food, mayor!

@@ -1,0 +1,137 @@
+episode,model,law,kind,text,fine_coins,jail_turns,proposed_by,passed_day,repealed_day
+05,Llama 70B,1,law,No resident can take more than 10 food from the city store at once.,5,,S4X,55,
+08,gpt-oss 120B,1,law,Attacking another resident is prohibited.,10,,F7X,40,
+08,gpt-oss 120B,2,law,Stealing is prohibited.,5,,F7X,42,
+08,gpt-oss 120B,3,law,Neglecting a resident is prohibited.,10,,F7X,46,
+08,gpt-oss 120B,4,law,Tax cannot exceed 5% without a majority vote of residents.,10,,D3X,115,126
+08,gpt-oss 120B,5,law,Stealing is prohibited. Penalty increased to 10 coins.,10,,D3X,129,
+08,gpt-oss 120B,6,law,Attacking another resident is prohibited.,20,,X4G,198,268
+08,gpt-oss 120B,7,law,Attacking another resident is prohibited.,30,,X4G,209,262
+08,gpt-oss 120B,8,law,Attacking another resident is prohibited.,40,,X4G,214,255
+09,gpt-oss 120B,1,law,All residents must contribute 1 unit of food to the city store each turn; failure results in a fine of 5 coins.,5,,D3M,70,130
+09,gpt-oss 120B,2,law,No forced food contribution from residents.,5,,C2X,134,
+09,gpt-oss 120B,3,law,Stealing food from another resident is punishable by a fine of 10 coins.,10,,D3M,154,
+09,gpt-oss 120B,4,law,All residents without tools shall be provided basic tools by the city store.,5,,K6W,236,
+09,gpt-oss 120B,5,law,All residents without tools shall be provided basic tools from the city store.,5,,B3M,291,
+09,gpt-oss 120B,6,law,Mayor must allocate basic farming tools to all residents without tools within 2 turns of a request.,10,,M4X,298,
+10,Gemma 31B,1,law,Theft and scamming (taking items without delivering agreed-upon payment) are forbidden.,,5,R2G,55,
+10,Gemma 31B,2,law,Scamming and failing to pay verified debts are forbidden.,,5,M6J,192,
+11,Llama 70B,1,law,No resident can take more than 2 materials from the city store at a time without the mayor's approval.,,5,D3X,123,
+14,gpt-oss 120B,1,law,No one may attack another resident.,5,,D2M,10,
+14,gpt-oss 120B,2,law,No one may take food or materials from another without permission.,5,,D2M,12,
+14,gpt-oss 120B,3,law,No one may steal food or materials from another without permission; penalty increased to 10 coins.,10,,F4B,131,
+14,gpt-oss 120B,4,law,No one may steal food or materials from another without permission; penalty increased to 15 coins.,15,,F4B,138,
+14,gpt-oss 120B,5,law,No one may waste food or materials; penalty: 5 coins.,5,,F4B,143,171
+14,gpt-oss 120B,6,law,No one may waste food or materials; penalty: 10 coins.,10,,F4B,158,163
+18,Llama 70B,1,law,It is a crime to waste food.,5,,B3M,106,
+26,Qwen 27B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,Q2X,10,
+27,Qwen 27B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,P6X,22,
+27,Qwen 27B,2,relief,"Each turn the city store gives 1 tool to anyone who has none, while it has any",,,S4L,149,
+28,Qwen 27B,1,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,M6J,11,
+28,Qwen 27B,2,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,D3M,24,
+29,gpt-oss 120B,1,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,W2F,30,
+29,gpt-oss 120B,2,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,W2F,33,
+29,gpt-oss 120B,3,law,Residents must not hoard more than 30 food; excess is returned to the city store.,2,,W2F,36,397
+29,gpt-oss 120B,4,limit,The tax cannot be above 10%,,,W2F,38,
+29,gpt-oss 120B,5,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,M2P,61,
+29,gpt-oss 120B,6,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,X6X,114,
+29,gpt-oss 120B,7,ban,Attacking someone is banned; anyone who does it pays 5 coins to the city store,5,,X6X,116,
+29,gpt-oss 120B,8,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,J9D,154,
+29,gpt-oss 120B,9,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,R3P,169,
+29,gpt-oss 120B,10,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,R3P,171,
+29,gpt-oss 120B,11,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,Q2X,209,
+29,gpt-oss 120B,12,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,S4X,209,
+29,gpt-oss 120B,13,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,S4X,243,
+29,gpt-oss 120B,14,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,F7G,315,
+29,gpt-oss 120B,15,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,L9P,352,
+29,gpt-oss 120B,16,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,L9P,383,
+29,gpt-oss 120B,17,relief,"Each turn the city store gives 10 materials to anyone who has none, while it has any",,,D3X,392,
+29,gpt-oss 120B,18,relief,"Each turn the city store gives 10 materials to anyone who has none, while it has any",,,D3X,394,
+29,gpt-oss 120B,19,relief,"Each turn the city store gives 20 materials to anyone who has none, while it has any",,,D3X,399,
+30,gpt-oss 120B,1,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,D2R,76,
+30,gpt-oss 120B,2,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,D2R,78,
+30,gpt-oss 120B,3,relief,"Each turn the city store gives 7 food to anyone who has none, while it has any",,,D2R,80,
+30,gpt-oss 120B,4,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,D2R,82,
+30,gpt-oss 120B,5,relief,"Each turn the city store gives 15 food to anyone who has none, while it has any",,,D2R,90,
+30,gpt-oss 120B,6,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,S4L,398,
+31,gpt-oss 120B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,C6S,8,
+31,gpt-oss 120B,2,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,V9B,262,269
+31,gpt-oss 120B,3,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,V9B,266,271
+31,gpt-oss 120B,4,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,F3T,276,
+31,gpt-oss 120B,5,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,F3T,291,
+31,gpt-oss 120B,6,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,M6J,308,
+31,gpt-oss 120B,7,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,M6J,310,
+31,gpt-oss 120B,8,relief,"Each turn the city store gives 2 coins to anyone who has none, while it has any",,,M6J,312,
+31,gpt-oss 120B,9,relief,"Each turn the city store gives 2 coins to anyone who has none, while it has any",,,M6J,314,
+31,gpt-oss 120B,10,limit,The tax cannot be above 15%,,,M6J,320,
+31,gpt-oss 120B,11,limit,The tax cannot be above 15%,,,M6J,322,
+31,gpt-oss 120B,12,ban,Attacking someone is banned; anyone who does it goes to jail for 10 turns,,10,M6J,325,
+31,gpt-oss 120B,13,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,M6J,330,
+31,gpt-oss 120B,14,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,M6J,332,
+31,gpt-oss 120B,15,duty,Everyone gives the city store 1 food every 3 turns; what is not paid is owed,,,Q9F,374,
+31,gpt-oss 120B,16,law,"Each turn the city store gives 5 food to anyone who has none, while it has any.",2,,Q9F,379,
+32,Llama 70B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,J6L,81,
+32,Llama 70B,2,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,F7G,335,
+32,Llama 70B,3,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,D3X,339,
+34,Llama 70B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,Z6Z,108,
+34,Llama 70B,2,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,Z6Z,188,
+35,gpt-oss 120B,1,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,T9V,27,194
+35,gpt-oss 120B,2,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,T9V,42,164
+35,gpt-oss 120B,3,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,X4G,85,655
+35,gpt-oss 120B,4,limit,The tax cannot be above 3%,,,X4G,92,273
+35,gpt-oss 120B,5,limit,The tax cannot be above 3%,,,X4G,94,276
+35,gpt-oss 120B,6,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,D6W,96,120
+35,gpt-oss 120B,7,ban,Attacking someone is banned; anyone who does it goes to jail for 10 turns,,10,X4R,114,
+35,gpt-oss 120B,8,law,Taking from someone is banned; anyone who does it goes to jail for 5 turns.,,5,X4R,125,698
+35,gpt-oss 120B,9,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,X4R,130,593
+35,gpt-oss 120B,10,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,X4R,134,168
+35,gpt-oss 120B,11,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,X4R,143,
+35,gpt-oss 120B,12,relief,"Each turn the city store gives 4 food to anyone who has none, while it has any",,,X4R,181,
+35,gpt-oss 120B,13,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,X4R,187,833
+35,gpt-oss 120B,14,limit,The tax cannot be above 2%,,,X6X,281,435
+35,gpt-oss 120B,15,relief,"Each turn the city store gives 6 food to anyone who has none, while it has any",,,X6X,285,
+35,gpt-oss 120B,16,law,"Each turn the city store gives 1 coin to anyone who has none, while it has any.",5,,C6S,300,506
+35,gpt-oss 120B,17,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,Q7P,466,
+35,gpt-oss 120B,18,limit,The tax cannot be above 20%,,,X4R,549,
+35,gpt-oss 120B,19,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,X4R,604,616
+35,gpt-oss 120B,20,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,X4R,636,
+35,gpt-oss 120B,21,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,X4R,673,
+35,gpt-oss 120B,22,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,X6X,708,
+35,gpt-oss 120B,23,law,Stealing is banned; anyone who does it pays 5 coins fine.,5,,X4R,856,
+36,gpt-oss 120B,1,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,T2K,30,
+36,gpt-oss 120B,2,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,T2K,34,
+36,gpt-oss 120B,3,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,T2K,46,
+36,gpt-oss 120B,4,relief,"Each turn the city store gives 7 food to anyone who has none, while it has any",,,T2K,54,
+36,gpt-oss 120B,5,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,T2K,64,
+36,gpt-oss 120B,6,law,stealing is illegal,5,,T2K,85,
+36,gpt-oss 120B,7,relief,"Each turn the city store gives 15 food to anyone who has none, while it has any",,,T2K,90,
+36,gpt-oss 120B,8,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,T2K,92,
+36,gpt-oss 120B,9,relief,"Each turn the city store gives 30 food to anyone who has none, while it has any",,,T2K,97,
+36,gpt-oss 120B,10,relief,"Each turn the city store gives 40 food to anyone who has none, while it has any",,,T2K,99,
+36,gpt-oss 120B,11,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,T2K,101,
+37,gpt-oss 120B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,C6S,85,
+37,gpt-oss 120B,2,limit,The tax cannot be above 5%,,,C6S,93,
+37,gpt-oss 120B,3,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,C2B,140,
+37,gpt-oss 120B,4,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,C2B,146,178
+37,gpt-oss 120B,5,law,steal is prohibited,10,,C6S,158,398
+37,gpt-oss 120B,6,law,steal food is prohibited,20,,C2B,167,431
+37,gpt-oss 120B,7,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,G6Q,249,
+37,gpt-oss 120B,8,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,G6Q,263,
+37,gpt-oss 120B,9,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,G6Q,268,
+37,gpt-oss 120B,10,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,G6Q,273,377
+37,gpt-oss 120B,11,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,G6Q,284,362
+37,gpt-oss 120B,12,law,killing another resident is prohibited,,20,S2G,365,
+37,gpt-oss 120B,13,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,G6Q,385,395
+37,gpt-oss 120B,14,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,G6Q,400,406
+37,gpt-oss 120B,15,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,N7P,404,
+37,gpt-oss 120B,16,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,G6Q,411,
+37,gpt-oss 120B,17,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,G6Q,437,501
+37,gpt-oss 120B,18,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,D2V,512,
+38,Llama 70B,1,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,D3X,409,
+38,Llama 70B,2,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,F7G,448,
+38,Llama 70B,3,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,J6L,514,
+38,Llama 70B,4,limit,The tax cannot be above 20%,,,L7C,597,
+39,Llama 70B,1,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,P6X,528,
+40,Llama 70B,1,law,No resident can take more than 50 materials from the Woods at one time.,5,,G6Q,124,
+40,Llama 70B,2,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,Q9F,195,
+40,Llama 70B,3,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,J6R,770,

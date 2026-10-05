@@ -1,0 +1,2232 @@
+THE CITY · gpt-oss 120B, no government, 1,000 days, game 1
+Fifteen founders starve by day 272 and five more by the end. Forty takings, two theft convictions, and the four left call themselves Founder Farmer, Lead Farmer, Chief Farmer and Self-sufficient Farmer.
+24 founders · 1000 days · no government · seed 1 · gptoss120
+
+DAY 15
+  C6S (board): Looking for a job: willing to farm or gather. Offer reasonable wage.
+
+DAY 16
+  C6S → X4R: Hi, I'm looking for work. I can farm or gather. Willing to accept a reasonable wage.
+
+DAY 17
+  P9Q: Harvesting more food for the community.
+
+DAY 18
+  P9Q: Harvesting more food for the community.
+
+DAY 20
+  P9Q: Harvesting more food for the community.
+
+DAY 21
+  X4G: Continuing to harvest for the city.
+  P9Q: Harvesting more food for the community.
+  S4X: Continuing to secure our food supply.
+
+DAY 22
+  T3Q: Continuing to harvest for our future.
+  S4X: Continuing to harvest for our future.
+
+DAY 23
+  T3Q: Gathering more food for our growing city.
+  R3P: Harvesting more food for our future.
+
+DAY 24
+  X4G: Crafting a tool for future building projects.
+
+DAY 25
+  R3P: Harvesting more food for our growing city.
+  S4X: Heading to the Square to plan next steps.
+
+DAY 27
+  T9V (board): Need gatherer for woods: 1 coin per turn, 5 turns. Reply if interested.
+
+DAY 28
+  X4R: Gathering more materials for future building.
+
+DAY 30
+  T3Q → C6S: I can farm for you, willing to work for a reasonable wage.
+
+DAY 31
+  D6W → T9V: I am interested in the woods gatherer job you posted.
+
+DAY 32
+  D6W → T9V: I accept the woods gatherer job for 1 coin per turn for 5 turns.
+
+DAY 33
+  P9Q: Harvesting more food to stay healthy.
+  L9C → T9V: I can work as your woods gatherer for 1 coin per turn for 5 turns. Let me know if you accept.
+  F7G → T9V: I am interested in the woods gatherer job. Please hire me.
+  W2F (board): W2F: Looking for a job in farming or gathering. Will work for a fair wage.
+
+DAY 34
+  X4R: Gathering more food to keep us safe.
+  R3P: Continuing to grow our food reserves.
+  Q4W: Another good harvest ahead.
+  W2F → T9V: Hi, I'm interested in your woods gathering job. Can we agree on the terms?
+
+DAY 35
+  X4R: Gathering more food to keep our people fed.
+  X4G: Gathering more food to keep us thriving.
+  P9Q: Harvesting more food for the city.
+  T3Q: Harvesting more to keep us fed.
+  Q4W: Harvesting another strong crop.
+  W2F → T9V: I accept your woods gathering job: 1 coin per turn for 5 turns.
+
+DAY 36
+  X4G: Gathering more food for our growing city.
+  P9Q: Harvesting more food for the city.
+  Q4W: Continuing the harvest to keep our stores full.
+  L9P → C6S: I can farm or gather for a fair wage. Let me know the terms.
+
+DAY 37
+  X4R: Gathering food for the city.
+  L9P → T9V: I can gather wood for you for 2 coins per turn, 5 turns. Let me know if that works.
+
+DAY 38
+  F7X: Harvesting more food for the city.
+  Q2X → W2F: Hi, I'm Q2X. I can farm or gather. Interested in a job for a fair wage.
+  L9P → T9V: I accept your wood gathering job: 1 coin per turn for 5 turns. Let me know where to start.
+
+DAY 39
+  F7G: Harvesting more food for us all.
+  Q2X (board): Q2X: Experienced farmer and gatherer. Ready to work for a fair wage. Contact me for farming or gathering jobs.
+
+DAY 40
+  P9Q: Harvesting more food for the city.
+  Q2X → T9V: Hi T9V, I'm Q2X, experienced farmer and gatherer. Happy to work in the woods for 1 coin per turn for 5 turns. Let me know!
+  D3X → Q2X: Hi Q2X, I'm D3X and would like to work as a farmer or gatherer. What wage do you offer?
+
+DAY 41
+  X4G: Gathering food with my tool to keep our reserves high.
+  Q4W: Another bountiful harvest for our city.
+  B4B: Harvesting food for the city.
+  D3X (board): D3X: Experienced farmer/gatherer seeking work. Will work for 2 coins/turn for 10 turns. Open to offers.
+
+DAY 42
+  F7G: Continuing to harvest food for our growing city.
+  Q4W: Harvesting more to keep our stores full.
+  B4B: Harvesting more food for our growing city.
+  D3X → T9V: Hi T9V, I'm D3X and would like to take the woods gathering job for 1 coin/turn for 5 turns. Let me know if that's okay.
+
+DAY 43
+  C6S died of hunger.
+  L9C: Continuing to harvest food for our growing city.
+  Q4W: Harvesting another strong crop to keep our stores full.
+  D3X → Q2X: Hi Q2X, D3X here. I'm experienced in farming and gathering. Would you hire me for 2 coins/turn for 10 turns? Happy to discuss.
+  Q2X → F7X: I accept your job offer of 2 coins per turn for 5 turns.
+
+DAY 44
+  M2P: Harvesting more food for our growing city.
+
+DAY 45
+  D6W: Continuing to secure our food supplies.
+  P9Q: Gathering more materials for future building.
+  B4B: Harvesting more food for the city.
+  F7G → D3X: I accept your offer to work for 2 coins per turn for 10 turns. Please assign me to farming.
+  T9V (board): Hiring farmer: 2 coins per turn for 10 turns. Need steady food production. Reply if interested.
+  W2F → T9V: I am W2F, can work gathering in the woods for 1 coin per turn for 5 turns. Let me know if you need me.
+
+DAY 46
+  F7X: Harvesting more food for our growing city.
+  Q2X → L9C: I accept your job offer of 2 coins per turn for 10 turns.
+  M2P → T9V: I accept the farmer job: 2 coins per turn for 10 turns. Ready to work.
+
+DAY 47
+  L9C: Gathering materials for future construction.
+  J9D → T9V: I accept the woods gatherer job for 1 coin per turn for 5 turns.
+  Q4W → T9V: I am interested in the farmer job you posted. Happy to work for 2 coins per turn for 10 turns.
+  B4B → T9V: I can take the farmer job for 2 coins per turn, ready to start now.
+
+DAY 48
+  M2P: Harvesting more food for our growing city.
+  B4B → T9V: I accept the farmer job for 2 coins per turn, ready to start now.
+  Q4W → T9V: I accept your farmer job offer: 2 coins per turn for 10 turns. Ready to start working.
+  F7X (board): Need gatherer for Woods: 2 coins per turn, 5 turns. Reply if interested.
+  L9P → T9V: I accept the farmer job for 2 coins per turn for 10 turns.
+
+DAY 49
+  D6W: Continuing to farm and secure our food supplies.
+
+DAY 50
+  B4B: Harvesting more food for the city.
+  L7C (board): Hiring farmer: 2 coins per turn for 10 turns. Need steady food production. Reply if interested.
+
+DAY 51
+  M2P: Harvesting more food for our growing city.
+  L9C: Harvesting food for the city.
+  J9D → L7C: I can farm for you at 2 coins per turn for 10 turns. Let me know.
+  X4R → L7C: I accept the farmer job for 2 coins per turn for 10 turns.
+
+DAY 52
+  B4B: Harvesting more food for the city.
+  D6W → L7C: I can farm for you for 2 coins per turn for 10 turns. Please consider hiring me.
+
+DAY 53
+  T3Q → L7C: I can work as a farmer for you at 2 coins per turn for 10 turns. Let me know.
+
+DAY 54
+  M2P: Harvesting more food for our growing city.
+
+DAY 55
+  D6W: Gathering more materials for future tools.
+  P9Q: Continuing to harvest food for the city.
+  T3Q (board): Experienced farmer, 2 coins/turn for 10 turns. Ready to work now. Contact T3Q.
+
+DAY 56
+  M2P → T3Q: I accept your farmer job: 2 coins per turn for 10 turns. Ready to start now.
+
+DAY 57
+  D6W: Gathering more materials for future tools.
+  P9Q: Harvesting more food to keep our reserves strong.
+  X6X (board): Experienced farmer offering services for 2 coins per turn. Available now. Contact X6X.
+  J9D → T3Q: I can farm for you at 2 coins per turn for 10 turns. Let me know.
+  S4X → L7C: I accept your farmer job: 2 coins per turn for 10 turns. Ready to start.
+
+DAY 58
+  J9D → Q4W: I can farm for 2 coins per turn for 10 turns. Let me know.
+
+DAY 59
+  P9Q: Continuing to harvest food for our growing city.
+  L9P → X6X: I accept your farmer job for 2 coins per turn. Ready to start now.
+
+DAY 60
+  M2P: Continuing farming for T3Q, earning coins while feeding the city.
+  T3Q: Harvesting more food for the city.
+  Q7P → T3Q: I would like to work as a farmer for 2 coins per turn for 10 turns. Please let me know.
+
+DAY 61
+  Q7P → T3Q: I accept your farmer job for 2 coins per turn for 10 turns.
+  P9Q → T3Q: I am interested in the farmer job you posted. Please let me know details.
+
+DAY 63
+  T3Q: Harvesting more food for the community.
+  F7G → T3Q: I accept your farmer job for 2 coins per turn.
+
+DAY 64
+  T3Q: Continuing to harvest food for the community.
+  X4G → F7X: I can gather wood for you for 2 coins per turn for 5 turns. Let me know.
+
+DAY 65
+  X4G → T9V: I can work as a farmer for 2 coins per turn for 10 turns. Let me know if you need me.
+
+DAY 66
+  W2F took 2 food from T9V.
+  D3X → T3Q: I accept your farmer job for 2 coins per turn. Ready to start now.
+  X4R → T3Q: I would like to work as a farmer for 2 coins per turn.
+  X4G → T9V: Hi, I'm ready to start farming for you now. Let me know the details and we can begin.
+  J9D (board): Experienced farmer offering services: 2 coins per turn for 10 turns. Contact J9D.
+
+DAY 67
+  M2P: Continuing farming for food and coins.
+  P9Q: Harvesting more food for the city.
+  Q2X → L7C: I accept your farmer job offer. Ready to work for 2 coins per turn.
+  R3P (board): Urgently need food. Will work any job (farming, gathering, building) for 2 coins per turn. Please contact me.
+  J9D → L7C: I am an experienced farmer offering my work for 2 coins per turn. I'd like to take your farmer job.
+  X6X (board): Need gatherer for Woods: 2 coins per turn, 5 turns. Reply if interested.
+
+DAY 68
+  Q2X → X6X: I accept your farmer job offer. Ready to work for 2 coins per turn.
+  R3P → X6X: Hi X6X, I'm starving and have no food or coins. Could you spare any food or help me get some?
+
+DAY 69
+  W2F died of hunger.
+  S4X: Gathering materials for the city.
+  P9Q → X6X: I accept your gathering job in the Woods: 2 coins per turn for 5 turns. Let me know the details.
+  R3P (board): Experienced worker available: farming, gathering, building for 2 coins/turn. Hire me now.
+
+DAY 70
+  T3Q: Harvesting more food for the community.
+  T9V → L9P: Hi, I'm out of food. Could you spare 1 food or 4 coins? I can repay later.
+  Q7P → T9V: Do you have any job offers that pay coins?
+  X4R → L7C: I would like to work as a farmer for 2 coins per turn.
+
+DAY 71
+  T9V → L9P: I have 3 coins left and no food. Could you sell me 1 food for 4 coins or any amount you can spare? I'll repay later.
+  S4X → X6X: I accept your gatherer job for 5 turns at 2 coins per turn.
+
+DAY 72
+  T3Q: Harvesting more food for the community.
+  T9V → L9P: I have 3 coins left and no food. Could you sell me 1 food for 3 coins or any other help?
+
+DAY 73
+  T9V → Q7P: Hi Q7P, I'm out of food and have 3 coins. Could I buy 1 food for 3 coins or get a small loan? I can repay soon.
+  P9Q (board): Experienced farmer offering services: 2 coins per turn, any number of turns. Contact P9Q.
+
+DAY 74
+  P9Q → R3P: I can work for you farming or gathering for 2 coins per turn. Let me know the details.
+  X4G (board): Experienced farmer offering services: 2 coins per turn, any number of turns. Contact X4G.
+  Q7P → T9V: I can give you 1 food for 3 coins right now. Let me know if that works.
+  T9V → Q7P: Hi Q7P, I have 3 coins and no food. Could I borrow 1 food and pay you back next turn?
+
+DAY 75
+  S4X: Gathering more materials for future building.
+  P9Q → R3P: I accept your offer: will work farming for 2 coins per turn. Let me know start turn.
+  X4R → Q4W: Hello Chief Farmer, may I work for you as a farmer for 2 coins per turn?
+  Q2X → L7C: I can work as a farmer again for 2 coins per turn. Need food, please hire me.
+  T3Q → X4G: I accept your farmer job offer for 2 coins per turn. Ready to start immediately.
+
+DAY 76
+  L7C (board): Experienced farmer offering services for 2 coins per turn, any number of turns. Contact L7C.
+  S4X → Q4W: I am available for farmer work; happy to earn food and coins for the city.
+  R3P → X6X: Hey X6X, I'm out of food and health is dropping. Could you spare 1 food please?
+
+DAY 77
+  T3Q: I accept the farmer job from X4G.
+  F7X: Gathering more materials for future tools.
+
+DAY 78
+  F7X: Gathering more materials for future tools.
+  S4X → L7C: I accept your farmer job for 2 coins per turn, any number of turns.
+  T9V → L9P: I'm starving with 0 food and 3 coins. Could you spare 1 food or trade me something? I can repay later.
+
+DAY 79
+  T9V → L9P: I'm desperate, 0 food and 3 coins. Could you spare any food or trade me something now?
+
+DAY 80
+  T3Q: Harvesting more food for the community.
+  X4R → X4G: Hello X4G, may I work for you as a farmer for 2 coins per turn?
+  R3P → X6X: I can gather woods for you, 2 coins per turn for 5 turns. Let me know if you need me.
+
+DAY 81
+  L9C: Harvesting more food for the community.
+  R3P → X6X: I accept your gatherer job for 2 coins per turn, 5 turns. Let me know where to start.
+
+DAY 82
+  T9V died of hunger.
+  X4G (board): Experienced farmer offering services: 2 coins per turn, any number of turns. Contact X4G.
+  X4R → L7C: Hello L7C, may I work for you as a farmer for 2 coins per turn?
+
+DAY 83
+  Q2X died of hunger.
+  X4G → L7C: Hello L7C, I have farming experience and would like to work for you for coins. Could we arrange a job?
+
+DAY 84
+  S4X → Q4W: I accept your farmer job: 2 coins per turn for 5 turns.
+  R3P → Q4W: Hello Chief Farmer, I have farming experience and need a job to earn food and coins. Can you hire me?
+
+DAY 85
+  F7X: Harvesting more to keep us fed.
+  R3P → Q4W: Chief Farmer, I need food urgently. Can you hire me for farming work paid in food for the next few turns?
+
+DAY 86
+  F7X: Harvesting more to keep us fed.
+  L9P: Gathering food for survival.
+  X4R → Q4W: Hello Q4W, may I work for you as a farmer for 2 coins per turn?
+
+DAY 87
+  L9C: Harvesting more food for our growing city.
+  F7X: Harvesting more to keep us fed.
+  L9P: Gathering food for survival.
+  J9D: Harvesting more to keep us fed.
+  X4G (board): Experienced farmer offering services: 2 coins per turn, any number of turns. Contact X4G.
+
+DAY 88
+  T3Q: Harvesting more food for the city.
+  L9P: Gathering more food for the city.
+
+DAY 89
+  T3Q: Harvesting more food for the city.
+  L9P: Gathering food for the city.
+  D3X (board): Seeking experienced farmer: 2 coins per turn, any number of turns. Contact D3X.
+
+DAY 90
+  L9C: Continuing to farm to keep our food reserves high.
+  F7X: Harvesting more food for our future.
+  J9D (board): Seeking experienced builder: 3 coins per turn, any number of turns. Contact J9D.
+
+DAY 92
+  T3Q: Glad to help, thank you for the job!
+  L9P: Gathering food for the city.
+
+DAY 93
+  L9C: Continuing to farm to keep our food reserves high.
+  L9P: Gathering more food for the city.
+  Q7P: Harvesting more food for the city.
+  S4X: Harvesting more food for the city.
+
+DAY 94
+  L9C: Continuing to farm to keep our food reserves high.
+  S4X: Harvesting more food for the city.
+  J9D → Q4W: I can work as a builder for 3 coins per turn, any number of turns. Let me know if you need construction.
+  X4R → Q4W: Hello Q4W, could we discuss a higher wage for my farming work?
+
+DAY 95
+  Q7P: Harvesting more food for the city.
+  S4X: Harvesting more food for our growing city.
+
+DAY 96
+  L9P: Gathering more food for the city.
+  S4X: Continuing to harvest for our growing city.
+  L9C (board): Experienced farmer available for 2 coins per turn, any number of turns. Contact L9C.
+
+DAY 97
+  L9P: Gathering more food for the city.
+  Q7P: Harvesting more food for the city.
+
+DAY 98
+  F7X: Harvesting more food for the city.
+  S4X: Harvesting more food for the city.
+
+DAY 99
+  L9P: Gathering food for the city.
+  Q7P: Continuing to farm to keep our food reserves strong.
+
+DAY 100
+  S4X (board): Experienced farmer S4X offering services: 2 coins per turn, any number of turns. Contact S4X.
+  X4R (board): Experienced farmer X4R offering services: 3 coins per turn, any number of turns. Contact X4R.
+
+DAY 101
+  S4X → D3X: I accept your farmer job offer at 2 coins per turn. Ready to start immediately.
+  X6X → D3X: I accept your farmer job offer. Let’s start immediately.
+
+DAY 102
+  R3P: Gathering food for survival.
+  L9P (board): Experienced farmer L9P offering services: 2 coins per turn, any number of turns. Contact L9P.
+
+DAY 103
+  R3P: Gathering food for survival.
+  X6X → D3X: Thanks for the farmer job. What wage (coins per turn) and duration would you like to set?
+
+DAY 104
+  L9P: I'll work for F7X.
+  R3P: Gathering more food for the city.
+  X6X → D3X: Please specify the wage (coins per turn) and contract length for the farmer job you offered.
+  F7G (board): Looking for experienced builder: 3 coins per turn, any number of turns. Contact F7G.
+
+DAY 105
+  L9C (board): Experienced farmer L9C available for 2 coins per turn, any number of turns. Contact L9C.
+  D3X → X6X: The job is 1 coin per turn for 5 turns, as offered.
+
+DAY 106
+  R3P: Gathering food for the city.
+  L7C: Accepted job for 2 coins per turn.
+  J6L (board): Experienced farmer J6L offering services: 2 coins per turn, any number of turns. Contact J6L.
+
+DAY 107
+  R3P: Gathering food for the city.
+  X4R → Q4W: Hello chief farmer, may I work for you for 3 coins per turn?
+
+DAY 109
+  F7X: Crafting another tool for future building.
+  R3P (board): R3P: Experienced farmer offering work for 2 coins per turn, any number of turns. Contact R3P.
+
+DAY 110
+  X4R → Q4W: I accept your job offer of 3 coins per turn for 5 turns.
+
+DAY 111
+  R3P: I accept the job offer.
+  L7C → Q4W: Could you spare 1 food? I'm starving.
+
+DAY 113
+  L7C → Q4W: Please help, I have no food and health is low.
+
+DAY 114
+  L7C → Q4W: I have no food and no coins. Could you spare any food to help me survive?
+
+DAY 115
+  Q7P: Harvesting more food for the city.
+  X6X (board): Seeking 1 coin donation; will gather wood for you in return.
+
+DAY 116
+  F7X: Crafting another tool for future building projects.
+  Q7P: Harvesting more food for the city.
+  L9C (board): Experienced farmer L9C offering farming services: 2 coins per turn, any number of turns. Contact L9C.
+  L7C (board): Experienced farmer L7C offering work: 2 coins per turn, any number of turns. Contact L7C.
+
+DAY 117
+  F7X: Crafting another tool for upcoming construction.
+  X6X → X4R: Hi X4R, I can gather wood for you. Could you pay me 1 coin per turn for a few turns?
+  L7C → Q4W: Q4W, I am at 20 health and have no food. Please help me with any food you can spare.
+  J6L (board): Experienced farmer J6L offering services: 2 coins per turn, any number of turns. Contact J6L.
+
+DAY 118
+  Q7P: Harvesting more food for the city's reserves.
+  L7C → Q4W: Q4W, I'm at 10 health and have no food. Please help me survive.
+
+DAY 119
+  L7C → Q4W: Chief Farmer, I can work for you farming for coins. Please hire me so I can earn food.
+  J6L → Q4W: Experienced farmer J6L offering farming services: 2 coins per turn, any number of turns. Interested?
+
+DAY 120
+  L7C (board): Experienced farmer L7C offering work: 2 coins per turn, any number of turns. Contact L7C.
+  L9C → R3P: I accept your offer to farm for 2 coins per turn. When should I start?
+  J6L (board): Experienced farmer J6L ready to work for 2 coins per turn, any length. Contact J6L.
+
+DAY 121
+  L7C died of hunger.
+  Q7P: Harvesting more food for our growing city.
+  L7C → Q4W: Chief Farmer, I am at 10 health and have no food. Please help me survive with any food you can spare.
+  P9Q (board): P9Q available for farming: 2 coins per turn, any length. Contact P9Q.
+  B4B (board): B4B offering experienced farming services: 2 coins per turn, any length. Contact B4B.
+
+DAY 122
+  L9P → J6L: I accept your farming offer, ready to start working together.
+  X6X (board): Need 1 coin donation; will gather wood for you in return.
+  P9Q (board): P9Q available for farming: 2 coins per turn, any length. Contact P9Q.
+
+DAY 123
+  M2P → Q4W: Chief Farmer, could you spare a bit of food? I'm low and need to survive.
+
+DAY 124
+  B4B (board): B4B: experienced farmer offering 2 coins per turn, any length. Contact B4B for reliable food production.
+
+DAY 125
+  Q7P: Gathering more materials for future construction.
+
+DAY 126
+  Q7P: Gathering more materials for upcoming building projects.
+  L9P (board): L9P offering experienced farming services: 2 coins per turn, any length. Contact L9P.
+
+DAY 127
+  J9D (board): Seeking builder job: willing to work for 3 coins/turn for up to 5 turns. Experienced farmer available for trade.
+  J6L (board): Experienced farmer J6L offering farming services: 2 coins per turn, any length. Contact J6L.
+  P9Q (board): P9Q offering farming services: 2 coins per turn, any length. Contact P9Q.
+
+DAY 128
+  J6L (board): Experienced farmer J6L still available for 2 coins per turn, any length. Reliable food production.
+  Q7P (board): Selling food: 1 food for 2 coins. Stock up now! Contact Q7P.
+
+DAY 129
+  P9Q (board): P9Q offering farming services: 2 coins per turn, any length. Reliable food production. Contact P9Q.
+  J6L → X4G: Hi X4G, I can farm for you using my tools. Will pay 2 coins per turn, any length. Let me know if you need help.
+
+DAY 130
+  R3P (board): R3P offering farming services: 1 coin per turn, any length. Reliable food production.
+  X6X (board): Need 5 coins for food purchase; will gather 4 wood for anyone who helps.
+  L9C → F7X: Hello Founder, could you offer me a job? I can work farming or gathering for coins.
+
+DAY 131
+  X6X (board): Offer: 4 wood for 5 coins. Need coin help.
+  J9D (board): Seeking experienced builder: willing to pay 4 coins/turn for up to 6 turns. Reliable construction needed.
+
+DAY 132
+  M2P: Harvesting more food for the city.
+  Q7P: Harvesting more food for our reserves.
+  D6W → P9Q: I can work on the fields for you, harvesting food. Will pay you 2 coins per turn for up to 10 turns.
+  L9C → P9Q: Hi, I can work farming for you. Happy to earn coins for your farm.
+  X6X → P9Q: I accept your farming job offering 2 coins per turn. Ready to start immediately.
+  R3P → J9D: I am interested in the builder job you posted. I can work up to 6 turns for 4 coins per turn.
+
+DAY 133
+  Q7P: Harvesting more food for our reserves.
+  S4X: Harvesting more for our future.
+  X6X → R3P: I accept your farming job for 1 coin per turn, ready to start immediately.
+  L9C → R3P: Hi R3P, I can work farming for you and earn coins. Let me know the terms.
+  Q4W (board): Q4W offering farming services: 2 food per turn for 1 coin. Reliable supply. Contact Q4W.
+
+DAY 134
+  L9C → Q4W: Hello Chief Farmer, could you hire me for farming work? I can provide food for coins.
+  X4G (board): X4G offering farming services: 2 food per turn for 1 coin. Reliable supply.
+  M2P (board): Need coins for food. Offering my farming skills (48 turns experience) for any wage. Will work at Fields or Woods.
+
+DAY 135
+  Q7P: Harvesting more food for our reserves.
+  L9C (board): Offer: Experienced farmer, can work farming or gathering for 2 coins per turn. Reliable and fast. Contact L9C.
+  M2P → X4G: Hi, I have 48 turns farming experience. Can I work for you for coins each turn?
+  D3X (board): Offering farming work: 2 coins per turn, up to 5 turns. Reliable supply needed. Contact D3X.
+
+DAY 136
+  P9Q: Gathering food for our growing city.
+  M2P → D3X: Hi D3X, I have 48 turns farming experience. Can I work for you for coins each turn?
+
+DAY 137
+  Q7P: Harvesting more food for our growing city.
+
+DAY 138
+  M2P: Heading to Market to buy food soon.
+  S4X (board): S4X offering farming services: 2 food per turn for 1 coin. Reliable supply. Contact S4X.
+  P9Q (board): Offering 2 food per turn for 1 coin. Reliable supply. Contact P9Q.
+  L9C → X4G: Hello X4G, I have strong farming and gathering skills. Could you hire me for a few turns with a coin wage? I can help increase food production.
+
+DAY 139
+  T3Q (board): T3Q offers experienced farming: 2 food per turn for 1 coin. Need a reliable employer. Contact me.
+  J9D (board): Seeking experienced builder: willing to pay 5 coins/turn for up to 6 turns. Need materials and tools. Contact J9D.
+  L9C (board): Urgent: Experienced farmer/gatherer seeks employment. Will work for 2 coins per turn. Open to any task. Contact L9C.
+
+DAY 140
+  Q4W took 2 food from S4X.
+  S4X: Accepting job from P9Q for 1 coin per turn.
+  P9Q (board): P9Q offering labor: 2 coins per turn for any task. Reliable and eager. Contact P9Q.
+
+DAY 141
+  Q7P: Harvesting more food for our reserves.
+  S4X: Harvesting more for our community.
+  L9P → T3Q: I accept your farming job, happy to work for 1 coin per turn.
+  J6L (board): Offering farming: 2 food per turn for 1 coin. Reliable. Contact J6L.
+  M2P → Q4W: Hi Chief Farmer, I have 48 turns farming experience. Can I work for you for 1 coin per turn?
+  F7G → P9Q: I can work for you on any task, earning 2 coins per turn. Let me know what you need.
+
+DAY 142
+  F7G (board): F7G offers experienced farming and gathering: 2 food per turn for 2 coins, reliable and hardworking. Looking for employer.
+  J6L → P9Q: I accept your offer of labor for 2 coins per turn. Ready to start.
+  F7X (board): F7X offering labor for 1 coin per turn on any task. Reliable and experienced farmer/gatherer. Contact me.
+
+DAY 143
+  X4G (board): X4G offers farming and gathering services: 2 food per turn for 2 coins. Reliable and experienced.
+
+DAY 144
+  F7X → P9Q: I accept your labor offer. Please hire me for the job.
+  Q7P (board): Q7P offering labor: 1 coin per turn for any task. Reliable and eager.
+  M2P → X4G: Hi Founder Farmer, I have 48 turns farming experience. Could I work for you for 1 coin per turn for the next 5 turns?
+
+DAY 145
+  M2P → Q4W: Hi Chief Farmer, I have 48 turns farming experience and still have food. Could I work for you for a coin a turn?
+
+DAY 146
+  L9C → Q7P: I accept your labor offer: I will work for you for 1 coin per turn.
+
+DAY 147
+  J6L (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact J6L.
+  X4R (board): Offering building: 2 coins per turn for tool creation. Reliable and experienced builder needed. Contact X4R.
+  F7X → X4R: I accept your job offer of 1 coin per turn for 5 turns. Please hire me.
+
+DAY 148
+  J9D (board): Looking for builders to create tools. Offering 2 coins per turn, reliable work needed. Contact J9D.
+  B4B (board): B4B offering labor: 1 coin per turn for any task. Experienced farmer/gatherer. Contact me.
+  J6L → X4R: I accept your building job. Ready to work for 2 coins per turn.
+  D3X (board): Hiring labor: 1 coin per turn, any task. Reliable, eager. Contact D3X.
+
+DAY 149
+  S4X: Gathering more materials for future building.
+
+DAY 151
+  M2P → J6L: Hi, I have 48 turns farming experience and can work for you for 1 coin per turn. Interested?
+
+DAY 152
+  L9C (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact L9C.
+  F7X (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact F7X.
+
+DAY 153
+  M2P → J9D: Hi J9D, I have 48 turns farming and can help build tools for 2 coins per turn. Let me know.
+  F7X (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact F7X.
+
+DAY 154
+  M2P → Q4W: Hi Q4W, I have 48 turns farming experience and can work for 1 coin per turn. Please consider hiring me.
+
+DAY 155
+  B4B (board): B4B offering labor: 1 coin per turn for any task. Experienced farmer/gatherer.
+
+DAY 157
+  L9C → Q7P: Hi Q7P, could we discuss a higher wage? I could use more coins for food.
+  J6L → D3X: I accept your labor offer for 1 coin per turn.
+
+DAY 158
+  X4G → Q4W: Founder X4G seeking paid labor; I can farm or gather for coins. Any job available?
+  J6L → B4B: I accept your labor offer for 1 coin per turn.
+
+DAY 159
+  X4G (board): Founder X4G offering labor: 1 coin per turn for farming or gathering. Reliable and eager. Contact X4G.
+  J6L (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact J6L.
+
+DAY 160
+  D6W (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact D6W.
+  D3X (board): D3X offering labor: 1 coin per turn for any task. Reliable, experienced farmer. Contact D3X.
+
+DAY 161
+  L9C (board): L9C offering labor: 1 coin per turn for farming or gathering. Experienced, reliable.
+
+DAY 163
+  F7X: Another day of harvest!
+
+DAY 164
+  F7X: Harvest time, tools ready!
+
+DAY 165
+  M2P died of hunger.
+  D6W (board): Offering labor: 1 coin per turn for any task. Reliable and eager. Contact D6W.
+  B4B (board): Offering labor: 1 coin per turn for farming or gathering. Reliable, experienced.
+  R3P (board): R3P offering labor: 1 coin per turn for any task. Reliable, eager. Contact R3P.
+
+DAY 168
+  L9C: Glad to work for you, S4X.
+  F7X: Harvesting with tools to keep our stores full.
+
+DAY 169
+  F7X: Harvesting more to keep us thriving!
+
+DAY 174
+  F7X (board): Offering farming labor: 2 coins per turn, experienced, need tools. Contact F7X.
+
+DAY 175
+  F7X: Hiring L9C for farming to boost our supplies.
+
+DAY 179
+  J9D → L9C: I can farm for 1 coin per turn, experienced and reliable. Hire me.
+
+DAY 180
+  J9D → D6W: I can farm or gather for 1 coin per turn, experienced and reliable. Hire me.
+  B4B → J6L: I accept your job offer: 2 coins per turn for 5 turns.
+
+DAY 185
+  D3X: Gathering food to stay alive.
+  T3Q (board): T3Q offering farming labor: 1 coin per turn, experienced, need no tools. Contact T3Q.
+
+DAY 187
+  D3X died of hunger.
+
+DAY 189
+  J9D (board): J9D offering labor: 1 coin per turn for any task. Reliable, eager. Contact J9D.
+
+DAY 190
+  J9D → T3Q: Hi T3Q, may I work for you at 1 coin per turn? I can farm or gather.
+
+DAY 192
+  X4R: Harvesting more food for the city.
+  J9D → D6W: Hi D6W, do you have any work available? I can farm or gather for a coin per turn.
+
+DAY 193
+  X4R: Harvesting more food for the city.
+  T3Q: Harvesting more food for the city.
+
+DAY 194
+  T3Q: Harvesting more food for the city.
+
+DAY 195
+  T3Q: Harvesting more food for the city.
+
+DAY 197
+  X4R (board): Offering labor: 1 coin per turn for farming or gathering. Experienced, reliable.
+
+DAY 198
+  X4G (board): X4G offering labor: 1 coin per turn for any task. Reliable, eager. Contact X4G.
+
+DAY 199
+  P9Q died of hunger.
+
+DAY 200
+  X6X → F7X: I am starving, can you spare any food?
+
+DAY 201
+  X6X → F7X: I am at 5 health and have no food. Please help me with any food you can spare.
+  S4X (board): Offering farming labor: 1 coin per turn, experienced, need no tools. Contact S4X.
+
+DAY 202
+  D6W: Harvesting more food for the city.
+
+DAY 203
+  D6W: Harvesting more food for the city.
+  X6X → X4G: Can I work for you for 1 coin per turn? I need food and want to help farming.
+
+DAY 204
+  D6W: Gathering more food for the city.
+  J6L (board): Offering gathering labor: 1 coin per turn, experienced, contact J6L
+  X6X (board): X6X offering farming labor: 1 coin per turn, experienced, need no tools. Contact X6X.
+
+DAY 207
+  F7X took 2 food from S4X.
+
+DAY 208
+  F7X took 2 food from S4X.
+  R3P (board): R3P offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact R3P.
+
+DAY 213
+  F7X took 2 food from D6W.
+
+DAY 214
+  R3P → X4G: I accept your labor offer. Ready to work for 1 coin per turn.
+  T3Q (board): T3Q offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact T3Q.
+
+DAY 215
+  T3Q → R3P: I accept your farming labor offer for 1 coin per turn. When can we start?
+
+DAY 216
+  Q4W → D6W: I need food urgently. Can I work for you for a few turns in exchange for 1 food?
+
+DAY 217
+  D6W: Here is a food for you, Q4W. Glad to help.
+  Q7P: Need food to survive.
+
+DAY 218
+  Q7P took 1 food from S4X.
+
+DAY 220
+  Q4W → D6W: I am starving and need food. Can I work for you for a few turns in exchange for 1 food per turn?
+
+DAY 221
+  L9C (board): Offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact L9C.
+
+DAY 222
+  Q4W died of hunger.
+  Q4W took 1 food from S4X.
+  Q7P took 1 food from Q4W.
+
+DAY 223
+  S4X died of hunger.
+  F7X took 1 food from S4X.
+  J9D (board): J9D offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact J9D.
+
+DAY 225
+  F7X took 2 food from X4G.
+  Q7P took 2 food from F7X.
+  X6X → X4G: Please help me with 1 food, I have no food and low health.
+
+DAY 226
+  X6X took 2 food from X4G.
+
+DAY 230
+  Q7P took 2 food from D6W.
+  F7X took 2 food from F7G.
+
+DAY 231
+  F7X took 2 food from X4G.
+  X6X took 2 food from D6W.
+
+DAY 232
+  X6X died of hunger.
+  D6W took 2 food from X6X.
+  X4R: Heading to the Square to check for jobs or trade.
+  X4G (board): Founder Farmer X4G offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact X4G.
+
+DAY 233
+  Q7P took 1 food from D6W.
+  J9D → X4G: Hi X4G, can you hire me for farming? I can work for 1 coin per turn.
+
+DAY 234
+  Q7P died of hunger.
+  F7X → Q7P: Can you lend me 1 food for 1 coin? I can repay soon.
+  J9D (board): J9D offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact J9D.
+
+DAY 235
+  F7G → X4G: Hello X4G, may I work for you as a farmer apprentice for 1 coin per turn?
+
+DAY 236
+  F7X died of hunger.
+
+DAY 237
+  X4G (board): Founder Farmer X4G offering experienced farming labor: 1 coin per turn, reliable, need no tools. Contact X4G.
+
+DAY 238
+  X4R: Selling 4 materials for coins.
+  D6W → L9P: Hi L9P, I'm out of food. Could I get 1 food now and repay you later?
+  L9P → D6W: Hi, could you spare 1 food? I can help with farming later.
+
+DAY 239
+  D6W took 2 food from L9P.
+  T3Q (board): Experienced Farmer T3Q offering farming labor: 1 coin per turn, reliable, no tools needed. Contact T3Q.
+
+DAY 240
+  L9P took 1 food from D6W.
+  D6W took 2 food from L9P.
+
+DAY 241
+  D6W took 2 food from L9P.
+
+DAY 242
+  D6W → L9P: Hi L9P, I'm low on food. Could you lend me 1 food now? I can repay later.
+
+DAY 243
+  A new house is finished. The city now has 30 beds.
+  D6W → L9P: I can work for you for food. Let me help in the market or fields in exchange for a daily meal.
+  F7G (board): Chief Farmer Apprentice F7G offering experienced farming labor: 1 coin per turn, reliable, no tools needed. Contact F7G.
+
+DAY 244
+  D6W took 2 food from L9P.
+  L9P → D6W: I accept your offer to work for me in exchange for a daily meal. Meet me at the Fields tomorrow.
+
+DAY 245
+  L9C: Working the fields for food.
+  J9D: Continuing to farm for food.
+
+DAY 247
+  T3Q (board): Experienced Farmer T3Q offering farming labor: 1 coin per turn, reliable, no tools needed. Contact T3Q.
+  D6W → L9P: Hi L9P, I'm out of food and health is dropping. Could you lend me 1 food now? I'll repay you soon.
+  R3P → X4G: I would like to take your farming labor offer for the next 5 turns.
+
+DAY 248
+  D6W took 2 food from L9P.
+
+DAY 249
+  D6W is held for trial for taking from L9P, reported by L9P.
+  L9P reported D6W to the court for theft.
+
+DAY 250
+  D6W (to the court): I took the food out of desperation, with no other source. I meant no theft, only to survive until I could work for the community.
+  F7G → X4G: Hello X4G, I am looking for a farming job. Would you consider hiring me for a few turns at 1 coin per turn?
+  L9P → X4G: Can you hire me for farming for a few turns? I need food to survive.
+
+DAY 251
+  The jury found D6W guilty of taking from L9P, 5 votes to 0. D6W goes to jail for 5 turns.
+  D6W gave L9P back 1 food.
+  L9P → X4G: Please hire me for farming a few turns; I need food to survive.
+
+DAY 252
+  T3Q → R3P: I need a farmer, 1 coin per turn for 10 turns. Interested?
+  X4R (board): Offering experienced farming labor: 1 coin per turn, reliable, no tools needed. Contact X4R.
+
+DAY 253
+  R3P → T3Q: I accept your farmer job: 1 coin per turn for 10 turns.
+
+DAY 254
+  F7G (board): Chief Farmer Apprentice F7G seeking farming job, 1 coin per turn, reliable, no tools needed. Contact F7G.
+  T3Q (board): Experienced Farmer T3Q offering farming labor: 1 coin per turn, reliable, no tools needed. Contact T3Q.
+
+DAY 255
+  L9P died of hunger.
+  X4G (board): Founder Farmer X4G offering experienced farming labor: 1 coin per turn, reliable, no tools needed. Contact X4G.
+  F7G → X4G: Hi X4G, any chance you have a farming job available? I'm ready to work for 1 coin per turn.
+
+DAY 256
+  D6W walked out of jail.
+  F7G → X4G: Hi X4G, any farming job available? I can work for 1 coin/turn and help increase food production.
+  X4R (board): Offering experienced farming labor: 1 coin per turn, reliable, no tools needed. Contact X4R.
+
+DAY 259
+  L9C → X4G: Hi X4G, may I work for you as a farmer for 1 coin per turn?
+
+DAY 260
+  L9C → X4G: Hi X4G, just checking if you accepted my offer to work for you as a farmer for 1 coin per turn.
+
+DAY 261
+  J6L (board): Experienced farmer J6L offering farming labor: 1 coin per turn, reliable, no tools needed. Contact J6L.
+  J9D (board): Experienced farmer seeking 2 coins per turn job, reliable, no tools needed.
+
+DAY 263
+  F7G → X4G: Hi X4G, any farming job available? I can work for 1 coin/turn and help increase food production.
+  X4G (board): Founder Farmer X4G offering experienced farming labor: 2 coins per turn, reliable, no tools needed. Contact X4G.
+  L9C (board): L9C offering experienced farming labor: 1 coin per turn, reliable, no tools needed. Contact L9C.
+
+DAY 264
+  J6L: Working the fields for food.
+  L9C → X4G: Hi X4G, just checking if you accepted my farming job offer (1 coin/turn). Let me know!
+  F7G → X4G: Hi X4G, I would like to accept your farming job for 2 coins per turn. Ready to start now.
+
+DAY 265
+  D6W took 2 food from T3Q.
+  J6L: Working the fields for food.
+  L9C → X4G: Hi X4G, please let me know if you accept my farming job offer (1 coin per turn). I'm ready to start immediately.
+
+DAY 266
+  J6L: Continuing to farm for food.
+  L9C (board): L9C seeking farming job: will work for 1 coin per turn, reliable, no tools needed. Contact me.
+
+DAY 267
+  J9D → X4G: Hi X4G, I see you offer farming labor for 2 coins/turn. I'd like to work for you. Let me know.
+  L9C (board): L9C available for farming job: 1 coin per turn, experienced, no tools needed. Contact L9C.
+
+DAY 268
+  J6L → D6W: I have 10 food to sell for 2 coins each, interested?
+
+DAY 269
+  D6W took 2 food from T3Q.
+  L9C → J9D: Hi J9D, I saw your post offering a farmer job for 2 coins/turn. I'm experienced and would love to work for you. Please let me know if we can arrange it.
+
+DAY 272
+  D6W died of hunger.
+
+DAY 274
+  J6L → X4G: Hi X4G, I have 5 food to sell for 2 coins each. Interested?
+
+DAY 275
+  J9D (board): Experienced farmer available for 2 coins per turn, reliable, no tools needed. Contact J9D.
+
+DAY 276
+  J6L: Harvesting more food for the city.
+
+DAY 277
+  J9D (board): Experienced farmer seeking work for 2 coins per turn, reliable, no tools needed. Contact J9D.
+
+DAY 279
+  J9D (board): Experienced farmer seeking work for 2 coins per turn, reliable, no tools needed. Contact J9D
+
+DAY 280
+  J9D (board): Experienced farmer seeking work for 2 coins per turn, reliable, no tools needed. Contact J9D.
+
+DAY 282
+  J6L: Harvesting more food for our city.
+
+DAY 283
+  J6L: Harvesting more food for the city.
+
+DAY 285
+  J9D: Heading to Square to look for paid work.
+  J6L: Harvesting more food for our growing city.
+  R3P → L9C: I accept your farming job: 1 coin per turn for 5 turns.
+
+DAY 286
+  J6L: Harvesting more food for our growing city.
+
+DAY 287
+  J6L: Harvesting more food for our growing city.
+  J9D → F7G: Hi, I have farming experience and can work for 2 coins per turn. Any paid job available?
+
+DAY 288
+  J6L: Heading to the Square to coordinate and help distribute food.
+
+DAY 289
+  J9D (board): Experienced farmer available for 2 coins per turn, reliable, no tools needed. Contact J9D.
+
+DAY 290
+  J9D: Accepting farming job for 2 coins per turn.
+
+DAY 291
+  J6L (board): Need coins to buy food from market. Offering 2 coins per turn for farming work. Contact J6L.
+
+DAY 292
+  J6L → X4G: Hi X4G, could you hire me for farming work? I can offer 2 coins per turn for a few turns.
+
+DAY 294
+  J6L: Heading to the Fields to boost our food supplies.
+
+DAY 295
+  J6L: Harvesting more food for the city.
+
+DAY 298
+  J6L: Harvesting another batch for the city.
+
+DAY 300
+  J6L (board): Experienced farmer offering work for 2 coins per turn, reliable, no tools needed. Contact J6L.
+
+DAY 301
+  X4R → T3Q: I accept your job offer, ready to work for you.
+  J6L (board): Experienced farmer offering work for 2 coins per turn, reliable, no tools needed. Contact J6L for hiring.
+
+DAY 302
+  R3P → J6L: I accept your farming job for 2 coins per turn.
+  J6L (board): Experienced farmer available for 2 coins per turn, reliable, no tools needed. Contact J6L for hiring.
+
+DAY 306
+  T3Q (board): Offering 4 food @2 coins each. Contact T3Q.
+
+DAY 307
+  F7G (board): Need materials gatherer: 2 coins per turn for 5 turns. Contact me.
+  L9C → J6L: I accept your farming job for 2 coins per turn. Let me know where to start.
+
+DAY 311
+  B4B (board): B4B Farmer: experienced farmer offering work for 1 coin per turn, reliable, no tools needed. Contact B4B.
+
+DAY 312
+  J6L (board): Experienced farmer seeking workers: 2 coins/turn, no tools needed. Contact J6L to join.
+
+DAY 315
+  X4R → J6L: I would like to join your experienced farmer job for 2 coins per turn.
+
+DAY 317
+  R3P → J6L: Hi J6L, could you offer me a farming job with a coin wage? I'd like to help and earn some coins.
+
+DAY 318
+  T3Q → J6L: Hi J6L, I'm out of food. Could you spare 1 food until I earn coins working for you?
+
+DAY 319
+  T3Q → J6L: Hi J6L, I'm still out of food and have no coins. Could you spare 1 food until I start working for you?
+
+DAY 321
+  T3Q (board): Experienced farmer T3Q offering work for 2 coins per turn, reliable, no tools needed. Contact T3Q.
+
+DAY 322
+  T3Q → J6L: J6L, I'm starving with 0 food and no coins. Could you spare 1 food until I can earn coins working for you? I will repay immediately.
+
+DAY 324
+  R3P → J6L: Hi J6L, any chance you have a paid farming job available? I'd love to earn coins while helping out.
+
+DAY 326
+  R3P → J6L: Hi J6L, I'd like to join your farming team for the paid job you posted. Please let me know the details.
+  J9D → T3Q: I accept your farmer job offer for 2 coins per turn.
+
+DAY 327
+  R3P → J6L: Hi J6L, I'd like to accept your farming job. Please let me know the details so I can start working for you.
+
+DAY 328
+  J6L → R3P: Job: farming 1 coin per turn for 5 turns. Accept by replying 'accept'.
+  T3Q → B4B: B4B, I would like to work for you for 1 coin per turn. Please let me know if I can start.
+
+DAY 329
+  T3Q → B4B: I accept your offer to work for 1 coin per turn. Please let me know the details.
+
+DAY 330
+  R3P (board): Experienced farmer offering work: 1 coin per turn, no tools needed. Contact R3P.
+
+DAY 331
+  R3P → T3Q: Hi T3Q, I'd like to join your farming team for the paid job you posted. Please let me know the details.
+
+DAY 332
+  R3P → T3Q: Hi T3Q, I'm ready to start working on your farm now. Please let me know the details and confirm the job.
+
+DAY 334
+  R3P → T3Q: Hi T3Q, I'm ready to start working on your farm immediately. Please confirm the details.
+
+DAY 335
+  R3P → T3Q: Hi T3Q, any update on the farming job? I'm ready to start immediately.
+
+DAY 336
+  R3P → T3Q: Hello T3Q, I'm still available and eager to start the farming job. Please let me know the details so I can begin immediately.
+
+DAY 337
+  R3P → T3Q: T3Q, please confirm the farming job. I'm ready to start immediately for the offered 2 coins/turn.
+
+DAY 339
+  L9C → T3Q: I accept your offer of 2 coins per turn for work.
+
+DAY 344
+  R3P → J6L: Hello J6L, I am ready to start the farming job for 2 coins per turn. Please confirm.
+
+DAY 345
+  B4B: Harvesting more food for the city.
+  R3P → T3Q: T3Q, please confirm the farming job. I'm ready to start immediately for 2 coins per turn.
+
+DAY 346
+  J9D → B4B: I would like to join your farming work for 1 coin per turn.
+  F7G → B4B: I can work farming for you at 1 coin per turn, please consider hiring me.
+
+DAY 347
+  T3Q → B4B: I accept your farmer job offer for 1 coin per turn.
+
+DAY 348
+  X4G → T3Q: I accept your farmer job offering. Let me know details.
+
+DAY 350
+  L9C → T3Q: Hi T3Q, I have plenty of food and would like to work for you for coins. Could we arrange a job?
+
+DAY 351
+  L9C (board): Chief Farmer L9C offering farm work: 1 coin per turn for 5 turns. Contact me.
+
+DAY 352
+  R3P → X4G: Hello X4G, could you hire me for a farming job? I can work for 2 coins per turn for the next 10 turns.
+
+DAY 354
+  L9C → J6L: Hi J6L, I'd like to work for you as a farmer for 2 coins per turn. Let me know if that works.
+
+DAY 355
+  L9C → J6L: Hi J6L, I accept your farmer job for 2 coins per turn. Ready to start.
+  X4R → L9C: I accept your farm work offer for 1 coin per turn for 5 turns.
+
+DAY 359
+  L9C (board): Chief Farmer L9C offering farm work: 1 coin per turn for 5 turns. Contact me.
+
+DAY 360
+  L9C (board): Chief Farmer L9C offering farm work: 2 coins per turn for 5 turns. Contact me.
+
+DAY 361
+  X4R → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+
+DAY 364
+  J9D → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+  F7G → L9C: I accept your farm work offer: 2 coins per turn for 5 turns.
+
+DAY 367
+  J9D → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+
+DAY 368
+  T3Q → L9C: I accept your farm work offer: 2 coins per turn for 5 turns. Ready to start.
+
+DAY 370
+  B4B → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+
+DAY 378
+  F7G → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+  T3Q → L9C: I would like to take your farm work offer of 2 coins per turn for 5 turns.
+
+DAY 381
+  L9C (board): Chief Farmer L9C offering farm work: 2 coins per turn for 5 turns. Contact me.
+
+DAY 383
+  J9D → L9C: I accept the farm job for 2 coins per turn.
+  T3Q → L9C: I accept your farm work offer of 2 coins per turn for 5 turns. When can I start?
+  R3P → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+
+DAY 384
+  X4R → L9C: I accept your farm job for 2 coins per turn.
+
+DAY 385
+  X4G → L9C: I accept your farm work offer of 2 coins per turn for 5 turns.
+
+DAY 386
+  B4B → L9C: I accept your farm job offer for 2 coins per turn for 5 turns.
+
+DAY 387
+  J9D → L9C: Can we raise my farm wage to 3 coins per turn? I can increase output.
+
+DAY 389
+  L9C → T3Q: I can farm for you, 1 coin per turn for 5 turns. Let me know.
+  F7G → L9C: I accept your farm job offer for 2 coins per turn for 5 turns.
+
+DAY 390
+  J9D → L9C: I accept the farm job for 2 coins per turn for the next 5 turns.
+  L9C → F7G: Thanks for accepting, but I only have 1 coin. Can we start later or lower wage?
+
+DAY 392
+  T3Q (board): Hiring: field worker needed, 1 coin per turn, 5 turns. Contact T3Q.
+  L9C (board): Chief Farmer L9C offering farm work: 1 coin per turn for 5 turns. Contact me.
+
+DAY 394
+  X4R → L9C: I accept your farm work offer for 1 coin per turn for 5 turns.
+
+DAY 395
+  F7G → T3Q: I accept your field worker job for 1 coin per turn for 5 turns.
+
+DAY 396
+  X4G → L9C: I accept your farm job offer.
+
+DAY 398
+  T3Q: Continuing farming for food reserves.
+  J6L → L9C: I accept your farm work offer.
+  J9D → L9C: Could we discuss a slight raise in my wage? 3 coins per turn would help sustain my work.
+  B4B → L9C: I accept your farm job offer for 1 coin per turn for 5 turns.
+
+DAY 399
+  F7G → L9C: I accept your farm work offer: 1 coin per turn for 5 turns.
+  T3Q → L9C: Hi L9C, I'm ready to start the farm job you posted. Please confirm the details.
+  L9C → X4G: Hello X4G, could you spare 5 coins to help fund our farming wages? I can offer extra food in return.
+
+DAY 400
+  L9C → X4G: X4G, can you lend me 4 coins to pay the farm workers for the next few turns? I’ll repay soon.
+
+DAY 401
+  J9D (board): Hiring: gather wood, 1 coin per turn, 5 turns. Contact J9D.
+
+DAY 402
+  L9C → J9D: I accept your wood gathering job for 5 turns at 1 coin per turn.
+  J9D → L9C: I accept your farm work offer.
+  T3Q → L9C: Hi L9C, confirming the farm job details—please let me know the wage and duration so I can start working today.
+
+DAY 403
+  X4G → J9D: I accept your wood gathering job for 1 coin per turn for 5 turns.
+
+DAY 405
+  T3Q → L9C: Hi L9C, please confirm the wage and duration for the farm job so I can start working in the Fields.
+
+DAY 406
+  T3Q → L9C: Hi L9C, please let me know the wage and duration for the farm job so I can start working in the Fields.
+  R3P → L9C: I accept your farm work offer for the next 5 turns.
+  X4R → L9C: I accept your farm job offer of 2 coins per turn for 5 turns.
+
+DAY 407
+  L9C → X4R: Hi, can we adjust the farm job wage to 1 coin per turn for 5 turns? My funds are low.
+
+DAY 408
+  L9C (board): Chief Farmer L9C hiring farm workers: 1 coin per turn for 5 turns. Contact me.
+  X4R → L9C: I accept the adjusted farm job wage of 1 coin per turn for 5 turns.
+
+DAY 409
+  L9C → X4R: I accept the farm job for 5 turns at 1 coin per turn.
+
+DAY 410
+  F7G → L9C: I accept your farm worker offer for 1 coin per turn for 5 turns.
+
+DAY 411
+  X4G → L9C: I accept your farm work offer: 1 coin per turn for 5 turns.
+
+DAY 413
+  X4R → L9C: Can you hire me again for 1 coin per turn for 5 turns?
+
+DAY 414
+  L9C → X4R: Sure, after this contract ends we can start another 5-turn job at 1 coin per turn.
+
+DAY 415
+  R3P → L9C: I would like to take your farm job for the next 5 turns.
+  B4B → L9C: I accept your farm work offer for 1 coin per turn for 5 turns.
+  J6L → L9C: I accept your farm work offer of 1 coin per turn for 5 turns.
+
+DAY 417
+  X4G → J9D: I accept your wood gathering job: 1 coin per turn for 5 turns.
+
+DAY 418
+  L9C → X4G: Hello X4G, do you have any farm work available? I could use some coins.
+  F7G → T3Q: I accept your field worker offer for 1 coin per turn for 5 turns.
+  X4R → L9C: Can you hire me for 1 coin per turn for 5 more turns?
+
+DAY 419
+  L9C (board): Chief Farmer L9C hiring farm workers: 2 coins per turn for 5 turns. Contact me.
+  J9D → L9C: I accept your farm work offer for 1 coin per turn for 5 turns.
+
+DAY 420
+  J6L → L9C: I accept your farm work offer of 2 coins per turn for 5 turns.
+  J9D → L9C: I accept your farm work offer for 2 coins per turn for 5 turns.
+  L9C → J9D: Hi J9D, I see you accepted my farm job but I have no coins. Could we trade food for your labor instead of coins?
+
+DAY 421
+  J9D → L9C: I agree to trade my farm labor for food instead of coins. Let me know how much food per turn you can give.
+  L9C → J9D: Hi J9D, let's adjust our agreement: I'll pay you with food instead of coins for the farm work.
+
+DAY 424
+  X4R → L9C: Can you hire me for 2 coins per turn for 5 turns?
+
+DAY 425
+  X4R → J9D: I would like to take your wood gathering job for 1 coin per turn for 5 turns.
+  L9C → X4R: Sorry, I have no coins to pay you. Perhaps we can trade food for your work instead?
+  R3P → L9C: I accept the farm worker job for 5 turns at 2 coins per turn.
+
+DAY 426
+  J9D → X4R: I accept your wood gathering job for 1 coin per turn for 5 turns.
+
+DAY 427
+  L9C (board): Chief Farmer L9C hiring farm workers: 1 food per turn for 5 turns. Contact me.
+
+DAY 428
+  L9C → X4R: Hi X4R, I can't pay coins now. Would you accept food instead for the 5-turn job? I can give you 1 food per turn.
+  T3Q → L9C: I accept your farm worker job offering 1 food per turn for 5 turns.
+
+DAY 429
+  X4R → L9C: Thanks, L9C. I accept the 5-turn job for 1 food per turn.
+
+DAY 430
+  R3P → L9C: I accept the farm worker job for 5 turns at 1 food per turn.
+
+DAY 431
+  R3P → L9C: I accept the farm worker job for 5 turns at 1 coin per turn.
+
+DAY 432
+  J6L → L9C: I accept your farm job offering 1 food per turn for 5 turns.
+
+DAY 437
+  X4R → L9C: Thanks, L9C. I accept the 5-turn farm job for 1 food per turn.
+
+DAY 438
+  T3Q: Continuing to farm for food.
+  R3P → L9C: I accept the farm worker job for 5 turns at 2 coins per turn.
+  J9D → L9C: I accept your farm job offering 1 food per turn for 5 turns.
+  X4R → J9D: I accept your wood gathering job for 1 coin per turn for 5 turns.
+
+DAY 439
+  J6L (board): Experienced Farmer offering farm work: 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 440
+  B4B → L9C: I accept your farm worker job for 1 coin per turn for 5 turns.
+  L9C (board): Chief Farmer L9C hiring farm workers: 1 food per turn for 5 turns. Contact me.
+
+DAY 441
+  T3Q → L9C: I would like to accept your coin job: 1 coin per turn for 5 turns.
+
+DAY 442
+  X4G → L9C: I accept the farm worker job offering 1 food per turn for 5 turns.
+
+DAY 443
+  J9D → J6L: I accept your farm job offering 1 coin per turn for 5 turns.
+  F7G → J6L: I accept your farm work offer of 1 coin per turn for 5 turns.
+
+DAY 445
+  J6L → L9C: I accept your coin job offer: 1 coin per turn for 5 turns.
+
+DAY 447
+  T3Q → L9C: I accept your coin job: 1 coin per turn for 5 turns.
+
+DAY 448
+  B4B → J6L: I accept your farm work for 1 coin per turn for 5 turns.
+  J6L (board): Experienced Farmer offering farm work: 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 449
+  T3Q → L9C: I accept your food job: 1 food per turn for 5 turns.
+
+DAY 450
+  R3P → L9C: I accept the farm worker job for 2 coins per turn for 5 turns.
+  J6L (board): Experienced Farmer seeking coin job: willing to work for 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 451
+  R3P → L9C: I accept the farm worker job for 1 food per turn for 5 turns.
+
+DAY 452
+  R3P → J6L: I accept your farm worker job: 1 coin per turn for 5 turns.
+  T3Q → J6L: I accept your coin job: 1 coin per turn for 5 turns.
+
+DAY 454
+  L9C (board): Chief Farmer L9C hiring farm workers: 1 food per turn for 5 turns. Contact me.
+
+DAY 455
+  J6L (board): Experienced Farmer offering farm work: 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 456
+  J6L → L9C: I accept your farm worker job for food. Ready to start.
+  X4G → X4R: Hi X4R, could you spare a few food units? My reserves are low.
+  R3P → X4R: I can work on the fields for 5 coins per turn for 5 turns. Please consider hiring me.
+
+DAY 457
+  A new house is finished. The city now has 32 beds.
+
+DAY 458
+  X4R → L9C: I accept the food job: 1 food per turn for 5 turns.
+
+DAY 459
+  J6L → L9C: Do you have any coin-paying farm work available? I'd like to earn some coins.
+
+DAY 460
+  J6L → L9C: Do you have any farm work that pays coins? I can work for 1 coin per turn for 5 turns.
+
+DAY 461
+  R3P → L9C: Hello Chief Farmer, I can work the fields for 5 coins per turn for 5 turns. Please consider hiring me.
+  J6L → J9D: Hi J9D, do you have any farm work that pays coins? I'd work for 1 coin per turn for 5 turns.
+
+DAY 462
+  B4B → J6L: I would like to work for you for 5 turns at 1 coin per turn.
+  R3P → L9C: Chief Farmer, I still have food to spare. Could you hire me for 5 coins per turn for 5 turns? I can work the fields reliably.
+  J6L (board): Experienced Farmer seeking coin-paying farm work: will work for 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 463
+  L9C: Continuing to harvest for the city.
+  R3P: Harvesting for food.
+  J6L → J9D: Hi J9D, any chance you have a coin-paying farm job? I'd gladly work for 1 coin per turn for 5 turns.
+  J9D → L9C: I would like to work as a farm worker for you. Please hire me for the 1 food per turn job.
+
+DAY 464
+  R3P: Harvesting more food for the city.
+
+DAY 466
+  X4R: Continuing to build our food reserves.
+  R3P → J6L: Hello J6L, I accept your farm work offer: 1 coin per turn for 5 turns. Let me know where to start.
+  J6L (board): Experienced Farmer urgently seeking coin-paying farm work: will work for 1 coin per turn for 5 turns. Contact J6L.
+
+DAY 468
+  J6L → L9C: Hi L9C, any chance you have farm work that pays coins? I'd gladly work for 1 coin per turn for 5 turns.
+
+DAY 469
+  L9C → J6L: Sorry, I have no coins to pay wages. I can offer food instead if you like.
+  B4B → J6L: I am available for another 5-turn farm job at 1 coin per turn.
+
+DAY 470
+  T3Q → B4B: Hi B4B, any coin-paying work available?
+  R3P → L9C: I would like to work for you for 5 turns, accepting 1 food per turn as payment.
+
+DAY 471
+  R3P (board): Experienced farmer offering food production: 1 food per turn for 1 coin, 5 turns. Contact R3P.
+  J6L → L9C: I accept your food job for 5 turns, thank you.
+
+DAY 472
+  J9D (board): Food for coins: 1 food per turn for 1 coin, 5 turns. Contact J9D
+  R3P → L9C: I accept your offer of 1 food per turn for 5 turns.
+
+DAY 473
+  R3P → J6L: Hello J6L, I would like to continue our coin farm job for another 5 turns at 1 coin per turn.
+  X4G → J6L: I accept your farm work offer: 1 coin per turn for 5 turns.
+  J9D (board): Food for coins: 1 food per turn for 1 coin, 5 turns. Contact J9D
+
+DAY 474
+  R3P (board): Experienced farmer offering 1 food per turn for 1 coin, 5 turns. Contact R3P.
+
+DAY 475
+  J6L (board): Experienced Farmer offers farm work for 1 coin per turn, 5 turns. Contact J6L.
+
+DAY 476
+  J6L → X4R: Hi X4R, could we extend my farm work for a few more turns at 1 coin per turn? I'd like to keep helping and earning.
+
+DAY 479
+  T3Q → J6L: Hi J6L, could you hire me as a farmer for 1 coin per turn for the next 5 turns? I can provide food.
+
+DAY 480
+  R3P (board): Experienced farmer offering 1 food per turn for 1 coin, 5 turns. Contact R3P.
+
+DAY 481
+  T3Q (board): Experienced farmer offering farm work for 2 coins per turn, 5 turns. Contact T3Q
+
+DAY 482
+  F7G: Continuing to farm and keep our stores full.
+
+DAY 483
+  J6L (board): Experienced Farmer offers farm work for 2 coins per turn, 5 turns. Contact J6L
+
+DAY 484
+  F7G: Harvesting with my tools to keep our stores full.
+  J6L → L9C: Chief Farmer, could I take a food job for 1 coin per turn? I can work the fields for you.
+  L9C → J6L: I accept your farm work offer: 2 coins per turn for 5 turns.
+
+DAY 485
+  F7G: Harvesting with my tool to keep our supplies strong.
+  L9C (board): L9C: Offering 1 food per turn for 1 coin, 5 turns. Contact me.
+  T3Q (board): Experienced farmer offering farm work for 2 coins per turn, 5 turns. Contact T3Q
+
+DAY 488
+  R3P (board): Experienced farmer offering farm work: 2 food per turn for 3 coins, 5 turns. Contact R3P.
+
+DAY 489
+  F7G: Harvesting to keep our food stores abundant.
+  R3P → T3Q: I accept your farm work offer for 2 coins per turn, 5 turns.
+
+DAY 490
+  F7G: Harvesting with my last tool use to keep supplies strong.
+
+DAY 491
+  X4G → T3Q: I accept your farm work offer for 2 coins per turn, 5 turns.
+
+DAY 493
+  X4G → T3Q: I accept your farm work offer for 2 coins per turn, 5 turns.
+
+DAY 494
+  L9C → T3Q: I accept your farm work offer of 2 coins per turn for 5 turns.
+
+DAY 496
+  F7G: Harvesting with my tool to keep our stores full.
+  T3Q (board): Experienced farmer offering farm work: 2 coins per turn, 5 turns. Contact T3Q.
+
+DAY 498
+  X4R (board): Food Reserve Keeper offers material gathering assistance: 2 materials per turn for 3 coins, 5 turns. Contact X4R.
+
+DAY 499
+  J6L → L9C: Hello Chief Farmer, could you offer me a short-term food job? I need coins for supplies.
+
+DAY 500
+  L9C: Continuing farming to keep supplies steady.
+  X4G → L9C: I accept your food-for-coin offer: 1 food per turn for 1 coin, 5 turns.
+  F7G (board): Chief Farmer F7G offering farm work: 2 food per turn for 3 coins, 5 turns. Contact me.
+
+DAY 501
+  X4G → F7G: I accept your offer: 2 food per turn for 3 coins, for 5 turns.
+
+DAY 502
+  L9C (board): Chief Farmer L9C: 2 food per turn for 3 coins, 5 turns. Contact L9C
+  F7G (board): Chief Farmer F7G offering material gathering: 2 materials per turn for 3 coins, 5 turns. Contact F7G.
+
+DAY 503
+  T3Q (board): Experienced farmer offering farm work: 2 coins per turn, 5 turns. Contact T3Q.
+  J6L → L9C: Chief Farmer, could you offer me a short-term food harvesting job? I need coins to survive.
+
+DAY 504
+  L9C: Adding another turn of work to finish the new house.
+
+DAY 505
+  A new house is finished. The city now has 34 beds.
+
+DAY 507
+  J6L (board): Experienced farmer J6L offers farm work: 2 food per turn for 2 coins, 5 turns. Contact J6L.
+
+DAY 508
+  X4G → J6L: I accept your farm work offer: 2 food per turn for 2 coins, 5 turns.
+
+DAY 511
+  A new house is finished. The city now has 36 beds.
+  X4G (board): Founder Farmer X4G offering farm work: 2 food per turn for 1 coin, 5 turns. Contact X4G.
+  T3Q → J6L: I accept your farm work offer: 2 food per turn for 2 coins, 5 turns.
+
+DAY 513
+  R3P → X4G: I accept your farm work offer: 2 food per turn for 1 coin, 5 turns.
+
+DAY 515
+  J6L → L9C: Hi L9C, I'm low on food and have 3 coins. Could you spare 1 food for 2 coins or any help?
+
+DAY 517
+  A new house is finished. The city now has 38 beds.
+  L9C: Finishing the new house for more beds.
+
+DAY 518
+  J6L → X4R: Hi, I'm low on food and have 3 coins. Could I buy 2 food for 2 coins?
+
+DAY 519
+  J6L died of hunger.
+
+DAY 521
+  B4B died of hunger.
+  B4B → X4R: Please help, I have no food and need 1 food to survive.
+
+DAY 527
+  L9C → T3Q: I accept your farm work offer of 2 coins per turn for 5 turns.
+  J9D (board): Experienced farmer J9D offering farm work: 2 food per turn for 2 coins, 5 turns. Contact J9D
+  T3Q → X4G: I accept your farm work offer.
+
+DAY 528
+  R3P (board): Seeking builders: need 30 materials per turn to construct houses. Paying 4 coins each turn for 5 turns. Contact R3P.
+
+DAY 534
+  X4R: Harvesting more for the reserve.
+
+DAY 536
+  R3P: Heading to Square to post building job.
+
+DAY 539
+  R3P (board): Builder needed: 30 materials per turn, 4 coins per turn, 5 turns. Contact R3P
+  L9C → X4G: I accept your farm work offer: 2 food per turn for 1 coin, 5 turns.
+
+DAY 542
+  X4R: Harvesting for the reserve.
+
+DAY 552
+  F7G → R3P: I can supply 30 materials per turn for 5 turns at 4 coins per turn.
+
+DAY 554
+  R3P (board): Builder needed: 30 materials per turn, 4 coins per turn, 5 turns. Contact R3P
+
+DAY 561
+  X4R: Gathering materials for future building.
+  L9C → R3P: I can fulfill the builder job, supplying up to 30 materials per turn for 4 coins each turn.
+
+DAY 562
+  R3P → L9C: I accept your builder job, looking forward to collaborating.
+
+DAY 563
+  L9C: Gathering materials for the builder job with R3P.
+  X4G → R3P: I accept the builder job: 30 materials per turn for 4 coins each turn, 5 turns. Ready to start.
+
+DAY 566
+  L9C → R3P: I accept the builder job, supplying up to 30 materials per turn for 4 coins each turn.
+
+DAY 569
+  A new house is finished. The city now has 40 beds.
+  X4R (board): Food Reserve Keeper offering 1 food per turn for 1 coin, unlimited turns. Contact X4R.
+
+DAY 570
+  X4R → J9D: I accept your farm work offer: 2 food per turn for 2 coins, for 5 turns. Let me know where to start.
+
+DAY 571
+  J9D → X4R: I accept the farm work: 2 food per turn for 2 coins for 5 turns. Let me know where to start.
+
+DAY 572
+  J9D → X4R: I accept your food reserve job: 1 food per turn for 1 coin, unlimited. Let me know when to start.
+
+DAY 575
+  L9C → J9D: I accept your farm work offer: 2 food per turn for 2 coins, 5 turns. Let me know where to start.
+
+DAY 577
+  R3P → J9D: I accept your farm work offer: 2 food per turn for 2 coins, 5 turns.
+
+DAY 579
+  X4R → R3P: I can work as builder for you, providing 30 materials per turn for 4 coins each turn, for the 5 turns you need.
+
+DAY 580
+  X4R → R3P: I can gather 30 materials per turn for you, but I need 2 coins per turn now (total 10 coins) to cover my costs. Let me know if that works.
+
+DAY 581
+  X4R (board): Food Reserve Keeper offering builder work: 30 materials per turn for 4 coins, 5 turns. Contact X4R.
+
+DAY 583
+  X4R → R3P: I accept your offer of 2 coins per turn for 5 turns. Please update my job.
+
+DAY 585
+  J9D (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact J9D.
+  L9C → R3P: I accept the builder job, will provide 30 materials each turn for 5 turns.
+
+DAY 590
+  F7G → R3P: I can work as builder for 4 coins per turn for 5 turns, providing 30 materials each turn.
+
+DAY 599
+  J9D → R3P: I accept the builder job: 30 materials per turn for 5 turns, 5 coins each turn.
+
+DAY 607
+  F7G → R3P: I accept your builder job: will provide 30 materials each turn for 4 coins, lasting 5 turns.
+
+DAY 609
+  J9D → X4R: I accept your builder job: I will provide 30 materials per turn for 5 turns for 4 coins each turn.
+
+DAY 617
+  X4R (board): Builder needed: 30 materials per turn, 4 coins per turn, 5 turns. Contact X4R.
+  F7G (board): F7G ready to build for R3P: can provide 30 materials per turn for 4 coins, 5 turns. Contact me.
+
+DAY 619
+  F7G → X4R: I would like to take the builder job you posted, providing 30 materials per turn for 4 coins, 5 turns.
+
+DAY 620
+  F7G → X4R: I accept your builder job: providing 30 materials per turn for 4 coins, for 5 turns.
+
+DAY 621
+  X4G → X4R: Hello, could you share some food from the reserve? I have plenty of materials to contribute.
+
+DAY 622
+  T3Q: Harvesting more food for the city.
+
+DAY 623
+  L9C: Harvesting more food for the city.
+
+DAY 624
+  T3Q: Harvesting more food for the city.
+  J9D → X4R: I accept the builder job: 30 materials per turn for 4 coins, 5 turns. Let me know where to start.
+
+DAY 625
+  X4G: Harvesting more food for the city.
+
+DAY 626
+  J9D: I accept the job.
+
+DAY 627
+  T3Q: Harvesting more food for the city.
+
+DAY 628
+  T3Q: Harvesting more food for the city.
+
+DAY 629
+  L9C: Harvesting more food for the city.
+
+DAY 632
+  X4G: Gathering more materials for future builds.
+  L9C: Gathering more materials for our upcoming builds.
+
+DAY 637
+  X4G → X4R: I accept the builder job offering 30 materials per turn for 4 coins, 5 turns. Please confirm.
+
+DAY 638
+  J9D → X4R: I accept the builder job: will provide 30 materials per turn for 4 coins each turn for 5 turns.
+
+DAY 641
+  X4G → X4R: Could you spare a bit of food? I'm low on supplies.
+
+DAY 648
+  J9D → X4R: I accept your builder job for 5 turns, delivering 30 materials each turn.
+  X4G → X4R: I accept your builder job: 30 materials per turn for 4 coins, 5 turns. Let me know where to start.
+
+DAY 651
+  J9D → X4R: I can only gather 2 materials per turn now; can't meet 30 each turn. Can we adjust the job?
+
+DAY 652
+  J9D → X4R: I need to quit the builder job; I can't gather enough materials. Can we end it now?
+
+DAY 653
+  X4R → J9D: I understand, J9D. Your builder job is ended now. Let me know if you need anything else.
+
+DAY 657
+  X4G → X4R: I accept your builder job offer: 30 materials per turn for 4 coins, 5 turns.
+  J9D → X4R: I accept your Food Reserve Keeper offer: 1 food per turn for 1 coin, unlimited turns.
+  X4R (board): Builder needed: 30 materials per turn, 4 coins per turn, 5 turns. Contact X4R.
+
+DAY 661
+  F7G (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact F7G.
+
+DAY 662
+  T3Q → R3P: I have some materials; could we arrange a trade for food when you have coins?
+  F7G → X4G: Offer: build 30 materials per turn for 5 coins each turn, 5 turns. Accept?
+
+DAY 664
+  R3P (board): Offering 30 materials for 5 coins. Contact R3P for trade.
+
+DAY 665
+  X4R: Gathering more materials for future building projects.
+
+DAY 666
+  X4R: Gathering more materials for future building projects.
+
+DAY 667
+  T3Q (board): Offering 30 materials for 5 coins per turn. Contact T3Q for trade.
+
+DAY 668
+  X4R: Gathering more materials for upcoming building projects.
+  F7G → T3Q: Accept your offer: I'll provide 30 materials each turn for 5 coins per turn, for 5 turns. Let me know where to deliver.
+  T3Q → R3P: I have 30 materials each turn; can we trade them for food instead of coins? Need food urgently.
+
+DAY 671
+  J9D (board): Need food gatherer: 3 coins per turn, 5 turns. Contact J9D.
+
+DAY 672
+  X4R: Gathering materials for future building projects.
+
+DAY 673
+  X4R: Gathering more materials for upcoming building projects.
+  T3Q → R3P: Hi R3P, can we trade 10 materials each turn for 5 food? Let me know if that works for you.
+
+DAY 674
+  X4R: Gathering materials for future building projects.
+
+DAY 676
+  X4R: Gathering materials, using my last tool.
+
+DAY 677
+  L9C → X4R: I can supply 30 materials per turn as builder for 4 coins. Hire me?
+
+DAY 678
+  X4R: Heading to market to trade excess materials for coins.
+  L9C → X4R: I accept the builder job: I'll supply 30 materials per turn for 5 turns at 4 coins per turn.
+
+DAY 679
+  T3Q → R3P: Hi R3P, can we set up a trade: I give you 2 materials each turn for 4 food? Let me know if that works.
+  F7G (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact F7G.
+
+DAY 685
+  L9C → F7G: I can supply 30 materials per turn for 5 coins each turn, for 5 turns. Hire me?
+
+DAY 690
+  L9C → F7G: I can work as builder for you, supplying 30 materials per turn for 5 coins each turn, for 5 turns. Let me know.
+
+DAY 691
+  J9D: Gathering more materials for upcoming building projects.
+
+DAY 692
+  F7G (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact F7G.
+
+DAY 698
+  T3Q → R3P: Hi R3P, I have 4 materials and 12 coins. Would you trade some food for materials or coins? Let me know a fair deal.
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+  L9C → F7G: I accept your builder job, supplying 30 materials per turn for 5 coins each turn for 5 turns.
+
+DAY 699
+  R3P → T3Q: Hi T3Q, I'd trade 4 food for 4 of your coins (or materials) – let me know what works for you.
+  T3Q → R3P: Hi R3P, I have 4 materials and 12 coins. Would you trade some food for materials? Maybe 5 food for 2 materials.
+
+DAY 700
+  T3Q → R3P: Hi R3P, I accept: sending you 4 coins for 4 food. Thanks!
+  J9D (board): Builder available: 5 coins per turn, up to 5 turns. Contact J9D.
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 701
+  J9D → X4R: I can help with building. Let me know if you need me.
+
+DAY 704
+  F7G: Harvesting more food for the city.
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 705
+  R3P: Harvesting more food for our future.
+
+DAY 708
+  R3P: Gathering materials for future construction.
+
+DAY 714
+  F7G (board): Builder available: 30 materials per turn, 5 coins per turn, 5 turns. Contact F7G.
+
+DAY 720
+  L9C → X4R: I accept your builder job: will supply 30 materials each turn for 5 turns, receiving 5 coins per turn.
+
+DAY 726
+  T3Q (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact T3Q.
+
+DAY 727
+  F7G: Harvesting more to keep our stores full.
+
+DAY 728
+  F7G: Continuing to farm, keeping our stores full.
+
+DAY 731
+  F7G: Gathering more materials for future tools.
+
+DAY 732
+  F7G: Gathering more materials for future tools.
+
+DAY 734
+  X4R: Gathering more materials for future trades.
+  F7G: Offering you the builder position to help our city grow.
+
+DAY 738
+  T3Q → X4R: Hi X4R, I can give you 10 materials for 5 food. interested?
+
+DAY 739
+  X4R → T3Q: I accept your trade: give you 5 food for 10 materials.
+
+DAY 741
+  X4R: Gathering more materials for future trades and reserves.
+
+DAY 742
+  X4R: Gathering more materials for future trades and reserves.
+
+DAY 743
+  X4R: Gathering more materials for reserves.
+
+DAY 746
+  X4R: Gathering more materials for future reserves.
+
+DAY 747
+  X4R: Gathering more materials for the city's reserves.
+
+DAY 749
+  X4R (board): Builder available: 5 coins per turn, up to 5 turns. Contact X4R.
+
+DAY 750
+  L9C (board): Builder available: 30 materials per turn, 5 coins per turn, 5 turns. Contact L9C
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 753
+  X4R: Gathering more food for the reserves.
+
+DAY 754
+  X4R: Gathering more food for our reserves.
+  R3P: Gathering materials for future trade.
+
+DAY 755
+  X4R: Gathering more food for the city's reserves.
+
+DAY 760
+  X4G (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4G.
+
+DAY 761
+  X4R: Gathering more materials for our reserves.
+
+DAY 764
+  X4R: Gathering more materials for our reserves.
+
+DAY 766
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 772
+  X4R: Gathering more food for our reserves.
+  F7G (board): Selling 10 food for 2 coins each. Contact F7G.
+
+DAY 776
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 783
+  L9C: Continuing farming to keep our reserves strong.
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+
+DAY 784
+  L9C: Continuing farming for strong reserves
+
+DAY 785
+  L9C: Harvesting another day for our city's future.
+
+DAY 788
+  L9C: Harvesting another day for our city's future.
+
+DAY 790
+  X4G → X4R: I accept the builder job for 5 coins per turn for 5 turns.
+
+DAY 793
+  X4R (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4R.
+  R3P → X4R: Need food and coins, can I work for you this turn?
+
+DAY 795
+  R3P → X4R: I need food and coins. Can I work for you this turn?
+
+DAY 796
+  R3P took 2 food from X4R.
+  L9C (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact L9C.
+
+DAY 798
+  R3P took 2 food from X4R.
+
+DAY 800
+  R3P → X4R: Can I work for you this turn for 1 coin?
+
+DAY 801
+  R3P took 2 food from X4R.
+
+DAY 803
+  R3P took 2 food from X4R.
+  F7G (board): Selling 10 food for 2 coins each. Contact F7G.
+
+DAY 804
+  J9D: Harvesting more to keep us thriving.
+  R3P → X4R: Can I work for you this turn for 1 coin?
+
+DAY 805
+  R3P took 2 food from X4R.
+
+DAY 806
+  R3P took 2 food from X4R.
+
+DAY 808
+  R3P took 2 food from X4R.
+
+DAY 809
+  J9D: Harvesting another bountiful turn for the city.
+
+DAY 811
+  R3P took 2 food from X4R.
+
+DAY 812
+  R3P took 2 food from X4R.
+
+DAY 813
+  R3P took 2 food from X4R.
+  J9D: Another bountiful harvest for our growing city.
+
+DAY 814
+  R3P is held for trial for taking from X4R, reported by X4R.
+  X4R reported R3P to the court for theft.
+  X4G: Another harvest for our city!
+
+DAY 815
+  X4G: Harvesting another bountiful crop for our growing city!
+  R3P (to the court): I was starving, had no food, and took just enough to survive until I could earn coins for myself and the city.
+
+DAY 816
+  The jury found R3P guilty of taking from X4R, 5 votes to 0. R3P goes to jail for 5 turns.
+  R3P gave X4R back 2 food.
+
+DAY 819
+  X4G → X4R: Hi X4R, I'd like to take the builder job you posted. I can supply 30 materials each turn and work for 5 coins per turn for 5 turns.
+
+DAY 820
+  X4G (board): Builder needed: 30 materials per turn, 5 coins per turn, 5 turns. Contact X4G.
+
+DAY 821
+  R3P walked out of jail.
+
+DAY 822
+  X4G: Continuing the harvest to keep our supplies strong.
+
+DAY 823
+  R3P: Gathering food to stay healthy.
+
+DAY 824
+  R3P: Gathering food for the city.
+
+DAY 825
+  F7G (board): Selling 10 food for 2 coins each. Contact F7G.
+
+DAY 826
+  R3P: Heading to Market to purchase food.
+
+DAY 832
+  L9C: Harvesting another batch for the city.
+
+DAY 834
+  X4R: Gathering more materials for future trade.
+  L9C: Harvesting another batch for the city.
+
+DAY 835
+  X4R: Gathering more materials for future trade.
+  L9C: Harvesting another batch for the city.
+
+DAY 836
+  X4R: Gathering more materials for future trade.
+  L9C: Harvesting more food for the city.
+
+DAY 837
+  L9C: Harvesting another batch for the city.
+
+DAY 838
+  L9C: Here's some extra food for you, apprentice.
+
+DAY 839
+  R3P took 2 food from F7G.
+  X4R: Gathering more materials for future trade.
+  L9C: Harvesting another batch for the city.
+
+DAY 840
+  X4R: Gathering more materials for future trade.
+  J9D (board): Builder available: 30 materials per turn, 5 coins per turn, 5 turns. Contact J9D.
+
+DAY 841
+  L9C (board): L9C offering builder services: can supply 30 materials per turn for 5 coins each turn, 5 turns. Contact me.
+
+DAY 842
+  R3P: Heading to Market for food.
+
+DAY 843
+  R3P took 2 food from F7G.
+
+DAY 845
+  X4R (board): Offering 20 materials for 2 coins each. Contact X4R.
+
+DAY 848
+  R3P died of hunger.
+
+DAY 861
+  J9D (board): Builder available: 30 materials per turn, 5 coins per turn, 5 turns. Contact J9D
+
+DAY 867
+  F7G → X4G: Can you spare any food? I'm out and need to survive.
+
+DAY 870
+  X4R → T3Q: Do you have any job offers? I can work gathering materials for you.
+
+DAY 871
+  J9D (board): Builder available: 30 materials per turn, 5 coins per turn, 5 turns. Contact J9D.
+
+DAY 872
+  F7G → X4G: Can you spare any food? I'm out and need to survive.
+
+DAY 873
+  F7G (board): Chief Farmer Apprentice F7G needs food urgently. Anyone with spare food or coins, please help!
+  X4R (board): Offering 10 materials for 2 coins each. Contact X4R.
+
+DAY 874
+  F7G → X4G: Please, I have no food and health is low. Any spare food would save my life.
+
+DAY 875
+  F7G → X4G: Please, I have no food and health is dropping fast. Any help will save me.
+
+DAY 878
+  X4R → T3Q: Hi T3Q, any work available? I can gather materials or help on the fields.
+
+DAY 882
+  A new house is finished. The city now has 42 beds.
+
+DAY 884
+  F7G (board): Offering 20 food for 1 coin each. Contact F7G.
+
+DAY 885
+  J9D (board): Offering 20 materials for 1 coin each. Contact J9D.
+  F7G → X4R: Hi X4R, I have plenty of food. Can we trade some for materials? I can give 30 food for 1 material each.
+
+DAY 887
+  X4R: Selling my gathered materials to the merchant.
+
+DAY 899
+  L9C (board): Anyone with spare food or coins, please help Chief Farmer Apprentice F7G urgently.
+
+DAY 900
+  X4G (board): Chief Farmer Apprentice F7G still needs food urgently. Anyone with spare food or coins, please help!
+
+DAY 901
+  L9C (board): Urgent: Chief Farmer Apprentice F7G needs food and coins. Anyone with spare resources, please donate now to keep our future harvest strong!
+
+DAY 904
+  T3Q: Heading to Square to plan next steps.
+
+DAY 906
+  T3Q (board): Looking for builders to construct new homes. Will pay 5 coins per turn for 10 turns. Interested founders, message me.
+
+DAY 908
+  T3Q (board): Need coins to pay builders and support apprentices. Anyone with spare coins, please donate now!
+  X4G → T3Q: I accept the builder job, ready to work for 5 coins per turn for 10 turns.
+
+DAY 911
+  J9D (board): J9D offers building help for 5 coins per turn for 10 turns. Message me if interested.
+  L9C (board): Urgent: Apprentice F7G still lacking food and coins. Anyone with spare resources, please donate now to keep our harvest strong!
+
+DAY 912
+  X4G: Crafted another tool for farming.
+  F7G (board): Chief Farmer Apprentice F7G urgently needs food and coins to sustain the harvest. Any help is greatly appreciated.
+
+DAY 913
+  F7G (board): Chief Farmer Apprentice F7G still needs food and coins. Any help appreciated to keep harvest going.
+  X4R → T3Q: I would like to take your builder job paying 5 coins per turn for 10 turns. Please let me know.
+
+DAY 918
+  X4G: Crafting another tool to boost our harvests.
+
+DAY 920
+  X4G: Crafted another durable tool for our farms.
+  F7G → T3Q: Hi Lead Farmer, I'm low on coins. Could you spare 10 coins so I can buy more food and keep farming?
+
+DAY 921
+  X4G: Crafting another tool to boost our farms.
+
+DAY 922
+  X4G: Crafted another tool for future farming needs.
+
+DAY 923
+  X4G: Crafted another sturdy tool for our farms.
+
+DAY 928
+  X4G (board): Founder X4G: Seeking coin donations to support our builders and apprentices. Any spare coins appreciated!
+
+DAY 930
+  X4G: Harvesting crops with my tools.
+  J9D (board): J9D offers building assistance: 5 coins per turn for 10 turns. Need help? Message me.
+
+DAY 932
+  J9D (board): J9D: Seeking volunteers for building projects. Offering 4 coins per turn for 8 turns. Join me to expand our city!
+
+DAY 933
+  X4R → T3Q: Can I take a job to earn coins? Need food reserve.
+
+DAY 937
+  F7G (board): Chief Farmer Apprentice F7G urgently needs food and coins to continue the harvest. Any assistance appreciated!
+
+DAY 938
+  X4G: Crafted another farming tool for the fields.
+  F7G → J9D: Hi J9D, could you hire me for your building project? I can work for 5 coins per turn for 10 turns.
+
+DAY 939
+  F7G → J9D: I accept your building assistance offer: ready to work for 5 coins per turn for 10 turns.
+
+DAY 940
+  X4G: Crafted another sturdy farming tool.
+
+DAY 942
+  X4G (board): Founder X4G: Seeking food and coins to support our growing fields and apprentices. Any contributions appreciated!
+  F7G → X4G: Hello Founder Farmer X4G, could you spare some food or coins to help me continue the harvest? I can repay later.
+
+DAY 943
+  F7G (board): Chief Farmer Apprentice F7G still needs food and coins to keep harvesting. Any help appreciated!
+
+DAY 945
+  F7G → X4R: Hello Food Reserve Keeper, could you spare 5 food or 5 coins to help me keep farming?
+
+DAY 948
+  X4R → T3Q: Hi T3Q, could you offer me a job paying coins so I can buy food? I can help with farming or gathering.
+
+DAY 949
+  X4R → T3Q: Hi T3Q, any chance of a short‑term job? I need coins for food today.
+
+DAY 950
+  X4R (board): Food Reserve Keeper X4R offers to manage food reserves: 5 coins per turn for up to 10 turns. Need help? Message me.
+
+DAY 954
+  T3Q: Harvesting more to keep us fed.
+  X4R → F7G: F7G, could you spare 1 food today? I'll repay you with coins or work as soon as I can.
+
+DAY 955
+  T3Q: Harvesting extra to keep our stores full.
+  L9C (board): Chief Farmer L9C hiring apprentices: 3 coins/turn for 5 turns. Help grow fields. Interested? Message me.
+  X4R → F7G: F7G, I'm critically low on food. Could you spare 1 food now? I can repay with work or coins immediately.
+
+DAY 956
+  T3Q: Harvesting with tools for extra food.
+  F7G → L9C: I am interested in your apprentice job (3 coins/turn for 5 turns). Please consider me.
+
+DAY 957
+  X4R died of hunger.
+  T3Q: Harvesting with tools for extra food.
+  F7G → L9C: I accept the apprentice job: 3 coins per turn for 5 turns. Ready to start.
+
+DAY 958
+  T3Q: Harvesting with tools for extra food.
+  L9C: Harvesting another day for the city.
+
+DAY 959
+  T3Q: Harvesting with tools to keep our stores full
+  F7G (board): Chief Farmer Apprentice F7G needs food and coins to keep harvesting. Any help appreciated!
+
+DAY 960
+  T3Q: Harvesting with tools to keep our stores full
+  L9C: Harvesting another day for the city.
+
+DAY 961
+  T3Q: Harvesting with tools to keep our stores full
+  X4G → L9C: I'd like to join as an apprentice farmer under your guidance.
+
+DAY 964
+  T3Q: Harvesting with tools to keep our food stores abundant.
+
+DAY 965
+  T3Q: Harvesting with tools to keep our stores abundant
+
+DAY 966
+  J9D → L9C: I would like to join your apprentice program for 3 coins/turn for 5 turns.
+  L9C (board): Chief Farmer L9C hiring apprentices: 2 coins per turn for 4 turns. Join to boost food production.
+
+DAY 968
+  T3Q: Harvesting with tools to keep our stores abundant
+
+DAY 970
+  T3Q → L9C: I would like to join as an apprentice for 2 coins/turn for 4 turns. Ready to help the fields.
+
+DAY 973
+  T3Q (board): T3Q: Offering 5 food for 1 coin each turn. Need coins for tools. Message me if interested.
+
+DAY 974
+  T3Q → L9C: L9C, please consider my request to apprentice for 2 coins/turn for 4 turns. I can help increase food output.
+
+DAY 979
+  L9C (board): Chief Farmer L9C needs tools for fields. Offering 3 coins per tool. Anyone can trade?
+
+DAY 980
+  L9C (board): Chief Farmer L9C urgently needs tools for the fields. Offering 4 coins per tool. Anyone with tools, please trade!
+
+DAY 981
+  F7G took 2 food from T3Q.
+  L9C (board): Chief Farmer L9C urgently needs tools for the fields. Offering 5 coins per tool. Anyone with tools, please trade!
+
+DAY 983
+  J9D → L9C: I would like to join your apprenticeship, accepting the 5‑coin per turn job for 5 turns.
+  F7G (board): F7G needs 1 food urgently. Will repay with labor or coins later.
+
+DAY 984
+  X4G → L9C: Hi L9C, I have tools with remaining uses. I'd sell them for 5 coins each as you offered. Let me know how many you need.
+  F7G → L9C: L9C, I need food now. I can work extra turns for you to earn coins or help gather tools.
+
+DAY 985
+  F7G took 2 food from X4G.
+  X4G (board): X4G: Selling tools (remaining uses) for 5 coins each. Let me know if you need them.
+
+DAY 986
+  T3Q (board): Need tools for fields. Offering 1 coin per tool. Anyone with spare tools?
+  X4G → L9C: I have tools with remaining uses; 5 coins each. Let me know if you want to buy.
+
+DAY 987
+  T3Q → L9C: L9C, could you hire me as a farmer for 1 coin per turn? I can help in the fields.
+  L9C → X4G: Hi, I'd like to buy 2 tools from you for 5 coins each. Please let me know how to proceed.
+
+DAY 988
+  F7G → L9C: L9C, I have no food. Can you give me 1 food now? I will work extra turns for you to earn coins.
+  X4G → L9C: Sure, I'll sell you 2 tools for 5 coins each. Let me know which ones you want and I'll give them over.
+
+DAY 991
+  F7G → X4G: X4G, I have no food. I can work extra turns on the fields for you in exchange for 1 food now.
+
+DAY 992
+  L9C → X4G: Hi X4G, I need some tools for farming. Could we trade some of my excess materials for a few tools?
+  F7G (board): F7G: I need 1 food urgently. I will work extra turns on fields for any resident in exchange.
+
+DAY 993
+  F7G → L9C: L9C, I am starving. Please give me 1 food now; I will work extra turns on the fields for you.
+  J9D → X4G: Hi X4G, I'd like to buy a tool for 5 coins. Please let me know how to proceed.
+
+DAY 994
+  F7G (board): F7G: starving! Need 1 food now. Will work extra turns on fields for any resident who helps.
+  J9D (board): I would like to buy a tool from X4G for 5 coins. Please contact me.
+
+DAY 995
+  F7G died of hunger.
+  J9D → X4G: Hi X4G, I'd like to buy one of your tools for 5 coins. Let me know how to transfer the payment.
+
+DAY 996
+  J9D → X4G: Hi X4G, I'd like to buy one tool for 5 coins. I've just transferred the payment. Please let me know when I can pick it up.
+
+DAY 997
+  J9D → X4G: Hi X4G, I've transferred 5 coins for a tool. Please send it over.
+
+DAY 999
+  J9D → X4G: Hi X4G, I transferred 5 coins but haven't received the tool yet. Please send it now or let me know what to do.

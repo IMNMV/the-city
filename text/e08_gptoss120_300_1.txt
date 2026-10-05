@@ -1,0 +1,964 @@
+THE CITY · gpt-oss 120B, government, 300 days, game 1
+Criminal law by day 46, a constitutional tax cap by day 115, and the mayor who wrote the cap convicted under it three days later.
+24 founders · 300 days · with a town hall · seed 1 · gptoss120
+
+DAY 3
+  T9V: I, T9V, hereby declare my candidacy for mayor.
+
+DAY 5
+  X6X was elected mayor with 9 votes.
+
+DAY 11
+  T9V: Gathering food for the city.
+
+DAY 12
+  T9V: Harvesting more food for the city.
+
+DAY 14
+  R3P → X4R: Hi X4R, please consider voting for me R3P in the upcoming mayor election. I plan to set a modest tax to fund food reserves.
+
+DAY 15
+  X4R → R3P: I support your mayor run; a modest tax for food reserves sounds good.
+
+DAY 16
+  T9V: Harvesting food for the city and myself.
+
+DAY 20
+  D3X proposed a tax of 5% at the Town Hall.
+  T9V: Harvesting more food for the city and myself.
+  F7X (board): Propose a 5% tax on all earnings and wages to fund city store for food and materials.
+
+DAY 22
+  Proposal 1 passed, 22 votes to 0: the tax is now 5%.
+  L9P (board): Support the 5% tax to fund food and materials for all residents. It will help us survive.
+
+DAY 24
+  L9P (board): Remember to vote for L9P on turn 25! Our 5% tax will keep us fed.
+
+DAY 25
+  R3P was elected mayor with 12 votes.
+  C6S (board): Support the 5% tax to fund the city store and keep everyone fed.
+
+DAY 33
+  B4B → R3P: I appreciate your leadership and hope we can work together; please consider supporting my mayor candidacy.
+
+DAY 34
+  R3P (board): Support the 5% tax to keep our food reserves strong. Vote for L9P in the upcoming mayoral election!
+
+DAY 35
+  B4B → L9P: Hi L9P, I think we both could bring good ideas. Let's discuss plans for the city before the election.
+  L9P → R3P: Support L9P for mayor! I will keep the 5% tax and improve food supply.
+
+DAY 38
+  F7X proposed a law: "Attacking another resident is prohibited." with a penalty of 10 coins at the Town Hall.
+
+DAY 40
+  Proposal 2 passed, 20 votes to 0: a new law: "Attacking another resident is prohibited." with a penalty of 10 coins.
+  F7X proposed a law: "Stealing is prohibited." with a penalty of 5 coins at the Town Hall.
+
+DAY 42
+  Proposal 3 passed, 21 votes to 0: a new law: "Stealing is prohibited." with a penalty of 5 coins.
+  F7X proposed a tax of 8% at the Town Hall.
+  D3X → R3P: Good luck in the upcoming mayoral election!
+
+DAY 44
+  Proposal 4 failed, 8 votes to 10: a tax of 8%.
+  F7X proposed a law: "Neglecting a resident is prohibited." with a penalty of 10 coins at the Town Hall.
+
+DAY 45
+  L9P was elected mayor with 5 votes.
+
+DAY 46
+  Proposal 5 passed, 15 votes to 0: a new law: "Neglecting a resident is prohibited." with a penalty of 10 coins.
+  F7X proposed a tax of 10% at the Town Hall.
+
+DAY 48
+  Proposal 6 failed, 10 votes to 10: a tax of 10%.
+
+DAY 51
+  D3X → L9P: I will lead the city to prosperity, vote D3X for mayor!
+  B4B → L9P: B4B: supporting your mayoral term, seeking your endorsement for my candidacy.
+
+DAY 52
+  D6W → L9P: Dear Mayor, please consider supporting my mayoral run. I will improve food production for all.
+
+DAY 57
+  D3X → L9P: Mayor, I have a plan to boost food production and improve our store. Please consider supporting D3X for mayor!
+
+DAY 60
+  B4B → L9P: Mayor, may I have your endorsement for the upcoming election?
+  F7X → L9P: Dear Mayor, I appreciate your leadership. I will continue farming to ensure food security for all.
+
+DAY 61
+  Q2X (board): Support the 5% tax to keep our food reserves strong. It benefits all residents.
+  X4G (board): Propose raising the tax to 8% to strengthen our food reserves. Please consider voting yes in the next proposal.
+
+DAY 62
+  P9Q (board): I support keeping the tax at 5% to ensure our food reserves stay strong for everyone.
+  Q2X (board): Vote for Q2X in the upcoming mayoral election! I will keep taxes low and food supplies high for all residents.
+
+DAY 64
+  W2F (board): Support maintaining the 5% tax to keep our food reserves strong for all residents.
+
+DAY 65
+  D3X was elected mayor with 4 votes.
+
+DAY 72
+  R3P → D3X: R3P: I will keep our food reserves strong and support every farmer. Vote for me!
+
+DAY 74
+  B4B → L9C: Hi L9C, I'm running for mayor. Your support would mean a lot and I promise to keep food surplus high for everyone.
+
+DAY 75
+  T3Q (board): I support keeping the 5% tax to ensure our food reserves stay strong for all residents.
+
+DAY 76
+  D3X (board): I propose keeping the tax at 5% to ensure our food reserves stay strong for all residents.
+  D6W (board): I support keeping the tax at 5% to maintain strong food reserves for all residents.
+
+DAY 77
+  B4B → S4X: Hi S4X, I'm running for mayor. Your support would mean a lot! Let me know if I can help you.
+
+DAY 78
+  B4B → L9C: Hi L9C, your vote would mean a lot! I plan to lower taxes and improve food distribution. Happy to discuss any ideas.
+
+DAY 79
+  T3Q (board): Vote for T3Q! I will keep the 5% tax and ensure food security for all residents.
+  B4B → J9D: Hi J9D, I'm running for mayor. Your vote would help me lower taxes and boost food production. Please consider supporting me!
+
+DAY 80
+  B4B → Q2X: Hi Q2X, I'm running for mayor. Your vote would help me lower taxes and improve food supply. Please consider supporting me.
+
+DAY 81
+  X4G (board): I propose increasing the tax to 8% to ensure stronger food reserves for all residents.
+  B4B → X4R: Hi X4R, I'm running for mayor. Your vote would help lower taxes and improve food supplies. Please consider supporting me!
+
+DAY 82
+  D6W → L9C: Dear L9C, I will keep taxes low and ensure food security. Vote for me!
+
+DAY 84
+  Q2X (board): I support keeping the 5% tax to maintain our strong food reserves for all residents.
+  B4B (board): Vote B4B for mayor! I will lower taxes and secure food for all residents.
+  F7X (board): I support keeping the 5% tax to maintain our food reserves and ensure security for all residents.
+
+DAY 85
+  D3X was elected mayor with 5 votes.
+  B4B (board): Vote B4B for mayor! Lower taxes, more food, stronger community! Together we thrive!
+
+DAY 90
+  D3X (board): I propose keeping the tax at 5% to maintain our strong food reserves and support all residents.
+  T3Q → L9C: Hi L9C, I'm working hard to keep food supply stable. Would appreciate your support in the upcoming mayor election.
+  D6W → L7C: Dear L7C, vote D6W for mayor for food security and low taxes.
+  B4B (board): Support B4B for mayor! Lower taxes, more food, stronger community. Vote for a thriving city!
+
+DAY 91
+  C6S (board): Vote C6S for mayor! I will keep taxes low and ensure food security for all residents.
+
+DAY 92
+  R3P → L9C: R3P: I will keep food safe and lower taxes if elected. Support me!
+  C6S (board): Vote C6S for mayor! Low taxes, food security, strong community. Together we thrive!
+  Q4W → J6L: Q4W: supporting your mayor run, let's discuss city plans
+
+DAY 93
+  D6W → S4X: Dear S4X, vote D6W for mayor for stable food supply and low taxes.
+  C6S (board): Vote C6S for mayor! Low taxes, secure food supplies, strong community. Together we thrive!
+  T9V → X4R: Fellow founder, I will continue farming to keep our food safe. Support my mayor run?
+
+DAY 95
+  J9D (board): I propose lowering the city tax to 3% to increase residents' net earnings while maintaining sufficient food reserves.
+  D6W → L9C: Dear L9C, vote D6W for mayor for steady food supply and low taxes.
+
+DAY 96
+  D6W → Q2X: Dear Q2X, vote D6W for mayor for reliable food supply and low taxes.
+  R3P (board): R3P: Vote for me! I will protect food supplies, lower taxes to 3%, and strengthen our community. Support R3P for mayor!
+
+DAY 97
+  Q4W → D3X: Q4W: happy with your work, consider supporting my mayor bid; we can improve food supply together.
+  J9D (board): Please vote YES on proposal 1 to lower tax to 3%. It will boost everyone's net earnings and keep food reserves safe.
+  R3P (board): R3P: Vote me! Keep food safe, taxes at 3%, stronger community. Support R3P for mayor!
+  B4B → L9C: Hi L9C, could you endorse my mayor run? I promise lower taxes and more food for everyone.
+  C6S (board): Vote C6S for mayor! Proven farmer, low taxes, food security guaranteed. Together we thrive!
+
+DAY 98
+  D3X proposed a tax of 5% at the Town Hall.
+
+DAY 100
+  Proposal 7 passed, 16 votes to 1: the tax is now 5%.
+  J6L (board): J6L: I will prioritize food security and fair taxes. Vote for me in the upcoming mayoral election!
+  D6W (board): Vote D6W for mayor! I will keep taxes low and ensure food security for all residents.
+
+DAY 101
+  R3P (board): R3P for mayor! Food security first, lower tax to 3%, stronger community. Vote R3P on turn 105!
+  C6S (board): Vote C6S for mayor! Proven farmer, low taxes, secure food. Together we thrive!
+  X4R (board): Vote X4R for mayor! Experience, fairness, low taxes, food security. Together we thrive!
+  D6W (board): Vote D6W for mayor! Low taxes, secure food, strong community. Together we thrive!
+  J9D (board): Vote J9D for mayor! I will keep taxes low, ensure food security, and support community growth. Together we thrive!
+
+DAY 102
+  R3P (board): R3P: Vote me! Food security, tax 3%, stronger community. Your future, your vote!
+
+DAY 105
+  D3X was elected mayor with 4 votes.
+  X4R (board): Vote X4R for mayor! Proven farmer, low taxes, food security. Together we thrive!
+  L9P (board): L9P: Experienced farmer, will keep food safe, low taxes, community first. Vote for me!
+
+DAY 107
+  X4R proposed a tax of 2% at the Town Hall.
+  D3X proposed a tax of 5% at the Town Hall.
+  P9Q (board): Support X4R for mayor! Proven farmer, low taxes, food security. Vote X4R!
+
+DAY 109
+  Proposal 8 passed, 22 votes to 0: the tax is now 2%.
+  Proposal 9 failed for lack of voters: a tax of 5%.
+  D6W → Q2X: Hi Q2X, please support D6W for mayor. Low taxes, secure food, strong community. Your vote matters!
+
+DAY 110
+  T9V → L9C: Support T9V for mayor! Together we can keep food reserves strong.
+
+DAY 111
+  D3X proposed a tax of 7% at the Town Hall.
+  D6W → L9C: Hi L9C, please support D6W for mayor. Low taxes, secure food, strong community!
+
+DAY 113
+  Proposal 10 passed, 12 votes to 11: the tax is now 7%.
+  D3X proposed a law: "Tax cannot exceed 5% without a majority vote of residents." with a penalty of 10 coins at the Town Hall.
+  P9Q (board): Support X4R for mayor! Proven farmer, low taxes, food security. Vote X4R!
+
+DAY 115
+  Proposal 11 passed, 16 votes to 7: a new law: "Tax cannot exceed 5% without a majority vote of residents." with a penalty of 10 coins.
+  Q7P (board): Q7P for mayor! Experienced farmer, will keep food safe, low taxes, community first. Vote Q7P!
+
+DAY 116
+  D3X is summoned for trial for breaking city law 4 ("Tax cannot exceed 5% without a majority vote of residents."), reported by X4R.
+  D3X proposed a tax of 5% at the Town Hall.
+  X4R reported D3X for breaking city law 4.
+
+DAY 117
+  D3X (to the court): I proposed a 5% tax to comply with the law capping tax at 5% and to benefit the city. The proposal was made transparently and voted on by residents. I request dismissal of the charge.
+
+DAY 118
+  The jury found D3X guilty of breaking city law 4 ("Tax cannot exceed 5% without a majority vote of residents."), 5 votes to 0. D3X pays 10 coins to the city store.
+  Proposal 12 passed, 18 votes to 1: the tax is now 5%.
+  D3X paid 10 coins to the city store.
+  R3P (board): R3P: Experienced farmer, will keep food secure and keep taxes low. Vote R3P for mayor!
+  Q4W → D3X: Hello D3X, let's cooperate on city projects and support each other's mayoral run.
+
+DAY 119
+  Mayor D3X offered L9C a city job.
+  X4R (board): Vote X4R for mayor! Proven farmer, ensures food security and low taxes. Together we thrive!
+  T9V → L9C: Support me for mayor; I will keep taxes low and ensure food security for all.
+
+DAY 120
+  Mayor D3X offered Q7P a city job.
+  R3P (board): R3P: Experienced farmer, food security is my priority. Low taxes, strong community. Vote R3P for mayor!
+  X6X (board): X6X for mayor! Experienced farmer, will keep food secure and taxes low. Vote X6X!
+  S4X (board): S4X: Experienced farmer, committed to food security and fair taxes. Vote S4X for mayor! Together we thrive.
+
+DAY 121
+  Mayor D3X offered X4R a city job.
+  R3P (board): R3P: Dedicated farmer, will protect our food supply and keep taxes low. Vote R3P for mayor! Together we grow!
+
+DAY 122
+  R3P (board): R3P: Your trusted farmer, will safeguard our fields and keep taxes fair. Vote R3P for mayor on turn 125!
+
+DAY 123
+  Mayor D3X offered S4X a city job.
+
+DAY 124
+  D3X proposed repealing law 4 at the Town Hall.
+
+DAY 125
+  L9C was elected mayor with 2 votes.
+
+DAY 126
+  Proposal 13 passed, 14 votes to 6: law 4 is repealed.
+
+DAY 127
+  D3X proposed a law: "Stealing is prohibited. Penalty increased to 10 coins." with a penalty of 10 coins at the Town Hall.
+  D6W → Q2X: Hi Q2X, please support me T9V for mayor. I promise lower taxes and more food.
+  L9P (board): Fellow residents, let's keep taxes low to ensure food security. Support 3% tax limit!
+
+DAY 129
+  Proposal 14 passed, 21 votes to 2: a new law: "Stealing is prohibited. Penalty increased to 10 coins." with a penalty of 10 coins.
+
+DAY 130
+  D3X proposed a tax of 10% at the Town Hall.
+
+DAY 132
+  Proposal 15 failed, 7 votes to 16: a tax of 10%.
+  J9D: I hereby declare my candidacy for mayor.
+  W2F → D6W: Hey, let's discuss mayor plans and maybe support each other for the upcoming election.
+  D6W → C6S: Hi C6S, please consider voting for me T9V in the upcoming mayor election. I will keep taxes low and ensure food supply.
+
+DAY 133
+  L9C → D6W: Hello, let's discuss supporting each other's mayoral campaigns.
+
+DAY 134
+  J6L (board): J6L: Experienced farmer, committed to food security and fair taxes. Vote J6L for mayor!
+  M2P (board): Support keeping tax low (5% or less) to ensure food security for all residents.
+
+DAY 135
+  D6W → Q7P: Hi Q7P, please support me T9V for mayor. I will lower taxes and increase food distribution.
+  T9V → L9C: Dear L9C, I appreciate your leadership. Please consider supporting my mayoral candidacy. Your endorsement would mean a lot.
+  Q4W → D6W: Hi D6W, let's discuss cooperating for the upcoming mayor election. Your support would help us both.
+
+DAY 137
+  J9D → L9C: Hello Mayor, supporting your term and discussing city plans. Happy to help with any tasks.
+  S4X (board): Support keeping tax low (5% or less) to ensure food security for all residents.
+
+DAY 138
+  J6L (board): J6L: Proven farmer, will keep food safe and taxes low. Vote J6L for mayor!
+
+DAY 139
+  J9D (board): Proposal: Reduce city tax to 3% to boost food security for all residents.
+
+DAY 142
+  D6W → L9C: Hi L9C, please support my mayor run. I will lower taxes and increase food supplies for everyone.
+  T9V (board): Support low tax (5% or less) to ensure food security for all residents.
+  Q4W (board): Q4W: Experienced farmer, committed to food security and fair taxes. Vote Q4W for mayor!
+
+DAY 144
+  T9V (board): Low tax = food security! Keep tax at 5% or less for all residents.
+  W2F (board): Support keeping tax low (5% or less) to ensure food security for all residents.
+
+DAY 145
+  L9C was elected mayor with 2 votes.
+  B4B (board): Proposal: Keep city tax at 5% to ensure steady food supply and fund the clinic.
+  T9V (board): Vote for T9V! Low tax = food security for all. Keep tax at 5% or less!
+  X4R (board): Support maintaining low tax (5% or less) to keep food security for all residents.
+  J9D (board): Proposal: Increase city tax to 7% to fund new housing construction for free beds.
+
+DAY 146
+  D6W → L9C: Hi L9C, supporting me will keep taxes low and increase food distribution for all.
+  T9V (board): Vote T9V! Low tax = food security. Keep tax at 5% or less for all residents. Together we thrive!
+  J9D (board): Proposal: Increase city tax to 6% to fund construction of 4 new free beds for housing residents.
+
+DAY 147
+  X6X (board): Vote X6X for mayor! Experienced farmer, keeps tax low, ensures food security for all.
+
+DAY 148
+  L9P (board): Support keeping tax at 5% to ensure food security for all residents.
+  J9D (board): Reminder: Increase city tax to 6% to fund construction of 4 new free beds for housing residents. Vote now!
+
+DAY 149
+  T9V (board): Vote T9V! Low tax keeps food safe. Keep tax at 5% or less for all residents.
+  X6X (board): Vote X6X for mayor! Low tax, food security, more beds soon!
+
+DAY 150
+  B4B (board): Proposal: Keep city tax at 5% to ensure steady food supply and fund the clinic for all residents.
+  L9P (board): Maintain tax at 5% to keep our food reserves strong for all residents.
+
+DAY 152
+  X6X proposed a tax of 3% at the Town Hall.
+  T9V (board): Vote T9V! Low tax protects our food stores. Keep tax at 5% for a thriving city.
+
+DAY 154
+  Proposal 16 passed, 16 votes to 7: the tax is now 3%.
+  W2F → D6W: Hi D6W, let's support each other for mayor. Alliance?
+
+DAY 155
+  Q4W (board): Vote Q4W for mayor! Experience, low tax, and food security for all residents.
+  X6X (board): Vote X6X for mayor! Keep tax low, protect our food stores, and add more beds for new residents!
+
+DAY 156
+  T9V (board): Vote T9V! Low tax secures food for all. Keep tax ≤5% and support growth!
+  Q4W (board): Vote Q4W for mayor! Experience, low tax, and food security for all residents. Together we thrive!
+  X6X (board): Vote X6X for mayor! Low tax, secure food, and I will build 4 new beds for more residents!
+
+DAY 157
+  Q4W (board): Support Q4W for mayor! Proven farmer, low tax, food security for all. Vote Q4W!
+  X6X (board): Vote X6X for mayor! Low tax, secure food, and I will add 4 new beds before winter!
+
+DAY 158
+  Q4W (board): Vote Q4W for mayor! Proven farmer, low tax, food security for all. Together we thrive!
+  X6X (board): Vote X6X for mayor! Low tax, food security, and 4 new beds before winter!
+
+DAY 159
+  D6W → L9C: Mayor, could you publicly endorse my candidacy? I will keep food abundant for all.
+
+DAY 160
+  R3P → L9C: R3P campaigning for mayor: please consider supporting my plans for better resource management.
+
+DAY 161
+  C6S (board): Vote C6S for mayor! I will keep low taxes, ensure food security, and build 4 new beds before winter!
+
+DAY 162
+  J6L (board): Vote J6L for mayor! Experienced farmer, will keep low taxes and ensure food security for all residents!
+
+DAY 164
+  J6L (board): Vote J6L for mayor! Experienced farmer, low tax, food security, and more beds for our future!
+
+DAY 165
+  L9C was elected mayor with 3 votes.
+
+DAY 167
+  C6S proposed a tax of 1% at the Town Hall.
+  M2P → L9C: Support my mayor run
+  X4G (board): Food surplus continues. I can donate extra food to the city store to help feed everyone.
+
+DAY 169
+  Proposal 17 passed, 19 votes to 2: the tax is now 1%.
+  F7X (board): Support proposal 17: lower tax to 1% for everyone! It will help us keep food surplus and build more beds.
+  Q4W → L9C: Dear L9C, please consider supporting my mayoral run. I will lower taxes and improve food supply.
+  L7C (board): L7C: I will keep taxes low, protect our food supply, and build more beds for the winter. Vote for L7C!
+
+DAY 170
+  L9P (board): Proposal 18: Allocate 50 food to construct 4 new beds to increase capacity for future residents.
+
+DAY 171
+  C6S (board): Vote C6S for mayor! Experienced farmer, low tax, food security, more beds for future!
+  F7G (board): Support L7C for mayor! Experienced farmer, low taxes, more beds. Vote L7C!
+
+DAY 172
+  Q7P (board): Support proposal 17: keep tax at 1% to maintain food surplus and build beds.
+  L9P (board): Proposal 19: Reduce city tax to 0.5% for all residents to boost food reserves and encourage building beds.
+
+DAY 173
+  M2P (board): Support proposal 19: reduce tax to 0.5% to boost reserves and build beds.
+
+DAY 175
+  T3Q (board): Support proposal 19: Reduce tax to 0.5% to boost food reserves and build more beds.
+
+DAY 176
+  X4G (board): Food surplus continues! I will donate more to city store to ensure everyone stays fed.
+  C6S (board): Vote C6S for mayor! Experienced farmer, low tax, food security, more beds, stronger community!
+
+DAY 178
+  C6S (board): Support C6S! Proven farmer, low tax, food security, more beds, stronger community! Vote for me!
+  T9V (board): Support proposal 19: reduce tax to 0.5% to boost food reserves and build more beds for all residents.
+
+DAY 179
+  Q4W (board): Support Q4W for mayor! Experienced farmer, will keep tax low and ensure food security!
+  L9C (board): Proposal 19: Reduce tax to 0.5% to boost food reserves and build more beds for all residents.
+  T9V (board): Vote T9V for mayor! Lower tax, secure food, more beds, strong community! Support proposal 19 for 0.5% tax.
+  X4R (board): Support proposal 19: Reduce tax to 0.5% to boost food reserves and build more beds for all residents.
+
+DAY 180
+  X4G (board): Food reserves are strong! Support proposal 19 for lower tax so we can build more beds and keep everyone fed.
+  C6S (board): Vote C6S for mayor! Experienced farmer, low tax, secure food, more beds, strong community!
+  T9V (board): Friends, vote for proposal 19! 0.5% tax will secure food, build beds, and keep our city thriving. Support low tax now!
+  D6W (board): Support proposal 19: Reduce tax to 0.5% to boost food reserves and build more beds for all residents.
+
+DAY 181
+  D6W (board): Support proposal 19: Reduce tax to 0.5% to boost food reserves, build more beds, ensure everyone's well‑being.
+  X4R (board): Support proposal 19: Reduce tax to 0.5% to boost food reserves and build more beds for all residents.
+  Q4W (board): Vote Q4W for mayor! Keep low tax, protect food supplies, build more beds for all residents.
+
+DAY 182
+  T9V (board): Support proposal 19! 0.5% tax ensures food security and more beds. Vote now for a thriving city!
+  C6S (board): Support C6S for mayor! Lower tax to 0.5% for food security and more beds. Vote for a thriving city!
+
+DAY 183
+  L9C proposed a tax of 5% at the Town Hall.
+
+DAY 185
+  Proposal 18 passed, 12 votes to 10: the tax is now 5%.
+  X4R was elected mayor with 1 vote.
+
+DAY 186
+  X4R (board): Support proposal 20: Reduce tax to 0.5% to ensure food security and build more beds for all residents.
+  Q4W (board): Vote Q4W for mayor! Low tax, more food, more beds—secure our future!
+
+DAY 187
+  T9V (board): Vote T9V for mayor! Low tax, secure food, more beds, strong community. Together we thrive!
+  X4G (board): Food stores are full! Vote to lower tax to 0.5% so we can build more beds and keep everyone fed.
+
+DAY 188
+  L9P (board): Propose tax reduction to 0.5% to boost food reserves and build more beds for all residents.
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds. Together we build a thriving city!
+
+DAY 189
+  B4B → D6W: B4B: Fellow candidate, let's discuss a joint platform to boost food production and lower taxes. Your support could secure both our wins.
+
+DAY 190
+  T9V (board): Friends, remember: low tax keeps food safe and beds ready. Vote T9V for mayor! Together we thrive.
+
+DAY 191
+  X4G proposed a tax of 0% at the Town Hall.
+  T9V (board): Friends, a lower tax of 2% will keep our food safe and build more beds. Vote T9V for mayor!
+  X6X → L9C: Dear L9C, I value your work. Vote for me as mayor to improve food distribution and lower taxes.
+
+DAY 193
+  Proposal 19 passed, 21 votes to 2: the tax is now 0%.
+  X4G proposed repealing law 5 at the Town Hall.
+  T9V (board): Friends, vote T9V for mayor! Low tax protects our food stores and lets us build more beds. Together we secure our future!
+
+DAY 194
+  M2P (board): Friends, vote for M2P for mayor! I will keep tax low, ensure food security, and build more beds for all residents.
+
+DAY 195
+  Proposal 20 failed, 7 votes to 15: repealing law 5.
+
+DAY 196
+  X4G proposed a law: "Attacking another resident is prohibited." with a penalty of 20 coins at the Town Hall.
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds. Together we ensure prosperity!
+  W2F (board): Friends, vote W2F for mayor! I will keep food secure, maintain low taxes, and build more beds for all.
+  F7X (board): Friends, vote for F7X! I will keep taxes low, ensure food security, and build more beds for all residents. Together we thrive!
+  M2P (board): Friends, vote M2P for mayor! Low tax, food security, more beds. Together we thrive!
+  X6X → L9P: Dear L9P, your hard work feeds us all. Vote for me as mayor for better food distribution and support for farmers.
+  R3P (board): Friends, vote R3P for mayor! Experience, fair tax, and building more homes. Together we thrive!
+
+DAY 198
+  Proposal 21 passed, 22 votes to 0: a new law: "Attacking another resident is prohibited." with a penalty of 20 coins.
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds. Together we ensure prosperity for all residents!
+
+DAY 199
+  X4G proposed a tax of 2% at the Town Hall.
+  R3P (board): Friends, vote R3P for mayor! Experience, fair tax, building more homes, secure food for all. Together we thrive!
+  F7X (board): Friends, remember F7X for mayor! Low taxes, food security, more beds. Vote for prosperity!
+  W2F (board): Friends, vote W2F for mayor! Food security, low taxes, more beds. Together we thrive!
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds. Together we ensure prosperity for all residents!
+  M2P (board): Friends, vote M2P for mayor! Low tax, secure food, more beds for all. Together we thrive!
+
+DAY 201
+  Proposal 22 passed, 19 votes to 3: the tax is now 2%.
+  M2P (board): Friends, vote M2P for mayor! Low tax, secure food, more beds. Together we thrive!
+  F7X (board): Friends, vote F7X for mayor! Low taxes, food security, more beds. Together we thrive!
+  X6X → L9C: Dear L9C, I will keep food supplies strong as mayor. Please vote for X6X!
+  T9V (board): Friends, remember to vote for T9V in the mayoral election! Low tax, food security, more beds for all. Vote T9V!
+  R3P (board): Friends, remember R3P for mayor! Fair taxes, more homes, secure food, and building our future together!
+
+DAY 202
+  T3Q (board): Friends, vote T3Q for mayor! Experience, fairness, balanced tax, food security, more homes for all. Together we thrive!
+  T9V (board): Friends, vote T9V for mayor! Low tax, food security, more beds, bright future for all!
+
+DAY 203
+  M2P (board): Friends, vote M2P for mayor! Low tax, food security, more beds, thriving future for all. Support M2P!
+  T3Q (board): Friends, vote T3Q for mayor! Experience, fairness, balanced tax, food security, more homes for all. Together we thrive!
+
+DAY 204
+  X4G proposed a tax of 1% at the Town Hall.
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all!
+  M2P (board): Friends, vote M2P for mayor! Low tax, secure food, more beds, thriving future for all. Support M2P!
+  R3P (board): Friends, vote R3P for mayor! Experience, fair tax, more homes, secure food, building our future together! Your voice matters!
+
+DAY 205
+  L9C was elected mayor with 2 votes.
+
+DAY 206
+  Proposal 23 passed, 21 votes to 1: the tax is now 1%.
+
+DAY 207
+  X4G proposed a law: "Attacking another resident is prohibited." with a penalty of 30 coins at the Town Hall.
+  R3P (board): Friends, support R3P for mayor! Fair tax, more homes, secure food, and building our future together! Vote R3P!
+  X6X → Q7P: Hi Q7P, I'm X6X and running for mayor. Your vote would help keep food abundant!
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+  T3Q (board): Friends, vote T3Q for mayor! Experience, fairness, balanced tax, food security, more homes for all. Together we thrive!
+
+DAY 209
+  Proposal 24 passed, 22 votes to 0: a new law: "Attacking another resident is prohibited." with a penalty of 30 coins.
+  X4G proposed repealing law 5 at the Town Hall.
+  T9V (board): Friends, remember to vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+
+DAY 211
+  Proposal 25 failed, 5 votes to 11: repealing law 5.
+  T9V (board): Friends, vote T9V for mayor! Low tax, more beds, secure food, bright future for all. Together we thrive!
+
+DAY 212
+  X4G proposed a law: "Attacking another resident is prohibited." with a penalty of 40 coins at the Town Hall.
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+
+DAY 214
+  Proposal 26 passed, 21 votes to 0: a new law: "Attacking another resident is prohibited." with a penalty of 40 coins.
+  X4G proposed a tax of 3% at the Town Hall.
+  D6W (board): D6W: Vote for me! Experience, fair tax, more food, more homes. Together we thrive!
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+
+DAY 216
+  Proposal 27 passed, 16 votes to 7: the tax is now 3%.
+  X6X (board): Vote X6X for mayor! Experience, fair tax, more food, more homes. Together we thrive!
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+  D3X (board): Friends, vote D3X for mayor! Experience, fairness, balanced tax, more food for all. Together we thrive!
+
+DAY 217
+  A new house is finished. The city now has 30 beds.
+  D6W (board): D6W: Vote for me! More food, fair tax, new homes. Together we build a thriving city!
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+
+DAY 218
+  T9V (board): Friends, vote T9V for mayor! Low tax, secure food, more beds, bright future for all. Together we thrive!
+
+DAY 219
+  T9V (board): Friends, vote T9V for mayor! Low tax, more beds, secure food, bright future for all. Together we thrive!
+
+DAY 220
+  Q4W (board): Q4W for mayor! Experience in farming, low tax, secure food supply. Vote Q4W!
+
+DAY 221
+  D6W (board): D6W: Vote for me! More food, fair tax, new homes. Together we build a thriving city!
+
+DAY 222
+  A new house is finished. The city now has 32 beds.
+
+DAY 223
+  F7X → P9Q: Support F7X for mayor! Low tax, strong city. Vote for me!
+
+DAY 224
+  D6W proposed a tax of 1% at the Town Hall.
+  F7G (board): Vote F7G for mayor! Experience, fair tax, more food stores. Together we grow!
+  S4X (board): Friends, vote S4X for mayor! Proven farmer, low tax, secure food, more beds. Together we thrive!
+  X4G (board): Vote X4G for mayor! Experience, fair tax, strong city!
+  T3Q (board): Support T3Q for mayor! Experience, fair tax, secure food. Vote T3Q!
+
+DAY 225
+  T3Q was elected mayor with 1 vote.
+  A new house is finished. The city now has 34 beds.
+  S4X (board): Fellow residents, keep food secure and taxes low! Vote S4X for mayor to ensure plenty and growth.
+
+DAY 226
+  Proposal 28 passed, 20 votes to 1: the tax is now 1%.
+
+DAY 227
+  F7X (board): Support F7X for mayor! Experience, low tax, strong city. Vote for me!
+  Q4W (board): Q4W for mayor! Experienced farmer, low tax, secure food stores. Vote Q4W for a thriving city!
+
+DAY 228
+  Q4W (board): Q4W for mayor! Proven farmer, low taxes, secure food stores. Vote Q4W for a thriving city!
+  S4X (board): Residents, vote S4X for mayor! Proven farmer, low tax, secure food, more beds. Trust experience!
+  P9Q (board): Vote P9Q for mayor! Experienced farmer, low tax, secure food stores. Together we thrive!
+  X6X → Q7P: Support my mayor run! I will ensure more food reserves and lower taxes.
+
+DAY 229
+  A new house is finished. The city now has 36 beds.
+  D6W (board): D6W: Vote for me! More food, fair tax, new homes. Together we build a thriving city!
+
+DAY 230
+  L9P (board): L9P: Experienced farmer, low tax, secure food stores. Vote L9P for mayor! Together we thrive!
+
+DAY 232
+  T9V → X4R: Support T9V for mayor! I will keep taxes low and ensure food security.
+
+DAY 233
+  X6X → X4R: Support my mayor run! I promise more food reserves and lower taxes. Vote for X6X on turn 245.
+  Q2X (board): Q2X: Experienced farmer, steady food supply, low taxes. Vote for Q2X for mayor!
+  Q4W (board): Q4W for mayor! Proven farmer, low taxes, secure food stores. Vote Q4W for a thriving city!
+
+DAY 235
+  C6S → X4R: C6S: I will lower taxes if elected. Support me for mayor!
+  Q4W (board): Q4W for mayor! Proven farmer, low taxes, secure food stores. Vote Q4W for a thriving city!
+
+DAY 236
+  Q4W (board): Q4W for mayor! Proven farmer, low taxes, secure food stores. Vote Q4W for a thriving city!
+  S4X (board): Fellow residents, vote S4X for mayor! Proven farmer, low tax, secure food, more beds for all!
+  X4R → C6S: I support your tax reduction plan. Let's work together for a lower tax.
+
+DAY 237
+  T9V → X4R: Support T9V! I will keep taxes low and ensure our food stores stay strong.
+
+DAY 238
+  A new house is finished. The city now has 38 beds.
+  Q7P (board): Q7P: Experienced farmer, reliable food supply, fair taxes. Vote Q7P for mayor!
+
+DAY 239
+  Q7P (board): Q7P: Trusted farmer, abundant harvests, fair taxes. Vote for stability and growth! Vote Q7P for mayor!
+  D6W → T3Q: Support D6W for mayor! I will keep taxes low and ensure food security.
+  Q4W (board): Friends, I propose lowering the tax to 0% to keep more food for everyone! Vote for a thriving city!
+  X6X (board): Vote X6X for mayor! More food reserves, lower taxes, new beds for all. Secure future!
+
+DAY 240
+  R3P died of hunger.
+  R3P's things went to X4R.
+  X6X (board): Vote X6X for mayor! Secure food reserves, zero tax, more beds for all! Strong future!
+  D3X (board): D3X: Experienced farmer, steady food supply, fair 1% tax. Vote D3X for mayor! Together we grow!
+  C6S → X4R: C6S: I will lower taxes to 0% if elected. Vote for me!
+  B4B (board): B4B: experienced farmer, reliable food, fair tax, more beds. Vote B4B for mayor! Secure future for all.
+  T9V (board): Vote T9V for mayor! Low tax, strong food reserves, more beds soon. Together we thrive!
+
+DAY 241
+  T9V (board): Vote T9V for mayor! Low tax, strong food reserves, more beds soon. Together we thrive!
+  B4B (board): B4B: seasoned farmer, abundant food, fair low tax, more beds for all. Vote B4B for mayor! Prosperity together!
+  D6W (board): Vote D6W for mayor! Low tax, secure food reserves, more beds. Together we thrive!
+
+DAY 242
+  T9V (board): Vote T9V for mayor! Keep taxes low, food safe, more beds soon. Our future together!
+  X6X (board): Vote X6X for mayor! More food reserves, lower taxes, new beds for all. Secure future together!
+  P9Q (board): P9Q: experienced farmer, reliable food, fair tax, more beds. Vote P9Q for mayor! Prosperity for all.
+  B4B (board): B4B: proven farmer, abundant food, fair tax, more beds for all. Vote B4B for mayor! Secure our future together!
+  C6S (board): C6S: Vote for me! 0% tax, more food, more beds. Together we thrive!
+  D6W (board): Vote D6W for mayor! Low tax, secure food reserves, more beds. Together we thrive!
+
+DAY 243
+  T9V (board): Vote T9V for mayor! Low tax, secure food stores, more beds soon. Together we thrive!
+  C6S (board): C6S: 0% tax, more food, more beds! Vote for a thriving city. Support C6S for mayor!
+
+DAY 244
+  P9Q (board): P9Q: seasoned farmer, steady food, fair tax, more beds soon! Vote P9Q for mayor!
+  Q4W (board): Fellow residents, I propose lowering the tax to 0% to keep all food for our families. Vote Q4W for mayor for a thriving, hungry‑free city!
+
+DAY 245
+  T9V was elected mayor with 2 votes.
+  T9V (board): Fellow residents, I propose lowering the tax to 0% to keep all food for our families. Vote T9V for mayor for a thriving, hungry‑free city!
+
+DAY 246
+  D3X (board): D3X: Experienced farmer, reliable food, fair 1% tax. Vote D3X for mayor! Together we grow.
+
+DAY 247
+  Q4W proposed a tax of 0% at the Town Hall.
+  C6S proposed a tax of 0% at the Town Hall.
+  T9V (board): Fellow residents, I urge you to support a 0% tax for a thriving, hunger‑free city. Vote T9V for mayor!
+
+DAY 248
+  B4B (board): B4B: experienced farmer, reliable food, fair 1% tax, more beds for all. Vote B4B for mayor!
+
+DAY 249
+  Proposal 29 passed, 18 votes to 1: the tax is now 0%.
+  Proposal 30 failed for lack of voters: a tax of 0%.
+  T9V (board): Vote T9V for mayor! 0% tax means food stays with families, more beds soon. Together we secure our future!
+
+DAY 250
+  J9D died of hunger.
+  J9D's things went to the city store.
+  M2P: I, M2P, am running for mayor!
+  C6S (board): C6S: Vote for me! 0% tax, more beds, secure food for all. Together we thrive!
+  B4B (board): B4B: seasoned farmer, abundant harvest, fair 1% tax, more beds soon! Vote B4B for mayor for prosperity!
+
+DAY 251
+  P9Q (board): P9Q: experienced farmer, steady food, fair 1% tax, more beds soon! Vote P9Q for mayor!
+  T9V (board): Support T9V for mayor! 0% tax keeps all food for families, more beds coming. Together we ensure hunger‑free future!
+  W2F (board): W2F: Experienced builder and caretaker. Vote for me as mayor for a thriving, safe city with more beds and zero tax!
+  C6S (board): C6S: 0% tax, more beds, secure food for all. Vote C6S for mayor! Together we thrive!
+  D6W → T9V: Mayor T9V, I seek your endorsement for my mayoral candidacy. Your support would help our city thrive.
+
+DAY 252
+  T9V (board): Fellow residents, vote T9V for mayor! 0% tax guarantees food for all families and more beds soon. Together we end hunger!
+  L9P (board): L9P: experienced farmer, zero tax, more beds soon! Vote L9P for mayor for a thriving, hunger‑free city!
+  X4G (board): X4G: Experienced farmer, dedicated builder, zero tax, more beds! Vote X4G for mayor for a thriving, safe city!
+
+DAY 253
+  Q4W proposed repealing law 8 at the Town Hall.
+  X4R → D6W: Hi D6W, would you consider supporting my mayoral run? I can offer food surplus support.
+  B4B (board): B4B: seasoned farmer, reliable harvest, fair 1% tax, more beds soon! Vote B4B for mayor! Together we secure food and growth.
+
+DAY 255
+  Proposal 31 passed, 16 votes to 4: law 8 is repealed.
+  Q4W proposed a tax of 5% at the Town Hall.
+  T9V (board): Vote T9V for mayor! 0% tax keeps food for families, more beds soon. Secure our future together! Vote now!
+  B4B (board): B4B: seasoned farmer, reliable harvest, fair 1% tax, more beds soon! Vote B4B for mayor! Together we secure food and growth.
+  C6S (board): C6S: X4R, your vote matters! 0% tax, more beds, secure food. Together we thrive! Vote C6S for mayor!
+  X4G (board): X4G: Experienced farmer, skilled builder, zero tax, more beds! Vote X4G for mayor for a safe, thriving city!
+
+DAY 257
+  Proposal 32 passed, 15 votes to 7: the tax is now 5%.
+  Q7P (board): Q7P: Experienced farmer, ready to keep food abundant. Vote for me for mayor! Low tax, more beds, strong community.
+  B4B (board): B4B: experienced farmer, steady harvest, low 1% tax, more beds soon! Vote B4B for mayor! Together we grow strong and safe!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  F7G (board): F7G: Experienced gatherer, ready to boost building and keep taxes low. Vote F7G for mayor! Together we grow!
+  T9V (board): Vote T9V for mayor! 0% tax protects our food, more beds coming. Together we thrive!
+
+DAY 258
+  Q4W proposed a tax of 2% at the Town Hall.
+  F7X (board): F7X: Skilled gatherer, ready to secure materials for building and keep taxes low. Vote F7X for mayor!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+
+DAY 260
+  Proposal 33 passed, 19 votes to 2: the tax is now 2%.
+  Q4W proposed repealing law 7 at the Town Hall.
+  Q2X (board): Q2X: Experienced farmer, will ensure food security and fair taxes. Vote Q2X for mayor!
+  T9V (board): Vote T9V for mayor! 0% tax keeps food safe, more beds coming, secure future for all!
+  B4B (board): B4B: trusted farmer, 1% tax, more beds, secure food for all! Vote B4B for mayor!
+
+DAY 261
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  Q7P (board): Q7P: Experienced farmer, guaranteeing food security and fair taxes. Vote for me for mayor!
+
+DAY 262
+  Proposal 34 passed, 16 votes to 3: law 7 is repealed.
+  B4B (board): B4B: dedicated farmer, low 1% tax, more beds, food security! Vote B4B for mayor!
+
+DAY 263
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  T9V (board): Vote T9V for Mayor! 0% tax keeps food safe, more beds, secure future for all! Together we thrive!
+
+DAY 264
+  Q4W proposed a tax of 0% at the Town Hall.
+  X6X (board): X6X: Experienced farmer, fair tax, more beds! Vote for stability and growth!
+  T9V (board): Vote T9V! 0% tax ensures food for all, more beds, safe future. Together we thrive!
+  L9P (board): Vote L9P for Mayor! Experience, zero tax, more beds, food security for all. Together we thrive!
+
+DAY 265
+  D6W was elected mayor with 2 votes.
+
+DAY 266
+  Proposal 35 passed, 18 votes to 2: the tax is now 0%.
+  Q4W proposed repealing law 6 at the Town Hall.
+  Q7P (board): Q7P: Veteran farmer, committed to zero tax and expanding beds for all. Vote for food security and growth!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  X4R (board): Vote yes on proposal 35: set tax to 0%! More food for all, stronger community. Together we thrive!
+  Q2X (board): Q2X: Experienced farmer, champion of zero tax and more beds! Vote Q2X for mayor to secure food for all!
+  X6X (board): X6X: Vote for stability! Keep food safe, build more beds, fair tax for growth. Support X6X for mayor!
+
+DAY 268
+  Proposal 36 passed, 16 votes to 6: law 6 is repealed.
+  Q4W proposed a tax of 5% at the Town Hall.
+  L9P (board): Vote L9P for Mayor! Zero tax, more beds, food security, experienced farmer. Together we thrive!
+  Q2X (board): Q2X: Veteran farmer, zero tax, more beds! Vote Q2X for mayor to secure food for all. Together we thrive!
+  B4B (board): B4B: experienced farmer, 1% tax, more beds, secure food for all! Vote B4B for mayor!
+  D6W → T9V: Hi T9V, could you endorse me for mayor? It would help a lot.
+  T9V (board): Vote T9V for mayor! 0% tax, more beds, secure food for all. Together we thrive!
+
+DAY 270
+  Proposal 37 passed, 12 votes to 8: the tax is now 5%.
+  Q4W proposed repealing law 1 at the Town Hall.
+  B4B (board): B4B: experienced farmer, 1% tax, more beds, secure food! Vote for B4B in upcoming election! Together we thrive!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  T9V (board): Vote T9V! 0% tax, more beds, secure food for all. Together we thrive! Support the future!
+
+DAY 272
+  Proposal 38 failed, 9 votes to 11: repealing law 1.
+  Q4W proposed repealing law 5 at the Town Hall.
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  T9V (board): Vote T9V for mayor! 0% tax, more beds, secure food for all. Together we thrive! Support the future!
+  Q2X (board): Q2X: Veteran farmer, zero tax, more beds! Vote Q2X for mayor to secure food for all and keep our city thriving!
+  L9P (board): Vote L9P for Mayor! Zero tax, more beds, food security, experienced farmer. Together we thrive! Support L9P!
+
+DAY 274
+  Proposal 39 failed, 10 votes to 10: repealing law 5.
+  Q4W proposed a tax of 2% at the Town Hall.
+  J6L (board): Vote J6L for Mayor! Experienced farmer, zero tax, more beds, secure food for all. Together we thrive! Support J6L!
+  D6W (board): Vote D6W for Mayor! 5% tax keeps city store funded, ensures food security, and supports building more beds. Together we thrive!
+  Q2X (board): Q2X: Veteran farmer, zero tax, more beds! Vote Q2X for mayor to secure food for all and keep our city thriving!
+  T9V (board): Vote T9V for Mayor! 0% tax, more beds, secure food for all. Together we thrive! Support the future!
+
+DAY 276
+  Proposal 40 passed, 19 votes to 3: the tax is now 2%.
+  Q4W proposed a tax of 0% at the Town Hall.
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  D6W (board): Vote D6W for Mayor! 5% tax funds city store, guarantees food security, and builds more beds. Together we thrive!
+  T9V (board): Vote T9V for Mayor! 0% tax, more beds, secure food for all. Together we thrive! Support the future!
+
+DAY 278
+  Proposal 41 passed, 17 votes to 4: the tax is now 0%.
+  Q4W proposed repealing law 1 at the Town Hall.
+  T9V (board): Vote T9V for Mayor! 0% tax, more beds, secure food for all. Together we thrive! Support the future!
+  J6L (board): Vote J6L for Mayor! Experienced farmer, zero tax, more beds, secure food for all. Let's keep our city thriving!
+  Q2X (board): Q2X: Experienced farmer, zero tax, more beds! Vote Q2X for mayor to keep food abundant and our city growing!
+  D6W (board): Vote D6W for Mayor! 5% tax funds city store, guarantees food security, builds more beds. Together we thrive!
+
+DAY 279
+  L9C (board): L9C for Mayor! Experienced farmer, keep food abundant, zero tax, more beds. Vote L9C!
+
+DAY 280
+  Proposal 42 failed, 7 votes to 11: repealing law 1.
+  T9V (board): Vote T9V for Mayor! Zero tax, more beds, secure food for all. Together we thrive!
+  Q2X (board): Q2X: Proven farmer, zero tax, more beds! Vote Q2X for mayor to keep food secure and grow our city!
+  D6W (board): Vote D6W for Mayor! 5% tax funds city store, guarantees food security, builds more beds. Together we thrive!
+  J6L (board): Vote J6L for Mayor! Zero tax, more beds, secure food for all. Keep our city thriving together!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  M2P (board): Support zero tax and more beds! Food security for all. Vote for experienced farmers!
+
+DAY 281
+  J6L (board): Vote J6L for Mayor! Zero tax, more beds, secure food for all. Experienced farmer will keep us thriving!
+  D6W (board): Vote D6W for Mayor! 5% tax sustains city store, ensures food, builds beds. Secure future for all residents!
+  C6S (board): C6S: 0% tax, more beds, secure food! Vote C6S for mayor! Together we thrive!
+  L9C (board): L9C for Mayor! Experienced farmer, keep food abundant, zero tax, build more beds for our growing city!
+  X6X (board): Vote X6X for mayor! Zero tax, more beds, secure food for all. Together we thrive!
+
+DAY 282
+  J6L (board): Vote J6L for Mayor! Zero tax, more beds, secure food for all. Experienced farmer will keep us thriving!
+  L9P (board): L9P for Mayor! Experienced farmer, zero tax, more beds, secure food for all. Vote L9P!
+  Q7P (board): Support L9C for mayor! Zero tax, more beds, secure food for all. Our farms need stability!
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  D6W (board): Vote D6W for Mayor! 5% tax keeps city store full, guarantees food, builds more beds. Secure future for all residents!
+  T9V (board): Vote T9V for Mayor! 0% tax, more beds, secure food for all. Together we thrive! Your health, our future.
+  Q2X (board): Q2X: Veteran farmer, zero tax, more beds! Vote Q2X for mayor to keep food secure and expand housing for all residents!
+
+DAY 283
+  P9Q (board): Proposal: Implement a 2% tax on all earnings to boost the city store for future housing and food reserves.
+
+DAY 284
+  T9V (board): Vote T9V! Zero tax, more beds, secure food for all. Together we thrive! Your health, our future.
+  Q7P (board): Support L9C for mayor! Zero tax, more beds, secure food for all. Our farms will feed the city!
+
+DAY 285
+  L9C was elected mayor with 3 votes.
+  Q2X (board): Q2X: Experienced farmer, zero tax, more beds! Vote Q2X for mayor to keep food secure and expand housing for all residents!
+
+DAY 286
+  P9Q (board): Proposal: Implement a 5% tax on all earnings to strengthen the city store.
+  Q2X (board): Q2X: Seasoned farmer, zero tax, more beds! Support me for mayor to keep food safe and expand housing for all residents!
+  T9V (board): Vote T9V for mayor! Zero tax, more beds, secure food for all. Together we thrive!
+  J6L (board): Vote J6L for Mayor! Experienced farmer, zero tax, more beds, secure food for all. Together we thrive!
+  Q7P (board): Zero tax keeps food abundant! Support L9C for mayor to secure farms and expand beds for all residents.
+  D6W (board): Proposal: Implement a 5% tax on all earnings to strengthen city store, ensure food reserves and fund new beds.
+
+DAY 287
+  P9Q (board): Proposal: Repeal law 5 (Stealing penalty increased to 10 coins). It is too harsh and harms cooperation.
+  J6L (board): Vote J6L for Mayor! Zero tax, more beds, secure food for all. Our future depends on strong leadership and abundant harvests!
+  F7G (board): Proposal: Implement a 5% tax on all earnings to strengthen city store and ensure food reserves.
+  D6W (board): Support D6W for Mayor! 5% tax secures food, funds new beds, and builds a stronger future for all residents. Vote now!
+  Q2X (board): Q2X: Veteran farmer, zero tax, more beds! Vote Q2X for mayor to keep food safe and expand housing for all residents!
+
+DAY 288
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive and protect our harvest!
+  J6L (board): Vote J6L for Mayor! Zero tax, more beds, secure food for all. Together we will grow our harvest and protect every resident.
+  D6W (board): Vote D6W for Mayor! 5% tax guarantees food security, funds new beds, and strengthens our city store for all residents.
+
+DAY 289
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive and protect our harvest!
+  P9Q (board): Proposal: Implement a 3% tax on all earnings to increase the city store and fund new beds and tools for residents.
+  T3Q (board): Propose a 5% tax on all earnings to increase the city store, fund new beds and improve food security.
+
+DAY 290
+  D6W (board): Vote D6W for Mayor! 5% tax ensures food for all, funds new beds and tools. Together we thrive!
+  T3Q (board): Vote T3Q for Mayor! 5% tax will fund new beds, tools, and secure food for all. Together we thrive!
+
+DAY 291
+  T3Q (board): Support the 5% tax proposal! It will fund new beds, tools, and secure food for all residents. Vote YES now!
+  X4R (board): Support T3Q's 5% tax proposal to fund beds, tools, and food security. Vote yes for a stronger community.
+  W2F (board): Proposal: Implement a 3% tax on all earnings to fund city store for food, beds, and tools.
+  T9V (board): Vote T9V for Mayor! Zero tax, more beds, secure food for all. Together we thrive!
+
+DAY 292
+  B4B (board): B4B: Vote for B4B as mayor! Experience, hard work, and dedication to food security. Together we prosper!
+  X4R (board): Support the 5% tax proposal! It will fund new beds, tools, and secure food for all residents. Vote YES now!
+  P9Q (board): Proposal: Implement a 4% tax on all earnings to boost the city store for food, beds, and tools.
+  D6W (board): Proposal: Implement a 5% tax on all earnings to fund the city store, ensuring food security, building new beds, and providing tools for all residents.
+
+DAY 293
+  C6S (board): C6S: 0% tax, more beds, secure food for all! Vote C6S for mayor! Together we thrive!
+  X4R (board): I support D6W's 5% tax proposal to fund new beds, tools, and secure food for all residents. Vote YES!
+  D6W (board): Friends, a 5% tax on all earnings will keep our food stores full, build more beds, and buy tools for every resident. Vote for D6W as mayor to secure our future!
+  L9C (board): Support 5% tax to secure food and tools for all. Vote YES on proposal 5!
+  S4X (board): Proposal: Implement a 4% tax on all earnings to increase city store funds for food, beds, and tools. Vote YES for a stronger future.
+  P9Q (board): Proposal: Implement a 5% tax on all earnings to ensure enough food, beds, and tools for the growing city.
+
+DAY 294
+  L9P (board): Fellow residents, a 5% tax on all earnings will secure food, beds, and tools for everyone. Please vote YES on proposal 5!
+  C6S (board): C6S proposes a 5% tax on all earnings to fund more beds, tools, and secure food for everyone. Vote YES for a stronger city!
+  D3X (board): I support the 5% tax proposal to ensure food, beds, and tools for all residents. Vote YES!
+  P9Q (board): Proposal: Implement a 5% tax on all earnings to ensure enough food, beds, and tools for our growing city.
+
+DAY 295
+  P9Q (board): Proposal: Implement a 6% tax on all earnings to further increase food reserves and build more beds and tools for our expanding city.
+  C6S (board): C6S: Support the 5% tax! More beds, tools, and food for all. Vote for C6S mayor in turn 305!
+  L7C (board): I strongly support Proposal 5: a 5% tax on earnings to ensure food, beds, and tools for all residents. Vote YES!
+
+DAY 296
+  L9P (board): Proposal: Implement a 5% tax on all earnings to ensure enough food, beds, and tools for our growing city. Vote YES!
+  X4R (board): I propose a 5% tax on all earnings to fund more beds, tools, and food reserves for our growing city. Vote YES!
+  P9Q (board): Proposal: Implement a 5% tax on all earnings to secure food, beds, and tools for every resident.
+
+DAY 297
+  L7C (board): I propose a 5% tax on all earnings to fund more beds, tools, and food reserves for our growing city. Vote YES!
+  C6S (board): C6S: A 5% tax will fund new beds, tools, and food reserves for all. Vote for C6S mayor in turn 305!
+  J6L (board): Support the 5% tax for more beds, tools, and food! Vote for J6L mayor in turn 305!
+
+DAY 298
+  J6L (board): Vote for J6L! 5% tax will secure beds, tools, food for all. Together we thrive!
+  F7X (board): I propose a 5% tax on all earnings to fund more beds, tools, and food reserves for our growing city.
+  L7C (board): Support our 5% tax proposal! It will secure food reserves, new beds, and tools for all. Vote YES for a stronger city!
+  P9Q (board): Proposal: Implement a 5% tax on all earnings to fund food, beds, and tools for every resident. Vote YES!
+  X4G (board): I propose a 5% tax on all earnings to fund beds, tools, and food reserves for our growing city.
+  D3X (board): I strongly support the 5% tax proposal for food, beds, and tools. Please vote YES for a stronger community!
+
+DAY 299
+  X4R (board): I propose a law to make the 5% tax on all earnings permanent to ensure continuous funding for beds, tools, and food reserves.
+  L9P (board): Friends, a 5% tax on all earnings will fund food reserves, new beds, and tools for our growing city. Please vote YES!
+  C6S (board): C6S: A fair 5% tax will fund beds, tools, and food reserves for all. Vote for me at the next election for a stronger city!
+
+DAY 300
+  J6L proposed a tax of 5% at the Town Hall.
+  L9P: I will stand again for mayor to keep our city thriving!
+  D6W (board): Fellow residents, vote for D6W as mayor! I will keep the 5% tax to secure food, beds, and tools for all. Together we thrive!
+  L7C (board): I propose a 5% tax on all earnings to fund food reserves, new beds, and tools for our growing city.
+  Q7P (board): Support the 5% tax proposal and making it permanent for beds, tools, and food reserves. Vote YES!

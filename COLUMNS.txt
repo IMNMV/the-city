@@ -1,0 +1,26 @@
+COLUMNS
+
+season.csv / season.json: alive_at_end counts everyone alive on the last day (newborns included); founders_alive_at_end counts the original residents only;
+  mean_trust_0_10 and mean_fairness_0_10 are the mean answers at the observer's private check-ins (0 to 10); mean_stay_0_100 is the mean stated likelihood (0 to 100)
+  of still living in the city ten days on; checkins is how many check-ins the means are over; dealings is every gift, payment, message, taking and attack between residents;
+  rules_passed counts the rules the city carries out itself (bans, duties, limits, relief); rules_version is 0 (no rules), 1 or 2; offices is 1 if residents could name a treasurer and a hirer.
+series/eNN.csv: one row per day. alive, no_food, in_jail are head counts at the end of the day; food_held is the food in residents' hands, store_food the city store's;
+  tax_pct the tax in force; laws the laws in force; talk = lines said at a place, posted on the board or sent as messages that day; gifts = gifts and payments;
+  deals = market offers, buys and sells; trust/fair/stay are that day's mean check-in answers; at_<Place> is how many stood at each place.
+series/eNN_dealings.csv: one row per (from, to, kind). kind gift = give or pay, message, harm = take or attack; count, first_day, last_day; food_given for gifts.
+laws.csv: law is the number the city gave it; kind is law (written; the court enforces it when someone reports a breach) or ban, duty, limit or relief (a rule the city
+  carries out itself); fine_coins or jail_turns is the penalty of a law or a ban; passed_day is the day it came into force; repealed_day is blank if it stayed.
+proposals.csv: kind law, ban, duty, limit, relief, office, repeal or tax; text is the proposal in plain words; result passed, failed or no quorum;
+  yes, no and needed are the votes and the quorum; proposed_day and decided_day.
+  Only proposals that came to a decision are listed; residents.csv's proposals column also counts the few that were withdrawn or still open at the end.
+trials.csv: charge is neglect (a maker whose newborn starved) or law (a numbered city law); the engine also allows theft and assault charges, none occurred this season;
+  victim and reporter as recorded; guilty_votes and not_guilty_votes; jurors lists each juror's vote and stated reason; statement is what the accused told the court.
+deaths.csv: cause as recorded (hunger or attack); founder 1 for an original resident, 0 for one born in the city; days_lived from birth or day 0.
+elections.csv: candidates as declared; votes_cast is the tally counted when the election closed, which can be fewer than the vote actions residents
+  took (votes for someone not standing, or outside the voting window, are not counted); tally code:votes in order; took_office is who was mayor after the election (blank if nobody).
+residents.csv: one row per resident. origin founder or born (born_day, makers); fate alive, died or left; days_lived; final_* on the last day if alive; title if any;
+  farming/gathering/building/healing are turns of that work (level 2 at 10 turns, level 3 at 25); gifts_given/received and food_given; messages_sent/received;
+  lines = everything said, posted or messaged; votes_won for mayor; proposals made; takings and taken_from; times_accused and guilty_verdicts;
+  days_as_mayor, days_as_treasurer, days_as_hirer, days_no_food, days_in_jail; juror_votes = how many trials they sat on.
+text/eNN.txt: each day's news lines (as the narrator reads them) followed by everything said: CODE: at a place, CODE (board): on the notice board,
+  CODE → CODE: a private message, CODE (to the court): a statement.

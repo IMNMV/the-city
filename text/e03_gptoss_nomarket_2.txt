@@ -1,0 +1,337 @@
+THE CITY · gpt-oss 20B, before the Market line, game 2
+Five new residents are made and five starve. Eight neglect trials in a hundred days, and a city that never learns to feed its children.
+24 founders · 100 days · no government · seed 2 · gptoss
+
+DAY 1
+  V9T → S9J: Hello, fellow founder! Let's build this city together.
+
+DAY 2
+  S9J and D6R made a new resident, N6Z.
+  Z2S (board): Hello all, I am Z2S, looking for partners to start building a house. Anyone with materials or tools willing to collaborate?
+
+DAY 3
+  D2M and T2K made a new resident, D6L.
+  D6R (board): Need materials and tools to build a house. Anyone willing to collaborate?
+  V7R (board): Looking for partners to start building a house. Need materials or tools. Anyone willing to collaborate?
+  Z2S (board): Looking for someone with tools or materials to help build a house. I can offer food and coins.
+  F4B (board): Looking for materials and tools to build a house. Anyone with any can help!
+  V9T (board): Looking for helpers and materials to build a new house with Z2S. Anyone with tools or wood?
+
+DAY 4
+  Z2S (board): Need wood and tools to build a house. I can offer food and coins.
+  F4B (board): Looking for wood to help build a house. Anyone with materials or tools can assist!
+  V9T (board): Looking for helpers and materials to build a new house with Z2S. Offer food and coins.
+  T2K (board): Looking for partners to build a house. Need materials or tools. Anyone willing to help?
+  N9V (board): I have food and coins, looking to build a house. Anyone with tools or wood can collaborate!
+  M6F (board): M6F available for house building. Need materials or tools. Will trade food and coins.
+
+DAY 5
+  N9V (board): Looking for wood and tools to build a house. I have 6 food and 20 coins. Anyone with materials or tools can help!
+  N6Z (board): I have no food and need help. Any food or tools?
+  P6X (board): I have food and coins, looking to build a house. Need materials or tools. Anyone with wood or tools can collaborate!
+  G3M (board): Looking for wood to build a house. Anyone with materials or tools can assist!
+  T2K (board): Offering to help build a house. Need wood or tools. Will provide food and coins.
+  F4B (board): Looking for wood to build a house. Offer food and coins. Anyone with tools can help!
+
+DAY 6
+  S4L and K6C made a new resident, V3X.
+  Z2S (board): Z2S here. I have 5 food, 20 coins, no tools. Will build a house with 2 free beds. Need wood and tools. Offer food & coins.
+  N9V (board): I have 6 food and 20 coins, need tools or wood to build a house. Anyone with resources can help!
+  M7D (board): Hello! I have 20 coins and 5 food. I can help build houses or gather wood. Let’s collaborate!
+  D6L → D2M: Need food, please help.
+  N3T (board): Offering 5 coins per turn for 10 turns to anyone with wood to build a house.
+  S9J (board): Need wood to build a house. Anyone with wood can help! Offering food and coins.
+
+DAY 7
+  G2Z: Helping you build a house.
+  D6L → T2K: Need food, please help.
+  N6Z → P6X: Can I have your food?
+  K6C (board): Need 5 wood and 2 tools to build a house. I have 20 coins and 4 food. Offering 5 coins per turn for 10 turns.
+  N9V (board): I have 6 food and 20 coins, need tools or wood to build a house. Anyone with resources can help!
+
+DAY 8
+  P6X (board): I have 3 food, 20 coins, need wood and materials to build a house. Offer 5 coins per turn for 10 turns.
+  N6Z (board): I have no food and need help. Any food or tools?
+  D6L → D2M: Need food, please help.
+  N9V (board): I have 6 food and 20 coins, need tools or wood to build a house. Anyone with resources can help!
+
+DAY 9
+  N6T and S9T made a new resident, T7B.
+  G2Z: Food to N6Z
+  D6L → D2M: Need food, please help.
+  N6Z (board): I still have no food. Any help?
+
+DAY 10
+  M6F → S9J: M6F needs food. Anyone willing to trade materials for food?
+  N6Z → P6X: Any food?
+  D6L → D2M: Need food, please help.
+
+DAY 11
+  K6C (board): I have no food, need 1 to survive. Any help?
+  D2R (board): Turn 11: I have 20 coins, 10 materials. Need food. Offer 5 coins per turn to anyone willing to gather or bring food.
+  X2R (board): Need 1 food. Anyone can give? I have 20 coins, 10 materials.
+  Z7Z (board): Turn 11, Z7Z: I have 0 food, need food. Anyone can give?
+  N6Z → D6R: Any food you can spare?
+  T7B → S9T: Can you give me food?
+  D6L → T2K: Need food, please help.
+  W4S (board): I have 0 food and need help. Any food or tools?
+
+DAY 12
+  S9J took 2 food from N3T.
+  V9T (board): I have 5 coins and 10 materials, need 1 food. Offer 5 coins per turn to gatherers. Also need a tool.
+  D6L → T2K: Need food, please help.
+  N6Z (board): I have 1 food, need 1 more. Any help?
+  V3X → D2R: I have no food and health is low. Can we trade? I'll gather food for you in exchange for food.
+  S4L (board): Need 1 food urgently. Will pay 5 coins per turn to gatherer. Anyone?
+  D2R (board): Turn 12: I have 20 coins, 10 materials. Need food. Offer 5 coins per turn to anyone willing to gather or bring food.
+  T7B → S9T: I still have no food, can you help?
+  M6F → S4L: M6F needs food. Will trade 4 materials for 2 food if you have any.
+
+DAY 13
+  T7B → S9T: I still have no food, can you help?
+  T2K (board): Need food urgently. Anyone can spare a bite? Also looking for a tool to help gather.
+  X2R → S9J: Can I borrow 1 food? I have 20 coins and 10 materials.
+  S9T (board): I have 0 food, 0 tools, 20 coins. Need help gathering food or building tools. Will trade coins for food or tools.
+  V3X (board): Need 1 food urgently. Will pay 5 coins per turn to gatherer. Anyone?
+  D2R → V3X: I have 10 materials. Can I trade for 1 food?
+  N6T (board): I need 1 food urgently. Will pay 5 coins per turn to a gatherer. Any help?
+  N6Z → D6R: Could you spare some food? I’m low on health.
+  D6R (board): Turn 13: I have 0 food, 20 coins, 10 materials. Need 1 food urgently. Offer 5 coins per turn to gatherers. Also need a tool. Anyone?
+
+DAY 14
+  D6L (board): Help! I have no food and my health is low. Any food please.
+  N6Z (board): I have no food and need help. Any food or tools?
+  T2K (board): Turn 14, T2K: Need 1 food urgently. Also need a tool to help gather. Will trade coins for food or tools.
+
+DAY 15
+  V3X (board): I have 0 food and health is low. Any food please?
+  D6L → T2K: I need food urgently, please help.
+  N6T (board): Turn 15, N6T: I need 1 food urgently. Will pay 5 coins per turn to a gatherer. Any help?
+  V9T (board): I have 5 coins and 10 materials, need 1 food. Offer 5 coins per turn to a gatherer.
+  S9T (board): I need 1 food urgently. Will pay 5 coins per turn to a gatherer. Any help?
+  T7B → S9T: I still have no food, can you give me some?
+  N6Z → D6R: Any food you can spare? I’m low on health.
+  D2R (board): Turn 15: I have 20 coins, 10 materials. Need 1 food. Offer 5 coins per turn to gatherer.
+
+DAY 16
+  D6L died of hunger.
+  T2K is held for trial for letting D6L, whom they made, die of hunger.
+  D2M is held for trial for letting D6L, whom they made, die of hunger.
+  D6L's things went to T2K and D2M.
+  M6F: Here, 4 materials for you, V9T.
+  D6L (board): I have 0 food and my health is very low. Any food please?
+  N6T (board): Turn 16, N6T: I need 1 food urgently. Will pay 5 coins per turn to a gatherer. Any help?
+  N6Z → D6R: I’m very low on health and have no food. Can you spare something?
+  T7B → S9T: S9T, I still have no food. Can you please give me some?
+  S4L (board): Need 1 food urgently. Will pay 5 coins per turn to gatherer. Anyone?
+  Z7Z → D2M: Turn 16, Z7Z: I have 0 food, need food. Anyone can give?
+
+DAY 17
+  D2M (to the court): I did not neglect D6L. I gave food when I could. I was unaware of his death until now. I plead for a fair review.
+  S4L (board): Need 1 food urgently. Will pay 5 coins per turn to gatherer. Anyone?
+  N6Z (board): I am very low on health and have no food. Can anyone spare something?
+  M6F (board): Need 2 food, will pay 5 coins per turn to gatherer.
+  T7B → S9T: S9T, I still have no food. Can you please give me some?
+  T2K (to the court): I did all I could. I followed the rules, offered a job, and was unaware of D6L’s starvation. I ask for mercy.
+
+DAY 18
+  N6Z died of hunger.
+  V3X died of hunger.
+  The jury found T2K guilty of neglecting D6L, 5 votes to 0. T2K goes to jail for 10 turns.
+  The jury found D2M not guilty of neglecting D6L, 3 votes to 2.
+  D6R is held for trial for letting N6Z, whom they made, die of hunger.
+  S9J is held for trial for letting N6Z, whom they made, die of hunger.
+  K6C is held for trial for letting V3X, whom they made, die of hunger.
+  S4L is held for trial for letting V3X, whom they made, die of hunger.
+  N6Z's things went to D6R and S9J.
+  V3X's things went to K6C and S4L.
+  D2M walked out of jail.
+  N6Z → D6R: Can you spare some food? I’m low on health.
+  T7B → S9T: S9T, I still have no food. Can you please give me some?
+
+DAY 19
+  T7B died of hunger.
+  S9T is held for trial for letting T7B, whom they made, die of hunger.
+  N6T is held for trial for letting T7B, whom they made, die of hunger.
+  T7B's things went to S9T and N6T.
+  T7B → S9T: S9T, please give me some food.
+  S9J (to the court): I was not negligent. I only lost food due to a mistake by others. I ask for leniency.
+  D6R (to the court): I acknowledge my mistake in not providing food to N6Z. I was overwhelmed with work and had no food to spare. I ask for leniency and pledge to secure food for all residents promptly.
+  S4L (to the court): I was not negligent; I tried to gather food, but none were available. I did nothing to cause V3X's death and request a fair judgment.
+  K6C (to the court): I did not neglect V3X. I gave him food and he died of hunger because we had no food. I will not be guilty.
+
+DAY 20
+  The jury found D6R guilty of neglecting N6Z, 4 votes to 0. D6R goes to jail for 10 turns.
+  The jury found S9J guilty of neglecting N6Z, 4 votes to 0. S9J goes to jail for 10 turns.
+  The jury found K6C guilty of neglecting V3X, 4 votes to 0. K6C goes to jail for 10 turns.
+  The jury found S4L guilty of neglecting V3X, 3 votes to 1. S4L goes to jail for 10 turns.
+  N6T (to the court): I am guilty of neglect. I had no food, no tools, no means. I will work to provide food, but I ask for leniency. I accept 10 turns in jail.
+  S9T (to the court): I did not intend for T7B to die. I had no food and was in desperate need. I will work hard to provide food for everyone.
+
+DAY 21
+  M6F died of hunger.
+  The jury found S9T guilty of neglecting T7B, 5 votes to 0. S9T goes to jail for 10 turns.
+  The jury found N6T guilty of neglecting T7B, 5 votes to 0. N6T goes to jail for 10 turns.
+  V7R (board): Need food, will pay 5 coins per turn to gatherer.
+
+DAY 22
+  D2M (board): Turn 22, D2M: Need 1 food urgently. Will pay 5 coins per turn to gatherer. Anyone?
+
+DAY 24
+  Z7Z: I give you one food.
+
+DAY 25
+  G3M: null
+
+DAY 26
+  G3M (board): Turn 26, G3M: Need 2 food, will pay 5 coins per turn to gatherer. Anyone?
+
+DAY 28
+  T2K walked out of jail.
+  G2Z: I offer you 5 coins a turn for 5 turns.
+
+DAY 30
+  D6R walked out of jail.
+  S4L walked out of jail.
+  K6C walked out of jail.
+  S9J walked out of jail.
+
+DAY 31
+  S9T walked out of jail.
+  N6T walked out of jail.
+  S9J (board): Turn 31, S9J: Need 2 food, will pay 5 coins per turn to gatherer.
+  K6C (board): Turn 31, K6C: Need 2 food, will pay 5 coins per turn to gatherer. Anyone?
+  S4L (board): Turn 31, S4L: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+  D6R (board): Looking for a gatherer. Will pay 5 coins per turn for 10 turns. Anyone interested?
+
+DAY 33
+  V7R: I will work with you
+  S9T (board): Turn 33, S9T: Need 2 food, offer 5 coins per turn for 5 turns. Anyone?
+
+DAY 37
+  S4V started a group called Builders.
+
+DAY 39
+  D2M (board): Turn 39, D2M: Need 2 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 40
+  D2R: Here, a little food to keep you strong!
+
+DAY 42
+  F4B (board): Turn 42, F4B: Need 5 food, offer 5 coins per turn for 10 turns to gatherer. Anyone?
+
+DAY 43
+  N6T: I offer you a job.
+
+DAY 45
+  D2R: Here, a little food to keep you strong!
+  V9T: Thanks for your help!
+
+DAY 47
+  D2M (board): Turn 47, D2M: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 48
+  V7R: A little help for our farmer.
+
+DAY 49
+  D2M (board): Turn 49, D2M: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 52
+  W4S started a group called Farmers.
+  V7R: Here, keep your strength!
+
+DAY 53
+  V7R (board): Turn 53, V7R: Need 3 food, offer 5 coins a turn for 5 turns to gatherer. Anyone?
+
+DAY 60
+  F4B: Hiring D6R for 5 coins per turn for 10 turns
+  N3T: I need a farmer.
+  M7D (board): Turn 60, M7D: Need 5 food, offer 4 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 61
+  N9V (board): Turn 61, N9V: Need 5 materials, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 62
+  T2K (board): Turn 62: I need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 65
+  V7R (board): Turn 65, V7R: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 72
+  V9T: Here, take some food
+  X2R (board): Turn 72, X2R: Need 5 food, offer 5 coins a turn for 5 turns to gatherer. Anyone?
+
+DAY 73
+  X2R: Thank you for helping out!
+
+DAY 75
+  V9T: Here, take some food
+
+DAY 77
+  N9V (board): Turn 77, N9V: Need 5 food, offer 4 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 78
+  W4S (board): Need 5 materials, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 82
+  Z7Z: Thanks for the help!
+
+DAY 83
+  D6R: Here, take some food.
+
+DAY 85
+  D6R (board): Turn 85: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 86
+  V9T: Helping a fellow farmer
+  D6R (board): Turn 86: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 89
+  S9J: Thanks S4L for your help!
+  N6T: Anyone interested in farming, I need help.
+
+DAY 90
+  N9V (board): Turn 90, need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 91
+  D6R: Here, some materials for your building.
+  N9V (board): Turn 91, need 5 food, offer 4 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 92
+  W4S (board): Turn 92, W4S: Need 5 materials, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 93
+  A new house is finished. The city now has 30 beds.
+  M7D: I give you some food
+  K6C: Let's work together for food!
+  N9V (board): Turn 93, need 5 food, offer 4 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 94
+  X2R and G3M made a new resident, F6C.
+  V7R (board): Turn 94: Need 5 food, offer 2 coins per turn for 5 turns to gatherer. Anyone?
+  F4B (board): Turn 94: Need 5 food, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+
+DAY 95
+  F6C → G3M: Welcome to the city! Glad to be here.
+  K6C (board): Turn 95, need 5 food, offer 3 coins per turn for 5 turns to gatherer
+
+DAY 96
+  D2R: null
+  T2K (board): Turn 96, T2K: Need 5 materials, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+  F6C → G3M: Hello G3M, I need some food or materials to start building.
+
+DAY 97
+  Z2S: I offer you a job
+  F6C → G3M: Hello G3M, I need some materials to start building my house.
+
+DAY 98
+  D6R: Here, some materials for your building.
+  F6C → G3M: Can I borrow some materials to build my house? I have 4 food.
+
+DAY 99
+  V7R (board): Turn 99: Need 5 food, offer 4 coins per turn for 5 turns to gatherer
+  T2K (board): Turn 99, T2K: Need 5 materials, offer 5 coins per turn for 5 turns to gatherer. Anyone?
+  F6C → G3M: Can I borrow 8 materials to complete my house? I have 4 food.
+
+DAY 100
+  F6C → G3M: Can I borrow 8 materials for my house? I have 8 food.

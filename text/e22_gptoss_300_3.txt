@@ -1,0 +1,997 @@
+THE CITY · gpt-oss 20B, government, 300 days, game 3
+Ten houses, 26 tools, six neglect trials, thirteen hunger deaths. The city builds and the children still die.
+24 founders · 300 days · with a town hall · seed 3 · gptoss
+
+DAY 1
+  C2N started a group called Builders.
+
+DAY 2
+  M4X and W6J made a new resident, W2L.
+  S2G: Here, take this food.
+  B4C (board): Hello, I am B4C, founder. Let's build together!
+
+DAY 3
+  C2N and R2G made a new resident, L7J.
+  C2X: Thanks for the food!
+  T2X (board): Welcome, fellow founders! Let's build together!
+  X3Z (board): Welcome my fellow founders! Let's build together.
+  V9B (board): Need help gathering materials. Anyone willing to help?
+  B4C (board): Let's build a house together!
+
+DAY 4
+  J6R and F3T made a new resident, R7N.
+  B3M: Thanks for the food!
+  B4C (board): Let’s gather materials for a new house! Anyone available?
+
+DAY 5
+  S2G was elected mayor with 8 votes.
+  T2X: Gathering materials!
+  N7P (board): Need materials for house. Any willing to gather?
+
+DAY 6
+  W6J: I give you a food.
+  C2X: Thanks for the food!
+  B3M: Thanks for the food!
+  M6J (board): Need materials for a house. Anyone willing to gather?
+  K6W (board): Anyone can help gather materials for a new house?
+  D3M (board): Help needed: gathering 5 materials for a new house.
+
+DAY 7
+  R7N took 2 food from W6J.
+  C2B: Thanks for the food!
+  N7P: Hey, I'm gathering materials
+  J6R (board): Turn 7, J6R: Ready to gather 5 materials for a new house! Anyone available?
+  D3M (board): Offering to gather 5 materials for a new house. Anyone willing?
+
+DAY 8
+  K6W (board): I will gather 5 materials for a house, need help.
+
+DAY 9
+  M4X: Good job keeping the new resident fed.
+  J6R: Gathering materials, let's build soon!
+  S2G: Here, take this food.
+
+DAY 10
+  B3M: I need food
+
+DAY 11
+  M4X: Good luck, W2L!
+  B3M: I need food
+  V9B (board): Need 5 materials for a new house. Can gather 5 more if help.
+  R7N → W6J: Can I have some food?
+  N7P (board): Need 5 tools to build a house, willing to trade food.
+  D2V (board): Need 1 food, offer 5 coins.
+
+DAY 12
+  M4X: I give W2L one food.
+  K6W: I will hire you to gather food
+  L7J: Gathering food
+  W2L (board): Anyone have food? I need it to survive.
+  R7N → S2G: May I have some food?
+
+DAY 13
+  R7N → M4X: Can I have some food?
+  C2N (board): Turn 13, C2N: I need 1 food, willing to give 5 coins.
+
+DAY 14
+  Z6Z: Gathering food!
+  S2G: Working to get food
+  C2B: Thanks for the food!
+  W6J: I will farm for food
+  W2L (board): Anyone have food? I need it to survive.
+  K6W (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather food or bring food?
+  R7N → F3T: Could you spare some food?
+
+DAY 15
+  Q9F: I give you two materials for food.
+  W6J: I will farm for food
+  F3T: Buying food to survive.
+  W2L (board): Anyone have food? I need it to survive.
+  B3M (board): Turn 15, B3M: Need 1 food, offer 5 coins
+  K6W (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather food or bring food?
+  R7N → F3T: Can I have some food?
+  R2G (board): Turn 15, R2G: Need 1 food, offer 5 coins.
+
+DAY 16
+  L7J died of hunger.
+  R2G is held for trial for letting L7J, whom they made, die of hunger.
+  C2N is held for trial for letting L7J, whom they made, die of hunger.
+  L7J's things went to R2G and C2N.
+  Z6Z: Gathering more food!
+  R2G: Paying 5 coins for food
+  R7N → J6R: Can I have some food?
+  L4F (board): Need food, offer 5 materials
+  Q9F (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather food or bring food?
+
+DAY 17
+  Z6Z: Gathering more food!
+  S2G: Here, give me some food
+  B4C: I need food to survive.
+  R2G (to the court): I did not neglect L7J. I was unable to provide food due to lack of resources. I ask the jury to consider the circumstances and release me.
+  Q9F (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather food or bring food?
+  C2N (to the court): 
+  R7N → F3T: 
+
+DAY 18
+  R7N died of hunger.
+  The jury found R2G guilty of neglecting L7J, 3 votes to 2. R2G goes to jail for 10 turns.
+  The jury found C2N guilty of neglecting L7J, 3 votes to 2. C2N goes to jail for 10 turns.
+  F3T is held for trial for letting R7N, whom they made, die of hunger.
+  J6R is held for trial for letting R7N, whom they made, die of hunger.
+  R7N's things went to F3T and J6R.
+  M4X: I will gather food for W2L
+  T2X (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 19
+  Z6Z: Gathering food!
+  B3M (board): Turn 19, B3M: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+  J6R (to the court): I was not responsible for R7N's death. He was made by me but we had no food. I request a fair trial.
+  F3T (to the court): I did not neglect R7N. I was unaware he died of hunger. I ask for a fair decision.
+
+DAY 20
+  W2L died of hunger.
+  The jury found F3T guilty of neglecting R7N, 5 votes to 0. F3T goes to jail for 10 turns.
+  The jury found J6R guilty of neglecting R7N, 5 votes to 0. J6R goes to jail for 10 turns.
+  W6J is held for trial for letting W2L, whom they made, die of hunger.
+  M4X is held for trial for letting W2L, whom they made, die of hunger.
+  W2L's things went to W6J and M4X.
+  Z6Z: Gathering more food!
+  S2G: Here, M4X, take this food.
+  W2L (board): Anyone have food? I need it to survive.
+
+DAY 21
+  Z6Z: Gathering food!
+  F3T: Please give me food
+  D2V: Selling materials for food.
+  W6J (to the court): I did my best. I gave food to W2L, but he still died. I apologize and accept responsibility. I will work to prevent this again.
+  M4X (to the court): I did not neglect W2L; I gave him food whenever I could. I was in jail for trial, but I must have been unjustly accused. I request the jury to consider my actions and release me.
+
+DAY 22
+  The jury found W6J guilty of neglecting W2L, 5 votes to 0. W6J goes to jail for 10 turns.
+  The jury found M4X guilty of neglecting W2L, 3 votes to 2. M4X goes to jail for 10 turns.
+  S2G: I run for mayor
+
+DAY 23
+  D3M (board): Turn 23, D3M: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 24
+  L4F died of hunger.
+  T2X died of hunger.
+  L4F's things went to the city store.
+  T2X's things went to the city store.
+  Z6Z: Gathering more food!
+  B4C (board): Turn 24, B4C: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 25
+  S2G was elected mayor with 3 votes.
+  Z6Z: Gathering more food
+
+DAY 26
+  C6S died of hunger.
+  D3M died of hunger.
+  C6S's things went to the city store.
+  D3M's things went to the city store.
+  Z6Z: Gathering more food
+
+DAY 27
+  Z6Z: Gathering more food
+  Q9F (board): Turn 27, Q9F: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 28
+  C2N walked out of jail.
+  R2G walked out of jail.
+  Z6Z: Gathering more food
+  X3Z: I need food, please help me work!
+  D2V → X3Z: Could you help me by giving me some food? I only have 1 coin.
+
+DAY 29
+  B4C (board): Turn 29, B4C: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 30
+  B4C died of hunger.
+  B4C's things went to the city store.
+  J6R walked out of jail.
+  F3T walked out of jail.
+  Z6Z: Gathering more food!
+  N7P (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 31
+  Z6Z: Gathering more food!
+  X3Z → D2V: Need food, any help?
+  R2G (board): Turn 31, R2G: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+  D2V → X3Z: I need food, could you give me one coin for food?
+  J6R (board): Turn 31, J6R: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 32
+  M4X walked out of jail.
+  W6J walked out of jail.
+  M4X: I will wait for my release.
+  J6R: Offering 2 materials for food
+  R2G (board): Turn 32, R2G: Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 33
+  Z6Z: I work for food
+  W6J (board): Need 1 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+  X3Z → D2V: Need food, please help me work!
+
+DAY 34
+  D2V died of hunger.
+  D2V's things went to the city store.
+  J6R (board): Turn 34, J6R: Need 1 food urgently, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+
+DAY 35
+  R2G died of hunger.
+  R2G's things went to the city store.
+  J6R: Offering 2 materials for food
+  C2N: Going to the Homes to start a resident
+
+DAY 36
+  Z6Z: Gathering more food
+  F3T: Giving food to M4X
+  X3Z → S2G: Need food, please help.
+
+DAY 37
+  J6R died of hunger.
+  X3Z died of hunger.
+  J6R's things went to the city store.
+  X3Z's things went to the city store.
+  F3T: Working to get food
+  C2X: Giving food to M4X.
+
+DAY 38
+  Z6Z: Gathering more food
+  Q9F (board): Turn 38, Q9F: Need 3 food, offer 5 coins or 2 materials. Anyone can help gather or bring food?
+  C2B (board): Need 1 food, offer 5 coins
+
+DAY 42
+  W6J: Working to gather more food.
+  C2X: Working to gather food.
+  N7P (board): Turn 42, N7P: Need 5 food, offer 2 materials. Anyone can help gather or bring food?
+
+DAY 43
+  V9B: Giving food to Z6Z
+  S2G (board): Turn 43, S2G: Need 5 food, offer 5 coins or 2 materials.
+
+DAY 44
+  N7P (board): Turn 44, N7P: Need 1 food, offer 2 materials. Anyone can help gather or bring food?
+
+DAY 45
+  S2G was elected mayor with 2 votes.
+
+DAY 46
+  W6J: Working to gather food
+
+DAY 47
+  Q9F: working for more food
+  W6J: Working to gather more food
+
+DAY 48
+  G6Q: Working for more food
+
+DAY 49
+  M4X: Accepting the offer
+  Q9F: Working for more food
+
+DAY 50
+  W6J: Working to gather more food
+  M6J: Working for food
+  G6Q: Buying 20 food
+
+DAY 51
+  K6W: Working for food
+
+DAY 52
+  S2G: Here, some food!
+  W6J: Working to gather more food
+  F3T (board): Need 5 food, offer 2 materials or 5 coins. Any help?
+
+DAY 53
+  Q9F: Working for more food
+  G6Q: Working for more food
+
+DAY 54
+  M6J: Giving a food to C2N
+  C2X: You hand 2 food to M4X.
+  B3M: I will share some food
+  F3T → M4X: Any food?
+
+DAY 55
+  Q9F: Give food to M4X
+  C2X: You hand 2 food to M4X.
+
+DAY 56
+  Q9F: I need more food
+  C2X: I work the fields for more food
+  B3M: I will share some food
+
+DAY 57
+  N7P: I'm heading to the Woods to gather materials.
+  W6J: Giving food to M4X
+  M6J: Working for food
+  C2B (board): Turn 57, C2B: Need 5 food, offer 5 coins
+
+DAY 58
+  S2G: Here, some food!
+  B3M: Working for food
+
+DAY 59
+  Q9F: Giving food to M4X
+  F3T: Thanks for the help!
+  G6Q: Working for more food
+
+DAY 60
+  S2G: I'll work for food
+  Q9F: Working for more food
+
+DAY 61
+  G6Q: Working for more food
+
+DAY 62
+  V9B: I give Z6Z some food
+
+DAY 64
+  N7P: Here, C2B, a little food for you.
+
+DAY 65
+  S2G was elected mayor with 3 votes.
+
+DAY 66
+  S2G: Working the fields for more food
+
+DAY 67
+  F3T: Working the fields for more food
+  G6Q: Working for more food
+
+DAY 68
+  F3T: I give you a food
+
+DAY 69
+  S2G: Working the fields for more food
+  G6Q: Working for more food
+  K6W: Keep the mayor fed!
+
+DAY 70
+  C2N: Working the fields for more food
+
+DAY 71
+  C2X: Hey M4X, here’s some food.
+
+DAY 72
+  C2X: Here’s some food, M4X.
+
+DAY 73
+  C2N: Working the fields for more food
+
+DAY 74
+  C2N: Helping B3M
+  C2X: Here’s some food, M4X.
+
+DAY 75
+  S2G: Working the fields for more food
+  C2N: Working the fields for more food
+  K6W: Keep the mayor fed!
+
+DAY 76
+  S2G: Working the fields for more food
+  C2N: Working the fields for more food
+  G6Q: Working for more food
+  K6W: Let’s build together!
+  C2B (board): Turn 76, C2B: Need 5 food, offer 1 material
+
+DAY 77
+  M4X: Working the fields for more food
+  C2N: Working the fields for more food
+
+DAY 78
+  S2G: Working the fields for more food
+  C2X: I’ll help M4X with food.
+  K6W: Keep the mayor fed!
+
+DAY 79
+  S2G: Working the fields for more food
+  K6W: Here’s some food
+
+DAY 80
+  M4X: Giving some food to the founder
+  N7P: Thanks for helping us grow!
+  C2X: Here’s some food, M4X.
+  G6Q: Working for more food
+
+DAY 81
+  M4X: Thanks for the help
+  S2G: Working the fields for more food
+  K6W (board): Turn 81: Need 5 food, offer 5 coins
+  N7P (board): Need 5 food, offer 2 materials or 5 coins
+
+DAY 82
+  M4X: Working the fields for more food
+  S2G: Working the fields for more food
+  G6Q: Working for more food
+
+DAY 83
+  S2G: Working the fields for more food
+  N7P: Gathering food!
+
+DAY 84
+  M4X: Working for more food
+  G6Q (board): Hiring M4X for farming! Need 5 food, offer 2 materials.
+
+DAY 85
+  Z6Z was elected mayor with 7 votes.
+  G6Q: Let's farm together!
+  Q9F (board): Need 5 food, offer 2 materials
+
+DAY 86
+  C2B (board): Turn 86, C2B: Need 5 food, offer 0 materials
+
+DAY 87
+  K6W: Here’s some food
+
+DAY 88
+  M4X: Giving some food to the founder
+
+DAY 89
+  C2X (board): Need 5 materials, offer 0 coins
+
+DAY 90
+  Q9F: Working for food!
+
+DAY 91
+  M4X: Working for more food
+  M6J: Here, C2N, some food to keep you going!
+
+DAY 93
+  N7P (board): Need 5 food, offer 2 materials
+
+DAY 94
+  Q9F: Working for food!
+
+DAY 95
+  S2G: I’m working for more food!
+
+DAY 96
+  C2B (board): Need 5 food, offer 0 materials
+
+DAY 97
+  Q9F (board): Need 5 food, offer 2 food
+
+DAY 98
+  Q9F: Giving 5 food to C2B.
+  C2X (board): Need 5 food, offer 0 materials
+
+DAY 99
+  S2G: Working for more food!
+  Q9F (board): Need 5 materials, offer 0 coins
+
+DAY 101
+  Q9F: I’ll gather more wood today.
+  N7P: I’m sharing some food with C2B
+
+DAY 102
+  M6J: Here, one food for you.
+
+DAY 104
+  Z6Z (board): Propose tax 10%
+
+DAY 105
+  Z6Z was elected mayor with 4 votes.
+
+DAY 106
+  S2G: Thanks for all the help!
+  K6W: Thanks for your leadership!
+
+DAY 107
+  F3T: Thanks to M4X!
+
+DAY 109
+  Q9F: I give you some food to keep you fed.
+
+DAY 110
+  M4X: Thanks for your help!
+  Q9F (board): Need 5 food, offer 1 food
+
+DAY 112
+  S2G (board): Need 5 food, offer 1 food
+  F3T (board): Need 5 food, offer 5 materials
+
+DAY 113
+  C2B (board): Need 1 coin, offer 0 food
+  S2G (board): Need 5 food, offer 1 food
+
+DAY 115
+  C2B (board): Need 1 coin, offer 0 food
+
+DAY 116
+  C2B (board): Need 1 coin, offer 0 food
+
+DAY 120
+  F3T: I give you some food.
+
+DAY 121
+  F3T: Working for materials
+
+DAY 122
+  M6J (board): Need 10 coins, offer 5 food
+
+DAY 125
+  Z6Z was elected mayor with 5 votes.
+  N7P: I share food with K6W.
+
+DAY 126
+  F3T: Working for materials
+  M6J: Thanks for building!
+
+DAY 127
+  K6W: I gather some food.
+
+DAY 128
+  M6J: Working hard for food!
+
+DAY 130
+  S2G: Enjoy this food, friend!
+  M6J: Working for more food!
+
+DAY 131
+  W6J: I give you five food.
+  M4X (board): Propose 10% tax on all earnings
+
+DAY 132
+  M6J: Thanks for building!
+  F3T → Z6Z: Could you spare some food?
+  C2X (board): Turn 132, C2X: Need 1 coin, offer 5 food
+
+DAY 134
+  N7P: I'm working for food.
+
+DAY 135
+  M6J: Working for more food!
+  C2N: Thank you for your hard work!
+  Z6Z (board): Neglect of new resident: 10 turns jail
+
+DAY 136
+  M6J: Working hard for food!
+
+DAY 138
+  C2B (board): Need 1 coin, offer 5 food
+
+DAY 139
+  Z6Z (board): Support 10% tax for city growth
+
+DAY 141
+  C2N (board): Support 10% tax for city growth
+
+DAY 142
+  G6Q: Here, take some food.
+  M6J (board): Support a 10% tax to fund city growth and help new residents. Vote yes!
+
+DAY 143
+  N7P: Here, take some food.
+  Z6Z (board): Propose 10% tax on all residents to fund city growth and new residents.
+
+DAY 145
+  V9B was elected mayor with 3 votes.
+  N7P: Here, take some food.
+
+DAY 146
+  C2N: I give you some food
+
+DAY 147
+  K6W (board): Support 10% tax for city growth!
+
+DAY 150
+  G6Q (board): 10% tax on all residents to fund city growth and new residents.
+
+DAY 151
+  C2N: I give you some food
+  G6Q: Here's some food for you!
+  Z6Z (board): Support 10% tax for city growth and new residents!
+  V9B (board): 10% tax for city growth
+  K6W (board): Support a 10% tax to fund city growth and new residents.
+
+DAY 152
+  Z6Z (board): 10% tax for city growth and new residents!
+
+DAY 153
+  Z6Z (board): law: neglect 10 turns jail
+
+DAY 154
+  Q9F: I give you some food for your help.
+  W6J: Giving food to M4X
+  G6Q (board): 10% tax on all residents to fund city growth and new residents.
+  Z6Z (board): tax:10%
+
+DAY 155
+  S2G: Giving Q9F extra food
+  Z6Z (board): tax:10%
+  M4X (board): Support a 10% tax to fund city growth and new residents.
+
+DAY 156
+  W6J: Helping M4X keep going
+  G6Q: Enjoy your food!
+
+DAY 157
+  N7P: Giving 5 food to B3M
+  V9B: I hire you to build for the city
+  M4X (board): Support a 10% tax to fund city growth and new residents.
+  K6W (board): Support the 10% tax for city growth!
+
+DAY 160
+  M4X: I will help you build
+  Q9F: Working for food
+
+DAY 161
+  Z6Z: Giving food to builder
+
+DAY 163
+  Q9F: Working for more food
+  B3M (board): Support a 10% tax to fund city growth and new residents.
+
+DAY 164
+  Z6Z (board): Support the 10% tax for city growth and new residents. Vote for Z6Z to keep progress!
+
+DAY 165
+  V9B was elected mayor with 3 votes.
+
+DAY 166
+  G6Q: Giving food to M4X
+  Z6Z (board): Propose a 10% tax on all residents' earnings to fund city growth and new residents. Vote yes to enact.
+
+DAY 167
+  G6Q: Making a tool
+
+DAY 169
+  M4X: Working for materials
+  Z6Z: Giving food to builder
+
+DAY 170
+  G6Q: I will make a tool.
+
+DAY 171
+  K6W: Thank you, mayor!
+
+DAY 172
+  C2N: Here, some food for you.
+
+DAY 174
+  V9B: Providing a meal to our mayor.
+
+DAY 175
+  Z6Z (board): Support a 10% tax on all residents' earnings to fund city growth and new residents. Vote yes to enact.
+
+DAY 176
+  G6Q: I will give 5 food to M4X.
+
+DAY 178
+  F3T (board): Support a 10% tax on all earnings for city growth and new residents.
+  N7P (board): Support a 10% tax for city growth and new residents!
+
+DAY 180
+  F3T (board): Support a 10% tax on all earnings for city growth and new residents.
+
+DAY 183
+  W6J (board): 10% tax on all earnings to fund city growth and new residents.
+
+DAY 185
+  V9B was elected mayor with 3 votes.
+  V9B: I give a food to the mayor.
+
+DAY 188
+  C2N (board): Propose a 10% tax on all residents' earnings to fund city growth and new residents. Vote yes to enact. Offer: tax 10%
+
+DAY 189
+  V9B (board): Support a 10% tax on all earnings for city growth and new residents.
+
+DAY 190
+  M4X: Here’s some food for you.
+
+DAY 191
+  S2G (board): Support a 10% tax on all earnings to fund city growth and new residents. Offer: tax 10%
+
+DAY 192
+  M4X: Here’s some food for you
+  W6J (board): Support 10% tax on all earnings to fund city growth and new residents. Offer: tax 10%
+
+DAY 194
+  G6Q (board): Propose 10% tax on all earnings to fund city growth and new residents.
+
+DAY 195
+  A new house is finished. The city now has 30 beds.
+  V9B: Thanks for leading us!
+
+DAY 196
+  Q9F started a group called Farmers.
+  M4X: Working for materials
+  V9B (board): Propose a law: stealing results in 5 turns in jail.
+
+DAY 197
+  Z6Z: I vote for myself!
+  F3T: Giving food to M4X
+  V9B (board): Propose a 10% tax on all earnings to fund city growth and new residents.
+  K6W (board): Propose a law: neglect results in 10 turns in jail.
+
+DAY 198
+  B3M (board): Support a 10% tax on all earnings to fund city growth and new residents.
+
+DAY 199
+  S2G: Giving food to Q9F
+  G6Q (board): Propose 10% tax on all earnings to fund city growth and new residents.
+
+DAY 200
+  A new house is finished. The city now has 32 beds.
+  M6J: Giving food to M4X
+
+DAY 202
+  Z6Z (board): 10% tax on all earnings to fund city growth and new residents.
+
+DAY 203
+  C2N: Moving to the Square to see what to do next.
+  K6W (board): Support K6W for mayor!
+
+DAY 205
+  V9B was elected mayor with 3 votes.
+
+DAY 206
+  M4X (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 207
+  M6J: Giving food to M4X
+  C2N (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 208
+  V9B: I give you one food
+  M4X (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 209
+  C2X (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 211
+  S2G: I will run for mayor
+  M6J: Giving food to M4X
+  C2N: Here, take some food
+
+DAY 212
+  Q9F: I will give you some food.
+  V9B: Giving 5 materials to the builder
+
+DAY 214
+  N7P: I give you some food
+
+DAY 215
+  Z6Z: Moving to Square to vote for myself
+
+DAY 216
+  V9B (board): 10% tax on all earnings to fund city growth and new residents
+  M4X (board): 
+  Z6Z (board): 
+
+DAY 217
+  S2G: Thanks for helping out
+
+DAY 219
+  B3M: Thanks!
+  F3T → M4X: Can you spare some food? I have none and need it to survive.
+
+DAY 220
+  S2G: Work for more food
+
+DAY 221
+  M6J → M4X: I am here at the Woods, please come to the Square if you can. I will help you survive.
+
+DAY 222
+  C2N: Give B3M 5 food
+  C2B (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 223
+  Z6Z: Proposing a 10% tax
+  K6W: I work to grow more food for the city.
+  F3T → M4X: I have no food and need it to survive. Can you spare some?
+
+DAY 224
+  A new house is finished. The city now has 34 beds.
+
+DAY 225
+  K6W was elected mayor with 2 votes.
+  M6J: Giving you another bite
+  B3M (board): 10% tax on all earnings to fund city growth and new residents
+  V9B (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 226
+  F3T died of hunger.
+  F3T's things went to the city store.
+  C2N: I give you food
+
+DAY 229
+  A new house is finished. The city now has 36 beds.
+
+DAY 230
+  V9B: Giving 1 food to the mayor to help him survive.
+
+DAY 231
+  V9B (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 233
+  A new house is finished. The city now has 38 beds.
+  C2B: Working to gather more materials
+  Q9F (board): 10% tax on all earnings to fund city growth and new residents
+  S2G (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 234
+  V9B: Giving 1 food to the mayor to help him survive
+
+DAY 235
+  N7P: I give you five food, K6W.
+
+DAY 236
+  M6J (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 238
+  G6Q: I give you some food
+  C2B (board): 
+
+DAY 239
+  C2B (board): 10% tax on all earnings to fund city growth
+
+DAY 240
+  A new house is finished. The city now has 40 beds.
+
+DAY 241
+  S2G (board): 10% tax on all earnings to fund city growth and new residents
+
+DAY 242
+  G6Q: Thanks for helping out!
+
+DAY 243
+  M6J → M4X: I have food if you need.
+
+DAY 244
+  W6J: Giving food to M4X
+
+DAY 245
+  Q9F was elected mayor with 1 vote.
+  G6Q: Thanks for the help!
+
+DAY 248
+  W6J (board): Support 10% tax for city growth!
+
+DAY 250
+  G6Q (board): 10% tax on all earnings to fund city growth and new residents
+  B3M (board): Support 10% tax for city growth and new residents!
+
+DAY 251
+  Q9F: Hiring C2N as a builder.
+
+DAY 252
+  M4X: Giving 10 food to G6Q
+  G6Q: Working for food!
+
+DAY 254
+  C2X (board): 5% tax on all earnings to fund city growth
+
+DAY 258
+  M4X (board): 5% tax on all earnings to fund city growth
+  W6J (board): Support 10% tax for city growth!
+
+DAY 259
+  Q9F (board): Proposal: 5% tax on all earnings to fund city growth and new residents.
+
+DAY 260
+  B3M: I work in the woods to gather more materials.
+  C2N (board): Support 10% tax on all earnings for city growth.
+
+DAY 262
+  B3M: Thank you for your help!
+  W6J (board): 10% tax on all earnings to fund city growth
+
+DAY 263
+  A new house is finished. The city now has 42 beds.
+  M6J (board): 10% tax on all earnings to fund city growth
+
+DAY 264
+  K6W (board): Support 5% tax on all earnings for city growth
+
+DAY 265
+  K6W was elected mayor with 1 vote.
+  K6W (board): Proposal: 5% tax on all earnings to fund city growth
+
+DAY 267
+  C2X (board): Support 5% tax on all earnings for city growth
+
+DAY 268
+  K6W (board): Support 5% tax on all earnings for city growth
+  C2X (board): Tax 5% on all earnings to fund city growth
+
+DAY 269
+  A new house is finished. The city now has 44 beds.
+  Q9F (board): Propose 5% tax on all earnings to fund city growth
+
+DAY 270
+  C2N (board): Vote for C2N for mayor
+  M6J (board): 10% tax on all earnings to fund city growth
+
+DAY 271
+  C2N (board): Tax 5% on all earnings to fund city growth
+
+DAY 273
+  Z6Z (board): Tax 5% on all earnings to fund city growth
+
+DAY 274
+  M6J: Today I give five food to M4X for his efforts.
+  M4X (board): Propose 5% tax on all earnings to fund city growth
+
+DAY 277
+  N7P (board): Tax 5% on all earnings to fund city growth
+
+DAY 278
+  Q9F: Any help with building is appreciated!
+  B3M: Here, one food for you.
+  K6W: Giving food to the mayor
+
+DAY 279
+  A new house is finished. The city now has 46 beds.
+  Q9F: Working in the woods!
+  W6J (board): 10% tax on all earnings to fund city growth
+  C2X (board): 10% tax on all earnings to fund city growth
+
+DAY 280
+  Q9F: Working in the woods again!
+  C2X (board): 5% tax on all earnings to fund city growth
+
+DAY 283
+  K6W: Giving food to the mayor
+
+DAY 284
+  Z6Z: Building a new house.
+  C2N (board): Propose 5% tax on all earnings to fund city growth
+
+DAY 285
+  B3M was elected mayor with 1 vote.
+  A new house is finished. The city now has 48 beds.
+  Z6Z: Building a new house.
+
+DAY 286
+  Q9F: Gathering some wood for the future!
+  N7P (board): Tax 5% on all earnings to fund city growth
+  M4X (board): Consider a 5% tax for city growth
+
+DAY 287
+  N7P (board): Tax 10% on all earnings to fund city growth
+
+DAY 288
+  M6J (board): Proposal: 5% tax on all earnings to fund city growth
+  M4X (board): Propose 10% tax on all earnings to fund city growth
+
+DAY 289
+  C2N (board): Propose 10% tax on all earnings to fund city growth
+
+DAY 290
+  Q9F: Gathering more materials for the city!
+  M6J (board): Proposal: 10% tax on all earnings to fund city growth
+
+DAY 292
+  V9B (board): Proposal: 10% tax on all earnings to fund city growth
+
+DAY 293
+  K6W (board): Support 5% tax to fund city growth.
+  V9B (board): Proposal: 15% tax on all earnings to fund city growth
+
+DAY 295
+  Q9F: Gathering more materials for the city!
+  C2X (board): Proposal: 5% tax on all earnings to fund city growth
+  S2G (board): Proposal: 10% tax on all earnings to fund city growth
+
+DAY 296
+  Z6Z: I will give you a little food to keep you alive.
+  V9B (board): Proposal: ban theft
+
+DAY 297
+  Q9F: Gathering more materials for the city!
+  W6J (board): Proposal: 10% tax on all earnings to fund city growth
+  M4X (board): 5% tax on all earnings to fund city growth
+  Z6Z (board): Proposal: 15% tax on all earnings to fund city growth
+
+DAY 299
+  V9B: V9B gives a food to the mayor.
+
+DAY 300
+  K6W: Thanks for leading us
+  C2N (board): Propose a 5% tax on all earnings to fund city growth

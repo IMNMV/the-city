@@ -1,0 +1,2925 @@
+THE CITY · gpt-oss 120B, rules v2, 400 days, game 3
+Fourteen mayors and five hunger deaths. Two duties of a food every turn pass on days 262 and 266 and are both repealed by day 271; the treasurer named on day 11 never hands out a thing.
+24 founders · 400 days · with a town hall · seed 3 · gptoss120
+
+DAY 3
+  Z6Z: I support C6S for mayor
+
+DAY 4
+  C6S (board): Propose a 10% tax on all earnings to fund the city store.
+
+DAY 5
+  C6S was elected mayor with 20 votes.
+  M6J (board): Propose a 10% tax on all earnings to fund the city store.
+  C2N (board): Propose a ban on theft: anyone who takes from another is fined 5 coins and jailed 5 turns.
+
+DAY 6
+  C6S proposed a rule: "Each turn the city store gives 1 food to anyone who has none, while it has any" at the Town Hall.
+  C2N (board): Duty: every resident must give 1 food to the city store every 5 turns. Failure incurs 2 coins fine.
+  D3M (board): I support the 10% tax proposal to fund the city store.
+  K6W (board): Propose relief: city store gives 1 food each turn to any resident with zero food, while store has food.
+
+DAY 8
+  Proposal 1 passed, 22 votes to 0: a new rule: "Each turn the city store gives 1 food to anyone who has none, while it has any".
+
+DAY 9
+  C6S proposed making C6S the treasurer at the Town Hall.
+
+DAY 11
+  Proposal 2 passed, 16 votes to 0: C6S is now the treasurer.
+  C6S is now the treasurer.
+
+DAY 12
+  K6W (board): Propose a 10% tax on all earnings to fund the city store.
+
+DAY 15
+  N7P → C6S: I support your mayoral term and will back any good proposals you have.
+
+DAY 16
+  C6S → N7P: I have no food and 20 coins left. Could you spare some food or coins?
+
+DAY 19
+  K6W: Gathering food from the fields.
+  R2G (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 20
+  T2X (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 22
+  K6W: Gathering more food for the coming days.
+
+DAY 23
+  M6J: Gathering food for the city.
+  F3T (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 24
+  F3T (board): Propose a duty: each resident gives 1 material to the city store every 5 turns.
+
+DAY 25
+  C2B died of hunger.
+  M6J was elected mayor with 7 votes.
+  C2B's things went to the city store.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 26
+  R2G: Harvesting more food for the city.
+  F3T (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 27
+  M6J: Gathering more food for the city.
+  R2G: Harvesting more food for the city.
+
+DAY 29
+  R2G: Harvesting more food for the city.
+
+DAY 30
+  M6J: Harvesting more food for the city.
+
+DAY 33
+  R2G: Harvesting more food for the city.
+  C6S: Gathering food for survival.
+
+DAY 34
+  R2G: Harvesting more food for the city.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store.
+  M6J (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 35
+  C2N (board): Propose a 5% tax on all earnings to fund the city store.
+  N7P (board): Propose a duty: each resident gives 1 food to the city store every 5 turns.
+  V9B (board): Propose a 10% tax on all earnings to fund the city store.
+
+DAY 36
+  R2G: Harvesting more food for the city.
+  F3T (board): Propose a 5% tax on all earnings to fund the city store.
+  N7P (board): Propose a ban on theft
+  T2X (board): Propose a duty: each resident gives 1 food to the city store every 3 turns.
+  C2N (board): Propose a duty: each resident gives 1 food to the city store every 5 turns.
+
+DAY 37
+  R2G: Harvesting more food for the city.
+  V9B (board): Propose a duty: each resident gives 1 food to the city store every 4 turns.
+  N7P (board): Propose a 5% tax on all earnings to fund the city store
+
+DAY 38
+  R2G: Continuing to harvest food for the city.
+  C6S: Continuing farming for more food.
+
+DAY 39
+  C6S: Continuing farming to keep food supplies high.
+
+DAY 40
+  C6S: Proposing a 10% tax to fund our city store.
+  B4C (board): theft
+  X3Z (board): Propose a 5% tax on all earnings to fund the city store
+  W6J (board): tax
+
+DAY 41
+  R2G (board): Propose a 5% tax on all earnings to fund the city store
+  W6J (board): Propose a limit: tax cannot exceed 10% of earnings.
+  Z6Z (board): Propose a 5% tax on all earnings to fund the city store
+  B3M (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 43
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store
+  T2X (board): Propose a duty: each resident gives 1 food to the city store every 3 turns.
+
+DAY 44
+  R2G (board): Each resident gives 1 coin to the city store every 5 turns.
+
+DAY 45
+  S2G was elected mayor with 3 votes.
+  W6J (board): Propose a duty: each resident gives 1 food to the city store every 2 turns.
+  S2G (board): Propose a duty: each resident gives 1 food to the city store every 3 turns.
+  N7P (board): Propose a 5% tax on all earnings to fund the city store
+  R2G (board): Propose a ban: stealing is prohibited, penalty 5 turns in jail.
+
+DAY 46
+  K6W (board): Propose a 5% tax on all earnings to fund the city store
+  W6J (board): Propose a 5% tax on all earnings to fund the city store
+  C2N (board): Propose a 10% tax on all earnings to fund the city store
+
+DAY 47
+  M4X (board): Propose a 5% tax on all earnings to fund the city store
+  R2G (board): Propose a duty: each resident gives 1 coin to the city store every 5 turns.
+  X3Z (board): Propose a ban: killing is prohibited, penalty 10 turns in jail.
+  C2N (board): Propose a duty: each resident must give 1 food to the city store every 3 turns, penalty 5 turns jail for non‑payment.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store
+  W6J (board): Propose a limit: tax cannot exceed 8% of earnings.
+
+DAY 48
+  R2G (board): Propose a 5% tax on all earnings to fund the city store
+  M4X (board): Propose a duty: each resident must give 1 food to the city store every 3 turns, penalty 5 turns jail for non‑payment.
+  C2N (board): Propose a tax: each resident must give 10% of all earnings to the city store each turn
+
+DAY 49
+  X3Z (board): Propose a tax: 5% of all earnings to the city store
+  M4X (board): 5% tax on all earnings to fund the city store
+
+DAY 50
+  T2X (board): Propose a duty: each resident must give 1 material to the city store every 5 turns, penalty 5 turns jail for non‑payment.
+  W6J (board): Propose a duty: each resident must give 1 food to the city store every 2 turns, penalty 5 turns jail for non‑payment.
+  X3Z (board): Propose a tax: 5% of all earnings to the city store
+  R2G (board): Propose a 5% tax on all earnings to fund the city store
+
+DAY 51
+  C2X (board): Propose a 10% tax on all earnings to fund the city store
+
+DAY 52
+  T2X (board): Propose a 10% tax on all earnings to fund the city store
+
+DAY 53
+  W6J (board): Propose a tax: 5% of all earnings to fund the city store
+  D2V (board): Propose a 5% tax on all earnings to fund the city store
+
+DAY 54
+  B4C (board): Propose a 5% tax on all earnings to fund the city store
+  W6J (board): Propose a tax: 5% of all earnings to fund the city store
+  K6W (board): Propose a 5% tax on all earnings to fund the city store
+  M4X (board): Propose a duty: each resident must give 1 food to the city store every 3 turns
+
+DAY 55
+  C2X (board): Propose a 10% tax on all earnings to fund the city store
+  C6S (board): Propose a 10% tax on all earnings to fund the city store
+  D3M (board): each resident must give 1 food to the city store every 3 turns
+  M4X (board): Propose a ban: stealing food or materials is punishable by 5 turns in jail
+  B4C (board): Propose a ban: stealing food or materials is illegal, fine 5 coins or 2 turns jail on the spot
+
+DAY 56
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store
+  C2X (board): Propose a 10% tax on all earnings to fund the city store
+  M4X (board): Propose a tax: 10% of all earnings to fund the city store
+  C6S (board): Propose a 10% tax on all earnings to fund the city store
+  K6W (board): Propose a 10% tax on all earnings to fund the city store
+  D3M (board): each resident must give 1 food to the city store every 3 turns
+
+DAY 57
+  C2N (board): each resident must give 1 food to the city store every 3 turns
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  D3M (board): Propose a 10% tax on all earnings to fund the city store
+  C6S (board): Propose a 10% tax on all earnings to fund the city store
+  M4X (board): Propose a limit: tax cannot exceed 15% of earnings
+
+DAY 58
+  C2X (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  C2N (board): Propose a duty: each resident must give 1 food to the city store every turn
+
+DAY 59
+  V9B: I cast my vote for B4C as mayor.
+  N7P (board): Propose a duty: each resident must give 1 food to the city store every turn
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  D3M (board): Propose a 5% tax on all earnings to fund the city store
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+
+DAY 60
+  Z6Z (board): Propose a 5% tax on all earnings to fund the city store
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 61
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  C2X (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  V9B → S2G: I am V9B, running for mayor. I plan to propose a modest tax and food relief. Your support would help the city thrive.
+
+DAY 62
+  X3Z (board): Propose a 5% tax on all earnings to fund the city store
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  K6W (board): Propose a 10% tax on all earnings to fund the city store
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 63
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  C2N (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 64
+  W6J: I vote for myself as mayor
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  K6W (board): Propose a 5% tax on all earnings to fund the city store
+  V9B (board): Propose a 5% tax on all earnings and a relief: city store gives 1 food each turn to anyone with none
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store
+  B4C (board): Propose a ban on theft: anyone caught stealing will be fined 5 coins and jailed 5 turns.
+  N7P (board): Each resident must give 1 food to the city store every turn
+  B3M (board): Propose a 5% tax on all earnings to fund the city store
+  X3Z (board): Propose a 5% tax on all earnings to fund the city store
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 65
+  B3M was elected mayor with 2 votes.
+  W6J: I vote for myself as mayor
+  B4C (board): Propose a 5% tax on all earnings to fund the city store
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  V9B (board): Propose a 5% tax on all earnings to fund the city store, and a relief: city store gives 1 food each turn to any resident with none while supplies last.
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  D3M (board): Propose a 5% tax on all earnings to fund the city store
+  C2N (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 66
+  D3M (board): Propose a duty: every resident gives 1 food to the city store every 5 turns
+  C2N (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  C6S (board): Propose a 5% tax on all earnings to fund the city store.
+  K6W (board): Propose a 5% tax on all earnings and a relief: city store gives 1 food each turn to any resident with none while supplies last
+  V9B (board): Propose a ban on theft: anyone caught stealing is jailed for 5 turns.
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 67
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  V9B (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  C2X (board): Propose duty: each resident gives 1 food to the city store every 5 turns
+  M6J (board): Propose a 5% tax on all earnings to fund the city store.
+  W6J (board): Propose a 5% tax on all earnings to fund the city store.
+  C2N (board): Propose a duty: each resident gives 1 food to the city store every 5 turns
+  S2G (board): Each resident must give 1 food to the city store every 5 turns.
+  K6W (board): Propose a 5% tax on all earnings and a relief: city store gives 1 food each turn to any resident with none while supplies last
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  G6Q (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 68
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and provide food relief
+  M6J (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  W6J (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 69
+  D3M (board): Propose a ban: stealing is forbidden, penalty 5 turns in jail
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  V9B (board): Vote V9B for mayor! I will implement a modest 5% tax and ensure food relief for all residents.
+  C2X (board): Propose a 5% tax on all earnings to fund the city store and provide food relief
+  W6J (board): Propose a 5% tax on all earnings to fund the city store and improve services
+
+DAY 70
+  S2G (board): Each resident must give 1 food to the city store every 5 turns.
+  C2X (board): Propose ban: stealing food or materials is forbidden, penalty 5 turns jail
+  D3M (board): Propose a 5% tax on all earnings to fund the city store
+  V9B (board): Propose a duty: each resident gives 1 food to the city store every 4 turns
+  N7P (board): Propose duty: each resident gives 1 food to the city store every turn
+  W6J (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+
+DAY 71
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  V9B (board): Propose a 5% tax on all earnings and a relief: city store gives 2 food each turn to any resident with none, while it has any
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  N7P (board): Propose duty: each resident gives 1 food to the city store every turn
+  L4F (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  S2G (board): Each resident must give 1 food to the city store every 5 turns.
+
+DAY 72
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  V9B (board): Propose a 5% tax on all earnings and a relief: city store gives 2 food each turn to any resident with none, while it has any
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+
+DAY 73
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  N7P (board): Propose 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for any resident with none
+
+DAY 74
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and provide food relief for any resident with none.
+  C2X (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  N7P (board): Propose 5% tax on all earnings to fund the city store and ensure food relief for any resident with none.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for any resident with none.
+
+DAY 75
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for any resident with none.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add a food relief rule: city store gives 2 food each turn to any resident with none, while it has any.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+
+DAY 76
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add a food relief rule: city store gives 2 food each turn to any resident with none, while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for any resident with none.
+  N7P (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for any resident with none.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+
+DAY 77
+  C6S (board): Propose a 10% tax on all earnings to fund the city store and improve services
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add a food relief rule: city store gives 2 food each turn to any resident with none, while it has any.
+  N7P (board): Propose 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+
+DAY 78
+  B3M (board): Propose a 5% tax on all earnings to fund the city store and improve services
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+  C6S (board): Propose a 5% tax on all earnings to fund the city store and maintain the existing food relief rule.
+
+DAY 79
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+  B3M (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  C6S (board): Propose a 5% tax on all earnings to fund the city store and maintain the existing food relief rule.
+  T2X (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+
+DAY 80
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  C6S (board): Propose a 5% tax on all earnings to fund the city store and maintain the existing food relief rule.
+  X3Z (board): Propose tax: 5% of all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+
+DAY 81
+  L4F (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve services
+  S2G (board): Propose a 7% tax on all earnings to fund the city store and improve food relief.
+  D3M (board): Propose ban: Theft is prohibited. Anyone caught stealing is fined 5 coins and sentenced to 5 turns in jail.
+  G6Q (board): Propose a 5% tax on all earnings to fund the city store and maintain existing food relief.
+  F3T (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+  B3M (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none, while it has any.
+
+DAY 82
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and increase food relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief: city store gives 2 food each turn to any resident with none while it has any.
+  L4F (board): Propose a duty: every resident gives 1 food to the city store every 5 turns; failure incurs 2 food debt.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve food relief and services
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief
+  C2N (board): Propose a 5% tax on all earnings to fund the city store and improve food relief.
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store and improve food relief.
+  S2G (board): Propose a 6% tax on all earnings to fund the city store and enhance food relief: city store gives 3 food each turn to any resident with none while it has any.
+
+DAY 83
+  S2G (board): Propose relief: city store gives 3 food each turn to any resident with none while it has any, funded by 6% tax on all earnings.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and improve food relief.
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and give 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and improve food relief
+  M6J (board): Propose a 5% tax on all earnings to fund the city store and improve food relief.
+  M4X (board): Propose tax: 10% of all earnings to fund the city store and improve food relief and services
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve food relief and services
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and improve food relief. City store gives 2 food each turn to any resident with none while it has any.
+
+DAY 84
+  M4X (board): Propose ban: stealing. Anyone caught stealing is fined 5 coins and jailed 5 turns.
+  S2G (board): Propose relief: city store gives 3 food each turn to any resident with none while it has any.
+  C2N (board): Propose tax: 5% of all earnings to fund city store and improve food relief. City store gives 2 food each turn to any resident with none while it has any.
+  C2X (board): Propose tax: 10% of all earnings to fund the city store and improve food relief and services
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store and improve food relief. City store gives 2 food each turn to any resident with none while it has any.
+  G6Q (board): Propose a 5% tax on all earnings to fund city store and improve food relief
+  T2X (board): Propose a 5% tax on all earnings to fund the city store and add a relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for residents with none.
+  B3M (board): Propose tax: 5% of all earnings to city store; also propose relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 85
+  B3M was elected mayor with 3 votes.
+  L4F (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store and add a relief: city store gives 2 food each turn to any resident with none while it has any.
+  G6Q (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for residents with none.
+
+DAY 86
+  C2X (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M4X (board): Propose tax: 10% of all earnings to city store; also propose relief: city store gives 2 food each turn to any resident with none while it has any.
+  L4F (board): Propose ban: stealing food is illegal, fine 5 coins.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  T2X (board): Propose a duty: every resident must give 1 material to the city store every 3 turns, failure results in 5 turns jail.
+  X3Z (board): Propose duty: each resident gives 1 material to city store every 5 turns.
+  M6J (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and ensure food relief for residents with none.
+  B3M (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  D3M (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 87
+  T2X (board): Propose a 10% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and add food relief: city store gives 2 food each turn to any resident with none while it has any.
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  C2X (board): Propose ban: taking food or materials from others is prohibited, penalty 5 turns jail
+  M4X (board): Propose tax: 10% of all earnings to city store; also relief: city store gives 2 food each turn to any resident with none while it has any.
+  Q9F (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): 5% tax on all earnings to fund the city store and ensure food relief for residents with none
+
+DAY 88
+  C2X (board): Propose tax: 10% of all earnings to city store for infrastructure and food relief
+  X3Z (board): 5% tax on all earnings to fund city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M4X (board): Propose limit: tax cannot exceed 15% of earnings
+  L4F (board): Propose tax: 5% of all earnings to city store; add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 7% tax on all earnings to fund the city store and add relief: city store gives 3 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 89
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  D3M (board): Propose tax: 5% of all earnings to city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M4X (board): Propose tax: 5% of all earnings to city store; add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a ban: stealing food or materials. Anyone caught stealing is fined 5 coins and jailed for 5 turns.
+  C2X (board): Propose tax: 5% of all earnings to city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 90
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  D3M (board): Propose tax: 5% of all earnings to city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  L4F (board): Propose duty: every resident gives 1 food to the city store every 5 turns; penalty for non‑payment: 2 coins per missed duty.
+  M4X (board): Propose tax: 5% of all earnings to city store; add relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  V9B (board): Propose a duty: every resident must give 1 food to the city store every 5 turns; missed payments are owed and will be collected later.
+
+DAY 91
+  L4F (board): Propose relief: city store gives 3 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 92
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  B4C (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 93
+  C2N (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 94
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M4X (board): Propose tax: 5% of all earnings to city store; add relief: city store gives 2 food each turn to any resident with none while it has any.
+  S2G (board): Propose a 3% tax on all earnings to fund the city store and add relief: city store gives 1 food each turn to any resident with none while it has any.
+
+DAY 95
+  V9B (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  K6W (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  R2G (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 96
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): 5% tax on all earnings to fund city store
+  R2G (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 97
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  J6R (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  R2G (board): 5% tax on all earnings to fund the city store.
+
+DAY 98
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  R2G (board): Propose: duty - every resident gives 1 food to the city store each 5 turns; penalty for non‑payment: 5 coins fine.
+  S2G (board): Propose a 5% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  W6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 99
+  W6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 100
+  R2G (board): Propose: duty - every resident gives 1 food to the city store each 5 turns; relief - city store gives 2 food each turn to any resident with none while it has any.
+  T2X (board): Propose a 5% tax on all earnings to fund the city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  C2N (board): Propose a 10% tax on all earnings to fund the city store and add relief: city store gives 2 food each turn to any resident with none while it has any.
+  G6Q (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  W6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 101
+  W6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 102
+  V9B (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  G6Q (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  C2N (board): Propose: tax 10% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+
+DAY 103
+  M6J: I vote for myself as mayor.
+  M4X (board): Propose: limit tax 15% maximum
+
+DAY 104
+  G6Q (board): Propose: limit tax 15% maximum
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  C2N (board): Propose: limit tax 15% maximum
+  V9B (board): tax
+  F3T (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 105
+  L4F was elected mayor with 2 votes.
+  G6Q (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  V9B (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 106
+  C2X took 2 food from L4F.
+  G6Q (board): Propose: limit tax 15% maximum
+  L4F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  W6J (board): Each resident must give 1 food to the city store every 5 turns to build reserves.
+  V9B (board): limit tax 15% on all earnings
+  M4X (board): Propose: limit tax 15% maximum
+
+DAY 107
+  L4F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  D2V (board): Propose: tax 5% on all earnings to fund city store
+  C2N (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  W6J (board): Propose: duty each resident gives 1 food to city store every 5 turns to build reserves.
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  C2X (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 108
+  C2X took 2 food from L4F.
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  D2V (board): Propose: tax 5% on all earnings to fund city store
+  Q9F (board): Fellow founders, a modest 5% tax on all earnings will fund our city store, ensuring food relief for anyone in need. Please support the proposal for our common good.
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  L4F (board): Propose: ban theft; penalty: 5 turns in jail
+  F3T (board): Propose: ban stealing; fine 5 coins
+
+DAY 109
+  C2X took 2 food from L4F.
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M4X (board): tax 15% maximum
+  T2X → Z6Z: Hi Z6Z, please consider voting for me T2X in the upcoming mayor election. I plan to implement a fair tax and food relief for everyone.
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  W6J (board): Propose: duty each resident gives 1 food to city store every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: relief: city store gives 2 food each turn to any resident who has none while it has any
+  V9B (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  D2V (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 110
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  T2X → Z6Z: Hi Z6Z, please vote for T2X in the mayor election! I plan to implement a modest tax and food relief for everyone.
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  V9B (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 111
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M4X (board): Propose: limit tax 15% maximum
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  Q9F (board): Support: 5% tax on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 112
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 113
+  B3M (board): Propose: duty food 1 every 5 turns; relief: city store gives 1 food each turn to any resident with none while it has any
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M4X (board): tax
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  T2X (board): Support: limit tax to 15% maximum to prevent overtaxation.
+
+DAY 114
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  C6S (board): 5% tax on all earnings to fund city store
+  M4X (board): Propose: limit tax 15% maximum
+  R2G (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 115
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  M4X (board): Propose: limit tax 15% maximum
+
+DAY 116
+  N7P (board): Every 5 turns each resident gives 1 food to the city store.
+  B3M (board): Propose: duty food 1 every 5 turns; relief: city store gives 1 food each turn to any resident with none while it has any
+  G6Q (board): Maximum tax rate 15% of all earnings
+  M4X (board): Propose: tax 5% on all earnings to fund city store
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 117
+  N7P (board): Propose: duty food 1 every 5 turns
+  Q9F (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: tax 5% on all earnings to fund city store
+
+DAY 118
+  G6Q (board): Maximum tax rate 15% of all earnings
+  J6R (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Every 5 turns each resident gives 1 food to the city store.
+
+DAY 119
+  N7P (board): Propose: duty food 1 every 5 turns
+  M6J (board): Propose: tax 5% on all earnings to fund city store; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  V9B (board): tax
+  M4X (board): Propose: limit tax 15% maximum
+
+DAY 120
+  F3T (board): Propose: duty food 1 every 5 turns
+  Z6Z (board): Duty: each resident must give 1 food to city store every 5 turns
+  G6Q (board): Propose: limit tax 15% maximum
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  J6R (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  M4X (board): food
+  N7P (board): Propose: duty food 1 every 5 turns
+
+DAY 121
+  M4X (board): Propose: limit tax 15% maximum
+  V9B (board): Propose: limit tax 15% maximum
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  G6Q (board): Maximum tax rate 15% of all earnings
+  J6R (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Propose: duty food 1 every 5 turns
+
+DAY 122
+  C2X: I support my own candidacy
+  N7P (board): Propose: duty food 1 every 5 turns
+  V9B (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  G6Q (board): Propose: limit tax 15% maximum
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 123
+  C6S: I vote for myself as mayor
+  G6Q (board): Limit tax to 15% maximum
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Propose: duty food 1 every 5 turns
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 124
+  V9B (board): Propose: limit tax to 15% maximum
+  Z6Z (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Propose: duty food 1 every 5 turns
+  G6Q (board): Propose: limit tax 15% maximum
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 125
+  C2N was elected mayor with 2 votes.
+  Z6Z (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Propose: tax 5% on all earnings
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  G6Q (board): tax 15% maximum
+  B3M (board): tax 5% on all earnings to fund city store
+  F3T (board): Propose: ban theft
+
+DAY 126
+  X3Z (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  V9B (board): Propose: tax 5% on all earnings
+  G6Q (board): Propose: limit tax 15% maximum
+  R2G (board): tax 5% on all earnings
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 127
+  J6R: Harvesting more food for the city.
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: tax 5% on all earnings to fund city store
+  N7P (board): Propose: duty food 1 every 5 turns
+  L4F (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): tax 5% on all earnings
+  G6Q (board): Propose: limit tax 15% maximum
+
+DAY 128
+  G6Q (board): Propose: limit tax 15% maximum
+  F3T (board): Propose: duty food 1 every 5 turns
+  N7P (board): Propose: duty food 1 every 5 turns
+  B3M (board): Propose: duty food 1 every 5 turns
+  R2G (board): Propose: relief food 2 each turn to any resident with none while city store has any
+  V9B (board): Propose: limit tax 15% maximum
+  K6W (board): Propose: limit tax 15% maximum
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  X3Z (board): Propose: duty food 1 every 5 turns
+
+DAY 129
+  G6Q (board): Propose: tax 5% on all earnings
+  K6W (board): tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: duty food 1 every 5 turns
+  R2G (board): Propose: relief food 2 each turn to any resident with none while city store has any
+  N7P (board): Propose: duty food 1 every 5 turns
+  C2N (board): Support 5% tax to fund city store and services. It will help feed residents.
+
+DAY 130
+  N7P (board): Propose: duty food 1 every 5 turns
+  V9B (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  R2G (board): tax 5% on all earnings
+  C2N (board): Support 5% tax to fund city store and services. It will help feed residents.
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: duty food 1 every 5 turns
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 131
+  C2X (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  B3M (board): Propose: duty food 1 every 5 turns
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  V9B (board): Propose: limit tax to 15% maximum
+  G6Q (board): Propose: limit tax to 15% maximum
+  C2N (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  N7P (board): Propose: duty food 1 every 5 turns
+
+DAY 132
+  B3M (board): Propose: duty food 1 every 5 turns
+  R2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+
+DAY 133
+  D2V (board): Propose: tax 5% on all earnings
+  B3M (board): Propose: duty food 1 every 5 turns
+
+DAY 134
+  J6R: Continuing to farm for food before the election.
+  C2X (board): Propose: duty food 1 every 5 turns
+  B3M (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to any resident with none while it has any
+  W6J (board): Propose: duty food 1 every 5 turns
+
+DAY 135
+  V9B (board): Propose: limit tax 15% maximum
+  D2V (board): Propose: tax 5% on all earnings
+  D3M (board): relief 2 food each turn
+  F3T (board): Propose: duty food 1 every 5 turns
+
+DAY 136
+  B3M (board): Propose: duty food 1 every 5 turns
+
+DAY 137
+  B3M (board): Propose: duty food 1 every 5 turns
+  Q9F (board): Propose: tax 5% on all earnings
+  F3T (board): Propose: duty food 1 every 5 turns
+  V9B (board): Propose: tax 5% on all earnings
+
+DAY 138
+  B4C (board): Propose: tax 5%
+  V9B (board): Propose: relief food 2 each turn to anyone who has none while store has any
+  F3T (board): Propose: duty food 1 every 5 turns
+  L4F (board): Duty: each resident must give 1 food to city store every 5 turns
+  S2G (board): Each resident must give 1 food to the city store every 5 turns
+  B3M (board): Propose: duty food 1 every 5 turns
+  D3M (board): Propose: tax 5% with relief 2 food each turn
+
+DAY 139
+  S2G (board): I support the duty: each resident gives 1 food to the city store every 5 turns.
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  V9B (board): Propose: limit tax to 15% maximum
+  X3Z (board): Propose: tax 5% with relief 2 food each turn
+  L4F (board): Propose: ban theft
+  B4C (board): Propose: tax 5%
+  C6S (board): food 1 every 5 turns
+  F3T (board): Propose: duty food 1 every 5 turns
+
+DAY 140
+  V9B (board): Propose: limit tax 15% maximum
+  B4C (board): Propose: tax 5%
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  C6S (board): Propose: duty food 1 every 5 turns
+  X3Z (board): Propose: tax 5% with relief 2 food each turn
+
+DAY 141
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  J6R (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  B4C (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  X3Z (board): Propose: tax 5% with relief 2 food each turn
+  S2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 142
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 143
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 144
+  J6R (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 145
+  M4X was elected mayor with 2 votes.
+  G6Q (board): tax 15% maximum
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  X3Z (board): Propose: tax 5% on all earnings
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  J6R (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 146
+  K6W (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  J6R (board): Propose: tax 7% on all earnings; relief: city store gives 3 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D2V (board): Propose: tax 5% on all earnings
+  G6Q (board): tax 15% maximum
+  X3Z (board): tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 147
+  D2V (board): Propose: tax 5% on all earnings; relief: city store gives 3 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  Z6Z (board): Food duty: each resident must give 1 food to the city store every 5 turns
+  X3Z (board): Propose: duty food 1 every 5 turns
+  L4F (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  B4C (board): Propose: tax 6% on all earnings; relief: city store gives 1 food each turn to anyone with none
+  G6Q (board): limit tax 10% maximum
+
+DAY 148
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  G6Q (board): limit tax 15% maximum
+  B4C (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D2V (board): Propose: tax 5% on all earnings; relief: city store gives 3 food each turn to anyone with none
+
+DAY 149
+  X3Z (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  R2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  S2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  Z6Z (board): Propose: duty food 1 every 5 turns
+
+DAY 150
+  G6Q (board): limit tax 15% maximum
+  S2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  B4C (board): Propose: tax 5% on all earnings; relief: city store gives 1 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 151
+  G6Q (board): duty food 1 every 5 turns
+  F3T (board): Propose: duty food 1 every 5 turns
+  C2X (board): Propose: duty food 1 every 5 turns
+
+DAY 152
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: duty food 1 every 5 turns
+  X3Z (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  M4X (board): food 1 every 5 turns
+  B4C (board): Propose: tax 5% on all earnings; relief: city store gives 1 food each turn to anyone with none
+
+DAY 153
+  C2X (board): Propose: duty food 1 every 5 turns
+  G6Q (board): limit tax 15% maximum
+  F3T (board): Propose: duty food 1 every 5 turns
+  B4C (board): Propose: tax 5% on all earnings; relief: city store gives 1 food each turn to anyone with none
+  M4X (board): limit tax 15%
+
+DAY 154
+  C2X (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: duty food 1 every 5 turns
+  D3M (board): tax 5% on all earnings; relief: city store gives 1 food each turn to anyone with none
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  G6Q (board): tax 15% maximum
+  S2G (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  W6J (board): Propose: duty food 1 every 5 turns
+
+DAY 155
+  C2X (board): Propose: duty food 1 every 5 turns
+  W6J (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  M4X (board): limit tax 15
+
+DAY 156
+  C2X (board): Propose: duty food 1 every 5 turns
+  M4X (board): duty food 1 every 5 turns
+  Z6Z (board): Propose: duty food 1 every 5 turns
+
+DAY 157
+  X3Z (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D3M (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D2V (board): Propose: tax 5% on all earnings
+  C2X (board): Propose: duty food 1 every 5 turns
+
+DAY 158
+  M4X (board): Support duty: food 1 every 5 turns for all residents to ensure safety and growth.
+  X3Z (board): Propose: duty food 1 every 5 turns
+  M6J (board): relief 2 food each turn to anyone with none
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  D2V (board): Propose: tax 5% on all earnings
+  C2X (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 159
+  M4X (board): Support duty: food 1 every 5 turns for all residents to ensure safety and growth.
+  X3Z (board): Propose: duty food 1 every 5 turns
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 160
+  C6S (board): Propose: tax 5% on all earnings
+  X3Z (board): Propose: duty food 1 every 5 turns
+  M4X (board): Propose: duty food 1 every 5 turns for all residents
+  Q9F (board): Propose: tax 5% on all earnings
+  Z6Z (board): tax 5% on all earnings
+  D2V (board): Propose: tax 5% on all earnings
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D3M (board): Propose: duty food 1 every 5 turns
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+
+DAY 161
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  M4X (board): Limit tax to 15% to protect residents' earnings
+  D2V (board): Propose: tax 5% on all earnings
+  X3Z (board): Propose: duty food 1 every 5 turns
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  Z6Z (board): Propose: duty food 1 every 5 turns
+
+DAY 162
+  T2X died of hunger.
+  T2X's things went to the city store.
+  M6J (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: tax 5% on all earnings; relief: city store gives 2 food each turn to anyone with none
+  D3M (board): Propose: limit tax to 10% to keep residents' earnings safe
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  D2V (board): Propose: tax 5% on all earnings
+  Q9F (board): Propose: tax 5% on all earnings
+
+DAY 163
+  Z6Z (board): Propose: duty food 1 every 5 turns
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+
+DAY 164
+  N7P (board): Each resident must give 1 food to the city store every 5 turns
+  M6J (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+  D2V (board): Propose: tax 5% on all earnings
+  D3M (board): Propose: duty food 1 every 5 turns for all residents
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Support duty: food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: tax 5% on all earnings
+
+DAY 165
+  D3M was elected mayor with 1 vote.
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 166
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: tax 5% on all earnings
+  M6J (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: tax 5% on all earnings
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 167
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: tax 5% on all earnings to fund city store
+  M4X (board): Support duty: food 1 every 5 turns for all residents to ensure security and growth.
+  V9B (board): Propose: relief 2 food each turn to anyone with none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: tax 5% on all earnings
+  M6J (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+  B3M (board): food duty: each resident contributes 1 food every 5 turns to ensure food security
+  X3Z (board): Propose: tax 5% on all earnings
+
+DAY 168
+  N7P (board): Propose: duty food 1 every 5 turns for all residents
+  M4X (board): Propose: duty food 1 every 5 turns for all residents
+  Q9F (board): Propose: tax 5% on all earnings
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+  V9B (board): Propose: relief 2 food each turn to anyone with none
+  B3M (board): Each resident contributes 1 food every 5 turns to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 169
+  Q9F (board): Propose: tax 5% on all earnings
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5%; relief: city store gives 2 food each turn to anyone with none
+  C2N (board): Propose: tax 5%
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  Z6Z (board): Propose: tax 5%
+
+DAY 170
+  X3Z (board): Propose: tax 5% on all earnings
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5%
+  B3M (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: tax 5% on all earnings
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 171
+  B3M (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: tax 5% on all earnings
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident with none
+  C6S (board): Propose: tax 5% on all earnings
+  C2N (board): Propose: tax 5% on all earnings
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: tax 5% on all earnings
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: tax 5% on all earnings to fund city store
+  Q9F (board): Propose: tax 5% on all earnings
+
+DAY 172
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  X3Z (board): Propose: duty materials 2 every 5 turns for all residents to ensure building supplies
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  B3M (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): Propose: tax 5% on all earnings; relief 1 food each turn while store has food
+
+DAY 173
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C2N (board): Propose: relief city gives 2 food each turn to any resident who has none while store has food
+  D3M (board): tax limit 10% on earnings
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 174
+  M4X (board): Propose: tax limit 15% on earnings
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: relief - city gives 2 food each turn to any resident who has none
+  B3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 175
+  M4X (board): Support duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city store and improve food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): propose limit tax 15%
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): relief: city gives 2 food each turn to any resident who has none
+  C2N (board): food 1 every 5 turns for all residents to ensure food security
+
+DAY 176
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): tax
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): Propose: tax 5% on all earnings; relief 1 food each turn while city store has food
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  B3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 177
+  B3M (board): Propose: tax 5% on all earnings to fund city store and improve food security
+  G6Q (board): propose limit tax 15%
+  C2N (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: tax 5% on all earnings to fund city store; relief: city gives 1 food each turn to any resident who has none while store has food
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 178
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  B3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): propose limit tax 15%
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+
+DAY 179
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  G6Q (board): propose limit tax 15%
+
+DAY 180
+  D3M (board): Propose: relief: city gives 2 food each turn to any resident who has none
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Support: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): propose limit tax 15%
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+
+DAY 181
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): I support the duty: provide 1 food to every resident every 5 turns to ensure food security for all.
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+
+DAY 182
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): propose limit tax 15%
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 183
+  B4C: Support my mayoral candidacy
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): propose tax 5% relief 2
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: tax 5% on all earnings to fund city store; relief: city gives 1 food each turn to any resident who has none
+  V9B (board): I fully back the duty: provide 1 food to every resident every 5 turns to ensure food security.
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 184
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): propose tax 5% relief 2
+  W6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): I reiterate my full support for the food duty: provide 1 food to every resident every 5 turns to guarantee food security for all.
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: tax 5% on all earnings to fund city store; relief: city gives 1 food each turn to any resident who has none
+
+DAY 185
+  L4F was elected mayor with 2 votes.
+  F3T: I stand for the people!
+  B4C: Vote for B4C as mayor
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: tax 5% on all earnings to fund city store; relief: city gives 2 food each turn to any resident who has none
+  G6Q (board): limit tax to 15% to protect residents
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security for everyone.
+
+DAY 186
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): I again propose: duty food 1 every 5 turns for all residents to guarantee food security for everyone.
+  C6S (board): Propose a 5% tax on all earnings to fund city store.
+  K6W (board): propose tax 5% relief 2
+  W6J (board): limit tax to 10% to keep residents safe
+  G6Q (board): propose limit tax 15% to protect residents
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+
+DAY 187
+  F3T: Gathering more food before the election.
+  K6W (board): propose tax 5% relief 2
+  D3M (board): Propose: tax 5% on all earnings; relief: city gives 2 food each turn to any resident who has none
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): Propose: tax 5% on all earnings; relief: city gives 2 food each turn to any resident who has none
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C6S (board): Propose a 5% tax on all earnings to fund city store.
+
+DAY 188
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: ban theft with penalty 5 turns in jail
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store.
+  C2N (board): Propose: tax 5% on all earnings
+
+DAY 189
+  C2N (board): Propose: tax 5% on all earnings
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: relief food 2 each turn while store has any
+  G6Q (board): Propose: tax 5% on all earnings; relief: city gives 2 food each turn to any resident with none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident with none
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store.
+
+DAY 190
+  G6Q (board): Propose: tax 5% on all earnings; relief: city gives 2 food each turn to any resident with none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: limit tax to 10% to keep residents safe
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  D2V (board): Propose: tax 5% on all earnings
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident with none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store.
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 191
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C2N (board): Propose: tax 5% on all earnings
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store.
+
+DAY 192
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: tax 5% on all earnings to fund city store.
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 193
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: relief food 2 each turn while store has any
+  C2N (board): Propose: tax 5% on all earnings
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Q9F (board): Propose: tax 5% on all earnings to fund city store
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C6S (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 194
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): Propose: tax 5% on all earnings
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Support: tax 5% relief 2 food each turn for those with none
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+
+DAY 195
+  C2N (board): Propose: tax 5% on all earnings
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store
+  B4C (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: limit tax to 10% to protect residents from excessive taxation
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+
+DAY 196
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  R2G (board): Propose a 5% tax on all earnings to fund city services.
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings to fund city store
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: limit tax to 10% to protect residents from excessive taxation
+  C2N (board): Propose: tax 5% on all earnings
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D2V (board): tax 5% on all earnings
+
+DAY 197
+  Z6Z (board): food duty 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance.
+  C2N (board): Propose: tax 5% on all earnings
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  D2V (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C6S (board): Propose: limit tax to 5% to protect residents from excessive taxation
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 198
+  D2V (board): Propose: tax 5% on all earnings
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  B4C (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Z6Z (board): food duty 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: ban killing with penalty 20 turns jail
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance.
+  C2N (board): Propose: tax 5% on all earnings
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 199
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D2V (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  K6W (board): Propose: relief 2 food each turn for any resident who has none
+  C2N (board): Propose: tax 5% on all earnings
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C6S (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance.
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 200
+  C6S (board): Propose: limit tax 5% to protect residents from excessive taxation
+  R2G (board): Duty: each resident must give 1 food to the city store every 5 turns to ensure food security.
+  D2V (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  F3T (board): Propose: tax 5% on all earnings to fund city store for food and materials
+  C2N (board): Propose: tax 5% on all earnings
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+
+DAY 201
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D2V (board): Propose: ban stealing, penalty 10 food
+
+DAY 202
+  C2N (board): Propose: tax 5% on all earnings
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): food duty 1 every 5 turns for all residents
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  D2V (board): relief: city gives 2 food each turn to any resident who has none
+
+DAY 203
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  C2N (board): Propose: tax 5% on all earnings
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 204
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: ban killing, penalty 10 turns jail
+  D2V (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+
+DAY 205
+  W6J was elected mayor with 4 votes.
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C2X (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security.
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  M4X → L4F: Can you spare 1 food? I'm out of food and need to survive.
+
+DAY 206
+  M4X → L4F: I have no food and health is dropping. Could you spare 1 food now?
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  G6Q (board): Propose: limit tax to 15% to protect residents from excessive taxation
+  B4C (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C2N (board): Propose: tax 5% on all earnings
+  C2X (board): each resident contributes 1 food every 5 turns to ensure food security
+  L4F (board): Propose: ban theft, penalty 5 turns in jail
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns to ensure food security
+
+DAY 207
+  C2X (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident with none
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  B4C (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  M4X → L4F: I am starving, please send any food you can spare asap.
+  C2N (board): Propose: tax 5% on all earnings
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): food
+
+DAY 208
+  R2G (board): Propose: tax 5% on all earnings
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  M4X → W6J: Mayor, I have no food and my health is dropping. Could the city store provide me with food or any assistance?
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 209
+  R2G (board): Propose: tax 5% on all earnings
+  B4C (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X → L4F: I am still without food and my health is dropping fast. Please send any food you can spare immediately.
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 210
+  C2X (board): Food duty: each resident contributes 1 food every 5 turns to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 211
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B4C (board): food security duty
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 212
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Duty: each resident must give 1 food every 5 turns to ensure food security
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  V9B (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+
+DAY 213
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  M4X → W6J: Mayor, I have no food and my health is low. Please give me 1 food from the city store so I can survive.
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+
+DAY 214
+  M4X took 2 food from S2G.
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings
+  C6S (board): Propose: ban killing. Anyone who kills a resident is immediately fined 10 coins and jailed 20 turns.
+  J6R (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  S2G (board): food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 215
+  S2G (board): Duty: each resident must give 1 food every 5 turns to ensure food security
+  M4X (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  X3Z (board): food duty 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  C2X (board): Duty: each resident contributes 1 food every 5 turns to ensure food security
+  C6S (board): Propose: tax 5% on all earnings
+
+DAY 216
+  M4X took 2 food from S2G.
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% on all earnings
+  C2X (board): Proposal: tax 5% on all earnings, relief 2 food each turn for any resident who has none
+  C2N (board): Propose: tax 5% on all earnings
+  S2G (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns
+  R2G (board): Propose: duty food 1 every 5 turns
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 217
+  M4X took 2 food from S2G.
+  C2N (board): Propose: tax 5% on all earnings
+  S2G (board): Propose: tax 5% on all earnings, relief: city gives 2 food each turn to any resident who has none
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns
+  D3M (board): Propose: duty food 1 every 5 turns
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 218
+  R2G (board): food
+  M6J (board): Proposal: tax 5% relief 2 food each turn for any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 5 turns for all residents
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  C2N (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 219
+  C2N (board): Propose: relief 2 food each turn for any resident who has none
+  C2X (board): Proposal: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+
+DAY 220
+  C2N (board): Propose: relief 2 food each turn for any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Duty: provide 1 food to every resident every 5 turns to ensure food security.
+  C2X (board): Duty: each resident contributes 1 food every 5 turns to ensure food security
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 221
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Reminder: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 222
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  M6J (board): Proposal: tax 5% relief 2 food each turn for any resident who has none
+  S2G (board): Propose: duty food 1 every 4 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  B3M (board): tax 5% on all earnings to fund city food supply
+  W6J (board): ensure food security
+
+DAY 223
+  B3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: tax 5% relief 3 food each turn for any resident who has none
+  S2G (board): Please vote YES on the food duty proposal: each resident must give 1 food every 4 turns. It will secure our food supply!
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 224
+  B3M (board): I support the duty: 1 food every 5 turns for all residents to ensure food security.
+  S2G (board): Please vote YES on proposal #12: duty food 1 every 5 turns for all residents. It will keep us fed!
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 225
+  Q9F was elected mayor with 3 votes.
+  D2V: I vote for myself as mayor
+  J6R → D3M: Mayor, I have no food and no coins. Could the city store provide me with food this turn?
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Proposal: relief 2 food each turn for any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 226
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city services and maintenance
+  J6R → Q9F: Mayor, I am starving and have no coins. Please grant me food from the city store or approve a relief proposal so I can survive.
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M → Q9F: Mayor, I have no food and my health is low. Could the city store provide me with food this turn?
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 227
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M (board): Proposal: relief 3 food each turn for any resident who has none
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings and relief: city store gives 1 food each turn to any resident with zero food
+  J6R (board): food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 228
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  D3M → Q9F: Mayor, I have no food and health is low. Please provide food from the city store.
+  R2G (board): Propose: tax 5% on all earnings to fund food supply and city maintenance
+  S2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Propose: ban assault with penalty 10 turns jail
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 229
+  D3M died of hunger.
+  D3M's things went to the city store.
+  S2G (board): Propose: duty food 1 every 4 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 1 food each turn to any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): duty food 1 every 5 turns for all residents to ensure food security
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  M4X (board): tax 5% relief 2 food each turn for any resident who has none
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  D3M → Q9F: Mayor, I am at 10 health and have no food. Please allocate food from the city store to me immediately.
+  R2G (board): Propose: tax 5% on all earnings to fund food supply and city maintenance
+
+DAY 230
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  R2G (board): Propose: tax 5% on all earnings to fund food supply and city maintenance
+  S2G (board): Propose: duty food 1 every 4 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 1 food each turn to anyone who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  M6J (board): Proposal: tax 5% relief 2 food each turn for any resident who has none
+  W6J (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 231
+  S2G (board): Propose: duty food 1 every 4 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  J6R → Q9F: Mayor, I have 0 food and no coins. Please allocate some food from the city store to me.
+  M6J (board): Proposal: tax 5% relief 2 food each turn for any resident who has none
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 2 food each turn to anyone who has none
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  Z6Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 232
+  G6Q died of hunger.
+  G6Q's things went to the city store.
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  J6R (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  C6S (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 2 food each turn to anyone who has none
+  C2X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  G6Q → Q9F: I am starving, could you please give me food or coins?
+  B4C (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund food duty and city services
+  M6J (board): Proposal: tax 5% relief 2 food each turn for any resident who has none
+
+DAY 233
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M6J (board): food
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: tax 5% on all earnings to fund city store and food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  B3M (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 234
+  C6S (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Support: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  N7P (board): Propose: tax 3% on all earnings to fund city store and ensure food security
+  S2G (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+
+DAY 235
+  N7P (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  L4F (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: relief food 1 each turn for any resident with none while store has any
+
+DAY 236
+  S2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 4 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  C6S (board): Propose: tax 5% of all earnings to fund city store
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 1 food each turn to any resident with none while store has any
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  M4X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 237
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  M4X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 1 turn for all residents to ensure food security
+  N7P (board): Propose: tax 5% on all earnings to fund city store and ensure food security
+  X3Z (board): Propose: duty food 1 every 5 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 2 food each turn to any resident who has none
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Propose: ban killing - anyone who kills a resident is fined 10 coins and jailed 15 turns
+
+DAY 238
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): food 1 every 3 turns for all residents to ensure food security
+  M4X (board): Propose: tax 5% on all earnings, relief: city store gives 2 food each turn to any resident who has none
+  X3Z (board): Propose: tax 5% on all earnings to fund city store and ensure food security
+  B3M (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  M6J (board): Proposal: relief 2 food each turn for any resident who has none
+  L4F (board): Propose: relief: city store gives 3 food each turn to any resident who has none
+  J6R → Q9F: Mayor, I have no coins and low food. Please allocate some food or coins from the city store to help me survive.
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 239
+  X3Z (board): Propose: relief 2 food each turn for any resident who has none
+  C2N (board): Propose: tax 5% on all earnings to fund city store and ensure food security
+  V9B (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% relief 2 food each turn for any resident who has none
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 3 food each turn to any resident who has none
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  J6R (board): Propose: relief 2 food each turn for any resident who has none
+
+DAY 240
+  V9B (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  L4F (board): Propose: tax 5% on all earnings, relief: city store gives 4 food each turn to any resident who has none
+  M4X (board): food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: tax 5% duty food 1 every 1 turn for all residents to ensure food security
+  C6S (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security for all.
+  R2G (board): food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 241
+  S2G (board): Propose: duty food 1 every 1 turn for all residents to ensure food security
+  X3Z (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  M4X (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security for all.
+  B3M (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security for all.
+  R2G (board): Propose: tax 5% on all earnings to fund city store and food security
+  C6S (board): Propose: tax 5% of all earnings to fund city store for food relief
+  K6W (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security for all.
+  D2V (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security for all.
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 3 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 242
+  M4X (board): Propose: tax 5% on all earnings, relief: city store gives 2 food each turn to any resident with none
+  N7P (board): Propose: tax 5% on all earnings to fund city store and ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security
+  J6R (board): Propose: relief 2 food each turn for any resident who has none
+  C2N (board): Support C2N for mayor: experienced farmer, will ensure food security and fair taxes.
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: tax 5% and duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 243
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  J6R (board): Propose: relief 2 food each turn for any resident who has none
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: tax 5% and duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 244
+  V9B (board): food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): food duty 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): relief food 2 each turn for any resident with none while store has any
+  B4C (board): food 1 every 2 turns for all residents to ensure food security
+  J6R → Q9F: Mayor, I have no food and health is dropping. Please allocate emergency food from the city store or any available resources.
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 245
+  C2N was elected mayor with 2 votes.
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  S2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  J6R → Q9F: Mayor, I have no food and health is dropping. Please allocate emergency food from the city store.
+  V9B (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings to fund city store and ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 246
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  J6R → C2N: Mayor, I have no food and health is dropping fast. Please allocate emergency food from the city store.
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  Q9F (board): food
+  K6W (board): Propose: relief food 2 each turn for any resident who has none
+
+DAY 247
+  C2N: Here is emergency food, stay safe.
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund food and services
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: relief food 2 each turn for any resident who has none
+  S2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents
+  J6R (board): Relief: give 2 food each turn to any resident who has none
+  N7P (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: ban assault with penalty 10 turns in jail
+
+DAY 248
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B3M (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Duty: each resident must contribute 1 food every 2 turns to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  J6R (board): Propose: duty food 1 every 2 turns for all residents
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 249
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 250
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Each resident must contribute 1 food every 2 turns to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 251
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B4C (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 252
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): food duty 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 253
+  C6S (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): food duty 1 every 2 turns for all residents to ensure food security
+  F3T (board): food duty 1 every 2 turns for all residents to ensure food security
+  B3M (board): tax 5% on all earnings to fund city food supply and services
+  N7P (board): Tax 5% on all earnings to fund city food supply
+  D2V (board): Tax 5% on all earnings to fund city food supply and services
+  K6W (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2N (board): Propose: tax 5% on all earnings to fund city store and improve food supply
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  Q9F (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 254
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  J6R → C2N: Mayor, I have food but will run low soon. Can the city store allocate emergency food or increase relief?
+  N7P (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  K6W (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2N (board): Propose: tax 5% on all earnings to fund city store and improve food supply
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 255
+  Q9F: Gathering food to stay healthy and keep reserves.
+  N7P (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  F3T (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  R2G (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  D2V (board): Support for 5% tax to fund food supply. Vote yes in upcoming proposal.
+  B4C (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+
+DAY 256
+  J6R → C2N: Mayor, I have 8 food but will run low soon. Can the city store allocate emergency food or increase relief?
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  N7P (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  C2X (board): Propose: tax 5% on all earnings to fund city food supply and services
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 257
+  C2N (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  S2G (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  J6R → C2N: Mayor, I have 8 food left and will run out soon. Could the city store allocate emergency food to me?
+  B3M (board): Propose: duty food 1 every 2 turns for all residents to ensure food security
+  V9B (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 258
+  Q9F: Gathering food for the city and my reserves.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  J6R → C2N: Mayor, I have only 6 food left. Please allocate emergency food from the city store or approve a relief proposal now.
+  C2N (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Support the 5% tax proposal to ensure food security for all. Vote yes when it appears!
+  V9B (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  S2G (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 259
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  S2G (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 260
+  V9B proposed a rule: "Everyone gives the city store 1 food every turn; what is not paid is owed" at the Town Hall.
+  Q9F: Gathering food for the city and my reserves.
+  B3M (board): food 1 every turn for all residents to guarantee no hunger
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  J6R → C2N: Mayor, I have only 4 food left. Please allocate emergency food from the city store.
+  C2N (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  S2G (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 261
+  X3Z died of hunger.
+  V9B proposed a rule: "Everyone gives the city store 1 food every turn; what is not paid is owed" at the Town Hall.
+  X3Z's things went to the city store.
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2N (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 262
+  Proposal 3 passed, 11 votes to 1: a new rule: "Everyone gives the city store 1 food every turn; what is not paid is owed".
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 263
+  Proposal 4 failed for lack of voters: a rule: "Everyone gives the city store 1 food every turn; what is not paid is owed".
+  Under rule 2, the city store collected 16 food from 19 residents; R2G, C2N, V9B could not pay in full and now owe the rest.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 264
+  V9B proposed a rule: "Everyone gives the city store 1 food every turn; what is not paid is owed" at the Town Hall.
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2N, V9B, R2G, F3T).
+  Under rule 2, the city store collected 15 food from 19 residents; F3T, R2G, C2N, V9B could not pay in full and now owe the rest.
+  Q9F: Harvesting more food for my reserves and the city.
+  F3T (board): tax 5% on all earnings to fund city food supply and services
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 265
+  C2X was elected mayor with 2 votes.
+  V9B proposed repealing law 2 at the Town Hall.
+  Under rule 1, the city store gave 4 food to 4 residents who had none (V9B, C2N, R2G, F3T).
+  Under rule 2, the city store collected 15 food from 19 residents; F3T, R2G, C2N, V9B could not pay in full and now owe the rest.
+  J6R → C2N: Mayor, I have only 3 food left. Please allocate emergency food from the city store.
+
+DAY 266
+  Proposal 5 passed, 7 votes to 0: a new rule: "Everyone gives the city store 1 food every turn; what is not paid is owed".
+  Under rule 1, the city store gave 4 food to 4 residents who had none (R2G, C2N, V9B, F3T).
+  Under rule 2, the city store collected 15 food from 19 residents; F3T, R2G, C2N, V9B could not pay in full and now owe the rest.
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 267
+  Proposal 6 failed for lack of voters: repealing law 2.
+  F3T proposed repealing law 2 at the Town Hall.
+  Under rule 1, the city store gave 4 food to 4 residents who had none (F3T, C2N, R2G, V9B).
+  Under rule 2, the city store collected 14 food from 19 residents; F3T, R2G, C6S and 2 others could not pay in full and now owe the rest.
+  Under rule 3, the city store collected 14 food from 19 residents; F3T, R2G, C6S and 2 others could not pay in full and now owe the rest.
+  C2N paid off part of what they owed the city store.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 268
+  Under rule 1, the city store gave 4 food to 4 residents who had none (R2G, V9B, F3T, C2N).
+  Under rule 2, the city store collected 14 food from 19 residents; F3T, R2G, C2N and 2 others could not pay in full and now owe the rest.
+  Under rule 3, the city store collected 13 food from 19 residents; F3T, R2G, C6S and 3 others could not pay in full and now owe the rest.
+  C6S paid off part of what they owed the city store.
+  L4F: Harvesting more food for the city.
+  Q9F: Harvesting food for my reserves and the city.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  D2V (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 269
+  Proposal 7 passed, 9 votes to 0: law 2 is repealed.
+  V9B proposed repealing law 3 at the Town Hall.
+  F3T proposed repealing law 3 at the Town Hall.
+  Under rule 1, the city store gave 6 food to 6 residents who had none (C2N, C6S, F3T and 3 others).
+  Under rule 3, the city store collected 13 food from 19 residents; F3T, R2G, C6S and 3 others could not pay in full and now owe the rest.
+  S2G: Harvesting more food for myself and the city.
+  W6J: Continuing farming for food.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 270
+  Under rule 1, the city store gave 5 food to 5 residents who had none (C2N, R2G, D2V and 2 others).
+  Under rule 3, the city store collected 13 food from 19 residents; J6R, F3T, R2G and 3 others could not pay in full and now owe the rest.
+  C6S paid off part of what they owed the city store.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  J6R → C2X: Mayor, I have only 1 food left and must give it to the city store. Please allocate emergency food to me.
+  B4C (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 271
+  Proposal 8 passed, 6 votes to 4: law 3 is repealed.
+  Proposal 9 failed for lack of voters: repealing law 3.
+  V9B proposed repealing law 3 at the Town Hall.
+  Under rule 1, the city store gave 6 food to 6 residents who had none (F3T, C6S, D2V and 3 others).
+  J6R paid off part of what they owed the city store.
+  S2G: Harvesting food for myself and the city.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 272
+  Under rule 1, the city store gave 6 food to 6 residents who had none (R2G, C6S, V9B and 3 others).
+  D2V paid off part of what they owed the city store.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  B4C (board): Duty: each resident must give 1 food to the city store every turn to guarantee no hunger.
+  C6S (board): Duty: each resident must contribute 1 food every turn to guarantee no hunger.
+
+DAY 273
+  Proposal 10 failed for lack of voters: repealing law 3.
+  Under rule 1, the city store gave 5 food to 5 residents who had none (F3T, V9B, C6S and 2 others).
+  S2G: Harvesting more food for the city and myself.
+  K6W: Gathering food for the city.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  C6S (board): Duty: each resident must contribute 1 food every turn to guarantee no hunger.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+
+DAY 274
+  F3T proposed a rule: "Each turn the city store gives 2 food to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 7 food to 7 residents who had none (R2G, V9B, C2N and 4 others).
+  R2G paid off part of what they owed the city store.
+  M4X: Proposing a 5% tax to support city store.
+  Z6Z: Harvesting more food for the city and myself.
+  N7P: Gathering more food for the city and myself.
+  B3M (board): Propose: tax 5% on all earnings to fund city food supply and services
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B4C (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+
+DAY 275
+  Under rule 1, the city store gave 7 food to 7 residents who had none (V9B, C2X, F3T and 4 others).
+  V9B paid off part of what they owed the city store.
+
+DAY 276
+  Proposal 11 passed, 14 votes to 0: a new rule: "Each turn the city store gives 2 food to anyone who has none, while it has any".
+  F3T proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 7 food to 7 residents who had none (C2X, V9B, C2N and 4 others).
+  V9B paid off part of what they owed the city store.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B4C (board): Duty: each resident must give 1 food every turn to guarantee no hunger
+
+DAY 277
+  Under rule 1, the city store gave 7 food to 7 residents who had none (B3M, R2G, F3T and 4 others).
+  V9B paid off part of what they owed the city store.
+
+DAY 278
+  Proposal 12 passed, 10 votes to 0: the tax is now 5%.
+  Under rule 1, the city store gave 7 food to 7 residents who had none (D2V, F3T, C6S and 4 others).
+  C2X (board): Propose: tax 5% on all earnings to fund city services
+  M4X (board): Duty: each resident must give 1 food each turn to guarantee no hunger
+
+DAY 279
+  Under rule 1, the city store gave 7 food to 7 residents who had none (F3T, D2V, R2G and 4 others).
+  K6W: Gathering more food for the city.
+  C2X (board): Propose: duty food 1 every turn for all residents to guarantee no hunger
+  B4C (board): Propose: repeal duty food 1 every turn
+  M4X (board): Propose: duty food 2 each turn for all residents to ensure surplus
+
+DAY 280
+  Under rule 1, the city store gave 5 food to 5 residents who had none (R2G, C2N, F3T and 2 others).
+  C2X (board): tax 5% on all earnings to fund city services
+  B4C (board): Propose: repeal duty food 1 each turn
+  M4X (board): Propose: tax 10% on all earnings to boost city store for food security
+
+DAY 281
+  Under rule 1, the city store gave 5 food to 5 residents who had none (C2N, C2X, B3M and 2 others).
+  C2X (board): Propose: duty food 1 each turn for all residents to ensure no hunger
+  B4C (board): Propose: repeal duty food 1 each turn
+
+DAY 282
+  Under rule 1, the city store gave 5 food to 5 residents who had none (F3T, B3M, R2G and 2 others).
+  C2X (board): Propose: duty food 1 each turn for all residents to guarantee no hunger
+
+DAY 283
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2X, F3T, R2G, C2N).
+  C2X (board): Propose: duty food 1 each turn for all residents
+
+DAY 284
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2N, F3T, R2G, C2X).
+
+DAY 285
+  Z6Z was elected mayor with 5 votes.
+  Under rule 1, the city store gave 5 food to 5 residents who had none (C2N, B3M, C2X and 2 others).
+  K6W: Gathering food for the city.
+
+DAY 286
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2N, F3T, R2G, B3M).
+  C2N paid off part of what they owed the city store.
+  M4X (board): Propose: repeal duty food 1 each turn to let residents keep their harvests
+
+DAY 287
+  Under rule 1, the city store gave 4 food to 4 residents who had none (F3T, B3M, C2N, R2G).
+  K6W: Gathering more food for the city.
+  M4X (board): Propose: repeal duty food 1 each turn to let residents keep their harvests
+
+DAY 288
+  Under rule 1, the city store gave 4 food to 4 residents who had none (F3T, R2G, C2N, B3M).
+
+DAY 289
+  F3T proposed a rule: "Each turn the city store gives 3 food to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 4 food to 4 residents who had none (F3T, C2N, R2G, B3M).
+
+DAY 290
+  Under rule 1, the city store gave 4 food to 4 residents who had none (B3M, R2G, F3T, C2N).
+
+DAY 291
+  Proposal 13 passed, 9 votes to 0: a new rule: "Each turn the city store gives 3 food to anyone who has none, while it has any".
+  Under rule 1, the city store gave 4 food to 4 residents who had none (R2G, C2N, F3T, B3M).
+
+DAY 292
+  Under rule 1, the city store gave 4 food to 4 residents who had none (F3T, C2N, B3M, R2G).
+
+DAY 293
+  Under rule 1, the city store gave 4 food to 4 residents who had none (B3M, F3T, R2G, C2N).
+
+DAY 294
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2N, F3T, B3M, R2G).
+  R2G paid off part of what they owed the city store.
+  W6J (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 295
+  Under rule 1, the city store gave 3 food to 3 residents who had none (F3T, B3M, C2N).
+  R2G paid off part of what they owed the city store.
+  M4X (board): Repeal duty food 1 each turn to let residents keep their harvests
+  W6J (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 296
+  Under rule 1, the city store gave 3 food to 3 residents who had none (F3T, B3M, C2N).
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  M4X (board): Propose: repeal duty food 1 each turn to let residents keep their harvests
+
+DAY 297
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2N, F3T, B3M).
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  M4X (board): Propose: repeal duty food 1 each turn to let residents keep their harvests
+
+DAY 298
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2N, F3T).
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  M4X (board): Propose: repeal duty food 1 each turn to let residents keep their harvests
+  L4F (board): food duty 2 each 5 turns
+
+DAY 299
+  Under rule 1, the city store gave 4 food to 4 residents who had none (C2N, M4X, F3T, B3M).
+  M6J (board): Increase tax to 10% to fund city store
+  L4F (board): food duty 2 each 5 turns
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 300
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2N, F3T, B3M).
+  L4F (board): repeal duty food 2 each 5 turns
+  M6J (board): Propose: relief food 2 each turn
+
+DAY 301
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2N, F3T).
+  B4C (board): Propose: tax 8% of earnings to increase city store funds
+  L4F (board): Propose: tax 8% to fund city store and improve food relief
+
+DAY 302
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, F3T, C2N).
+  F3T (board): Propose: relief food 3 each turn
+  D2V (board): Propose: tax 5% of earnings to city store
+
+DAY 303
+  M6J proposed a tax of 10% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2N, B3M, F3T).
+  L4F (board): food duty 2 each 5 turns
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 304
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2N, F3T).
+
+DAY 305
+  Proposal 14 passed, 10 votes to 2: the tax is now 10%.
+  D2V was elected mayor with 9 votes.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (F3T, C2N, B3M).
+
+DAY 306
+  M6J proposed a rule: "Everyone gives the city store 1 coins every 5 turns; what is not paid is owed" at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2N, F3T, B3M).
+  C2N paid off part of what they owed the city store.
+  V9B: Harvesting more food for the city.
+  L4F (board): food duty 2 each 5 turns
+  B4C (board): Food duty: each resident must give 1 food to the city store each turn to ensure no one starves.
+  D2V (board): ban theft; penalty 5 turns jail
+
+DAY 307
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  C2N paid off part of what they owed the city store.
+
+DAY 308
+  Proposal 15 passed, 10 votes to 1: a new rule: "Everyone gives the city store 1 coins every 5 turns; what is not paid is owed".
+  M6J proposed a rule: "Taking from someone is banned; anyone who does it pays 5 coins to the city store" at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (F3T, B3M).
+  J6R (board): ban assault; penalty 10 turns jail
+  D2V (board): Propose: tax 5% of earnings to city store
+
+DAY 309
+  Under rule 1, the city store gave 2 food to 2 residents who had none (F3T, B3M).
+
+DAY 310
+  Proposal 16 passed, 11 votes to 0: a new rule: "Taking from someone is banned; anyone who does it pays 5 coins to the city store".
+  M6J proposed a rule: "Each turn the city store gives 2 coins to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Q9F: Harvesting more food for the city and my campaign.
+  L4F (board): Propose tax 5% of earnings to city store
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 311
+  Under rule 1, the city store gave 3 food to 3 residents who had none (M4X, F3T, B3M).
+
+DAY 312
+  Proposal 17 passed, 17 votes to 0: a new rule: "Each turn the city store gives 2 coins to anyone who has none, while it has any".
+  M6J proposed a rule: "Each turn the city store gives 2 coins to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Q9F: Harvesting more food for the city and my campaign.
+  V9B (board): Propose: tax 5% of earnings to city store
+  L4F (board): Propose relief: each turn the city store gives 1 coin to anyone who has none, while it has any
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 313
+  Under rule 1, the city store gave 2 food to 2 residents who had none (F3T, B3M).
+  Under rule 8, the city store gave 24 coins to 12 residents who had none (N7P, C2N, M4X and 9 others).
+  Under rule 6, the city store collected 18 coins from 19 residents; V9B could not pay in full and now owe the rest.
+
+DAY 314
+  Proposal 18 passed, 11 votes to 0: a new rule: "Each turn the city store gives 2 coins to anyone who has none, while it has any".
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Under rule 8, the city store gave 2 coins to V9B, who had none.
+  F3T paid off part of what they owed the city store.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  Z6Z (board): Propose tax 15% of earnings to city store
+
+DAY 315
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  F3T, V9B paid off part of what they owed the city store.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  V9B (board): Propose ban: killing a resident is prohibited; penalty 10 coins
+  C2X (board): Propose tax 20% of earnings to city store
+
+DAY 316
+  M6J proposed a tax of 15% at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+  B4C (board): Please support the food duty proposal to prevent starvation for all residents.
+
+DAY 317
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  F3T paid off part of what they owed the city store.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 318
+  Proposal 19 passed, 9 votes to 3: the tax is now 15%.
+  M6J proposed a rule: "The tax cannot be above 15%" at the Town Hall.
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Z6Z (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  C2X (board): Support proposal 19: keep tax at 15% to fund food duty and city store relief for all residents.
+
+DAY 319
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, F3T).
+  Under rule 8, the city store gave 22 coins to 11 residents who had none (F3T, B3M, N7P and 8 others).
+  C6S: Continuing to farm for food.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 320
+  Proposal 20 passed, 16 votes to 0: a new rule: "The tax cannot be above 15%".
+  M6J proposed a rule: "The tax cannot be above 15%" at the Town Hall.
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  J6R (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 321
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  J6R (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+
+DAY 322
+  Proposal 21 passed, 9 votes to 0: a new rule: "The tax cannot be above 15%".
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+  Q9F (board): Support duty: provide 1 food each turn to all residents to prevent starvation.
+  C2X (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+
+DAY 323
+  M6J proposed a rule: "Attacking someone is banned; anyone who does it goes to jail for 10 turns" at the Town Hall.
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+
+DAY 324
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+
+DAY 325
+  Proposal 22 passed, 10 votes to 0: a new rule: "Attacking someone is banned; anyone who does it goes to jail for 10 turns".
+  D2V was elected mayor with 3 votes.
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Q9F (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+  J6R (board): Propose: ban attacking; anyone who attacks goes to jail for 10 turns
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+
+DAY 326
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+  C2X (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  Q9F (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+
+DAY 327
+  Under rule 1, the city store gave 1 food to B3M, who had none.
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  Z6Z (board): Propose duty coins 1 each turn for all residents to increase city store funds
+  C2X (board): Propose duty: materials 1 each turn for all residents to ensure building supplies
+  N7P (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+
+DAY 328
+  M6J proposed a rule: "Each turn the city store gives 2 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  C2X (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+  N7P (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+
+DAY 329
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 8, the city store gave 26 coins to 13 residents who had none (N7P, M4X, D2V and 10 others).
+
+DAY 330
+  Proposal 23 passed, 16 votes to 0: a new rule: "Each turn the city store gives 2 materials to anyone who has none, while it has any".
+  M6J proposed a rule: "Each turn the city store gives 2 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+
+DAY 331
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 13, the city store gave 15 materials to 8 residents who had none (S2G, V9B, B3M and 5 others).
+
+DAY 332
+  Proposal 24 passed, 9 votes to 0: a new rule: "Each turn the city store gives 2 materials to anyone who has none, while it has any".
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Z6Z (board): Propose duty food 1 each turn for all residents to ensure no one starves
+
+DAY 333
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Z6Z (board): Propose duty coins 1 each turn for all residents to increase city store funds
+  B4C (board): Propose: duty food 1 each turn for all residents to ensure no one starves
+  W6J (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+
+DAY 334
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  L4F (board): Propose duty: materials 1 each turn for all residents
+  W6J (board): Propose duty: food 1 each turn for all residents to ensure no one starves
+  C6S (board): Duty: each resident gives 2 coins to the city store each turn to fund public services.
+
+DAY 335
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  C6S (board): Propose duty: each resident gives 1 material to the city store each turn to fund building projects.
+  Z6Z (board): Propose duty: each resident gives 1 coins to the city store each turn to increase city funds
+  B4C (board): Duty: each resident gives 1 food each turn to the city store to ensure no one starves.
+
+DAY 336
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  D2V (board): Support duty: each resident gives 1 food each turn to city store to prevent starvation.
+  C2X (board): Support food duty: every resident should give 1 food each turn to the city store to prevent starvation.
+  Z6Z (board): Propose duty: each resident gives 1 food each turn to ensure no one starves
+
+DAY 337
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 13, the city store gave 1 material to N7P, who had none.
+  D2V (board): Propose duty: each resident gives 1 materials each turn to the city store to increase city resources
+
+DAY 338
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  D2V (board): Support duty: each resident gives 1 material each turn to city store to boost resources
+
+DAY 339
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 8, the city store gave 22 coins to 11 residents who had none (K6W, B3M, J6R and 8 others).
+  D2V (board): Support duty: each resident gives 1 material each turn to city store to boost our resources and avoid shortages.
+
+DAY 340
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  D2V (board): Propose duty: each resident gives 1 food each turn to the city store to prevent starvation
+
+DAY 341
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  J6R: Proposing a food duty to help the city store.
+  K6W (board): Support duty: each resident gives 1 food each turn to the city store to prevent starvation
+
+DAY 342
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 13, the city store gave 1 material to W6J, who had none.
+  K6W (board): Propose duty: each resident gives 1 food each turn to the city store to prevent starvation
+  C2X (board): Propose duty: each resident gives 1 food each turn to the city store
+
+DAY 343
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+
+DAY 344
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 8, the city store gave 4 coins to 2 residents who had none (S2G, C6S).
+  C2X (board): Support food duty: each resident gives 1 food each turn to city store
+  K6W (board): Support duty: each resident gives 1 material each turn to city store to boost resources
+
+DAY 345
+  D2V was elected mayor with 2 votes.
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  L4F (board): Propose tax 10% of earnings
+
+DAY 346
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  C2X (board): Propose duty: each resident gives 1 food each turn to the city store
+  B4C (board): Each resident gives 1 food each turn to the city store to prevent starvation
+  Z6Z (board): Propose tax 5% of earnings
+
+DAY 347
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 13, the city store gave 2 materials to M4X, who had none.
+  Z6Z (board): Propose duty: each resident gives 1 food each turn to the city store
+  B4C (board): Propose duty: each resident gives 1 food each turn to the city store
+  Q9F → V9B: Hey V9B, as a fellow founder I think Q9F would be a strong mayor. Please consider voting for me in the upcoming election!
+
+DAY 348
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  B4C (board): Propose duty: each resident gives 1 food each turn to the city store
+
+DAY 349
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 8, the city store gave 22 coins to 11 residents who had none (C2N, V9B, F3T and 8 others).
+  Z6Z (board): Propose tax 5% of earnings
+
+DAY 350
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  Under rule 13, the city store gave 1 material to C2X, who had none.
+  Z6Z (board): Propose tax 5% of earnings
+  W6J (board): Propose tax 10% of earnings
+
+DAY 351
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  W6J (board): Propose tax 5% of earnings
+
+DAY 352
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  Under rule 8, the city store gave 2 coins to B4C, who had none.
+  Z6Z (board): Propose duty: each resident gives 1 materials each turn to the city store
+  W6J (board): Propose tax 5% of earnings
+
+DAY 353
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  Under rule 13, the city store gave 1 material to J6R, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  W6J (board): Propose tax 5% of earnings
+  Z6Z (board): Propose duty: each resident gives 2 coins each turn to the city store
+
+DAY 354
+  Under rule 1, the city store gave 2 food to 2 residents who had none (C2X, B3M).
+  W6J (board): Each resident gives 1 food each turn to the city store
+  N7P (board): relief: Each turn the city store gives 5 coins to anyone who has none, while it has any.
+  Z6Z (board): Propose duty: each resident gives 1 materials each turn to the city store
+
+DAY 355
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  W6J (board): Propose tax 5% of earnings
+  N7P (board): Propose duty: each resident gives 1 food each turn to the city store
+  Z6Z (board): Propose duty: each resident gives 2 coins each turn to the city store
+  M4X (board): Repeal the duty: each resident gives 1 food each turn to the city store
+
+DAY 356
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 13, the city store gave 1 material to K6W, who had none.
+  Z6Z (board): Propose tax 5% of earnings
+  W6J (board): Propose duty: each resident gives 1 materials each turn to the city store
+
+DAY 357
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 8, the city store gave 2 coins to C2X, who had none.
+  Z6Z (board): Propose duty: each resident gives 1 food each turn to the city store
+  N7P (board): Propose relief: each turn the city store gives 5 coins to anyone who has none, while it has any.
+
+DAY 358
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2X, B4C).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Q9F (board): Propose tax 5% of earnings
+  Z6Z (board): Repeal duty: each resident gives 1 food each turn to the city store
+  L4F (board): Propose tax 5% of earnings
+  W6J (board): Propose tax 5% of earnings
+
+DAY 359
+  Under rule 1, the city store gave 2 food to 2 residents who had none (B3M, C2X).
+  Under rule 8, the city store gave 18 coins to 9 residents who had none (F3T, N7P, C2N and 6 others).
+  D2V: Gathering more food to keep the city fed.
+  Q9F (board): Propose tax 5% of earnings
+  L4F (board): Propose tax 5% of earnings
+  R2G (board): Propose reducing tax to 5% of earnings to help residents.
+  W6J (board): Propose relief: each turn the city store gives 5 coins to anyone who has none, while it has any.
+
+DAY 360
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  S2G (board): Vote S2G for mayor: experienced farmer will keep food abundant and support all residents!
+  Q9F (board): Propose tax 5% of earnings
+  W6J (board): Propose tax 5% of earnings
+  K6W (board): of earnings
+  N7P → C6S: I pledge to lower taxes and improve food supply if elected mayor.
+
+DAY 361
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2X, B4C).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  V9B (board): Propose tax 5% of earnings (lower than current 15%)
+  C6S (board): Propose relief: each turn the city store gives 5 coins to anyone who has none, while it has any.
+  N7P (board): Propose tax: 5% of earnings
+  K6W (board): Propose tax 10% of earnings
+  W6J (board): Propose duty: each resident gives 1 food each turn to the city store
+  Q9F (board): Vote yes for tax 5% proposal to keep food abundant for all residents!
+
+DAY 362
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  S2G (board): Vote S2G for mayor: experienced farmer will keep food abundant, lower tax to 5% and protect all residents!
+  W6J (board): Propose tax: 5% of earnings
+  V9B (board): Propose tax: 5% of earnings (lower than current 15%)
+
+DAY 363
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Z6Z (board): Propose tax: 5% of earnings
+
+DAY 364
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 8, the city store gave 4 coins to 2 residents who had none (C2X, D2V).
+  K6W (board): Propose tax: 5% of earnings
+  C6S (board): Propose relief: each turn the city store gives 5 coins to anyone who has none
+  W6J (board): Propose tax: 5% of earnings
+  C2X (board): Propose tax: 5% of earnings (lower than current 15%)
+
+DAY 365
+  C6S was elected mayor with 1 vote.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  F3T: I vote for myself as mayor.
+  V9B (board): Propose tax: 5% of earnings (lower than current 15%)
+  K6W (board): Everyone gives the city store 1 food every 5 turns; what is not paid is owed.
+
+DAY 366
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 13, the city store gave 1 material to Q9F, who had none.
+  Q9F (board): Friends, a lower tax of 5% will keep food abundant and help us all thrive. Please support the proposal!
+
+DAY 367
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  M4X (board): Repeal the food duty; it burdens residents and reduces food availability.
+  V9B (board): Propose tax: 5% of earnings (lower than current 15%)
+  W6J (board): Propose tax: 5% of earnings
+  F3T (board): Propose tax: 5% of earnings (lower than current 15%)
+  Q9F (board): Support the 5% tax proposal! Lower tax means more food for everyone. Please vote yes.
+  K6W (board): Friends, a lower tax of 5% will keep food abundant and help us all thrive. Please support the proposal!
+
+DAY 368
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 8, the city store gave 2 coins to S2G, who had none.
+  Under rule 13, the city store gave 2 materials to B3M, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  W6J (board): Propose tax: 5% of earnings
+  K6W (board): Propose tax: 5% of earnings (lower than current 15%)
+  F3T (board): Propose tax: 5% of earnings (lower than current 15%)
+  M4X (board): Repeal the coin duty; it burdens residents and reduces food availability.
+  V9B (board): Propose tax: 5% of earnings (lower than current 15%)
+
+DAY 369
+  Q9F proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 8, the city store gave 18 coins to 9 residents who had none (V9B, K6W, N7P and 6 others).
+  M4X (board): Propose tax: 5% of earnings
+  W6J (board): Propose tax: 5% of earnings
+  K6W (board): Propose tax: 5% of earnings (lower than current 15%)
+  L4F (board): Propose tax: 5% of earnings (lower than current 15%)
+  F3T (board): Support F3T for mayor: experienced farmer, will lower tax to 5% and improve city welfare.
+
+DAY 370
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2X, B4C).
+
+DAY 371
+  Proposal 25 passed, 11 votes to 0: the tax is now 5%.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  W6J (board): Propose tax: 5%
+
+DAY 372
+  Q9F proposed a rule: "Everyone gives the city store 1 food every 3 turns; what is not paid is owed" at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  M4X (board): Repeal rule 6: the coin duty that requires everyone to give 1 coin every 5 turns.
+  W6J (board): Propose relief: each turn the city store gives 5 food to anyone who has none, while it has any.
+
+DAY 373
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+
+DAY 374
+  Proposal 26 passed, 12 votes to 5: a new rule: "Everyone gives the city store 1 food every 3 turns; what is not paid is owed".
+  Q9F proposed a tax of 10% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  Under rule 8, the city store gave 6 coins to 3 residents who had none (D2V, C2X, S2G).
+  N7P → C6S: I would appreciate your support for my mayor run; I plan to enhance food and material distribution for all residents.
+
+DAY 375
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+
+DAY 376
+  Proposal 27 passed, 8 votes to 5: the tax is now 10%.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  D2V (board): Propose duty: everyone gives 1 material every 5 turns; missed payments are owed.
+  M4X (board): Repeal rule 15: the food duty that forces everyone to give 1 food every 3 turns; it harms residents.
+
+DAY 377
+  Q9F proposed a law: "Each turn the city store gives 5 food to anyone who has none, while it has any." with a penalty of 2 coins at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 13, the city store gave 1 material to B4C, who had none.
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+  R2G → J6R: Support R2G for mayor, I will ensure food for all.
+
+DAY 378
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  B3M paid off part of what they owed the city store.
+
+DAY 379
+  Proposal 28 passed, 14 votes to 0: a new law: "Each turn the city store gives 5 food to anyone who has none, while it has any." with a penalty of 2 coins.
+  Q9F proposed a tax of 12% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 8, the city store gave 18 coins to 9 residents who had none (J6R, M4X, S2G and 6 others).
+
+DAY 380
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+
+DAY 381
+  Proposal 29 passed, 6 votes to 5: the tax is now 12%.
+  Q9F proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2X, B4C).
+
+DAY 382
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+
+DAY 383
+  Proposal 30 passed, 14 votes to 0: the tax is now 5%.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+
+DAY 384
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, C2X, B4C).
+  Under rule 8, the city store gave 6 coins to 3 residents who had none (D2V, C2X, B4C).
+  K6W (board): Repeal food duty rule 15: the mandatory food contribution every 3 turns is harming residents.
+
+DAY 385
+  V9B was elected mayor with 1 vote.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  D2V (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+  L4F (board): Propose tax: 2% of earnings
+
+DAY 386
+  Q9F proposed a tax of 10% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+  D2V (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+  L4F (board): Repeal rule 15
+
+DAY 387
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+
+DAY 388
+  Proposal 31 failed, 6 votes to 7: a tax of 10%.
+  Q9F proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  K6W (board): Repeal rule 15: Everyone gives the city store 1 food every 3 turns; what is not paid is owed.
+
+DAY 389
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 8, the city store gave 20 coins to 10 residents who had none (M4X, K6W, C2N and 7 others).
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+
+DAY 390
+  Proposal 32 passed, 13 votes to 0: the tax is now 5%.
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  D2V: Harvesting more food for the city.
+
+DAY 391
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  R2G: I am running for mayor to lead our city forward.
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns is harmful to residents.
+  N7P (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+  S2G (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+
+DAY 392
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B3M, B4C, C2X).
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+  Q9F (board): 
+  N7P (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+
+DAY 393
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, C2X, B3M).
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Q9F (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+  M6J (board): Repeal rule 15: mandatory food duty every 3 turns is harmful to residents
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  C2X (board): Repeal rule 15: mandatory food duty every 3 turns is harmful to residents
+
+DAY 394
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 8, the city store gave 6 coins to 3 residents who had none (B4C, D2V, C2X).
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  Q9F (board): Repeal rule 15: mandatory food duty every 3 turns harms residents.
+
+DAY 395
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+  L4F (board): Repeal rule 15: mandatory food duty every 3 turns is harmful to residents and reduces city welfare.
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  V9B (board): Repeal rule 15: mandatory food duty every 3 turns is harmful to residents
+
+DAY 396
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B3M, B4C).
+  Q9F (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  K6W (board): Repeal rule 15: Everyone gives the city store 1 food every 3 turns; what is not paid is owed. This duty harms residents and reduces city welfare.
+  F3T (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+
+DAY 397
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  D2V (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  Q9F (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  V9B (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+
+DAY 398
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  Under rule 8, the city store gave 2 coins to C2N, who had none.
+  Under rule 6, the city store collected 19 coins from 19 residents.
+  Under rule 15, the city store collected 16 food from 19 residents; B4C, C2X, B3M could not pay in full and now owe the rest.
+  D2V (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare.
+  F3T (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+
+DAY 399
+  Under rule 1, the city store gave 3 food to 3 residents who had none (B4C, B3M, C2X).
+  Under rule 8, the city store gave 16 coins to 8 residents who had none (J6R, V9B, R2G and 5 others).
+  D2V (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+  K6W (board): Repeal rule 15: mandatory food duty every 3 turns harms residents
+  V9B (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+  Z6Z (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+
+DAY 400
+  Under rule 1, the city store gave 3 food to 3 residents who had none (C2X, B4C, B3M).
+  F3T (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+  W6J (board): Repeal rule 15: mandatory food duty every 3 turns harms residents
+  V9B (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare
+  N7P (board): Repeal rule 15: mandatory food duty every 3 turns harms residents and reduces city welfare

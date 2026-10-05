@@ -1,0 +1,17 @@
+from,to,kind,count,first_day,last_day,food_given
+L7J,R2G,message,61,216,376,
+R2G,L7J,message,37,220,373,
+W2L,D3M,message,9,372,394,
+D2V,L7J,gift,4,216,221,4
+C2B,L4F,message,3,317,321,
+L7J,M4X,message,3,234,238,
+D3M,W2L,message,2,388,395,
+W2L,N7P,message,2,389,390,
+X3Z,J6R,message,2,258,263,
+C2X,D2V,message,1,300,300,
+C2X,R2G,message,1,297,297,
+L7J,L4F,message,1,361,361,
+R2G,C2X,message,1,298,298,
+R2G,L7J,gift,1,242,242,10
+W2L,C6S,message,1,392,392,
+W6J,W2L,gift,1,215,215,10

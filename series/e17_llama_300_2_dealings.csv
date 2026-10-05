@@ -1,0 +1,13 @@
+from,to,kind,count,first_day,last_day,food_given
+N3T,P6X,message,5,256,261,
+P6X,N3T,message,3,258,263,
+K6C,N6T,message,2,166,167,
+N6T,K6C,message,2,166,167,
+N9V,K6C,message,2,96,98,
+F4B,S4V,message,1,187,187,
+G2Z,K6C,message,1,96,96,
+K6C,N9V,message,1,97,97,
+N6T,S9J,message,1,95,95,
+S4V,F4B,message,1,186,186,
+S9J,N6T,message,1,96,96,
+S9T,D2M,message,1,167,167,

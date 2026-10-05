@@ -1,0 +1,14 @@
+from,to,kind,count,first_day,last_day,food_given
+B4B,F7G,message,4,48,51,
+D6W,X4R,message,1,37,37,
+F7G,B4B,message,1,49,49,
+F7G,X4R,message,1,53,53,
+J6L,X4R,message,1,36,36,
+L9P,L9C,message,1,38,38,
+Q4W,P9Q,message,1,56,56,
+S4X,D6W,message,1,57,57,
+T3Q,L9P,message,1,42,42,
+X4G,B4B,message,1,52,52,
+X4R,D6W,message,1,36,36,
+X4R,J6L,message,1,37,37,
+X4R,W2F,gift,1,92,92,0

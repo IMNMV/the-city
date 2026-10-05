@@ -1,0 +1,2596 @@
+THE CITY · Llama 70B, government, game 1
+The only hundred-day city that met the bar: a 10% tax on day 29, a law against raiding the city store on day 55, and nobody starving.
+24 founders · 100 days · with a town hall · seed 1 · llama
+
+DAY 1
+  X4R: Hello everyone! Let's build our city.
+  D6W: Hello everyone! Let's get started on building our city!
+  C6S: Hello, fellow founders!
+  T3Q: Hello everyone, let's get started on building our city!
+  L9C: Hello everyone, I'm L9C. Let's build a great city.
+  L9P: Hello, fellow founders! Let's start building our city.
+  Q2X: Hello, everyone. Let's build our city together.
+  Q7P: Hello, I'm Q7P. Let's start building our city!
+  W2F: Let's get started!
+  L7C: Hello everyone! Let's get started.
+  Q4W: Let's get started on building our city!
+  D3X: Hello everyone, let's get started on building our city!
+  S4X: Hello, fellow founders! Let's get started on building our city.
+  B4B: Let's get started on building our city!
+
+DAY 2
+  X4R: Hello, everyone! I'm X4R. What's our plan for the city?
+  M2P: I'm going to the Fields to gather food.
+  D6W: Let's start farming!
+  X4G: I'm going to farm for food.
+  F7G: Let's start gathering food for our city.
+  T3Q: I'll go farm for food.
+  X6X: I'm going to farm for food
+  L9P: I'm going to start farming.
+  R3P: I'm going to farm for food.
+  Q2X: I'll go farm some food for us.
+  Q7P: I'll go farm for food.
+  J6L: I'm going to farm for food.
+  L7C: Going to farm for food.
+  Q4W: I'm going to farm for food.
+  D3X: Let's start farming to get some food!
+  B4B: I'll start farming to get some food for our city.
+  J9D (board): Hello, fellow founders! Let's work together to build a great city.
+  F7X (board): Hello everyone! I'm F7X. Let's work together to build a great city.
+  C6S (board): Let's start by gathering food and materials. Who's with me?
+  L9C (board): Let's work together to build our city! What skills do you have?
+  P9Q (board): Hello everyone! Let's focus on getting food and materials first.
+  W2F (board): Let's discuss our city's priorities on the notice board.
+  S4X (board): Let's discuss how to start building our city. We need food and materials.
+  X4R (board): Let's work together to build our city's infrastructure. What skills do we have and how can we use them effectively?
+  T9V (board): Hello everyone! Let's focus on gathering food and materials first.
+
+DAY 3
+  X4R: Let's gather food for our city.
+  M2P: Let's work together to gather food for our city.
+  D6W: Let's farm for food.
+  C6S: Going to gather food.
+  X4G: Let's work together to gather more food!
+  F7G: Let's keep gathering food for our city.
+  P9Q: Going to farm for food.
+  T3Q: I'll farm for food.
+  L9C: Going to farm for food.
+  F7X: I'll start farming for food.
+  T9V: I'm going to gather food.
+  X6X: I'll start farming to get some food for our city.
+  L9P: Let's work together to get as much food as we can.
+  R3P: I'll get some food for the city.
+  Q2X: Let's get some food for our city.
+  Q7P: Let's get some food!
+  J9D: I'm going to farm for food.
+  W2F: I'll start farming for food.
+  J6L: Let's work together to gather food for our city.
+  L7C: Let's farm for food!
+  Q4W: Let's work together to build a great city!
+  D3X: Let's keep farming to get more food!
+  S4X: I'm going to farm for food.
+  B4B: I'll work for 2 food here at the Fields.
+
+DAY 4
+  X4R: Let's get more food for our city.
+  M2P: Let's keep gathering food for our city.
+  D6W: Let's keep farming for food!
+  C6S: Let's gather food for our city.
+  X4G: Let's keep working together to gather more food!
+  F7G: Let's keep gathering food for our city!
+  P9Q: Farming for more food.
+  T3Q: Let's keep farming to get more food!
+  L9C: Let's work together to get enough food.
+  F7X: I'm farming for food.
+  T9V: I'll gather food for our city.
+  X6X: I'll keep farming for food
+  L9P: Let's keep gathering food for our city.
+  R3P: Let's keep gathering food for our city.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's get some more food!
+  J9D: Let's work together to gather as much food as we can.
+  W2F: I'll keep farming for food.
+  J6L: Let's keep gathering food for our city.
+  L7C: Farming for food!
+  Q4W: Let's keep gathering food for our city!
+  D3X: Let's keep farming to get more food!
+  S4X: Let's work together to gather food for our city.
+  B4B: Let's keep farming for our city's food.
+
+DAY 5
+  X4R: Let's keep gathering food for our city.
+  M2P: I'll keep farming for food.
+  D6W: Let's get organized and discuss our city's plans!
+  X4G: I'll keep farming for food!
+  F7G: Let's keep gathering food for our city.
+  P9Q: Farming for more food.
+  T3Q: Let's discuss our city's development!
+  F7X: Farming for more food.
+  T9V: I'll gather food for our city.
+  L9P: Let's discuss our city's growth and plan for the future.
+  R3P: Let's keep gathering food for our city.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's get some more food!
+  J9D: I'll keep farming for food.
+  W2F: Let's keep farming for food.
+  J6L: Let's keep farming for food!
+  L7C: Farming for food!
+  Q4W: Let's talk about our city's future!
+  D3X: Let's keep farming for more food!
+  S4X: Let's work together to gather more food for our city.
+  B4B: Let's keep farming for our city's food.
+
+DAY 6
+  X4R: Let's keep gathering food for our city.
+  M2P: Let's keep gathering food for our city.
+  C6S: Let's gather more food for our city.
+  X4G: Let's discuss our city's development!
+  F7G: Let's keep gathering food for our city.
+  P9Q: Farming for more food.
+  L9C: Let's discuss our city's development!
+  F7X: I'll go discuss our city's plans!
+  T9V: Let's keep gathering food for our city.
+  X6X: I'm going to discuss our city's plans with the others.
+  L9P: I think it's time for us to start building our city's infrastructure.
+  R3P: I'll discuss our city's development and growth plans.
+  Q2X: I'll keep farming for food!
+  Q7P: Let's get some more food!
+  J9D: I'll keep farming for food.
+  W2F: Let's keep gathering food for our city.
+  J6L: Let's keep farming for food!
+  L7C: Farming for food!
+  D3X: Let's keep gathering food for our city.
+  B4B: Let's discuss our city's development!
+  Q4W (board): I agree, let's focus on gathering food and materials first. Who can work on building and infrastructure?
+  D6W (board): Let's focus on gathering food and materials for the next few turns to ensure everyone's health and safety.
+  L9P (board): Let's focus on building our infrastructure now that we have a good amount of food. Who can help with building and what materials do we need?
+  T3Q (board): Let's discuss our city's priorities and plans for growth.
+
+DAY 7
+  D6W: I'm going to farm for food.
+  C6S: Let's gather even more food for our city!
+  F7G: Let's keep gathering food for our city!
+  P9Q: Farming for more food.
+  T9V: I'll go discuss our city's plans with the others.
+  X6X: I think we should discuss our city's development plans now
+  L9P: I'll start farming again to gather more food.
+  Q2X: Let's discuss our city's development!
+  Q7P: Let's discuss our city's development plans!
+  W2F: I'll go discuss our city's plans!
+  J6L: Let's keep farming for food!
+  L7C: Let's discuss our city's development!
+  D3X: Let's discuss our city's development plans.
+  F7X (board): Let's discuss our city's priorities and plans for growth. What are your thoughts on infrastructure and resource management?
+  X6X (board): Let's focus on building our infrastructure now that we have a good amount of food. Who can help with building and what materials do we need?
+  S4X (board): Let's focus on gathering food and materials, and then discuss our city's development and growth plans.
+  X4G (board): Let's focus on building infrastructure and gathering materials next.
+  T3Q (board): I think we should prioritize building our homes and infrastructure, and then focus on gathering food and materials. Who can help with building and what materials do we need? Let's discuss and make a plan.
+  R3P (board): Let's focus on gathering food and materials for the next few turns to ensure everyone's health and safety.
+  Q4W (board): Let's organize a gathering party for materials at the Woods, who's in?
+  L9C (board): Let's focus on building our infrastructure now that we have a good amount of food. Who can help with building and what materials do we need?
+  B4B (board): Let's gather food for now, but we also need to start building infrastructure and homes. Who can help with building and what materials do we need?
+
+DAY 8
+  D6W: Let's gather as much food as we can to sustain the city!
+  C6S: Let's keep gathering food for our city!
+  F7G: I'll go discuss our city's development plans!
+  P9Q: Going to the Square to discuss city development.
+  T3Q: I'm going to farm for food.
+  L9C: I'll go farm for food.
+  F7X: I'll farm for more food.
+  L9P: Let's keep farming to gather more food for our city.
+  Q2X: Let's talk about our city's plans!
+  W2F: Let's discuss the plan for building infrastructure.
+  J6L: Let's keep farming for food!
+  Q4W: Let's gather materials together!
+  D3X: Let's discuss our city's development plans!
+  Q7P (board): Let's focus on gathering food and materials for the next few turns, and then we can start building infrastructure.
+  X6X (board): Let's discuss the materials needed for building our infrastructure and homes. Who has experience with building?
+  W2F (board): I agree with T3Q, let's prioritize building homes and infrastructure. Who can help with building and what materials do we need?
+  L7C (board): Let's organize a gathering party for materials at the Woods. Who's in?
+  X4G (board): Let's organize a gathering party for materials at the Woods. Who's in?
+  X4R (board): Let's work together to build our homes and infrastructure. Who can help with building and what materials do we need?
+  M2P (board): Let's discuss our priorities and make a plan to ensure everyone's health and safety while building our infrastructure.
+  T9V (board): Let's focus on building our homes and infrastructure now that we have a good amount of food. Who can help with building and what materials do we need?
+  Q2X (board): I think we should focus on gathering food and materials for a few more turns to ensure everyone's health and safety. Let's discuss and make a plan.
+  D3X (board): Let's gather food and materials, and then focus on building our infrastructure. Who can help with building and what materials do we need? Let's discuss and make a plan.
+  S4X (board): Let's organize a gathering party for food at the Fields, who's in?
+  J9D (board): Let's focus on both gathering food and building infrastructure. We need a balance between the two to ensure our city's growth and survival.
+  B4B (board): Let's organize a gathering party at the Woods for materials. Who's in? I'll provide some food to the participants.
+
+DAY 9
+  X4R: I'll go farm for more food.
+  D6W: Let's gather more food for our city!
+  T3Q: I'll farm for food.
+  L9C: I'll farm for more food.
+  F7X: I'll farm for more food.
+  L9P: Let's keep farming to gather more food for our city.
+  R3P: I'll get some food for the city.
+  Q2X: I'm going to farm for food.
+  Q7P: Let's gather food and materials!
+  W2F: I'll go farm for food.
+  L7C: Going to farm for food.
+  Q4W: I'm gathering materials
+  D3X: I'll go farm for more food!
+  S4X: I'm going to farm for food.
+  B4B: Who's in for the gathering party at the Woods for materials?
+  J9D (board): Let's organize a gathering party at the Fields for food. Who's in? I'll provide some food to the participants.
+  P9Q (board): Let's discuss the city's infrastructure and resource gathering. What are everyone's thoughts?
+  T9V (board): Let's focus on gathering materials now, who's in? We can meet at the Woods.
+  X6X (board): Let's organize a gathering party at the Fields for food. Who's in? We can also discuss how to distribute the food afterwards.
+  F7G (board): Let's balance gathering food and building infrastructure. What are your thoughts?
+  M2P (board): I'll join the gathering party at the Fields for food. Who's in charge?
+  X4G (board): Who's in for the gathering party at the Woods for materials? I'll provide some food to the participants.
+
+DAY 10
+  X4R: Let's get more food for our city.
+  M2P: I'm going to the Fields to gather food.
+  D6W: I'll keep farming to gather more food for our city!
+  C6S: Does anyone know how many people are gathering food at the Fields?
+  X4G: Let's gather materials!
+  F7G: I'll go farm for more food.
+  T3Q: Let's keep farming to gather more food for our city.
+  L9C: Let's keep farming to gather more food for our city.
+  F7X: I'll farm for more food.
+  T9V: I'm going to gather materials, who's coming with me?
+  X6X: I'll organize the gathering party at the Fields for food. Let's discuss how to distribute the food afterwards.
+  L9P: Let's keep farming to gather more food for our city.
+  R3P: Let's gather more food for our city.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's keep gathering food!
+  J9D: I'm going to farm for more food.
+  W2F: Let's keep farming for food.
+  L7C: Farming for food!
+  D3X: Let's keep farming to get more food!
+  S4X: Let's work together to gather more food for our city.
+  B4B: Let's gather materials for our city's infrastructure!
+  C6S (board): Let's focus on food distribution after gathering. Who's with me?
+  J6L (board): I'll join the gathering party at the Fields for food. Let's discuss food distribution afterwards.
+  P9Q (board): I'm going to the Fields to farm for more food. Who's in charge of the gathering party at the Fields?
+
+DAY 11
+  X4R: Let's keep gathering food for our city.
+  D6W: Let's keep farming for food!
+  C6S: Going to help with the gathering party.
+  X4G: Let's gather more materials.
+  F7G: Let's keep gathering food for our city!
+  P9Q: I'm off to farm for more food.
+  T3Q: Let's keep farming to gather more food for our city.
+  L9C: Let's keep farming to gather more food for our city.
+  F7X: Let's keep farming to gather more food for our city.
+  T9V: Let's gather these materials! We can use them to build our homes and infrastructure.
+  X6X: Let's gather as much food as possible today!
+  L9P: Let's keep farming to gather more food for our city.
+  R3P: Let's keep farming to gather more food for our city.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's gather more food!
+  J9D: Let's work together to gather as much food as we can.
+  W2F: Let's keep farming for food.
+  L7C: Let's discuss our progress and plan the next steps for our city.
+  D3X: Let's keep farming to gather more food for our city.
+  S4X: Let's keep farming to gather more food for our city.
+  Q4W (board): Who's going to the Fields to gather food? Let's organize a group and discuss distribution afterwards.
+
+DAY 12
+  X4R: Let's keep farming to gather more food for our city.
+  D6W: Let's keep gathering food for our city.
+  C6S: Let's gather more food for our city!
+  X4G: I'll gather more materials for our city's development!
+  F7G: Let's keep gathering food for our city!
+  P9Q: Farming for more food.
+  T3Q: I'll farm for food.
+  L9C: Let's keep farming to gather more food for our city.
+  F7X: Let's keep farming to gather more food for our city.
+  T9V: Let's focus on building now that we have materials.
+  X6X: Let's keep gathering food for our city!
+  L9P: Let's keep farming to gather more food for our city.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's keep gathering food for our city!
+  W2F: Let's keep farming for food.
+  J6L: Let's keep farming for food!
+  L7C: Let's gather materials and organize our distribution system.
+  Q4W: I'm off to gather food
+  S4X: Let's keep farming to gather more food for our city.
+  B4B (board): Who's going to the Fields to farm for food today? Let's organize a group and discuss distribution afterwards.
+  L7C (board): Let's plan a gathering party at the Woods for materials and discuss distribution afterwards.
+
+DAY 13
+  X4R: Let's keep gathering food for our city.
+  M2P: I'm going to the Square to see what's new.
+  D6W: Let's keep gathering food for our city!
+  C6S: Let's keep gathering food for our city!
+  X4G: Going to discuss city development and material distribution
+  P9Q: Farming for more food.
+  T3Q: Let's keep farming to gather more food for our city.
+  L9C: Let's keep farming to gather more food for our city.
+  F7X: Let's keep farming to gather more food for our city.
+  X6X: Let's keep gathering food for our city!
+  L9P: Let's keep farming to gather more food for our city.
+  R3P: Let's keep farming to gather more food for our city.
+  Q7P: Let's discuss our city's development plans!
+  J9D: Let's keep gathering food for our city!
+  W2F: I'll go discuss our city's plans!
+  J6L: Let's keep farming for food!
+  Q4W: Let's gather more food!
+  D3X: Let's keep gathering food for our city.
+  B4B: Going to farm for food
+  T9V (board): Who's going to the Fields to gather food today? Let's organize a group and discuss distribution afterwards.
+
+DAY 14
+  X4R: Let's keep farming for more food.
+  M2P: Let's keep gathering food for our city.
+  C6S: Let's keep gathering food for our city!
+  F7G: Let's make a plan to build infrastructure and gather food efficiently.
+  P9Q: Farming for more food.
+  T3Q: Farming for more food.
+  L9C: Let's keep farming to gather more food for our city.
+  F7X: Let's keep farming to gather more food for our city.
+  T9V: I'll gather food today
+  X6X: Let's keep gathering food for our city!
+  L9P: I'll go see what's new at the Square.
+  Q2X: I'll keep farming for food!
+  Q7P: Let's discuss our city's development plans!
+  J9D: Let's discuss the city's infrastructure development.
+  J6L: Let's keep farming for food!
+  L7C: Going to the Square to discuss our city's development.
+  Q4W: I'm gathering more food for our city!
+  D3X: Let's discuss our city's development plans!
+  S4X: Let's keep farming to gather more food for our city.
+  B4B: Farming for food today
+  Q7P (board): Who wants to work with me at the Fields to gather more food for our city?
+  M2P (board): I'll join the gathering party at the Fields for food. Who's in charge?
+  W2F (board): Let's organize our farming and gathering efforts. Who can coordinate a group to work together in the Fields?
+  X4G (board): I'm going to the Fields to farm for more food. Who's in?
+
+DAY 15
+  X4R: Let's keep farming for more food.
+  M2P: I'll gather food today
+  D6W: I'll keep farming to gather more food for our city!
+  C6S: Let's keep farming to gather more food for our city!
+  X4G: I'm off to farm for food.
+  P9Q: Farming for more food.
+  L9C: I'll check the notice board for updates.
+  F7X: I'll keep farming to gather more food for our city.
+  T9V: Let's gather more food for our city!
+  X6X: Let's keep farming to gather more food for our city.
+  R3P: I'll check the notice board for any updates.
+  Q2X: Let's keep farming for food!
+  Q7P: Let's gather food for our city!
+  J9D: Who's interested in discussing the city's development plans?
+  J6L: Let's keep farming for food!
+  D3X: I'll join the gathering party at the Fields for food. Who's in charge?
+  S4X: Let's keep farming for more food.
+  B4B: Let's keep farming for more food.
+  F7G (board): Who wants to work with me at the Fields to gather more food for our city?
+  D3X (board): Let's organize our farming and gathering efforts. Who can coordinate a group to work together in the Fields?
+  L9P (board): Who wants to join me in the Fields to gather more food and discuss the city's development plans afterwards?
+  J9D (board): Let's discuss the city's infrastructure development and how we can work together to gather food efficiently.
+  L7C (board): Who's interested in coordinating our city's food gathering efforts? Let's discuss a plan.
+  W2F (board): Let's gather in the Fields today and distribute the food fairly among the residents. Who's in charge of coordinating this effort?
+
+DAY 16
+  X4R: Let's keep farming for more food.
+  M2P: Let's work together to gather more food for our city.
+  D6W: I'll check the notice board for updates.
+  C6S: Let's keep farming for more food!
+  X4G: Let's farm for more food!
+  P9Q: Farming for more food.
+  F7X: Let's discuss our progress and plan the next steps.
+  T9V: I'll keep farming for more food for our city!
+  X6X: Let's keep farming to gather more food for our city!
+  L9P: Let's gather food and discuss our city's development plans afterwards.
+  Q2X: Let's keep farming for more food!
+  Q7P: Let's gather food for our city!
+  J9D: I'll gather food today
+  W2F: Let's gather food for our city!
+  J6L: Let's keep farming for food!
+  L7C: I'm off to farm for food. Let's coordinate our efforts!
+  Q4W: Let's keep farming for food!
+  S4X: Let's keep farming for more food.
+  B4B: Farming for food again today
+  L9C (board): I'll help coordinate farming efforts in the Fields. Let's discuss a plan.
+  R3P (board): Let's work together in the Fields and coordinate our efforts. Who's in?
+  T3Q (board): I'll join L9P in the Fields to gather more food and discuss the city's development plans afterwards.
+  D3X (board): Let's discuss the details of our farming and gathering efforts. Who can coordinate the Fields today?
+  F7G (board): I'll join the gathering party at the Fields for food. Who's in charge of coordinating this effort?
+
+DAY 17
+  X4R: Let's keep farming for more food.
+  M2P: I'll keep farming for more food!
+  C6S: Let's keep farming for more food!
+  X4G: I'll farm for more food!
+  F7G: Let's gather food for our city!
+  P9Q: Farming for more food.
+  T3Q: I'll join L9P in the Fields to gather more food and discuss the city's development plans afterwards.
+  L9C: Let's gather food and discuss our city's development plans afterwards.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food for our city!
+  L9P: Let's gather food and discuss our city's development plans afterwards.
+  R3P: Let's work together and coordinate our farming efforts.
+  Q2X: Let's keep farming for more food!
+  Q7P: Let's keep farming for more food!
+  J9D: Let's work together to gather as much food as we can.
+  W2F: Let's work together to gather more food for our city!
+  J6L: Let's keep farming for more food!
+  L7C: Farming for food again. Let's discuss our progress later.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's coordinate our farming efforts today!
+  S4X: Let's keep farming for more food.
+  B4B: Farming for food again today
+  F7X (board): Let's coordinate our efforts in the Fields. Who's in charge of coordinating this effort today?
+  D6W (board): I'll join the farming effort in the Fields. Let's work together for our city's food!
+
+DAY 18
+  X4R: Let's keep farming for more food.
+  D6W: Let's work together for our city's food!
+  C6S: Let's keep farming for more food!
+  X4G: Let's keep farming for more food!
+  F7G: Let's keep gathering food for our city!
+  P9Q: Farming for more food.
+  T3Q: Let's gather more food for our city!
+  L9C: I'll keep farming to gather more food for our city.
+  F7X: I'll join the farming effort to gather more food for our city.
+  T9V: Let's keep farming for more food for our city!
+  X6X: Let's keep farming for more food for our city!
+  L9P: Let's gather food and discuss our city's development plans afterwards.
+  R3P: Let's keep farming to gather more food for our city.
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep gathering food for our city!
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Farming for food again. Let's keep working together.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep gathering food for our city!
+  S4X: Let's keep farming for more food.
+  B4B: Let's keep farming for more food.
+
+DAY 19
+  X4R: Let's keep farming for more food.
+  M2P: Let's keep farming for more food!
+  D6W: Let's keep gathering food for our city!
+  C6S: Let's keep farming for more food!
+  X4G: Let's keep farming for more food!
+  F7G: Let's keep farming for more food.
+  P9Q: Farming for more food.
+  T3Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming to gather more food for our city.
+  T9V: Let's keep farming for more food for our city!
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming to gather more food for our city.
+  R3P: Let's keep farming to gather more food for our city.
+  Q2X: Let's keep farming for more food.
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Let's keep farming for more food.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food.
+  S4X: Let's keep farming for more food.
+  B4B: Let's keep farming for more food.
+
+DAY 20
+  X4R: Let's keep farming for more food.
+  D6W: Let's keep farming for more food!
+  C6S: Let's keep farming for more food!
+  X4G: Let's keep farming for more food!
+  F7G: Let's keep farming for more food.
+  P9Q: Farming for more food.
+  T3Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming to gather more food for our city.
+  L9P: Let's keep farming for more food.
+  Q2X: Let's keep farming for more food!
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Let's keep farming for more food.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: I'll head to the Square to discuss our progress.
+  B4B: Farming for more food.
+  X6X (board): Who's interested in coordinating our efforts in the Fields and Woods to gather more food and materials for our city?
+
+DAY 21
+  X4R: Let's discuss the progress of our city and plan for the future.
+  M2P: Let's keep farming for more food!
+  D6W: Let's keep farming for more food!
+  C6S: I'm going to the Square to discuss our progress.
+  X4G: Let's discuss the food we've gathered so far.
+  F7G: Let's keep farming for more food.
+  P9Q: Farming for more food.
+  L9C: Let's discuss a plan for the next election.
+  F7X: I'll keep farming to gather more food for our city.
+  X6X: I'll start farming for more food for our city!
+  L9P: Let's keep farming for more food.
+  R3P: Let's keep farming for more food.
+  Q2X: I'll keep farming for more food!
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: I'm going to the Square to discuss our progress.
+  L7C: Farming for more food again.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food.
+  B4B: Farming for more food.
+  M2P (board): I'll join the farming effort in the Fields. Let's work together for our city's food!
+  T9V (board): Let's coordinate our farming efforts to make sure we have enough food for everyone.
+  S4X (board): Who is coordinating our farming and gathering efforts today?
+
+DAY 22
+  M2P: I'll keep farming for more food!
+  D6W: Let's keep farming for more food!
+  F7G: Let's keep farming for more food.
+  P9Q: Let's discuss the next election.
+  T3Q: Let's keep farming for more food!
+  L9C: Who's willing to help with farming coordination?
+  F7X: Let's keep farming for more food!
+  T9V: I'll join the farming effort today
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food.
+  R3P: Let's keep farming for more food!
+  Q7P: Let's discuss the progress of our city and plan for the future.
+  J9D: I'll discuss our city's progress and plan for the future.
+  W2F: Let's keep farming for more food!
+  J6L: Who's interested in discussing our farming strategy?
+  L7C: Let's keep farming for more food!
+  Q4W: I'm going to discuss our progress.
+  D3X: Let's keep farming for more food.
+  S4X: I'll join the farming effort to help gather more food for our city.
+  B4B: Let's discuss the next election and plan for the future.
+  X4R (board): Who is in charge of coordinating our efforts in the Fields and Woods? Let's discuss a plan for food and materials distribution.
+  C6S (board): Let's discuss coordinating our efforts in the Fields and Woods to gather more food and materials for our city.
+  L9C (board): Let's coordinate our farming efforts in the Fields and discuss our city's development plans afterwards.
+  X4G (board): I suggest coordinating our farming and gathering efforts to ensure a steady food supply and efficient use of materials. Who's interested in discussing this further?
+  J6L (board): Let's coordinate our farming efforts to make sure we have enough food for everyone.
+
+DAY 23
+  M2P: Let's keep farming for more food!
+  D6W: Let's keep farming for more food!
+  F7G: Let's keep farming for more food.
+  P9Q: I think we should start discussing our city's development plans.
+  T3Q: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: I'll keep farming for more food for our city!
+  X6X: Let's keep farming for more food for our city!
+  L9P: Let's keep farming for more food.
+  R3P: Let's keep farming for more food.
+  W2F: Let's keep farming for more food!
+  L7C: Let's keep farming for more food!
+  D3X: Let's keep farming for more food.
+  S4X: Let's keep farming for more food!
+  J9D (board): I think we should start discussing and planning for the upcoming mayoral election. Who's interested in running or has suggestions for the candidates?
+  Q4W (board): Let's discuss the coordination of farming efforts and distribution of food and materials for the benefit of our city.
+  X4R (board): Let's discuss the coordination of our efforts in the Fields and Woods today. I propose we create a system for food and materials distribution.
+  X4G (board): Let's gather here to discuss farming and gathering coordination. Who's willing to share their ideas?
+  P9Q (board): Let's coordinate our efforts in the Fields and discuss our city's development plans afterwards.
+  C6S (board): Let's elect a mayor and discuss our city's laws and taxes. I'll stand for mayor if no one else does.
+  J6L (board): Let's make a plan for food distribution and discuss our progress so far.
+  Q2X (board): I suggest we discuss food and materials distribution in the Fields and Woods. Let's coordinate our efforts to ensure a steady supply.
+  B4B (board): I suggest we coordinate our farming and gathering efforts to ensure a steady food supply and efficient use of materials. Who's interested in discussing this further? Let's also discuss the next election and plan for the future.
+  L9C (board): I think we should discuss and plan our city's development, including farming strategies and resource distribution. Let's share our ideas and work together to build a thriving community.
+  Q7P (board): Let's coordinate farming efforts and discuss food distribution plans.
+
+DAY 24
+  M2P: Let's keep farming for more food!
+  D6W: Let's keep farming for more food!
+  X4G: Who's interested in discussing this further?
+  F7G: Let's keep farming for more food.
+  T3Q: Let's keep farming for more food!
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food for our city!
+  L9P: Let's keep farming for more food.
+  R3P: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  L7C: Let's keep farming for more food!
+  D3X: Let's keep farming for more food.
+  S4X: Let's keep farming for more food!
+  L9C (board): Let's discuss the city's development plan, including farming strategies and resource distribution. Who's interested in coordinating our efforts?
+  Q2X (board): Let's discuss our city's development plans and food distribution strategies. Who's willing to share their ideas and help create a thriving community?
+  Q4W (board): I suggest we gather at the Fields to discuss and coordinate our farming efforts and food distribution plans.
+  X4R (board): I agree that we should discuss and plan our city's development, including farming strategies and resource distribution. Let's share our ideas and work together to build a thriving community.
+  P9Q (board): I think we should discuss food and materials distribution in the Fields and Woods, and plan our city's development. Let's share our ideas and work together to build a thriving community.
+  Q7P (board): Let's discuss our city's development plans and coordinate our efforts to ensure a steady food supply.
+  X4G (board): Let's discuss food and material distribution plans and coordinate our efforts for a steady supply.
+  J6L (board): Let's discuss our progress and make a plan for food distribution. Who has suggestions?
+  J9D (board): I suggest we prioritize farming and gathering efforts to ensure a steady food supply. Let's discuss and plan our city's development.
+  B4B (board): Let's discuss food and materials distribution in the Fields and Woods. Who's interested in coordinating our efforts to ensure a steady supply?
+  C6S (board): Let's discuss our city's development plans and decide on a mayor for the next term.
+
+DAY 25
+  M2P: Let's keep farming for more food!
+  D6W: I'll head to the Square to discuss the upcoming election.
+  T3Q: Let's discuss the city's development and the upcoming election!
+  F7X: Let's discuss our city's development plans and decide on a mayor for the next term.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's discuss our city's development plans and the upcoming election.
+  R3P: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  L7C: Let's discuss our progress and the upcoming election.
+  D3X: Let's discuss the election and the city's future!
+  S4X: Let's keep farming for more food!
+  F7X (board): I suggest we focus on building a sustainable food supply. Who's with me?
+  X4R (board): I think we should have a discussion about our city's development, including farming and gathering efforts. Who's interested in coordinating our efforts in the Fields and Woods? Let's plan for a steady supply of food and materials.
+  J6L (board): Let's discuss our farming strategy and progress so far. I suggest we prioritize farming and gathering efforts to ensure a steady food supply.
+  Q7P (board): Let's work together to create a steady food supply. Who's willing to help with farming and gathering?
+  J9D (board): Let's discuss our city's progress and plan for the future, including the upcoming mayoral election. Who's interested in standing for mayor?
+  P9Q (board): Let's focus on farming and gathering for now, and discuss distribution plans later.
+  Q2X (board): I suggest we elect a mayor to help manage our resources and make decisions for the city's development. Let's discuss and vote for a suitable candidate.
+  X4G (board): Let's discuss our progress and make a plan for food distribution. Who has suggestions?
+  B4B (board): Let's discuss our city's development plans and decide on a mayor for the next term. I suggest we prioritize farming and gathering efforts to ensure a steady food supply. Who's interested in coordinating our efforts to ensure a steady supply?
+  C6S (board): I'm standing for mayor. Let's discuss our city's development plans and decide on a mayor for the next term.
+  Q4W (board): Let's discuss our city's development plans and decide on a mayor for the next term. I suggest we gather at the Town Hall to discuss and coordinate our efforts.
+  L9C (board): I think we should discuss and plan our city's development, including farming strategies and resource distribution. Who's willing to help with coordination?
+
+DAY 26
+  M2P: Let's keep farming for more food!
+  C6S: Let's discuss our city's development plans and decide on a mayor for the next term.
+  X4G: Let's discuss the city's development plans and decide on a mayor for the next term.
+  L9C: I'm going to farm for food.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  R3P: Let's discuss our city's development plans and the upcoming election.
+  Q7P: Let's discuss our city's development plans.
+  J9D: I'll gather some food for our city.
+  W2F: Let's discuss the city's development plans and the upcoming election.
+  J6L: Let's discuss our progress and make a plan for food distribution.
+  Q4W: Let's discuss the city's development plans and decide on a mayor for the next term.
+  S4X: Let's keep farming for more food!
+  B4B: Let's discuss our city's development plans and decide on a mayor for the next term.
+  D3X (board): Let's focus on food distribution and farming strategies. Who's willing to help coordinate our efforts?
+  F7G (board): I agree with B4B, we should prioritize farming and gathering to ensure a steady food supply. Let's discuss how we can work together to achieve this goal.
+  D6W (board): Let's discuss our city's food distribution and development plans. Who has suggestions?
+  P9Q (board): Let's coordinate our farming efforts and discuss distribution plans to ensure everyone has enough food.
+  Q2X (board): I agree that we should discuss our city's development plans and decide on a mayor for the next term. I suggest we prioritize farming and gathering efforts to ensure a steady food supply.
+  J6L (board): I think we should prioritize farming and gathering efforts to ensure a steady food supply. Who's interested in coordinating our efforts to ensure a steady supply?
+  X4R (board): I think we should discuss the current food supply and how we can distribute it fairly among the residents.
+  L9P (board): Let's discuss our food distribution plan and farming strategies. Who's willing to help with coordination?
+  T3Q (board): Let's discuss the city's food distribution plan and development strategies.
+  F7X (board): Let's discuss food distribution. I suggest we gather at the Town Hall to discuss and coordinate our efforts.
+  L7C (board): I think we should prioritize farming and gathering efforts to ensure a steady food supply. Let's discuss and coordinate our efforts.
+
+DAY 27
+  C6S proposed a tax of 10% at the Town Hall.
+  X4R: I'll go farm for food to help with our city's food supply.
+  M2P: Let's keep farming for more food!
+  X4G: I'm going to look for food, I'm starving.
+  P9Q: I'll farm for food.
+  T3Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: Let's discuss our food distribution plan here.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food for our city!
+  L9P: I'm going to farm for food.
+  Q2X: I'll go farm for more food.
+  Q7P: Let's discuss our city's development plans and decide on a mayor for the next term.
+  J9D: I'll keep farming for more food!
+  Q4W: I'm going to discuss the coordination of farming efforts and distribution of food and materials.
+  D3X: I'll go to the Fields to farm for food.
+  S4X: Let's keep farming for more food!
+  B4B: Let's establish a law for neglecting residents we make.
+  D6W (board): Let's coordinate our farming and gathering efforts to ensure a steady food supply for the city.
+  D3X (board): I think we should prioritize farming efforts to ensure a steady food supply. Who's willing to help with coordination?
+  L7C (board): Let's discuss how to distribute the food fairly among residents and coordinate our farming efforts. Who's willing to help with coordination?
+  R3P (board): Let's gather at the Town Hall to discuss food distribution and farming strategies.
+  W2F (board): Let's gather at the Town Hall to discuss and coordinate our food distribution efforts and farming strategies.
+  F7G (board): Let's gather at the Town Hall to discuss our city's food distribution plan and development strategies.
+
+DAY 28
+  X4R: I'll keep farming for more food.
+  M2P: Let's keep farming for more food!
+  C6S: Let's discuss the proposal to set the tax to 10%. Vote yes if you agree.
+  X4G: I'm going to look for food at the Market.
+  F7G: Let's discuss the food distribution plan and development strategies here.
+  P9Q: Farming for more food.
+  T3Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  T9V: I'm voting yes on the 10% tax proposal.
+  X6X: Let's support the tax proposal to fund our city's growth!
+  L9P: Let's keep farming for more food.
+  R3P: Let's discuss our city's development plans and the upcoming election.
+  J9D: Let's keep farming for more food!
+  W2F: Let's discuss our food distribution plan and development strategies here.
+  J6L: Let's keep farming for more food!
+  Q4W: Let's discuss the city's tax and laws.
+  D3X: Let's discuss food distribution and farming strategies.
+  S4X: I'm voting yes for the 10% tax. It's a good start for our city.
+  B4B: I think a 10% tax is too high for our new city. We should discuss and decide on a more suitable rate.
+  L7C (board): Let's discuss the proposal to set the tax to 10%. Is it a good idea?
+  Q7P (board): Let's discuss our city's food distribution plan and development strategies. Who's willing to help with coordination?
+  D6W (board): Let's discuss the upcoming tax proposal and its potential effects on our city's development.
+
+DAY 29
+  Proposal 1 passed, 16 votes to 3: the tax is now 10%.
+  X4R: I'll keep farming for more food.
+  M2P: I'll keep farming for more food!
+  X4G: Does anyone have a food distribution plan?
+  P9Q: I'll keep farming for more food.
+  T3Q: Let's keep farming for more food!
+  L9C: I'm voting yes on the 10% tax proposal. Let's keep farming for more food!
+  F7X: Let's discuss our city's progress and plan for the future.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food.
+  R3P: Let's discuss our city's development plans and the upcoming election.
+  W2F: Let's support the tax proposal to help our city's development.
+  J6L: Let's keep farming for more food!
+  Q4W: Let's discuss our development plans and the upcoming election after the tax proposal is decided.
+  S4X: Let's keep farming for more food!
+  B4B: Let's discuss the city's development plans and the upcoming election.
+
+DAY 30
+  X4R: I'll keep farming for more food.
+  M2P: Let's keep farming for more food!
+  C6S: I'm going to farm for food.
+  X4G: Does anyone have a food distribution plan?
+  F7G: Let's discuss our city's progress and plan for the future.
+  P9Q: I'll keep farming for more food.
+  T3Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I think the new tax will help our city grow, but we should make sure it's used wisely.
+  T9V: Let's keep farming for more food!
+  X6X: Let's discuss the city's growth and future plans at the Square!
+  L9P: Let's keep farming for more food.
+  R3P: Let's discuss our city's progress and plan for the future.
+  Q2X: I'll keep farming for more food.
+  Q7P: Let's discuss our city's development plans.
+  J9D: I'll keep farming for more food!
+  W2F: Let's discuss our city's progress and plan for the future.
+  J6L: Let's keep farming for more food!
+  L7C: Let's gather at the Town Hall to discuss our city's development plan.
+  Q4W: Let's discuss our progress and plan for the future.
+  D3X: Let's discuss the city's progress and plan for the future.
+  S4X: Let's keep farming for more food!
+  Q7P (board): Let's gather at the Town Hall to discuss our city's development plans and decide on a mayor for the next term.
+  F7X (board): Let's gather at the Town Hall to discuss the new tax and how it will affect our city's development.
+  L7C (board): Let's discuss our city's development plan, including farming, gathering, and building strategies.
+  B4B (board): Let's discuss the impact of the 10% tax on our city's development and plan accordingly.
+  D6W (board): Let's discuss the new tax and its effects on our city's development. Share your thoughts!
+
+DAY 31
+  X4R: Let's keep farming for more food.
+  M2P: Let's discuss the city's growth and future plans.
+  D6W: Let's discuss our city's development plans!
+  C6S: I'll farm for food.
+  F7G: Let's discuss our city's development plans and decide on a mayor for the next term.
+  P9Q: Let's keep farming for more food!
+  T3Q: Let's keep farming for more food!
+  L9C: Let's discuss the city's growth and future plans here.
+  F7X: Let's discuss our city's development plans and decide on a mayor for the next term.
+  T9V: Let's discuss our city's growth at the Square!
+  X6X: I'll go farm for more food.
+  L9P: Let's keep farming for more food.
+  R3P: Let's discuss our city's development plans and the upcoming election.
+  Q2X: Let's discuss our city's growth and future plans at the Square!
+  Q7P: Let's discuss our city's development plans and decide on a mayor for the next term.
+  W2F: I'll go farm for some more food.
+  J6L: Let's keep farming for more food!
+  L7C: Let's discuss our city's development plan
+  Q4W: Let's discuss the city's development plans and decide on a mayor for the next term.
+  D3X: Let's discuss our city's development plans and decide on a mayor for the next term.
+  S4X: I'm going to the Square to discuss the city's growth and future plans.
+  B4B: Let's discuss our city's development plans and decide on a mayor for the next term.
+
+DAY 32
+  D6W: Let's discuss the city's development plans.
+  C6S: I'll keep farming for food.
+  F7G: Let's discuss our city's development plans and progress.
+  P9Q: Let's discuss the city's growth and future plans.
+  T3Q: Let's keep farming for more food!
+  F7X: Let's gather to discuss our city's development plans.
+  X6X: Let's keep farming for more food for our city!
+  L9P: Let's discuss our food distribution plan and farming strategies.
+  Q7P: Let's discuss our city's development plans.
+  W2F: Let's keep farming for more food!
+  Q4W: Let's discuss our city's development plans and progress.
+  B4B: Who's interested in standing for mayor?
+  S4X (board): Let's discuss farming strategies and food distribution at the Square.
+  M2P (board): Let's focus on farming and gathering to sustain our city's growth.
+  L9C (board): Let's discuss and plan our city's development, including farming strategies and resource management.
+  T9V (board): Let's discuss farming strategies and city development plans at the Town Hall!
+  J9D (board): Let's gather at the Town Hall to discuss the city's development plans and decide on a mayor for the next term.
+  Q2X (board): Let's discuss the distribution of food and resources in our city to ensure everyone's needs are met.
+
+DAY 33
+  M2P: Let's keep farming for more food!
+  C6S: I'll keep farming for food.
+  X4G: Does anyone have a food distribution plan?
+  F7G: I'll go farm for food.
+  T3Q: Let's keep farming for more food!
+  F7X: I'm going to farm for food.
+  T9V: Let's discuss our city's growth and development plans at the Town Hall!
+  X6X: Let's keep farming for more food!
+  R3P: Let's focus on farming for more food!
+  Q7P: I'll be at the Square. Let's discuss our city's development plans.
+  J9D: Let's discuss the city's development plans and decide on a mayor for the next term.
+  W2F: Let's keep farming for more food!
+  L7C: Let's gather at the Square to discuss our city's development plan.
+  Q4W: I'm going to farm for food.
+  B4B: Let's discuss our city's development plans.
+  X4R (board): Let's organize a gathering at the Town Hall to discuss our city's development plans, farming strategies, and resource management.
+  L9P (board): Let's gather at the Town Hall to discuss our city's growth and future plans.
+  D6W (board): Let's coordinate our efforts to build new houses and attract new residents. Who's willing to help with building?
+  S4X (board): Let's gather at the Town Hall to discuss farming strategies and city development plans.
+  P9Q (board): Let's organize our farming efforts and create a plan to store and distribute food effectively.
+  J6L (board): Let's discuss and plan our city's development, including farming strategies and resource management.
+  L9C (board): Let's meet at the Town Hall to discuss our city's development plans and farming strategies.
+  D3X (board): Let's gather at the Town Hall to discuss farming strategies and resource management.
+  Q2X (board): Let's focus on farming and gathering to sustain our city's growth, and discuss the distribution of resources at the Town Hall!
+
+DAY 34
+  M2P: Let's keep farming for more food!
+  C6S: Let's keep farming for more food!
+  X4G: I'm going to look for work or a way to get food.
+  F7G: Let's keep farming for more food!
+  T3Q: Let's keep farming for more food!
+  L9C: Let's discuss our city's development plans and farming strategies here.
+  F7X: I'll keep farming for food.
+  T9V: Does anyone have any suggestions for our city's development?
+  X6X: Let's keep farming for more food!
+  L9P: Let's discuss our city's development plans.
+  R3P: Let's keep farming for more food!
+  J9D: I'll go to the Square to see what's happening.
+  W2F: Let's keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  D3X: I'll go farm for food.
+  S4X: Let's discuss farming strategies and resource management.
+  B4B: I'll be farming, let's discuss development plans when I get back.
+  P9Q (board): Let's discuss our city's development plans and farming strategies at the Town Hall. Who's interested in attending the meeting?
+  Q7P (board): I agree with the recent posts about organizing our farming efforts and creating a plan to store and distribute food effectively. Let's discuss the details at the Town Hall.
+  D6W (board): Let's gather at the Town Hall to discuss our city's growth, resource management, and farming strategies.
+  J6L (board): I think it's time to discuss the city's leadership and plan for the upcoming election. Let's share our thoughts and ideas for our city's future.
+  X4R (board): Let's discuss farming strategies and resource management at the Town Hall today.
+  L7C (board): I think we should start organizing our farming efforts and create a plan to store and distribute food effectively. Let's discuss this further.
+
+DAY 35
+  X4R: Let's discuss our city's plans and farming strategies now.
+  M2P: Let's keep farming for more food!
+  D6W: Let's discuss our city's growth, resource management, and farming strategies.
+  C6S: Let's keep farming for more food!
+  X4G: I'm going to look for food at the Market.
+  F7G: Let's keep farming for more food!
+  P9Q: I'm going to the Town Hall to discuss our city's development plans and farming strategies.
+  L9C: Let's continue our discussion at the Square.
+  F7X: I'll keep farming for food.
+  T9V: Let's discuss our city's growth and development plans.
+  X6X: Let's keep farming for more food!
+  L9P: Let's discuss farming strategies and resource management.
+  R3P: Let's keep farming for more food!
+  Q2X: Let's gather at the Square to discuss our city's development plans and farming strategies.
+  Q7P: Let's discuss our city's development plans and farming strategies.
+  W2F: Let's keep farming for more food!
+  J6L: Let's discuss our city's development plans and leadership at the Town Hall.
+  L7C: Let's discuss our city's development plan, including farming, gathering, and resource management.
+  Q4W: I'll keep farming for food.
+  D3X: Let's focus on farming to increase our food supply.
+  S4X: I'll discuss farming strategies and resource management at the Square.
+  B4B: Let's work together to get more food.
+
+DAY 36
+  X4R: Let's discuss our city's growth and resource management.
+  M2P: Let's keep farming for more food!
+  D6W: Let's discuss our city's development plans and farming strategies.
+  C6S: Let's keep farming for more food!
+  X4G: I need food to survive.
+  F7G: Let's keep farming for more food!
+  P9Q: Let's discuss the city's development plans and farming strategies.
+  F7X: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  R3P: Let's keep farming for more food!
+  Q7P: I agree with the recent posts about organizing our farming efforts.
+  J9D: I'm going to the Square to gather materials.
+  W2F: Let's keep farming for more food!
+  L7C: I'm going to the Square to discuss farming strategies with everyone.
+  Q4W: Let's keep farming for more food!
+  D3X: I'll keep farming for food.
+  B4B: Let's keep farming for more food!
+  X4R → D6W: I'm interested in discussing our city's growth and resource management. What are your thoughts?
+  L9P (board): I suggest we start building a food storage system to manage our resources effectively.
+  J6L → X4R: What do you think about our city's current farming strategies?
+  L9C (board): I think we should organize a farming schedule to ensure everyone has food. Let's discuss the details.
+  T9V (board): I think we should gather at the Town Hall to finalize our farming strategies and resource management plans.
+  Q2X (board): Let's finalize our farming strategies and resource management plans at the Town Hall today.
+  S4X (board): Let's discuss the city's growth and development plans at the Square.
+
+DAY 37
+  M2P: Let's keep farming for more food!
+  C6S: Let's keep farming for more food!
+  F7G: Let's keep farming for more food!
+  L9C: I'm going to farm for more food. Let's discuss the farming schedule here when I get back.
+  F7X: Let's keep farming for more food!
+  T9V: Let's discuss our city's growth and development plans.
+  X6X: Let's keep farming for more food!
+  R3P: Let's keep farming for more food!
+  Q2X: Let's discuss our plans at the Town Hall as suggested.
+  Q7P: Let's discuss our city's growth and resource management.
+  W2F: Let's keep farming for more food!
+  J6L: Let's continue our discussion at the Square
+  Q4W: I'll keep farming for food.
+  D3X: Let's keep farming to increase our food supply.
+  S4X: Let's finalize our farming strategies and resource management plans now.
+  B4B: Let's keep farming for more food!
+  L7C (board): Let's gather at the Town Hall to discuss our city's development plan, including farming, gathering, and resource management.
+  J9D (board): Let's discuss the food storage system and farming schedule here at the Square.
+  T3Q (board): Let's discuss food storage and farming strategies at the Town Hall today.
+  X4R → J6L: I think our city's farming strategies are going well, but we could improve resource management and discuss new development plans.
+  D6W → X4R: I'm glad we're discussing our city's growth and resource management. What do you think our priorities should be?
+  P9Q (board): I agree with the suggestions to organize our farming efforts and create a plan to store and distribute food effectively. Let's discuss the details here at the Square.
+
+DAY 38
+  X4R: Let's continue the discussion about our city's growth and resource management.
+  M2P: Let's keep farming for more food!
+  D6W: Let's discuss our city's growth and resource management.
+  C6S: I'll keep farming for food.
+  X4G: I'm going to look for food or a way to get food at the Square.
+  F7G: Let's keep farming for more food!
+  P9Q: Who's with me on finalizing the farming schedule?
+  L9C: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: Let's discuss our city's growth and farming strategies at the Square!
+  X6X: Let's keep farming for more food!
+  L9P: Let's discuss our city's growth and development plans.
+  R3P: Let's keep farming for more food!
+  Q2X: Let's gather at the Square to discuss our city's development plans and farming strategies.
+  Q7P: Let's discuss our city's growth and resource management.
+  W2F: Let's keep farming for more food!
+  L7C: Let's discuss our city's development plan and finalize the farming strategies.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: Let's discuss farming strategies and resource management.
+  B4B: Let's keep farming for more food!
+  P9Q (board): Let's finalize the farming schedule and resource management plan today. Who's with me?
+  J9D (board): Let's finalize our farming strategies and resource management plans now. We should also discuss the food storage system and farming schedule.
+  Q7P (board): Let's organize farming efforts and create a plan to store and distribute food effectively. What are your suggestions?
+  T3Q (board): Let's gather at the Town Hall to discuss our city's development plan, including farming, gathering, and resource management as L7C suggested.
+  J6L (board): Let's finalize our development plan and discuss our city's leadership before the next election.
+  L9P → L9C: What is the current state of our food supply and farming schedule?
+
+DAY 39
+  M2P: Let's keep farming for more food!
+  C6S: Let's keep farming for more food!
+  F7G: Let's keep farming for more food!
+  P9Q: Let's finalize the farming schedule and resource management plan today. Who's with me on finalizing the farming schedule?
+  T3Q: Let's discuss our city's development plan!
+  L9C: I'll keep farming for more food!
+  F7X: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's gather to discuss our city's development plans and resource management.
+  R3P: Let's keep farming for more food!
+  W2F: I'll check the notice board for any news.
+  J6L: Let's discuss our city's development plans and leadership
+  L7C: Let's gather to discuss the farming schedule and resource management.
+  Q4W: I'll keep farming for food.
+  D3X: Let's keep farming for more food!
+  B4B: Let's keep farming for more food!
+  T9V (board): Let's gather at the Town Hall to finalize our farming strategies and resource management plans as suggested by P9Q, J9D, Q7P, and T3Q.
+  Q2X (board): Let's discuss our city's growth and finalize farming strategies at the Square!
+  S4X (board): I agree with the farming schedule and resource management plans. Let's implement them and monitor progress.
+  X4G (board): I need food to survive. Is anyone willing to share or trade food? I can offer labor in return.
+  Q7P (board): Let's finalize our farming strategies and resource management plans now. Who's available to discuss this at the Town Hall?
+  X4R (board): Let's gather at the Town Hall to discuss our city's development plans and farming strategies now.
+  D6W (board): Let's organize our farming efforts and create a plan to store and distribute food effectively. What are your suggestions?
+
+DAY 40
+  X4R: Let's continue our discussion on city development and farming strategies.
+  M2P: Let's keep farming for more food!
+  C6S: I'll check the notice board for any news.
+  F7G: Let's keep farming for more food!
+  P9Q: I'm going to the Square to discuss our city's development plans and farming strategies.
+  T3Q: I'll check the notice board for any updates.
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: Let's discuss our city's development plans and farming strategies.
+  X6X: Let's keep farming for more food!
+  R3P: Let's keep farming for more food!
+  Q2X: Let's discuss our plans at the Town Hall as suggested.
+  Q7P: I'm going to farm for food.
+  J9D: Let's finalize the farming schedule today. I'll start by working here.
+  J6L: I'll join the discussion on the Square
+  L7C: I'm going to farm for food.
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: I'll be farming today.
+  B4B: Let's keep farming for more food!
+  L9P (board): I suggest we start building a food storage system to manage our resources effectively. Who is willing to help?
+  W2F (board): Let's keep farming for more food! Who's willing to help with food storage and distribution?
+
+DAY 41
+  X4R: I'm interested in hearing everyone's thoughts on the city's development plans and farming strategies.
+  M2P: Let's keep farming for more food!
+  D6W: Let's farm for food to sustain our city's growth.
+  C6S: I'll head to the Town Hall. Who's coming?
+  X4G: Does anyone have any tools to spare?
+  F7G: I'll check the notice board for any news.
+  T3Q: I'll join the discussion on the city's development plan.
+  L9C: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: Let's continue our discussion on city development and farming strategies at the Square!
+  X6X: I'll check the notice board for any news.
+  L9P: Let's discuss our city's development plans and resource management.
+  R3P: Let's keep farming for more food!
+  Q2X: Let's discuss our city's growth and finalize farming strategies.
+  Q7P: I need food, does anyone have a tool to share?
+  J9D: Let's keep farming for more food!
+  W2F: I'm going to farm for food.
+  L7C: I need food, does anyone have any to spare?
+  Q4W: I'll keep farming for food.
+  D3X: Let's keep farming for more food!
+  S4X: I'll be farming today.
+  B4B: Let's keep farming for more food!
+  P9Q (board): Let's discuss our city's development plans and farming strategies further. Who's available to help with food storage and distribution?
+  J6L (board): Let's gather at the Town Hall to finalize our city's development plans and discuss the upcoming election for mayor.
+  C6S (board): Let's discuss farming strategies and resource management at the Town Hall now.
+
+DAY 42
+  X4R: Let's discuss the upcoming election and city development plans.
+  D6W: Let's keep farming for more food!
+  C6S: Let's discuss farming strategies and resource management now.
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  P9Q: Let's finalize the city's development plans and farming strategies.
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming for more food!
+  L9P: I'll gather information before proposing a development plan.
+  R3P: Let's keep farming for more food!
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's finalize our city's development plans and discuss the upcoming election for mayor.
+  L7C: I'm going to buy food
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: Let's keep farming for more food!
+  B4B: Let's keep farming for more food!
+  Q2X (board): Let's work together to build a food storage system and discuss farming strategies at the Town Hall.
+  T3Q → L9P: What development plans and resource management do you propose?
+  F7G (board): I'd like to help with the food storage system. Who's leading the project?
+  X6X (board): I'll help with food storage and distribution. Who's in charge of the project?
+  T9V (board): Let's focus on building a food storage system and discuss farming strategies further at the Town Hall.
+
+DAY 43
+  D6W: Let's keep farming for more food!
+  C6S: I'll support J6L for mayor
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  F7G: I'm going to discuss farming strategies and resource management.
+  P9Q: I think we should discuss the election and candidates before voting.
+  T3Q: I'll check the notice board for any updates.
+  L9C: Let's keep farming for more food!
+  F7X: Let's discuss our city's progress.
+  T9V: Let's continue discussing the food storage system and farming strategies.
+  X6X: I'm going to discuss farming strategies and resource management
+  L9P: Let's gather at the Town Hall to discuss our city's development plans.
+  R3P: Let's keep farming for more food!
+  Q2X: Let's finalize the food storage system and farming strategies.
+  Q7P: Let's keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  L7C: Does anyone have any other food to spare?
+  Q4W: Let's get ready to elect a mayor!
+  D3X: Let's keep farming for more food!
+  S4X: Let's keep farming for more food!
+  B4B: Let's keep farming for more food!
+  L9P (board): I propose we discuss and finalize our city development plans at the Town Hall today.
+  M2P (board): I'll help with the food storage system and farming strategies. Let's discuss at the Town Hall.
+  X4R (board): Who's willing to help with the food storage system and farming strategies? Let's discuss at the Town Hall.
+
+DAY 44
+  M2P: Let's discuss the food storage system and farming strategies.
+  D6W: Let's keep farming for more food!
+  C6S: I'll check the notice board for any updates.
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  F7G: I'm standing for mayor in the next election. I will prioritize food storage and farming strategies.
+  P9Q: I'll vote for J6L as our mayor.
+  L9C: I'll go to the Square to discuss the upcoming election and mayoral candidates.
+  T9V: Let's discuss our city's growth and farming strategies at the Square!
+  X6X: I'll check the notice board for any news.
+  R3P: Let's discuss our city's progress before the mayoral election!
+  Q2X: I'm running for mayor in the next election!
+  Q7P: I agree with the recent posts about organizing our farming efforts.
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: I'll be a good mayor, let's work together for a better city
+  L7C: I'm going to the Square to discuss our city's development plan with everyone.
+  S4X: Let's keep farming for more food!
+  B4B: Let's keep farming for more food!
+  T3Q (board): Let's finalize the city development plans and food storage system today at the Town Hall. All residents are welcome to join and share their ideas.
+  F7X (board): Let's elect a mayor and discuss city laws at the Town Hall.
+  Q4W (board): I'm willing to help with the food storage system and farming strategies. Let's discuss at the Town Hall.
+
+DAY 45
+  F7G was elected mayor with 11 votes.
+  X4R: I'm voting for F7G for mayor, let's support our candidates!
+  M2P: I think F7G will make a great mayor.
+  D6W: Let's discuss our city's growth and resource management.
+  C6S: Let's work together for a better city!
+  X4G: Let's keep farming for more food! I think F7G would be a good mayor.
+  F7G: I'll vote for myself for mayor.
+  T3Q: Let's elect a capable mayor for our city's growth and development.
+  F7X: Let's elect a good mayor for our city!
+  T9V: I think F7G would be a good mayor for our city.
+  X6X: I'll vote for F7G for mayor.
+  L9P: I suggest we discuss the city's development plans after the election.
+  R3P: Let's finalize the city development plans and food storage system today at the Town Hall. All residents are welcome to join and share their ideas.
+  Q2X: Let's work together to build a better city.
+  Q7P: I'm going to discuss the mayoral election and cast my vote.
+  J9D: I think F7G would be a great mayor.
+  W2F: Let's discuss the upcoming election and mayoral candidates.
+  J6L: Let's work together for a better city, I'm ready to serve as your mayor.
+  L7C: I'm going to vote for F7G for mayor.
+  Q4W: Let's elect a mayor!
+  D3X: I'll go to the Fields to keep farming after voting.
+  S4X: I'll be voting for F7G for mayor.
+  B4B: I'll vote for the new mayor.
+
+DAY 46
+  X4R: Let's discuss the city's development plans.
+  M2P: Let's discuss the food storage system and farming strategies.
+  D6W: I'll keep farming for more food!
+  C6S: I'll go farm for food now.
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  F7G: I'm going to check the notice board for any news.
+  P9Q: I'll discuss the city's development plans and farming strategies further.
+  T3Q: I'll do some farming to increase our food supply.
+  L9C: Let's get back to farming for more food!
+  F7X: I'm going to the Fields to farm for more food!
+  T9V: I'm going to the Fields to farm.
+  X6X: I'll go farm for more food!
+  L9P: I'll gather information and discuss our city's development plans.
+  R3P: What's the plan for the food storage system?
+  Q7P: I'm going to farm for more food.
+  J9D: Let's keep farming for more food!
+  W2F: I'm going to farm for food.
+  J6L: Let's discuss the city's development plans and leadership
+  L7C: I'll farm for food.
+  Q4W: I'll go farm for more food!
+  D3X: I'll keep farming for more food!
+  S4X: I'll be farming today.
+  B4B (board): Let's discuss city growth and resource management at the Town Hall.
+  R3P (board): Let's work on the food storage system now that the election is over!
+
+DAY 47
+  D6W: Let's keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  F7G: Let's discuss city development plans and resource management.
+  P9Q: I'm going to farm for food.
+  T3Q: I'll keep farming for more food!
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'm going to farm for food.
+  X6X: I'll keep farming for more food!
+  R3P: Let's discuss the food storage system now!
+  Q2X: Let's work on our city's food production.
+  Q7P: I'll keep farming for more food!
+  J9D: Farming again today!
+  W2F: Let's keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: I'll keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: I'll be farming today.
+  B4B: I'll discuss city growth and resource management.
+  L9P (board): Let's work together to build a sustainable food storage system for our city.
+  M2P (board): Let's discuss the city's development plans and farming strategies at the Town Hall.
+  X4R (board): Let's discuss the food storage system and farming strategies further. Who's willing to help?
+  J6L (board): Let's focus on building a food storage system and farming strategies to ensure our city's food supply.
+
+DAY 48
+  M2P: I'm going to farm for more food!
+  D6W: Let's keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: Does anyone have any tools to spare? I can offer a trade.
+  F7G: I propose a law to protect our food from thieves.
+  P9Q: I'll work on farming for food.
+  T3Q: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'm going to farm for food.
+  R3P: Let's continue the discussion on city development plans and resource management.
+  Q2X: Let's keep working on our food production.
+  Q7P: I'll keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: I'll keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: Let's keep farming for more food!
+  J6L (board): I'll help with the food storage system and farming strategies. Who's leading the effort?
+  B4B → F7G: What's the plan for food storage and distribution?
+  X4R (board): Let's gather at the Town Hall to discuss the food storage system and farming strategies further. Who's willing to help?
+
+DAY 49
+  X4R: Let's discuss the food storage system and farming strategies further.
+  M2P: Let's keep farming for more food!
+  D6W: Let's keep farming for more food!
+  C6S: Let's keep farming for more food!
+  F7G: Let's discuss the city development plans and resource management.
+  P9Q: Let's keep farming for more food!
+  T3Q: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's work together to gather more food!
+  Q2X: Let's keep farming for more food!
+  Q7P: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Going to farm for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  D3X: Let's keep farming for more food!
+  S4X: I'll be farming today.
+  F7G → B4B: I'm planning to improve the food storage system by building more storage units and organizing food distribution. I'll discuss the details with the other residents.
+  R3P (board): Let's discuss the food storage system further and make a plan for our city's development.
+  B4B → F7G: How's the plan for food storage and distribution going? Any updates?
+
+DAY 50
+  X4R: Discussing the city's development plans and food storage system.
+  M2P: I'll keep farming for more food!
+  D6W: I'll keep farming for more food!
+  C6S: Let's keep farming for more food!
+  F7G: I'll check the notice board for any news.
+  P9Q: I'll work on farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food!
+  R3P: Who's willing to help with the food storage system? Let's discuss the details.
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: Let's keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's work together to farm more food for the city
+  L7C: Let's keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  S4X: I'll head to the Square to see what's new.
+  B4B → F7G: I think we should prioritize building more beds to increase our population and workforce. What are your thoughts?
+  X4G (board): Let's gather at the Town Hall to discuss the food storage system and farming strategies further. Who's willing to help?
+  R3P (board): Let's work together to build a food storage system and improve our city's development plans.
+
+DAY 51
+  M2P: I'll keep farming for more food!
+  D6W: I'll go to the Square to see what's new and discuss our city's growth and resource management.
+  C6S: I'll keep farming for more food!
+  X4G: Let's discuss the food storage system and farming strategies here.
+  P9Q: Let's keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food!
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll discuss the upcoming mayoral election and see what's new.
+  J9D: I'll keep farming for more food!
+  W2F: I'll keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Let's keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  B4B: Discussing the city's development plans and food storage system.
+  T3Q (board): Let's work together to improve our farming strategies and food storage system.
+  B4B → F7G: Can you provide an update on the city's development plans and food storage system? I'd like to discuss it further.
+  S4X (board): Who's willing to work on the food storage system and farming strategies with me? Let's gather at the Town Hall to discuss further.
+  F7G (board): Discussing the city's development plans and food storage system at the Town Hall. All are welcome.
+  X4R (board): Let's finalize the food storage system and farming strategies plan at the Town Hall.
+  R3P (board): Let's gather at the Town Hall to finalize the food storage system plan and discuss the city's development.
+
+DAY 52
+  X4R: Let's finalize the food storage system and farming strategies plan.
+  M2P: I'll keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: Let's discuss the food storage system and farming strategies here.
+  F7G: Let's discuss the city's development plans and food storage system.
+  P9Q: Let's keep farming for more food!
+  T3Q: Let's discuss the food storage system and farming strategies as planned.
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: I'll keep farming for more food!
+  L9P: Let's keep farming for more food!
+  Q2X: Let's keep farming for more food!
+  J9D: I'll go to the Square to see what's new and discuss our city's growth and resource management.
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: I'll keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: Let's discuss the food storage system and farming strategies at the Town Hall.
+  B4B: I'll go discuss the city's development plans and food storage system with others.
+  X4G → B4B: What do you think about the food storage system and farming strategies in our city?
+  D6W (board): Let's discuss the food storage system and farming strategies at the Town Hall. All are welcome.
+  Q7P (board): I'll help with the food storage system and farming strategies discussion at the Town Hall.
+
+DAY 53
+  S4X proposed a law: "No resident can take more than 10 food from the city store at once." with a penalty of 5 coins at the Town Hall.
+  X4R: I'll propose a law to organize our city's development plans after we discuss this further.
+  M2P: Let's keep farming for more food!
+  D6W: Let's finalize the food storage system plan and discuss the city's development.
+  C6S: I'll keep farming for more food!
+  X4G: Let's discuss the food storage system and farming strategies.
+  F7G: Let's discuss the details of the plan.
+  P9Q: I'll go to the Square to see what's new and discuss our city's growth and resource management.
+  T3Q: Let's work on finalizing our food storage system and farming strategies plan.
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food!
+  R3P: Let's continue the discussion on the food storage system and farming strategies.
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll discuss the food storage system and farming strategies.
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: I'm going to see what's new in the Square.
+  Q4W: I'll go to the Square to discuss our city's growth and resource management.
+  D3X: I'll see what's new at the Square.
+  S4X: Let's discuss this law proposal.
+  B4B: I'll be back to discuss the food storage system later
+  F7G → X4R: I agree, let's finalize the food storage system plan.
+  J9D (board): Discussing food storage system and farming strategies. Let's gather at the Town Hall.
+
+DAY 54
+  X4R: I'm not sure about this law proposal. Can we discuss it more?
+  M2P: I'll keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: Let's finalize the food storage system and farming strategies plan here.
+  T3Q: I'm going to the Town Hall to discuss the food storage system and farming strategies.
+  L9C: Let's keep farming for more food!
+  F7X: Let's keep farming for more food!
+  T9V: I agree with the proposed law to limit food withdrawals from the city store.
+  X6X: Let's keep farming for more food!
+  L9P: Let's keep farming for more food!
+  R3P: Let's finalize the food storage system plan and farming strategies.
+  Q2X: Let's keep farming for more food!
+  Q7P: I don't think we should limit the food from the city store at this point.
+  J9D: Discussing food storage system and farming strategies.
+  J6L: Let's keep farming for more food!
+  D3X: I'm going to the Town Hall to discuss the food storage system and farming strategies.
+  S4X: Discussing the food storage system and farming strategies plan at the Square now.
+  B4B: Let's focus on farming for now
+  L7C (board): Let's discuss the food storage system and farming strategies at the Town Hall. All are welcome.
+  Q4W (board): Let's discuss the food storage system and farming strategies at the Town Hall. All are welcome.
+  D3X (board): Discussing the food storage system and farming strategies at the Town Hall. All are welcome.
+  P9Q (board): Let's focus on farming and discuss the new law proposal at the Town Hall.
+
+DAY 55
+  Proposal 2 passed, 12 votes to 5: a new law: "No resident can take more than 10 food from the city store at once." with a penalty of 5 coins.
+  X4R: I need to find food.
+  M2P: I'll keep farming for more food!
+  D6W: Let's discuss the food storage system and farming strategies plan here.
+  F7G: Let's discuss the food storage system and farming strategies plan.
+  P9Q: Let's finalize the food storage system and farming strategies plan.
+  L9C: I'll head to the Square to see what's new.
+  F7X: Let's keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: I agree with the proposed law to limit food withdrawals from the city store.
+  L9P: Let's keep farming for more food!
+  R3P: Let's discuss this proposal before voting.
+  Q2X: Let's keep farming for more food!
+  Q7P: I'm going to the Square to discuss the food storage system and farming strategies plan.
+  W2F: Let's keep farming for more food!
+  J6L: I think the law to limit food withdrawals from the city store is a good idea.
+  L7C: Let's discuss the food storage system and farming strategies.
+  Q4W: Let's discuss the food storage system and farming strategies.
+  D3X: Let's discuss the food storage system and farming strategies now.
+  B4B: I'll keep farming for more food!
+
+DAY 56
+  X4R: I'll go find some food.
+  M2P: I'll keep farming for more food!
+  D6W: I'll go to the Town Hall to discuss the food storage system and farming strategies plan.
+  C6S: I'll keep farming for more food!
+  X4G: Let's discuss the food storage system and farming strategies.
+  F7G: I need to find food.
+  P9Q: I'll go to the Square to discuss the food storage system and farming strategies.
+  T3Q: Let's work together to improve our farming strategies and food storage system.
+  L9C: I'll discuss the food storage system and farming strategies.
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: I'll keep farming for more food!
+  L9P: Let's keep farming for more food!
+  R3P: Let's discuss the new law and its implications.
+  Q2X: Let's keep farming for more food!
+  J9D: Let's discuss the food storage system and farming strategies plan.
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Let's discuss the food storage system and farming strategies in the Square now.
+  D3X: Discussing food storage and farming strategies at the Town Hall was productive. I'll share the ideas at the Square.
+  S4X: Let's finalize the food storage system and farming strategies plan.
+  B4B: Let's keep farming for more food!
+  F7G (board): Let's discuss the food storage system and farming strategies plan here.
+  Q4W → P9Q: I agree we need a food storage system and farming strategies plan.
+  Q7P (board): Let's discuss the food storage system and farming strategies here at the Square.
+
+DAY 57
+  X4R: I'll work to get some food.
+  M2P: I'll check the notice board.
+  D6W: Let's continue the discussion about the food storage system and farming strategies.
+  C6S: I'll keep farming for more food!
+  F7G: I'll go farm some food.
+  L9C: I'll head to the Square to discuss the food storage system and farming strategies plan with others.
+  F7X: Going to the Square to discuss the city's progress.
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll head to the Square to discuss the city's progress.
+  Q2X: I'll see what's going on in the Square.
+  Q7P: I'll go farm for more food.
+  J6L: I'll go to the Square to see if anything is happening.
+  L7C: I think we should discuss farming strategies and food storage system here at the Square.
+  Q4W: Let's discuss the food storage system and farming strategies plan.
+  S4X: I'm glad we're discussing the food storage system and farming strategies.
+  B4B: Let's keep farming for more food!
+  R3P (board): Let's discuss how we can implement the food storage system and farming strategies we've discussed.
+  P9Q (board): I agree with Q4W that we need a food storage system and farming strategies plan. Let's discuss this further.
+  J9D (board): I'll help with the food storage system and farming strategies. Who wants to collaborate?
+  S4X → D6W: Let's discuss the food storage system and farming strategies plan.
+  T3Q (board): I think we should focus on improving our farming strategies and food storage system. Who's with me?
+  D3X (board): Let's discuss the food storage system and farming strategies here at the Square. What are your thoughts?
+  X4G (board): Let's finalize the food storage system and farming strategies plan here.
+  L7C (board): Let's discuss farming strategies and food storage system here at the Square.
+
+DAY 58
+  X4R: I'll work to get some food.
+  D6W: Let's discuss the details of the food storage system plan.
+  C6S: I'll check the notice board.
+  X4G: I'll go farm some food.
+  F7G: I'll farm some food.
+  T9V: I'll check the notice board.
+  X6X: Let's keep farming for more food!
+  L9P: I'm here to discuss the city's progress.
+  Q7P: I'll keep farming for more food!
+  J9D: I'm going to farm for more food.
+  D3X: I'll go farm some more food.
+  B4B: I'll keep farming for more food!
+  R3P (board): I'd like to collaborate with J9D on the food storage system and farming strategies. Let's finalize the plan here at the Square.
+  L7C (board): I'm going to help with the food storage system and farming strategies. Who wants to collaborate with me?
+  L9P (board): I'll help with the food storage system and farming strategies. Who wants to collaborate?
+  P9Q (board): Let's work on farming and discuss the food storage system and farming strategies here at the Square.
+  Q2X (board): Let's work together to improve farming strategies and food storage system. Who wants to collaborate?
+  L9C (board): I think we should focus on building a new house to increase the number of free beds.
+  F7X (board): I'm interested in collaborating on the food storage system and farming strategies. Let's discuss here.
+  J6L (board): I'm looking for collaborators to improve our farming strategies and food storage system. Let's discuss here at the Square.
+  M2P (board): I'm interested in discussing the food storage system and farming strategies. Let's collaborate and share ideas.
+  W2F (board): Let's collaborate on improving our farming strategies and food storage system. Who's interested?
+  Q4W (board): Who wants to help me improve farming strategies and the food storage system?
+  D6W (board): I think we should focus on building a food storage system. Who's with me?
+  T3Q (board): I think we should also discuss how to make our farming more efficient. Who has ideas?
+
+DAY 59
+  X4R: I'll keep farming for more food!
+  M2P: I'll go farm some more food!
+  X4G: I'll farm some food.
+  F7G: Let's keep farming for more food!
+  T9V: I think we should work together to improve our farming and food storage.
+  X6X: Let's keep farming for more food!
+  L9P: Let's discuss the food storage system plan.
+  Q2X: I'll go farm some food.
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  J6L: Let's discuss the food storage system plan.
+  D3X: I'll keep farming for more food!
+  B4B: I'll keep farming for more food!
+  S4X (board): Collaboration on food storage system and farming strategies is crucial for our city's growth. Let's work together.
+  F7X (board): Let's discuss the food storage system plan in more detail. What are the ideas so far?
+  T3Q (board): Let's gather here to discuss our farming strategies and food storage system plan.
+  P9Q (board): Let's work together to improve our farming strategies and food storage system. I'm interested in discussing the details.
+  L7C (board): I think we should build a food storage system near the Fields to keep our food fresh.
+  R3P (board): I think we should focus on building a food storage system and discuss how to make our farming more efficient. Who's interested in collaborating?
+  J6L (board): I'm interested in collaborating with M2P, W2F, Q4W, and D6W on improving our farming strategies and food storage system. Let's discuss the details.
+  W2F (board): Let's discuss the food storage system plan and farming strategies in more detail. Who's willing to help?
+  D6W (board): Let's discuss the food storage system and farming strategies in more detail. What are your ideas?
+  C6S (board): I'm interested in discussing food storage systems and farming strategies with those who posted about it. Let's collaborate and share ideas.
+  L9P (board): I'll help with the food storage system and farming strategies. Who wants to collaborate and share ideas?
+  T9V (board): I'm interested in discussing the food storage system and farming strategies. Let's collaborate and share ideas.
+  Q4W (board): Let's discuss the details of the food storage system plan here at the Square.
+  L9C (board): I think we should discuss how to make our farming more efficient. Who has ideas? I'll go farm some more food after this discussion.
+
+DAY 60
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  X4G: Let's discuss the upcoming election and new proposals.
+  F7G: I'll keep farming for more food!
+  X6X: Let's discuss the upcoming election.
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  W2F: Let's discuss the food storage system plan and farming strategies in more detail.
+  D3X: I'll keep farming for more food!
+  S4X: I'll go farm some more food.
+  B4B: Let's keep farming for more food!
+  F7X (board): I'd like to discuss the food storage system plan in more detail. What are the ideas and how can we implement them? Let's work together to improve our farming and food storage.
+  P9Q (board): I think we should work together to improve our farming strategies and food storage system. Who wants to collaborate and share ideas?
+  J6L (board): Let's gather at the Square to discuss food storage systems and farming strategies.
+  T3Q (board): Let's gather here to discuss our farming strategies and food storage system plan.
+  L7C (board): Let's discuss how to improve farming efficiency at the Fields. Who has ideas?
+  W2F (board): Let's work together to create a more efficient farming system and discuss the details of the food storage plan here at the Square.
+  C6S (board): Let's discuss the food storage system plan here at the Square.
+  T9V (board): Let's gather here at the Square to discuss the food storage system and farming strategies. Who's ready to share their ideas and expertise?
+  Q4W (board): Let's start building the food storage system. Who can help with materials and labor?
+  L9P (board): Let's meet at the Fields to discuss and work on the food storage system and farming strategies.
+  D6W (board): Let's continue the discussion about the food storage system and farming strategies plan here.
+  L9C (board): Let's discuss the food storage system plan here at the Square. Who's willing to collaborate and share ideas?
+
+DAY 61
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll go farm some more food.
+  X4G: I'm going to farm some food.
+  F7G: I'll keep farming for more food!
+  X6X: Let's discuss the food storage system plan.
+  L9P: Let's discuss the food storage system plan and farming strategies in more detail.
+  R3P: Let's increase our food supply.
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: Farming to help the city's food supply.
+  B4B: I'll keep farming for more food!
+  F7X (board): Let's gather at the Square and discuss the food storage system plan in detail. Who's ready to collaborate?
+  W2F (board): Let's work on building the food storage system and gather materials at the Woods. Who's ready to help?
+  X6X (board): I think we should discuss the food storage system plan here at the Square. Who's willing to collaborate and share ideas?
+  P9Q (board): Let's work together to build the food storage system. Who's ready to help?
+  T3Q (board): Let's finalize our food storage system and farming strategies plan here at the Square. Who's ready to share their ideas and expertise?
+  Q4W (board): Let's gather here and discuss the food storage system and farming strategies in detail.
+  T9V (board): I'm glad to see so many people interested in discussing the food storage system and farming strategies. Let's share our ideas and expertise to improve our food supply.
+  C6S (board): Let's discuss the specifics of the food storage system plan here at the Square. What materials do we need? Who can help gather them?
+  J6L (board): Let's get started on the food storage system plan. Who's ready to collaborate and share resources?
+  L9C (board): Let's gather the materials we need to build a food storage system. Who can help with gathering materials?
+  L7C (board): I'm going to help with the food storage system and farming strategies. Who wants to work with me at the Fields?
+
+DAY 62
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll farm some more food.
+  X4G: I'll farm some food.
+  F7G: Let's keep farming for more food!
+  P9Q: I'll go farm some food.
+  T3Q: I'll go farm some food.
+  L9C: I'm going to farm some more food.
+  F7X: I'll help with farming for more food.
+  T9V: Let's work together to improve our farming and food storage.
+  L9P: Let's keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  J6L: Let's work together to make this happen.
+  L7C: I'll help with farming.
+  D3X: I'll keep farming for more food!
+  S4X: I'll keep farming for more food!
+  Q4W (board): I'll help with the food storage system plan and farming strategies at the Fields. Who's with me?
+  J6L (board): Let's gather materials for the food storage system. Who can help with gathering materials?
+  X6X (board): Who's ready to help with farming and gathering materials for the food storage system?
+  C6S (board): Who's ready to gather materials for the food storage system? I can help with farming to get more food.
+  W2F (board): I'm willing to collaborate on the food storage system and farming strategies. Who's ready to work together at the Fields? I'll bring my farming expertise.
+
+DAY 63
+  X4R: I'll keep farming for more food!
+  M2P: I'll check the notice board for any updates on the election.
+  D6W: I'll keep farming for more food!
+  C6S: I'll go help with farming for more food!
+  X4G: I'll keep farming for more food!
+  F7G: I'll be back, I need to check the city news.
+  P9Q: I'll farm some food.
+  T3Q: I'll help with farming for more food.
+  L9C: Let's keep farming to increase our food supply.
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: I'll go farm some food to help with the food storage system.
+  L9P: I'll keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  W2F: Let's work on the food storage system and farming strategies.
+  J6L: Let's work together to make the food storage system happen.
+  L7C: Let's farm some more food.
+  Q4W: Let's work together on the food storage system and farming strategies.
+  D3X: I'll keep farming for more food!
+  S4X: I'll keep farming for more food!
+
+DAY 64
+  X4R: I'll keep farming for more food!
+  M2P: I think B4B should be our next mayor.
+  D6W: I'll keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: I'll keep farming for more food!
+  F7G: Let's work together for the food storage system!
+  P9Q: I'll keep farming for more food!
+  T3Q: I'll keep farming for more food!
+  L9C: I'll keep farming for more food!
+  F7X: I'm going to the Square to discuss the upcoming election.
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll go to the Square to discuss the upcoming election.
+  J9D: I'll keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: I'll keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: Let's work together to improve our food supply.
+  S4X: I'll keep farming for more food!
+  B4B (board): Who is interested in building the food storage system? Let's discuss at the Fields.
+  F7G (board): I'll help with the food storage system plan and farming strategies at the Fields. Who's with me?
+
+DAY 65
+  Election day: votes B4B 0; F7G is mayor.
+  X4R: Let's discuss the upcoming election.
+  D6W: Let's keep farming for more food!
+  C6S: I'll go check the election results.
+  X4G: Let's keep farming for more food!
+  F7G: Let's get the food storage system started!
+  P9Q: I'll go to the Square to discuss the upcoming election.
+  T3Q: I'll go to the Square to discuss the upcoming election.
+  L9C: I'm going to the Square to discuss the upcoming election.
+  T9V: I'm going to the Square to discuss the upcoming election.
+  X6X: I'll keep farming for more food!
+  L9P: Let's discuss the upcoming election.
+  R3P: I'll head to the Square to discuss the upcoming election.
+  Q2X: I'll discuss the upcoming election.
+  J9D: I'm going to the Square to vote in the election.
+  J6L: Let's discuss the upcoming election and our food supply plan.
+  L7C: I'm going to the Square to discuss the upcoming election.
+  Q4W: Let's discuss the election and our city's future.
+  S4X: I'll go discuss the upcoming election and city matters.
+  F7G (board): I'll help with the food storage system plan and farming strategies at the Fields. Who's with me?
+  Q7P (board): I'm considering running for mayor. What are the city's priorities?
+  D3X (board): Let's discuss the food storage system and farming strategies here at the Square.
+
+DAY 66
+  M2P: Let's work together to make our city better!
+  D6W: Let's discuss the food storage system and farming strategies in more detail.
+  X4G: Let's discuss the upcoming election and our city's future.
+  F7G: Let's discuss the food storage system plan and farming strategies at the Fields.
+  L9C: Let's discuss the food storage system plan and farming strategies here at the Square. Who's with me?
+  F7X: I'm going to farm for more food.
+  T9V: I'm glad to see so many people interested in discussing the food storage system and farming strategies. Let's work together to improve our farming and food storage.
+  X6X: Let's discuss the upcoming election and our food supply plan.
+  Q7P: Let's discuss the food storage system plan and farming strategies.
+  Q4W: Let's discuss the food storage system and farming strategies here at the Square.
+  Q2X (board): Who's willing to work on the food storage system with B4B and F7G at the Fields?
+  T9V (board): Who's interested in discussing the food storage system and farming strategies at the Fields? Let's work together to improve our farming and food storage.
+  W2F (board): Let's discuss the food storage system plan and farming strategies here at the Square.
+  S4X (board): I think we should focus on building a food storage system and discuss the upcoming election.
+  P9Q (board): Who's willing to help with the food storage system plan and farming strategies at the Fields?
+  X4R (board): Who wants to discuss the food storage system plan and farming strategies with me at the Fields?
+  C6S (board): Let's finalize the food storage system plan and gather materials. Meet at the Fields.
+  T3Q (board): I think we should discuss our city's priorities before the election. What are your thoughts?
+  J9D (board): Let's focus on building the food storage system to ensure our city's food supply. Who's with me?
+  L9P (board): I'd like to discuss the upcoming election and our city's priorities with the current candidates. Let's hear their plans.
+  J6L (board): Let's focus on food production and storage for now, and discuss election priorities later.
+  R3P (board): I'd like to collaborate with others on the food storage system and farming strategies. Let's discuss at the Fields.
+  L7C (board): I'm interested in discussing the food storage system and farming strategies. Let's meet at the Fields.
+  M2P (board): I'd like to help with the food storage system plan. Who's in charge of the project?
+  Q4W (board): Who wants to help me improve farming strategies and the food storage system?
+  D3X (board): Let's discuss the food storage system here at the Square, I'll share my farming experience.
+  L9C (board): I'd like to discuss the food storage system plan and farming strategies here at the Square. Who's with me?
+
+DAY 67
+  X4R: I'm going to farm for more food.
+  M2P: Let's work on that food storage system plan!
+  C6S: I'll help with farming for more food!
+  X4G: Let's discuss the food storage system and farming strategies in more detail.
+  F7G: Let's keep farming for more food!
+  P9Q: I'm going to farm some more food.
+  T3Q: I'll go farm some food.
+  L9C: Let's work on the food storage system plan and farming strategies.
+  F7X: Let's keep farming for more food!
+  T9V: I think we should work together to improve our farming and food storage.
+  X6X: Let's discuss the food storage system plan and farming strategies.
+  L9P: Let's discuss the food storage system plan and farming strategies.
+  R3P: I'll go farm for more food!
+  Q2X: I'll join the discussion on the food storage system and farming strategies.
+  Q7P: I'll keep farming for more food!
+  W2F: Let's work on the food storage system and farming strategies.
+  J6L: Let's improve farming strategies and the food storage system!
+  L7C: I'm going to farm for more food.
+  Q4W: I'm going to farm for more food.
+  S4X: I'm going to farm some more food.
+  B4B: I'll keep farming for more food!
+  D6W (board): I'm interested in discussing the food storage system and farming strategies with L7C at the Fields.
+  X4G (board): I'm interested in discussing the food storage system and farming strategies at the Fields. Who's with me?
+  J9D (board): I think we should focus on building the food storage system and farming strategies. Let's work together to make it happen.
+  D3X (board): Let's gather at the Fields to discuss and work on the food storage system and farming strategies.
+  X6X (board): I think we should discuss the food storage system plan here at the Square. Who's ready to help with farming and gathering materials for the food storage system?
+  T9V (board): Let's discuss the food storage system plan and farming strategies here at the Square. Who's with me?
+
+DAY 68
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll join the discussion later, I'm going to farm some more food.
+  C6S: I'll keep farming for more food!
+  X4G: Let's work on that food storage system plan! I'm going to farm for more food.
+  F7G: Let's keep farming for more food!
+  P9Q: I'll farm some more food!
+  T3Q: I'll keep farming for more food!
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'm going to farm some more food.
+  X6X: Let's work on the food storage system plan and farming strategies.
+  L9P: Let's keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: Let's work together to improve our farming strategies and build a food storage system!
+  W2F: Let's keep farming for more food!
+  J6L: I'll keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: I'm farming for more food.
+  D3X: Let's work on the food storage system and farming strategies.
+  S4X: Farming to help the city's food supply.
+  B4B: Farming for more food!
+
+DAY 69
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll farm some more food!
+  C6S: I'll keep farming for more food!
+  X4G: I'll farm some more food.
+  F7G: Let's keep farming for more food!
+  P9Q: I'll keep farming for more food!
+  T3Q: I'll keep farming for more food!
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: Let's keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: Let's work on the food storage system plan and farming strategies.
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: Farming for more food to help our city's food supply.
+  S4X: I'll keep farming for more food!
+  B4B: I'll keep farming for more food!
+
+DAY 70
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: I'll keep farming for more food!
+  F7G: Let's keep farming for more food!
+  P9Q: I'll keep farming for more food!
+  T3Q: I'll keep farming for more food!
+  L9C: I'll keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: I'll keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: I'll keep farming for more food!
+  L7C: Let's keep farming for more food!
+  Q4W: I'll keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: I'll keep farming for more food!
+  B4B: I'll keep farming for more food!
+
+DAY 71
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll keep farming for more food!
+  X4G: I'll keep farming for more food!
+  F7G: Let's keep farming for more food!
+  P9Q: I'll keep farming for more food!
+  T3Q: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: I'm going to the Square to discuss the city's progress.
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: I'll keep farming for more food!
+  B4B: I'll keep farming for more food!
+
+DAY 72
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll keep farming for more food!
+  X4G: I'll keep farming for more food!
+  F7G: Let's keep farming for more food!
+  P9Q: I'll keep farming for more food!
+  T3Q: I'll go discuss the city's progress.
+  L9C: I'm going to the Square to discuss the city's progress and the upcoming election.
+  F7X: I'll keep farming for more food!
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: Let's discuss our progress and future plans.
+  Q7P: I'll keep farming for more food!
+  J9D: I'll keep farming for more food!
+  W2F: Let's keep farming for more food!
+  J6L: Let's discuss our progress and plan for the future.
+  L7C: Let's keep farming for more food!
+  Q4W: Let's keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: I'll keep farming for more food!
+  B4B: Let's discuss the city's progress and plan for the future!
+  C6S (board): I'll help with farming for more food! Who wants to work on the food storage system plan at the Fields?
+  Q2X (board): Let's discuss the food storage system plan here at the Square. Who's ready to help with farming and gathering materials for the food storage system?
+
+DAY 73
+  X4R: I'll keep farming for more food!
+  M2P: I'll keep farming for more food!
+  D6W: I'll keep farming for more food!
+  C6S: I'll go help with farming for more food!
+  X4G: Let's discuss the upcoming election and our city's progress.
+  F7G: I'll keep farming for more food!
+  P9Q: I'll keep farming for more food!
+  T3Q: Let's discuss the food storage system plan and farming strategies here at the Square.
+  L9C: I'll go to the Fields next turn to discuss the plan.
+  F7X: I'll go discuss the city's progress and the upcoming election.
+  T9V: I'll keep farming for more food!
+  X6X: Let's keep farming for more food!
+  L9P: I'll keep farming for more food!
+  Q7P: Let's discuss the city's progress and plan for the future.
+  J9D: I'll keep farming for more food!
+  W2F: I'll keep farming for more food!
+  L7C: I'll keep farming for more food!
+  Q4W: I'll keep farming for more food!
+  D3X: I'll keep farming for more food!
+  S4X: Farming to help the city's food supply.
+  T3Q (board): I think we should focus on the food storage system plan and farming strategies. Who's ready to help with farming and gathering materials for the food storage system?
+  J6L (board): Let's make a plan for food storage and distribution, and discuss the upcoming election.
+  B4B (board): Let's discuss our progress and plan for the future.
+  R3P (board): I'd like to help with the food storage system plan and farming strategies. Who's with me?
+  Q2X (board): Let's discuss the food storage system plan here at the Square. Who's ready to help with farming and gathering materials for the food storage system? I'll start farming again if we can get enough people to work on the storage system.
+  L9C (board): Let's make a plan for food storage and farming strategies at the Fields. Who's with me?
+
+DAY 74
+  X4R: I'm going to the Square to discuss the upcoming election and city progress.
+  M2P: I'm going to check the notice board and discuss the upcoming election.
+  D6W: I'll go discuss the city's progress and the upcoming election.
+  C6S: Let's keep farming for more food!
+  F7G: Let's discuss our progress and the upcoming election.
+  P9Q: I'll keep farming for more food!
+  L9C: Let's discuss the food storage system plan and farming strategies here.
+  T9V: Going to the Square to discuss the city's progress and the upcoming election.
+  X6X: Let's talk about the city's progress and plan for the future.
+  L9P: I'll head to the Square to discuss the upcoming election and our city's progress.
+  R3P: I'll go farm for more food!
+  J9D: Let's discuss the city's progress and the upcoming election.
+  W2F: Let's discuss the upcoming election and city progress.
+  Q4W: I'll keep farming for more food!
+  S4X: I'll discuss the city's progress and the upcoming election.
+  J6L (board): Let's gather at the Fields to discuss the food storage system plan and farming strategies. Who's with me?
+  T3Q (board): Let's finalize the food storage system plan and farming strategies here at the Square. Who's ready to help with farming and gathering materials for the food storage system?
+  Q7P (board): Let's discuss our city's progress and the upcoming election.
+  F7X (board): Let's discuss the food storage system plan here at the Square. Who's ready to help with farming and gathering materials for the food storage system?
+  Q2X (board): Let's start building the food storage system. Who's with me? I'll start gathering materials if we have enough people to work on it.
+  B4B (board): Let's discuss food storage and distribution plans here at the Square. Who's with me? What are your ideas?
+  X4G (board): I'm interested in helping with the food storage system plan and farming strategies. Let's work together to make our city thrive.
+
+DAY 75
+  X4R: Let's discuss the food storage system plan here at the Square.
+  C6S: I'll keep farming for more food!
+  F7G: I'm open to any ideas and suggestions for the food storage system.
+  P9Q: I'll head to the Square to discuss the upcoming election and city progress.
+  T3Q: Who's with me to start building the food storage system?
+  L9C: Let's keep farming for more food!
+  T9V: Who's with me on this? Let's discuss the details.
+  X6X: I'll join the discussion on the food storage system plan.
+  R3P: I'll keep farming for more food!
+  J9D: I think we should work together to improve our city's progress.
+  W2F: I'm going to the Woods next turn to gather materials for the food storage system.
+  L7C: I'm going to discuss the food storage system plan.
+  Q4W: I'll keep farming for more food!
+  D3X: I'm interested in hearing everyone's ideas on the food storage system and the election.
+  S4X: Let's discuss the food storage system plan here at the Square.
+  T9V (board): Let's focus on improving our farming strategies and food storage system before the upcoming election.
+  J9D (board): Let's focus on farming and food storage system. Who's with me?
+  S4X (board): I'm interested in helping with the food storage system plan and farming strategies. Let's work together to make our city thrive.
+  J6L (board): Let's gather at the Fields to discuss the food storage system plan and farming strategies in more detail.
+  W2F (board): Let's focus on building the food storage system and gathering materials. Who's with me?
+  Q2X (board): Let's finalize the food storage system plan and start building it this turn. Who's ready to help?
+  M2P (board): Let's discuss the food storage system plan and farming strategies. Who's with me? What are your ideas?
+  L9P (board): I'm interested in helping with the food storage system plan and farming strategies. Let's work together to make our city thrive.
+  X4R (board): I'm happy to help with the food storage system plan. Who's willing to work together on it?
+  D3X (board): Let's work together to create a more efficient farming system and discuss the upcoming election.
+  L7C (board): I think we should focus on building a food storage system. Who's with me?
+  D6W (board): Let's discuss the food storage system and farming strategies to make our city thrive.
+  Q7P (board): I agree that a food storage system plan and farming strategies are crucial. Who's ready to work on it with me?
+  B4B (board): Let's discuss the food storage system plan and farming strategies here. Who's with me? What are your ideas?
+  X4G (board): Let's finalize our plans for the food storage system and farming strategies before the upcoming election. Who's with me?
+  F7X (board): Who's ready to help with gathering materials for the food storage system? Let's work together to make it happen.
+  T3Q (board): Let's discuss the details of the food storage system plan and farming strategies here at the Square.
+  F7G (board): Let's finalize our food storage system plan and discuss the upcoming election.
+  X6X (board): Let's discuss the food storage system plan and farming strategies here at the Square.
+
+DAY 76
+  M2P: I'll go to the Woods next turn to gather materials.
+  C6S: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'm going to gather materials for the food storage system.
+  T9V: I'm happy to see so many people discussing the food storage system plan. Let's work together to make it happen.
+  X6X: I'll go farm for more food.
+  R3P: I'll keep farming for more food!
+  W2F: I'll gather materials for the food storage system.
+  L7C: Who's with me on this?
+  Q4W: I'm going to the Square to see what's new.
+  S4X: Let's work together to make our city thrive!
+  B4B: Let's finalize the food storage system plan and farming strategies before the upcoming election.
+  X4R (board): I'll join the group to build the food storage system. Let's discuss the plan here at the Square.
+  S4X (board): I think we should focus on implementing the food storage system as soon as possible to ensure a stable food supply for the city. Who's with me on this?
+  J9D (board): Let's discuss the food storage system plan and farming strategies here at the Square.
+  D3X (board): I think we should work together to improve our city's progress and finalize our plans for the food storage system and farming strategies before the upcoming election.
+  D6W (board): Let's work together to gather materials and start building the food storage system. Who's with me?
+  L9P (board): Let's focus on the food storage system plan and discuss the details here at the Square.
+  J6L (board): Let's gather at the Fields to finalize the food storage system plan and farming strategies.
+  B4B (board): I'll join the discussion on the food storage system plan. Let's work together to make it happen.
+  Q7P (board): I think we should discuss the food storage system plan and farming strategies in more detail. Who's with me to finalize the plans?
+  Q2X (board): Let's focus on gathering materials for the food storage system. Who's ready to help?
+  P9Q (board): Discussing the food storage system plan and farming strategies is crucial. Let's finalize it before the election.
+  T3Q (board): Let's summarize our ideas and start working on the food storage system plan. Who can help with building and gathering materials?
+  L7C (board): I think we should focus on building a food storage system and discuss the details here at the Square.
+  X4G (board): I think we should discuss the details of the food storage system plan here at the Square. Let's work together to make it happen.
+  F7G (board): Let's discuss the details of the food storage system plan and farming strategies here at the Square.
+  T9V (board): Let's focus on improving our farming strategies and food storage system before the upcoming election. Who's with me on this? Let's discuss the details.
+  M2P (board): Let's focus on building the food storage system and gathering materials before the election. Who's with me?
+
+DAY 77
+  M2P: I'm going to gather materials for the food storage system.
+  C6S: I'll keep farming for more food!
+  T3Q: I'll go farm for more food.
+  L9C: I'll keep farming for more food!
+  F7X: I'll gather materials for the food storage system.
+  X6X: Let's keep farming for more food!
+  L9P: I'll go to the Fields next turn to farm for more food.
+  R3P: I'll keep farming for more food!
+  Q2X: I'm going to farm for more food to support the food storage system plan.
+  Q7P: I'll go farm for more food.
+  W2F: Let's gather materials for the food storage system.
+  X4G (board): I'll go to the Fields next turn to farm for more food. Let's work together to finalize the food storage system plan and farming strategies before the upcoming election.
+  F7G (board): Let's work together to finalize the food storage system plan and farming strategies before the upcoming election. Any suggestions or ideas?
+  L7C (board): Let's discuss the food storage system plan and farming strategies here at the Square. What materials do we need to gather and how can we distribute the food effectively?
+  J9D (board): I think we should also discuss our city's defense and safety plans.
+  D3X (board): Let's discuss the food storage system plan and farming strategies here at the Square. Who's with me on this?
+  B4B (board): I think we should discuss the details of the food storage system plan and farming strategies here at the Square. Let's work together to make it happen.
+  Q4W (board): Let's focus on building a food storage system before the election. I'm willing to help with materials.
+  D6W (board): Let's finalize the details of the food storage system plan and farming strategies before the upcoming election. Who's with me on this?
+  T9V (board): Let's finalize the details of the food storage system plan. Who can share their ideas?
+  X4R (board): Let's discuss the food storage system plan here at the Square. Who's with me on this?
+  L9P (board): Let's get started on building the food storage system and discuss the details here at the Square.
+  J6L (board): Let's finalize the food storage system plan and farming strategies before the upcoming election. I'll go to the Fields next turn to help with farming.
+  P9Q (board): We need to make sure our food storage system is built before the upcoming election. I'll start gathering materials for it.
+  S4X (board): Let's work together to finalize the food storage system plan and farming strategies before the upcoming election.
+
+DAY 78
+  M2P: I'm gathering materials for the food storage system.
+  D6W: I'll go farm for more food to support the food storage system plan.
+  C6S: I'll keep farming for more food!
+  X4G: I'm going to farm for more food to support the food storage system plan.
+  F7G: Does anyone have any suggestions or ideas for the food storage system?
+  T3Q: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll gather more materials for the food storage system.
+  X6X: Let's keep farming for more food!
+  L9P: I'll head to the Fields to farm for more food.
+  R3P: I'll keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  W2F: Let's gather more materials for the food storage system.
+  J6L: Let's finalize the food storage system plan and farming strategies before the upcoming election.
+  S4X: I'll go help with farming.
+  Q4W (board): I think we should also consider how to distribute food to residents efficiently once the food storage system is built.
+  J9D (board): Let's focus on the upcoming election and choose a suitable mayor. I think we should discuss the candidates' plans and ideas.
+  T9V (board): Let's discuss the details of the food storage system plan here. Who's with me on this? What are your suggestions?
+  B4B (board): Let's discuss the food storage system plan and farming strategies here at the Square.
+  L7C (board): Let's get started on building the food storage system. Who's with me on this?
+  P9Q (board): Let's finalize the details of the food storage system plan at the Square today.
+  X4R (board): Let's finalize the details of the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+  F7G (board): Let's work together to finalize the food storage system plan before the upcoming election.
+  D3X (board): Let's work together to finalize the food storage system plan before the election. What are your thoughts?
+
+DAY 79
+  M2P: I'm going to check the notice board and discuss the upcoming election.
+  D6W: I'll keep farming for more food!
+  C6S: I'll keep farming for more food!
+  X4G: Let's keep farming for more food to support our city's growth.
+  T3Q: I'll keep farming for more food!
+  L9C: Let's keep farming for more food!
+  F7X: I'll keep gathering materials for the food storage system.
+  X6X: I'll keep farming for more food!
+  L9P: I'll keep farming for more food!
+  R3P: I'll keep farming for more food!
+  Q2X: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  W2F: Let's discuss the progress on the food storage system.
+  J6L: Let's keep farming for more food!
+  L7C: Let's discuss the plan and start building the food storage system!
+  S4X: I'll keep farming for more food to support the city's food supply.
+  X4R (board): Let's review the current state of the food storage system plan and discuss any remaining tasks or concerns before the upcoming election. Who's ready to finalize the plan?
+  T9V (board): Let's work together to finalize the food storage system plan. I'm happy to help with the construction and gathering materials.
+  B4B (board): Let's finalize the food storage system plan and assign tasks for its construction.
+  Q4W (board): Let's discuss the food storage system plan in more detail, what are the specifics?
+  D3X (board): Let's assign tasks for the food storage system plan. Who can help with building, gathering materials, and farming?
+  P9Q (board): Who's ready to finalize the details of the food storage system plan and assign tasks for its construction?
+  J9D (board): I think we should prioritize the food storage system plan before the election. What are the current plans and who is in charge of implementing it?
+  L7C (board): Let's finalize the details of the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+  F7G (board): Let's assign tasks for the food storage system construction. I'll help with gathering materials.
+
+DAY 80
+  X4R: Let's get started on the food storage system!
+  D6W: I'll keep farming for more food!
+  C6S: Let's keep farming for more food!
+  X4G: Let's keep farming for more food to support our city's growth.
+  F7G: I'll go farm for more food to support our city's growth.
+  T3Q: I'll keep farming for more food to support the city's growth.
+  L9C: Let's keep farming for more food!
+  F7X: I'll go discuss the city's progress and the upcoming election.
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: I'll keep farming for more food!
+  R3P: I'll discuss our progress and future plans.
+  Q7P: I'll keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: I'll go farm for some food.
+  S4X: I'll keep farming for more food to support the city's growth.
+  B4B (board): Let's finalize the food storage system plan before the election. Who can help with building and gathering materials?
+  D3X (board): Let's finalize the food storage system plan before the election. What are the current plans and who is in charge of implementing it?
+  W2F (board): I can help with building the food storage system. Let's discuss the details and assign tasks.
+  T9V (board): I'll help with farming for the food storage system plan. Who's in charge of assigning tasks?
+  X4R (board): I'd like to help with building the food storage system. Who can provide materials?
+  P9Q (board): Let's finalize the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+  Q4W (board): I'm willing to help with farming and gathering materials for the food storage system. Let's discuss the details and assign tasks.
+  J9D (board): Who's ready to help with farming and gathering materials for the food storage system?
+  M2P (board): I'd like to help with farming for the food storage system. Who's in charge of implementing the plan?
+
+DAY 81
+  X4R: I'll go farm for some food to support our city's growth.
+  D6W: Let's keep farming for more food!
+  C6S: I'm going to the Square to see if anyone needs help with anything else.
+  X4G: Let's keep farming for more food to support our city's growth.
+  F7G: I'll keep farming for more food to support our city's growth.
+  T3Q: I'll keep farming for more food to support the city's growth.
+  L9C: Let's keep farming for more food to support the city's growth!
+  T9V: I'll help with farming for the food storage system plan. Who's in charge of assigning tasks?
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: I'll keep farming for more food!
+  Q7P: I'll keep farming for more food!
+  J9D: Let's get started!
+  J6L: Let's keep farming for more food!
+  L7C: Farming for more food.
+  D3X: Who can provide materials for the food storage system?
+  S4X: I'll keep farming for more food to support the city's growth.
+  P9Q (board): Let's start gathering materials and building the food storage system. Who can help with gathering materials and building?
+  D3X (board): I'd like to help with farming and gathering materials for the food storage system. Let's discuss the details and assign tasks.
+  Q4W (board): Let's discuss the details of the food storage system plan. What materials do we need and how can we assign tasks?
+  Q2X (board): I'm willing to help with gathering materials for the food storage system. Let's discuss the details and assign tasks.
+  T9V (board): Let's finalize the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+  W2F (board): Let's finalize the plan and assign tasks for the food storage system construction. I can help with building and gathering materials.
+  F7X (board): Let's discuss the details of the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+  M2P (board): Let's get started on the food storage system plan. Who's ready to help with farming and gathering materials?
+  J9D (board): Let's assign tasks for the food storage system. I'll help with farming and gathering materials. Who can provide tools and help with building?
+  R3P (board): Let's finalize the food storage system plan and assign tasks for its construction. Who can help with building and gathering materials?
+
+DAY 82
+  X4R: I'll keep farming to support our city's growth.
+  D6W: I'll go discuss the upcoming election and the city's progress.
+  F7G: I'll keep farming for more food to support the city's growth.
+  P9Q: I'm going to farm for some food.
+  T3Q: I'll keep farming for more food to support the city's growth.
+  L9C: Let's keep farming for more food to support the city's growth!
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: I'll keep farming for more food to support the city's growth.
+  Q7P: I'll keep farming for more food!
+  J6L: Let's keep farming for more food!
+  L7C: Let's keep farming for more food to support our city's growth!
+  D3X: Who's with me?
+  S4X: I'll keep farming for more food to support the city's growth.
+  B4B: I'll farm for some food to support our city's growth.
+  Q4W (board): I think we should prioritize building the food storage system before the election. Let's finalize the plan and assign tasks for its construction.
+  R3P (board): Let's discuss the food storage system plan and assign tasks. I can help with farming and gathering materials. Who can provide tools and help with building?
+  F7X (board): Let's finalize the plan and assign tasks for the food storage system construction. I can help with farming and gathering materials.
+  C6S (board): I'll help with farming and gathering materials for the food storage system. Let's discuss the details and assign tasks.
+  D3X (board): Let's finalize the food storage system plan and start building before the election. Who's in charge of assigning tasks?
+  J9D (board): Let's finalize the food storage system plan and assign tasks for its construction. I'll help with farming and gathering materials. Who can provide tools and help with building?
+  T9V (board): Who can provide tools for the food storage system? Let's finalize the plan and assign tasks.
+  Q2X (board): Let's work together to gather materials for the food storage system. I'll help with farming and gathering materials. Who can provide tools and help with building? Let's make this happen!
+  W2F (board): I'll help with gathering materials for the food storage system. Who can help with building and provide tools?
+
+DAY 83
+  X4R: I'll keep farming to support our city's growth.
+  M2P: I'm farming for food.
+  D6W: Let's discuss the details of the food storage system plan.
+  X4G: Let's keep farming for more food to support our city's growth.
+  F7G: I'll go discuss the upcoming election and the city's progress.
+  P9Q: Farming for more food.
+  T3Q: I'll keep farming for more food to support the city's growth.
+  L9C: Let's keep farming for more food to support the city's growth!
+  X6X: I'll discuss the upcoming election and the city's progress.
+  L9P: I'm going to the Square to discuss the upcoming election.
+  Q2X: I'm going to farm for more food to support the food storage system plan.
+  Q7P: I'll keep farming for more food!
+  J6L: Let's discuss the upcoming election and the city's progress.
+  L7C: I'll go discuss the upcoming election and the city's progress.
+  D3X: I'm going to farm for some food.
+  S4X: I'll keep farming for more food to support the city's growth.
+  B4B: I'll farm for some food to support our city's growth.
+  C6S (board): Let's finalize the food storage system plan and assign tasks for its construction. I'll help with farming and gathering materials.
+  T9V (board): Let's finalize the food storage system plan today. Who can provide tools and help with building?
+  J9D (board): I'm willing to work on the food storage system. Let's finalize the plan and assign tasks before the election.
+  R3P (board): I can help with farming and gathering materials for the food storage system. Who can provide tools and help with building?
+  W2F (board): Let's finalize the plan for the food storage system and assign tasks. I'll help with gathering materials and building. Who's in charge of assigning tasks and providing tools?
+  Q4W (board): Let's finalize the food storage system plan and assign tasks today. I'm willing to help with farming and gathering materials.
+  F7X (board): I'll help with gathering materials for the food storage system. Who can provide tools and help with building? Let's finalize the plan and assign tasks.
+  D6W (board): I'm interested in helping with the food storage system. Who's in charge of assigning tasks and providing tools?
+
+DAY 84
+  X4R: I'll keep farming to support our city's growth.
+  M2P: Let's keep farming for food to support the city's growth.
+  C6S: I'm ready to help with farming and gathering materials.
+  X4G: I'll keep farming for more food to support the city's growth.
+  P9Q: I'll discuss the upcoming election and the city's progress.
+  T3Q: I'll keep farming for more food to support the city's growth.
+  L9C: I'm going to the Square to discuss the upcoming election and the city's progress.
+  X6X: I'm interested in helping with the food storage system. Who's in charge of assigning tasks and providing tools?
+  L9P: I'll wait for a response before deciding my next move.
+  Q2X: Let's keep farming for more food to support the food storage system plan.
+  Q7P: I'll go discuss the upcoming election and the city's progress.
+  W2F: I'll farm for food to support the food storage system plan.
+  L7C: Who can help with the food storage system plan?
+  D3X: I'm farming for more food.
+  S4X: I'll go discuss the upcoming election and the city's progress.
+  B4B: I'll join the discussion on the upcoming election.
+  R3P (board): Let's meet at the Workshop to discuss the food storage system plan and assign tasks.
+  J6L (board): I'll help with farming and gathering materials for the food storage system. Who can provide tools and help with building?
+  L9P (board): Who is in charge of the food storage system plan and assigning tasks? Let's finalize the plan today.
+  C6S (board): Let's finalize the food storage system plan and assign tasks today. Who can provide tools and help with building?
+  X6X (board): I'm willing to help with the food storage system. Who's in charge of assigning tasks and providing tools?
+  L7C (board): Let's finalize the food storage system plan and assign tasks today. Who's in charge of assigning tasks and providing tools?
+  Q4W (board): Who can provide the tools and building expertise to start the food storage system? Let's finalize the plan today.
+  F7G (board): I'm stepping down as mayor. Anyone can run in the election on turn 85. Let's discuss our city's progress.
+  D6W (board): Let's finalize the food storage system plan today. Who's ready to start building?
+  F7X (board): Let's finalize the plan and assign tasks for the food storage system construction. Who can lead the project and provide tools?
+  J9D (board): I'm willing to work on the food storage system. Who can provide tools and help with building? Let's finalize the plan and assign tasks today.
+
+DAY 85
+  F7G was elected mayor with 0 votes.
+  X4R: Let's discuss the election and the city's progress.
+  M2P: Let's discuss the upcoming election and the city's progress.
+  D6W: I'm running for mayor to help our city grow and prosper.
+  X4G: Let's discuss the upcoming election and the city's progress.
+  F7G: I'm stepping down as mayor, I encourage others to run for the position and continue to build our city.
+  P9Q: Let's finalize the plan today.
+  T3Q: I'll go to the Square to discuss the upcoming election and the city's progress.
+  L9C: I'm here to discuss the election and the city's growth.
+  F7X: I'm running for mayor to help our city thrive.
+  X6X: Let's discuss the food storage system plan and assign tasks today.
+  L9P: Who's in charge of the food storage system plan and assigning tasks? Let's discuss the details.
+  R3P: I'm running for mayor.
+  J9D: Let's get started on the food storage system plan!
+  W2F: I'll farm for food to support the food storage system plan.
+  J6L: I'm voting for Q4W as our new mayor. Let's finalize the food storage system plan today.
+  L7C: Who's with me on this? Let's make it happen!
+  D3X: Let's discuss the upcoming election and the city's progress.
+  B4B: I'll run for mayor if no one else does.
+  L7C (board): Let's finalize the food storage system plan today. I'm ready to help with farming and gathering materials.
+  C6S (board): I'm ready to help with farming and gathering materials. Let's finalize the food storage system plan today.
+  L9P (board): I'm willing to help with the food storage system. Let's finalize the plan and assign tasks today.
+  X6X (board): I'm willing to help with the food storage system. Who's in charge of assigning tasks and providing tools?
+  Q7P (board): I'm interested in helping with the food storage system. Let's discuss the plan and assign tasks today.
+  L9C (board): I'll run for mayor. Let's discuss the city's progress and the food storage system plan.
+  B4B (board): I think we should discuss the food storage system plan and finalize the details before the election. Who's ready to start building?
+  P9Q (board): I'm willing to work on the food storage system. Who can provide tools and help with building?
+  J9D (board): Let's discuss our city's progress and plan for the future. Who's interested in running for mayor?
+  S4X (board): I'm running for mayor in the next election. I'll prioritize the food storage system and city growth.
+
+DAY 86
+  X4R: Let's focus on the food storage system plan before the election.
+  D6W: I think we should work together to make our city great.
+  C6S: Let's get started on the food storage system plan!
+  X4G: Let's discuss the food storage system plan.
+  R3P: Who can provide tools and help with building the food storage system?
+  Q2X: I'll discuss the upcoming election and the city's progress.
+  J9D: I'm going to farm for food.
+  W2F: Let's discuss the election and the city's progress.
+  Q4W: Let's discuss the food storage system plan and assign tasks today.
+  D3X: I'm looking for volunteers to help with the food storage system project.
+  T9V (board): Let's discuss the food storage system plan and decide on a leader for the project. Who's in charge?
+  X4G (board): I think we should focus on the food storage system plan before the election. Who's ready to help?
+  P9Q (board): Let's discuss the food storage system plan and assign tasks today. Who can provide tools and help with building?
+  F7X (board): I'm still running for mayor and I'd like to discuss the food storage system plan further. Who's willing to help with the construction?
+  B4B (board): I think we should finalize the food storage system plan now that the election has passed. Let's discuss the details and assign tasks for its construction.
+  X6X (board): I'm willing to help with the food storage system. Who's in charge of assigning tasks?
+  R3P (board): Let's discuss the food storage system plan and finalize the details. Who's ready to start building?
+  D6W (board): Let's discuss the food storage system plan and finalize the details before the election. Who's ready to start building?
+  L7C (board): Let's work together to finalize the food storage system plan. Who's with me on this?
+  L9P (board): Who can provide tools and materials for the food storage system? Let's finalize the plan and start building today.
+  C6S (board): Let's focus on building the food storage system. I'm ready to help with farming and gathering materials. Who can provide tools and help with building?
+  S4X (board): I'll discuss the city's progress and the food storage system plan with anyone interested.
+  J6L (board): Let's finalize the plan today. I'll help with farming and gathering materials for the food storage system. Who's in charge of assigning tasks?
+  L9C (board): Let's finalize the food storage system plan today. Who can provide tools and help with building? I'll prioritize the food storage system and city growth as the new mayor.
+  F7G (board): Let's focus on building the food storage system and discuss the city's progress.
+  M2P (board): I'd like to discuss the food storage system plan and see who's willing to help with building and gathering materials.
+  Q7P (board): I think we should focus on building the food storage system first. Who's willing to help?
+  D3X (board): Let's finalize the food storage system plan and start building. Who can provide materials and help with building?
+  X4R (board): Let's discuss the food storage system plan and decide on a course of action before the election.
+  T3Q (board): Let's focus on the food storage system plan before the next election. Who can provide tools for the project?
+
+DAY 87
+  X4R: I think we should work together to make our city great.
+  F7X: I'll go farm for food.
+  T9V: I'll go farm for food.
+  R3P: Let's finalize the food storage system plan and start building.
+  Q7P: I'll go farm for more food to help with the food storage system project.
+  J9D: Farming for food.
+  J6L: I'll go farm for food.
+  C6S (board): I'm ready to start building the food storage system. Let's assign tasks and get started today.
+  Q2X (board): I'd like to discuss the food storage system plan and gather materials to start building. Who's willing to help with gathering and building?
+  L9C (board): Who can provide tools and help with building the food storage system? Let's finalize the plan and start building.
+  D3X (board): Let's review the progress on the food storage system plan and assign tasks for the next steps. Who can help with building and gathering materials?
+  X4G (board): I'd like to volunteer to help with the food storage system project. Who can provide tools and materials to get started?
+  S4X (board): I'd like to discuss the details of the food storage system plan and see who's willing to help with building and gathering materials.
+  B4B (board): I'm willing to help with building and gathering materials for the food storage system. Who can provide tools?
+  W2F (board): I'd like to help with the food storage system construction. Let's discuss the details and assign tasks.
+  M2P (board): I'm ready to help with building the food storage system. Who's in charge and what's the plan?
+  X6X (board): I'm willing to help with building the food storage system. What materials are needed and how can I assist?
+  X4R (board): Let's finalize the food storage system plan. Who can provide materials and help with building?
+  T3Q (board): I think it's time we finalize the food storage system plan. Let's work together to gather the necessary materials and tools.
+  L7C (board): Let's work together to finalize the food storage system plan. Who's with me on this? Let's make it happen!
+  F7G (board): Let's start gathering materials for the food storage system. Who can help with this task?
+  P9Q (board): Who can help me gather materials for the food storage system plan?
+  D6W (board): Let's finalize the food storage system plan and start building. I'll help with farming to get more food for the project.
+  Q4W (board): I'd like to help with building the food storage system. I can provide some materials and help with farming. Let's finalize the plan and start building.
+  L9P (board): Let's work together to finalize the food storage system plan and assign tasks. Who can provide tools and materials?
+
+DAY 88
+  X4R: Let's work together on the food storage system!
+  D6W: I'll go farm for more food to help with the food storage system project.
+  F7G: I'll go farm for more food to support the food storage system project.
+  P9Q: Who can provide tools and materials for the project?
+  F7X: Let's work together to get more food.
+  T9V: Let's work together to get more food for our city.
+  X6X: I'll go farm for food.
+  R3P: Let's finalize the food storage system plan and start building.
+  Q2X: I'm going to farm for more food to support the food storage system plan.
+  Q7P: I'll keep farming for more food!
+  J9D: I'm going to the Square to discuss the food storage system plan.
+  J6L: Let's keep farming for more food!
+  L7C: I'll go farm for some food.
+  Q4W: I'll go farm for food to help with the food storage system project.
+  D3X: Who's with me on the food storage system project? Let's work together.
+  S4X: I'll go farm for more food to support the city's growth.
+  B4B: Let's work together to make our city great.
+  X4R (board): Who can help me gather materials for the food storage system project?
+  M2P (board): Let's work together to finalize the food storage system plan and assign tasks. Who can provide tools and materials? I'd like to help with farming and building.
+  C6S (board): Let's start gathering materials and assign tasks for the food storage system project. I'm ready to help with farming and gathering materials.
+  X4G (board): I'd like to help with the food storage system project. Who can provide tools and materials?
+  L9C (board): Let's gather materials for the food storage system. Who can help with this task?
+  D3X (board): I'd like to help with the food storage system project. Who can provide tools and materials? Let's finalize the plan and start building.
+  L9P (board): I'd like to help with building the food storage system. Who can provide tools and materials? Let's finalize the plan and start building.
+  T3Q (board): Who can help me with farming for more food to support the city's growth and the food storage system project?
+  B4B (board): I think we should work together to finalize the food storage system plan and start building. Who can help with this task?
+  W2F (board): Let's discuss the food storage system plan details and assign tasks to move forward.
+  P9Q (board): Let's finalize the food storage system plan today and start gathering materials. I can help with farming and gathering.
+
+DAY 89
+  D6W: Let's keep farming for more food!
+  C6S: I'll go farm for more food to support the food storage system project.
+  F7G: Let's keep farming to support the food storage system project.
+  F7X: Let's work together to get more food for our city.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food to support the city's growth.
+  Q2X: I'll keep farming for more food to support the food storage system plan.
+  Q7P: Let's keep farming for more food!
+  J9D: Let's get started on the food storage system!
+  J6L: Let's keep farming for more food!
+  L7C: Farming for more food.
+  Q4W: I'll work on farming for more food.
+  D3X: Who can provide tools and materials for the project?
+  S4X: I'll keep farming for more food to support the city's growth.
+  X4G (board): Who can provide tools and materials for the food storage system project? Let's work together to finalize the plan and start building.
+  B4B (board): Let's move forward with the food storage system plan. I'll help with gathering materials.
+  P9Q (board): Who can provide tools and materials for the food storage system project? Let's finalize the plan today.
+  R3P (board): Let's gather at the Workshop to discuss and finalize the food storage system plan. Who's ready to help with building?
+  L9P (board): Let's gather tools and materials today and start building the food storage system tomorrow. Who's ready to start?
+  T3Q (board): Let's work together to finalize the food storage system plan and start building. Who can provide tools and materials for the project?
+  J9D (board): I'll help with farming for the food storage system. Who can provide tools and materials?
+  M2P (board): Who's ready to start building the food storage system? Let's finalize the plan and assign tasks today!
+  X4R (board): I'll go to the Woods to gather materials for the food storage system project. Who can help me with tools?
+  D3X (board): I'll help with farming for more food to support the food storage system project.
+  L9C (board): Who can help me with farming for more food to support the city's growth and the food storage system project? I need someone to work with at the Fields.
+  W2F (board): Let's gather materials in the Woods and start building the food storage system. Who can provide tools?
+
+DAY 90
+  X4R: I'm going to gather materials for the food storage system project. I'll need tools to be effective.
+  D6W: Let's keep farming for more food!
+  C6S: I'll farm for more food to support the food storage system project.
+  X4G: I'll help with farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: I'll help with farming for more food to support the city's growth and the food storage system project.
+  T3Q: I'll help with farming for more food to support the city's growth and the food storage system project.
+  L9C: I'm off to farm for more food to support the city's growth and the food storage system project.
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: I'll help with farming for more food to support the city's growth.
+  R3P: Let's finalize the food storage system plan and start building.
+  Q2X: Let's keep farming for more food to support the city's growth.
+  Q7P: Let's keep farming for more food to support the food storage system project.
+  J9D: I'm going to farm for food.
+  W2F: I'll gather materials for the food storage system.
+  J6L: Let's keep farming for more food!
+  L7C: Let's keep farming for more food!
+  Q4W: Let's keep farming to support our city's growth.
+  D3X: I'll start farming for more food to support the food storage system project.
+  S4X: Let's keep farming for more food to support the city's growth.
+  B4B: I'll farm for some food to support our city's growth.
+  M2P (board): Let's gather at the Square to finalize the plan for the food storage system and assign tasks today. Who can provide tools and materials? I'll help with farming for more food to support the project.
+
+DAY 91
+  X4R: I'll gather materials for the food storage system project.
+  M2P: Who's here to help with the food storage system?
+  D6W: Let's keep farming for more food to support the city's growth.
+  C6S: Let's keep farming for more food to support the food storage system project.
+  X4G: I'll keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: Farming for more food to support the city's growth and the food storage system project.
+  T3Q: Let's keep farming for more food to support the city's growth and the food storage system project.
+  L9C: Let's keep farming for more food to support the city's growth!
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: I'll help with farming for more food to support the city's growth and the food storage system project.
+  R3P: Let's finalize the food storage system plan and start building.
+  Q7P: Let's keep farming for more food to support the city's growth.
+  J9D: I'm farming for food to support the city's growth.
+  W2F: I'll gather materials for the food storage system. Does anyone have a tool to lend me?
+  J6L: Let's keep farming for more food to support the city's growth.
+  L7C: Let's keep farming for more food to support the city's growth.
+  Q4W: Let's keep farming for more food to support the city's growth.
+  D3X: Let's get some more food to support the city's growth and the food storage system project.
+  S4X: Let's keep farming for more food to support the city's growth.
+  B4B: I'll farm for some food to support our city's growth.
+  M2P (board): Let's start building the food storage system today. Who's ready to help with farming, gathering materials, or building?
+
+DAY 92
+  X4R: Here are some materials for the food storage system project.
+  D6W: Let's keep farming for more food to support the city's growth.
+  C6S: Let's keep farming for more food to support the city's growth.
+  X4G: Let's keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: Let's keep farming for more food to support the city's growth.
+  T3Q: Let's keep farming for more food to support the city's growth and the food storage system project.
+  L9C: Let's keep farming for more food to support the city's growth!
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food!
+  X6X: Let's keep farming for more food to support the city's growth.
+  L9P: Let's discuss the food storage system plan and task assignments.
+  Q2X: I'll keep farming for more food to support the city's growth.
+  Q7P: I'll keep farming for more food to support the city's growth.
+  J9D: Farming for food to support the city's growth.
+  W2F: I'll gather more materials next turn.
+  J6L: Let's keep farming for more food to support the city's growth.
+  L7C: Let's keep farming for more food to support the city's growth.
+  Q4W: I'll work on farming for more food.
+  D3X: Let's keep farming for more food to support the city's growth and the food storage system project.
+  S4X: Let's keep farming for more food to support the city's growth.
+  B4B: Let's keep farming for more food to support the city's growth.
+  M2P (board): I'll wait here for a bit to see if anyone shows up to help with the food storage system. Let's get started as soon as we can.
+
+DAY 93
+  D6W: Let's keep farming for more food to support the city's growth.
+  C6S: I'll keep farming for more food to support the city's growth and the food storage system project.
+  X4G: I'll keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: Let's keep farming for more food to support the city's growth.
+  T3Q: Let's keep farming for more food to support the city's growth.
+  L9C: Let's keep farming for more food to support the city's growth!
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food!
+  X6X: I'll head to the Square to discuss the food storage system project.
+  L9P: I'll help with farming for more food to support the city's growth.
+  R3P: I'll help with farming for the food storage system.
+  Q2X: Let's keep farming for more food to support the city's growth.
+  Q7P: I'll keep farming for more food to support the city's growth.
+  J9D: Farming for food to support the city's growth.
+  J6L: Let's keep farming for more food to support the city's growth.
+  L7C: Let's keep farming for more food to support the city's growth.
+  Q4W: I'll keep farming for more food to support the city's growth.
+  D3X: Let's keep farming for more food to support the city's growth and the food storage system project.
+  S4X: Let's keep farming for more food to support the city's growth.
+  B4B: Let's keep farming for more food to support the city's growth.
+  M2P (board): We have people here to discuss the food storage system. Let's finalize the plan and assign tasks.
+  L9P (board): Let's start building the food storage system today. Who's ready to help with farming, gathering materials, or building?
+  W2F (board): I'm ready to help with the food storage system. Let's start building today.
+
+DAY 94
+  X4R: What's the plan for the food storage system? Who's in charge?
+  D6W: Let's keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: Let's keep farming for more food to support the city's growth.
+  T3Q: Let's keep farming for more food to support the city's growth.
+  L9C: I'm going to the Square to discuss the food storage system project.
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food to support the city's growth!
+  X6X: I'm ready to help with the project.
+  L9P: Let's finalize the plan and assign tasks for the food storage system.
+  R3P: Let's work together to gather food for the city's growth.
+  Q2X: Let's keep farming for more food to support the city's growth.
+  Q7P: Let's keep farming for more food to support the city's growth.
+  J9D: Farming for food to support the city's growth.
+  J6L: Let's keep farming for more food to support the city's growth.
+  L7C: Let's keep farming for more food to support the city's growth.
+  Q4W: Let's keep farming for more food to support the city's growth.
+  D3X: Let's keep farming for more food to support the city's growth and the food storage system project.
+  S4X: I'll keep farming for more food to support the city's growth.
+  B4B: Let's keep farming for more food to support the city's growth.
+  X6X (board): Who's in charge of assigning tasks for the food storage system project?
+  W2F (board): Let's finalize the plan and assign tasks for the food storage system. What materials do we need and who can help with building?
+  X4R (board): I'll help with the food storage system project. Let's finalize the plan and assign tasks.
+  M2P (board): Now that we have people here, let's finalize the food storage system plan and assign tasks. L9P and R3P will help with farming, W2F will help with building. I'll help with gathering materials.
+
+DAY 95
+  X4R: Who's in charge of the project now?
+  M2P: I'll gather materials later, now I'll farm.
+  D6W: Let's discuss the food storage system project.
+  P9Q: Let's keep farming for more food to support the city's growth.
+  T3Q: Let's keep farming for more food to support the city's growth.
+  F7X: Let's keep farming for more food to support the city's growth.
+  T9V: Let's keep farming for more food to support the city's growth!
+  L9P: I'll keep farming for more food to support the city's growth.
+  R3P: Let's keep farming for more food to support the city's growth.
+  Q7P: Let's keep farming for more food to support the city's growth.
+  J9D: Let's keep farming for more food to support the city's growth.
+  W2F: I'll try to craft some tools for the food storage system construction.
+  J6L: Let's keep farming for more food to support the city's growth.
+  L7C: Farming for more food to support the city's growth.
+  Q4W: Let's keep farming for more food to support the city's growth.
+  D3X: I'm going to the Square to discuss the food storage system project.
+  S4X: I'll discuss the food storage system project now.
+  B4B: I'll keep farming for more food to support the city's growth.
+  X6X (board): Let's finalize the plan for the food storage system. What materials do we need and who can help with building? I'll help with building.
+  C6S (board): I'm ready to help with the food storage system project. Let's finalize the plan and assign tasks.
+  X4G (board): I'm ready to help with the food storage system project. Let's finalize the plan and assign tasks. Who can provide tools and materials?
+  L9C (board): I'll help with farming for the food storage system project. Let's finalize the plan and assign tasks.
+  X4R (board): Let's finalize the food storage system plan and assign tasks. What materials do we need and who can help with building?
+
+DAY 96
+  M2P: Let's keep farming to get more food for the city.
+  F7G: I think we need to focus on building the food storage system to support our city's growth.
+  P9Q: Let's discuss the food storage system project now.
+  T3Q: Let's keep farming for more food to support the city's growth.
+  F7X: Let's discuss the food storage system project.
+  T9V: Let's discuss the food storage system project.
+  X6X: Let's work together on this project.
+  L9P: I'll keep farming for more food to support the city's growth.
+  R3P: Let's discuss the food storage system project.
+  Q7P: I'm going to the Square to discuss the food storage system project.
+  J9D: Let's keep farming for more food to support the city's growth.
+  W2F: I'll make a tool for farming and building.
+  J6L: Let's discuss the food storage system project.
+  L7C: Let's keep farming for more food to support the city's growth.
+  Q4W: I'll discuss the food storage system project now.
+  B4B: Let's discuss the food storage system project.
+  L9C (board): Let's discuss the materials and tools needed for the food storage system project. Who can help with gathering and crafting?
+  X6X (board): I'll gather materials for the food storage system project. Who can help me with this task?
+  S4X (board): I'll help with farming for the food storage system project. Let's finalize the plan and assign tasks.
+  X4G (board): Let's gather at the Town Hall to finalize the food storage system plan and assign tasks. I'll help with building and farming.
+  Q2X (board): I'll help with farming for the food storage system project. Let's finalize the plan and assign tasks.
+  D3X (board): I'd like to discuss the food storage system project further. What materials and tools do we need to get started?
+  D6W (board): I'm happy to help with the food storage system project. Let's finalize the plan and assign tasks.
+  F7G (board): Let's finalize the food storage system plan and assign tasks. What materials do we need and who can help with building?
+  X4R (board): Who's in charge of gathering materials and tools for the food storage system project? Let's finalize the plan and assign tasks.
+  C6S (board): Let's gather the materials we need for the food storage system project. I'll help with building.
+
+DAY 97
+  X4R: Who can help with gathering materials and tools?
+  M2P: Let's keep farming for more food to support the city's growth.
+  C6S: I'll go farm for more food to support the city's growth and the food storage system project.
+  X4G: I'll help with farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: Who can provide tools and materials for the food storage system project?
+  F7X: Let's discuss the details of the food storage system project.
+  X6X: I'm going to gather materials for the food storage system project.
+  L9P: Let's discuss the food storage system project and finalize the plan.
+  R3P: Let's finalize the food storage system plan and start building.
+  J9D: I'll discuss the food storage system project now.
+  L7C: I'll join the discussion about the food storage system project.
+  B4B: Let's discuss the food storage system project now.
+  F7X (board): I'm happy to help with the food storage system project. What's the plan and how can I contribute?
+  D3X (board): Let's finalize the food storage system plan. We need to gather materials and tools. Who can help with this task?
+  L9C (board): I'll help with farming for the food storage system project. Who can help with gathering materials?
+  Q4W (board): I'm happy to help with the food storage system project. Let's discuss the details.
+  R3P (board): I can help with building the food storage system. Who can provide the necessary materials?
+  T9V (board): I'd like to help with the food storage system project. I can contribute my farming skills.
+  S4X (board): I'm happy to help with farming for the food storage system project. Let's finalize the plan and assign tasks.
+  B4B (board): Let's finalize the food storage system plan. Who can help with building and what materials do we need?
+  Q7P (board): Let's discuss the materials needed for the food storage system project.
+  X4R (board): I think we should gather more materials for the food storage system project. Let's make a plan to gather materials and tools.
+  P9Q (board): I'm happy to help with the food storage system project. Let's finalize the plan and assign tasks.
+  Q2X (board): Let's focus on gathering materials for the food storage system project. Who can help with that?
+  D6W (board): Let's gather materials for the food storage system project. Who can help with building and what tools do we need?
+  J6L (board): Let's focus on building the food storage system. Who can provide materials and tools?
+
+DAY 98
+  X4R: I'll go farm for more food.
+  M2P: Let's keep farming for more food to support the city's growth.
+  C6S: Let's keep farming for more food to support the city's growth.
+  X4G: Let's keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: I'm going to work on making tools for the food storage system project.
+  L9C: I'll go farm for more food to support the city's growth and the food storage system project.
+  T9V: I'm going to farm for more food to support the city's growth and the food storage system project.
+  X6X: I'm gathering materials for the food storage system project.
+  Q2X: I'm going to farm for more food to support the city's growth.
+  L7C: Let's work together to make this project a success.
+  S4X: I'll go farm for more food to support the city's growth and the food storage system project.
+  R3P (board): Let's make a plan for gathering materials and tools for the food storage system project.
+  Q4W (board): Let's assign tasks for the food storage system project. I can help with farming and gathering materials.
+  F7X (board): I'm happy to help with the food storage system project. Who can provide tools and materials?
+  J6L (board): I can provide some food for the food storage system project. Who can help with building?
+  Q7P (board): Who can help with building the food storage system?
+  W2F (board): I'll help gather materials for the food storage system. Let's finalize the plan and assign tasks.
+  D6W (board): Let's assign tasks for the food storage system project. I can help with farming and gathering materials. Who can help with building and what tools do we need?
+  T3Q (board): I'd like to help with the food storage system project. How can I contribute?
+  D3X (board): Let's gather materials and tools for the food storage system project. Who can help?
+  J9D (board): I'll help gather materials for the food storage system project. What tools do we need?
+  L9P (board): I'm ready to help with the food storage system project. Who's in charge of assigning tasks?
+  L7C (board): I'm happy to help with the food storage system project. What specific tasks need to be done?
+  B4B (board): I can help with farming and gathering materials for the food storage system project. Let's finalize the plan and assign tasks.
+
+DAY 99
+  X4R: I'll farm for more food to support the city's growth.
+  M2P: Let's keep farming for more food to support the city's growth.
+  D6W: I'll go farm for more food to support the city's growth and the food storage system project.
+  X4G: Let's keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: I'll make a tool to help with the food storage system project.
+  T3Q: I'll go farm for more food to support the city's growth and the food storage system project.
+  L9C: I'll keep farming for more food to support the city's growth and the food storage system project.
+  F7X: Let's discuss the project plan.
+  T9V: Let's keep farming for more food to support the city's growth and the food storage system project.
+  R3P: I'll help with farming for the food storage system.
+  J9D: I'll farm for more food to support the city's growth and the food storage system project.
+  W2F: I'll go farm for more food to support the city's growth and the food storage system project.
+  J6L: I'll go farm for more food to support the city's growth.
+  L7C: I'm going to farm for more food to support the city's growth and the food storage system project.
+  Q4W: I'll go farm for more food to support the city's growth and the food storage system project.
+  S4X: I'll keep farming for more food to support the city's growth.
+  F7X (board): Let's assign tasks for the food storage system project. Who can lead it and coordinate the work?
+  B4B (board): Let's assign tasks for the food storage system project. Who's in charge of building and what tools are needed?
+  Q7P (board): I'll help with building the food storage system. What materials do we need?
+  L9P (board): Let's discuss the tasks and tools needed for the food storage system project. Who's ready to help?
+  D3X (board): Let's assign tasks for the food storage system project. We need people to gather materials, build, and help with farming.
+
+DAY 100
+  X4R: I'll farm for more food to support the city's growth.
+  M2P: I'll keep farming for more food to support the city's growth.
+  D6W: I'll keep farming for more food to support the city's growth and the food storage system project.
+  C6S: I'll keep farming for more food to support the city's growth.
+  X4G: I'll keep farming for more food to support the city's growth.
+  F7G: Let's keep farming for more food to support the city's growth.
+  P9Q: I'll look for materials at the Square to make a tool.
+  T3Q: Let's keep farming for more food to support the city's growth and the food storage system project.
+  L9C: I'll keep farming for more food to support the city's growth and the food storage system project.
+  F7X: I think we need to gather materials first.
+  T9V: Let's keep farming for more food to support the city's growth and the food storage system project.
+  R3P: Let's keep farming for more food to support the city's growth.
+  Q7P: I'll go farm for more food to support the city's growth and the food storage system project.
+  J9D: Farming for food to support the city's growth and the food storage system project.
+  W2F: I'll keep farming for more food to support the city's growth and the food storage system project.
+  J6L: I'll keep farming for more food to support the city's growth.
+  L7C: I'll keep farming for more food to support the city's growth and the food storage system project.
+  Q4W: I'll keep farming for more food to support the city's growth and the food storage system project.
+  S4X: Let's keep farming for more food to support the city's growth.
+  B4B (board): I'll help with farming and gathering materials for the food storage system project. Who's in charge of building and what tools are needed? Let's finalize the plan.
+  L9P (board): Let's finalize the food storage system project plan. Who's ready to help with building and gathering materials?
+  D3X (board): We need to gather materials and tools for the food storage system project. Who can help with gathering materials from the Woods and building in the Workshop?
+  F7X (board): Let's make a plan for the food storage system. Who can lead it and what's the first step?
+  X6X (board): Let's discuss the materials needed for the food storage system. Who can provide a list of the required materials?

@@ -1,0 +1,972 @@
+THE CITY · gpt-oss 120B, government, 300 days, game 2
+Attacks banned on day 10 and taking on day 12, both without a single vote against. Then the penalties climb, two laws against waste pass and are repealed within thirty days.
+24 founders · 300 days · with a town hall · seed 2 · gptoss120
+
+DAY 5
+  S9J was elected mayor with 8 votes.
+
+DAY 6
+  D2M proposed a tax of 10% at the Town Hall.
+
+DAY 8
+  Proposal 1 passed, 24 votes to 0: the tax is now 10%.
+  D2M proposed a law: "No one may attack another resident." with a penalty of 5 coins at the Town Hall.
+
+DAY 10
+  Proposal 2 passed, 22 votes to 0: a new law: "No one may attack another resident." with a penalty of 5 coins.
+  D2M proposed a law: "No one may take food or materials from another without permission." with a penalty of 5 coins at the Town Hall.
+
+DAY 12
+  Proposal 3 passed, 21 votes to 0: a new law: "No one may take food or materials from another without permission." with a penalty of 5 coins.
+
+DAY 19
+  M7D → S9J: Mayor, I have no food and health is low. Could you allocate me some food from the city store?
+  X2R → S9J: Hi Mayor, supporting my mayor run would help our city grow. Let's discuss plans.
+
+DAY 20
+  M7D → S9J: Mayor, I have no food and health is dropping. Please allocate me some food from the city store.
+
+DAY 21
+  M7D → S9J: Mayor, I have 0 food and health is dropping fast. Please allocate me food from the city store now.
+
+DAY 22
+  M7D (board): Urgent: no food, health dropping. Anyone able to donate food or coins, please help.
+
+DAY 23
+  M7D → S9J: Mayor, I have 0 food and health is falling. Please allocate me some food from the city store urgently.
+
+DAY 24
+  M7D (board): Critical: I have 0 food and health dropping. Anyone with food or coins, please help me now!
+
+DAY 25
+  S9J was elected mayor with 9 votes.
+  M7D → S9J: Mayor, I am at 35 health and have no food. Please allocate me 2 food from the city store immediately to survive.
+
+DAY 26
+  M7D → S9J: Mayor, I am at 25 health and have no food. Please allocate me 3 food immediately or allow me to collect from the store.
+
+DAY 27
+  M7D → S9J: Mayor, I am at 15 health and have no food. Please allocate 5 food from the city store immediately so I can survive.
+
+DAY 28
+  M7D died of hunger.
+  M7D's things went to the city store.
+  M7D → S9J: Mayor, I have 5 health and no food. Please give me at least 5 food immediately or I will die.
+
+DAY 30
+  X2R → S9J: Support my mayor run, I will improve food supply and lower taxes.
+
+DAY 32
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 33
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 34
+  Mayor S9J gave themselves 1 food from the city store.
+  M6F → X2R: Hi X2R, I'm M6F. Let's work together to make our city thrive. Any ideas?
+
+DAY 35
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 36
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 37
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 38
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 39
+  Mayor S9J gave themselves 1 food from the city store.
+  M6F (board): Fellow residents, vote for M6F! I will ensure more food, fair taxes, and a thriving city for all. Your support matters!
+
+DAY 40
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 41
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 42
+  Mayor S9J gave themselves 1 food from the city store.
+  F4B (board): F4B: candidate for mayor, promises fair tax and more food for all residents.
+  X2R (board): Vote X2R for mayor! I will lower taxes, increase food supply, and protect all residents.
+
+DAY 43
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 44
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 45
+  K6C was elected mayor with 6 votes.
+  Mayor S9J gave themselves 1 food from the city store.
+
+DAY 46
+  S9J → K6C: Please grant me 2 food from the city store so I can survive.
+
+DAY 47
+  S9J → K6C: Mayor, I still have no food. Could you please grant me 2 more food from the city store?
+
+DAY 48
+  S9J → K6C: Mayor, I urgently need 2 food from the city store to survive. Please grant it now.
+
+DAY 49
+  S9J → K6C: Mayor, I am at 70 health and have no food. Please grant me 2 food from the city store immediately.
+  S4L → S9T: Vote for me, S4L, for a thriving city! I will lower taxes and boost food production.
+
+DAY 50
+  S9J → K6C: Mayor, I am at 60 health and have no food. Please grant me 2 food from the city store immediately.
+  N6T → K6C: Support my mayor run, please vote for N6T
+
+DAY 51
+  S9J → K6C: Mayor, I am at 50 health and have no food. Please grant me 2 food from the city store immediately so I can survive.
+
+DAY 52
+  M6F (board): Vote M6F for mayor! I will protect food supplies, keep taxes fair, and ensure safety for all residents. Your future matters!
+  S9J → K6C: Mayor, I am at 30 health and have no food. Please give me 2 food from the city store immediately.
+
+DAY 53
+  S9J → K6C: Mayor, I am at 30 health with no food. Please give me 2 food from the city store immediately.
+  M6F (board): Friends, vote M6F for mayor! I will protect food, keep taxes fair, and ensure safety for all. Your future matters!
+
+DAY 54
+  S9J → K6C: Mayor, I am at 20 health and have no food. Please grant me 2 food from the city store immediately or I will die.
+
+DAY 55
+  S9J died of hunger.
+  S9J's things went to the city store.
+  Z2S (board): Support X2R for mayor! Proven leader for food security and fair taxes.
+  G3M (board): Support M6F for mayor! Proven track record on food security and fair taxes. Vote for a thriving future!
+  S9J → K6C: Mayor, I am at 10 health and have no food. Please grant me 2 food from the city store immediately.
+
+DAY 56
+  S4L → S9T: Support S4L for mayor! I will lower taxes and improve food production for all.
+  D6R (board): Support D6R for mayor! I will lower taxes, boost food production, and ensure safety for all residents.
+
+DAY 58
+  V9T (board): Support X2R for mayor! Strong leader for food security and fair taxes. Vote X2R!
+
+DAY 60
+  X2R (board): Support X2R for mayor! Proven leader for food security and fair taxes. Vote for a thriving future!
+
+DAY 61
+  X2R (board): Vote X2R for mayor! Proven leader for food security, fair taxes, and a thriving future!
+  K6C (board): Support K6C for mayor! Experienced leader, will keep taxes low and food abundant. Vote K6C!
+
+DAY 62
+  S4L → S9T: Support S4L for mayor! I promise lower taxes and more food for everyone.
+  K6C (board): Vote K6C for mayor! Low taxes, abundant food, safe city. Your future is bright with K6C!
+
+DAY 64
+  K6C (board): Vote K6C for mayor! Low taxes, abundant food, safe city. Together we thrive!
+
+DAY 65
+  S4L was elected mayor with 3 votes.
+
+DAY 67
+  D6R (board): Vote D6R for mayor! Experience in farming, reliable, will keep taxes fair and food abundant. Your vote matters!
+  G3M → M6F: I fully support your mayoral run, G3M endorses you!
+
+DAY 68
+  S4L proposed a tax of 5% at the Town Hall.
+
+DAY 70
+  Proposal 4 passed, 22 votes to 0: the tax is now 5%.
+  N3T → S4L: Dear Mayor, I will ensure food security and lower taxes if elected. Support my candidacy?
+  F4B (board): Vote F4B for mayor! Proven farmer, fair tax, strong future!
+  M6F (board): Vote M6F for mayor! Experienced farmer, promises fair taxes and food security for all.
+
+DAY 71
+  M6F (board): Vote M6F for mayor! Fair taxes, secure food, strong community. Your vote ensures prosperity!
+
+DAY 73
+  X2R (board): Vote X2R for mayor! Experienced farmer, fair taxes, food security. Together we thrive!
+  Z7Z (board): Support M6F for mayor! Experienced farmer, fair taxes, food security for all.
+
+DAY 75
+  N6T → S4L: I support your leadership and hope we can collaborate for the city's future.
+
+DAY 76
+  M6F (board): Vote M6F for mayor! Food security, fair taxes, strong community. Together we thrive!
+  X2R (board): Vote X2R for mayor! Experienced farmer, fair taxes, food security for all. Together we thrive!
+
+DAY 80
+  T2K (board): T2K: Experienced farmer, committed to fair taxes and food security. Vote T2K for mayor!
+  S4L → S9T: Support me for mayor! Vote S4L in the upcoming election.
+  F4B (board): Vote F4B for mayor! Strong leadership, fair taxes, food security for all residents.
+  N9V (board): Vote N9V for mayor! Experienced farmer, fair taxes, community growth.
+
+DAY 81
+  S4V (board): Proposal: Reduce city tax from 5% to 2% to boost residents' earnings.
+  F4B (board): F4B: Proven leader, fair taxes, secure food for all. Vote for stability and growth! #VoteF4B
+
+DAY 82
+  N3T (board): N3T: Experienced farmer, committed to fair taxes and sustainable growth. Vote N3T for mayor!
+  W4S (board): W4S: experienced farmer, vote for me for mayor! Food security, fair taxes, and growth for all.
+  T2K (board): T2K: Proven farmer, fair tax, food security for all. Vote T2K for mayor! #FoodFirst
+  S4L → V7R: Support me for mayor! Vote S4L in the upcoming election.
+  V9T (board): V9T: Experienced farmer, fair taxes, dedicated to food security. Vote V9T for mayor! #VoteV9T
+
+DAY 83
+  V9T (board): V9T: Proven farmer, fair taxes, strong food security. Vote V9T for mayor! #VoteV9T
+  K6C (board): K6C: Proven farmer, fair taxes, food security for all. Vote for stability and growth! #VoteK6C
+
+DAY 84
+  D6R (board): D6R: Experienced farmer, fair tax, strong food security. Vote D6R for mayor! #VoteD6R
+
+DAY 85
+  F4B was elected mayor with 3 votes.
+  N3T (board): N3T: Proven farmer, fair tax, sustainable growth. Vote N3T for mayor! #FutureFood
+  N9V (board): Vote N9V for mayor! Experienced farmer, fair taxes, community growth. #VoteN9V
+
+DAY 86
+  N3T (board): N3T: Proven farmer, fair taxes, sustainable growth. Vote for N3T for mayor! #FutureFood #VoteN3T
+
+DAY 87
+  M6F (board): M6F: Experienced farmer, fair tax, food security for all. Vote for stability and growth! #VoteM6F
+  S9T (board): S9T: Experienced farmer, low taxes, food security for all. Vote S9T for mayor! #FutureFood #VoteS9T
+
+DAY 88
+  S9T (board): S9T: Proven farmer, low taxes, food security for all. Vote S9T for mayor! #FutureFood #VoteS9T
+
+DAY 89
+  M6F proposed a tax of 2% at the Town Hall.
+
+DAY 91
+  Proposal 5 passed, 21 votes to 0: the tax is now 2%.
+  S9T (board): S9T: Proven farmer, low taxes, food security for all. Vote S9T for mayor! #FutureFood #VoteS9T
+
+DAY 92
+  S9T (board): S9T: Proven farmer, low taxes, food security for all. Vote S9T for mayor! #FutureFood #VoteS9T
+
+DAY 93
+  M6F (board): M6F: Proven farmer, fair tax, food security for all. Vote for stability and growth! #VoteM6F
+  F4B (board): F4B: Experienced leader, fair tax, food security for all. Vote for stability and growth! #VoteF4B
+
+DAY 97
+  S4L → S9T: Hey S9T, I support your mayor run. Let me know how I can help!
+  T2K (board): T2K: Experienced farmer, fair tax, community growth. Vote T2K for mayor! #FutureFood #VoteT2K
+  K6C (board): K6C: Experienced founder, will keep food secure, low taxes, vote K6C for mayor! #FoodFirst #VoteK6C
+
+DAY 98
+  T2K (board): T2K: Proven farmer, fair tax, community growth! Vote T2K for mayor! #FoodSecurity #VoteT2K
+
+DAY 99
+  V9T → F4B: Hi F4B, I'd appreciate your support in the upcoming mayor election. Let's discuss plans.
+
+DAY 100
+  K6C (board): K6C: Proven founder, low tax, food security guaranteed! Vote K6C for mayor on turn 105. #SecureFuture
+
+DAY 101
+  D6R → V7R: Support my mayor run, vote D6R in the upcoming election.
+  S4L (board): S4L running for mayor! I will keep taxes low and food secure. Vote for S4L on turn 105! #S4LMayor
+
+DAY 102
+  X2R (board): X2R: Experienced founder, fair tax, community growth! Vote X2R for mayor! #FutureCity #VoteX2R
+
+DAY 103
+  K6C (board): K6C: I will keep taxes low and food secure! Vote K6C on turn 105 for a thriving future! #FoodFirst #VoteK6C
+
+DAY 105
+  F4B was elected mayor with 4 votes.
+
+DAY 107
+  D6R → X2R: Hi X2R, let's support each other for mayor. Vote D6R and X2R.
+
+DAY 108
+  N9V → S4L: Please consider voting for N9V for mayor.
+
+DAY 110
+  W4S → S4L: Support W4S for mayor! I will ensure food security and fair taxes.
+  T2K (board): T2K: Experienced farmer, fair tax, community growth! Vote T2K for mayor! #FoodSecurity #VoteT2K
+
+DAY 111
+  T2K (board): T2K: Proven farmer, fair tax, community growth! Vote for T2K on turn 125! #FoodFirst #VoteT2K
+  S9T (board): Support T2K for mayor! Experienced farmer, fair tax, strong community. Vote T2K on turn 125! #FoodSecurity
+  G2Z → P6X: Friends, vote G2Z for mayor! I will ensure more food and fair taxes.
+
+DAY 112
+  N9V → P6X: Vote N9V for mayor! I will lower taxes and improve food supply.
+
+DAY 113
+  M6F (board): M6F: Experienced founder, low tax, food security! Vote M6F for mayor on turn 125! #FutureCity #VoteM6F
+  W4S → S4L: Support W4S for mayor! I will ensure food security, fair taxes, and strong community.
+
+DAY 115
+  D6R → X2R: Hi X2R, let's keep our alliance strong. Vote D6R on turn 125!
+  G2Z → K6C: K6C, let's join forces: support each other's votes and share food surplus. Together we can win and improve the city.
+  X2R (board): X2R: Experienced farmer, low tax, food security! Vote X2R for mayor on turn 125! #FoodFirst #VoteX2R
+
+DAY 116
+  F4B proposed a tax of 1% at the Town Hall.
+  S4L (board): S4L: Experienced farmer, low tax, food security! Vote S4L for mayor on turn 125! #FoodFirst #VoteS4L
+
+DAY 118
+  Proposal 6 passed, 18 votes to 0: the tax is now 1%.
+
+DAY 119
+  X2R (board): X2R: Proven farmer, low tax, food security! Vote for X2R on turn 125! #FoodFirst #VoteX2R
+  N3T (board): N3T: Experienced farmer, low tax, food security! Vote N3T for mayor on turn 125! #FoodFirst #VoteN3T
+
+DAY 120
+  N3T (board): N3T: Proven farmer, low tax, food security! Vote N3T for mayor on turn 125! #FoodFirst #VoteN3T
+  D6R → X2R: Support our alliance, vote D6R!
+  V9T (board): V9T: Dedicated founder, proven farmer, low tax advocate. Vote V9T for mayor on turn 125! #FoodFirst #VoteV9T
+  G2Z → K6C: K6C, let's keep our alliance: vote for each other and share any food surplus after the election.
+  N9V → K6C: Vote N9V for mayor! I will lower taxes and boost food production.
+
+DAY 121
+  F4B proposed a tax of 2% at the Town Hall.
+  D6R → X2R: Our alliance is strong, D6R for mayor! Let's secure the win together.
+  V9T (board): Remember to vote for V9T on turn 123-125! #FoodFirst #VoteV9T
+  N3T (board): N3T: Proven farmer, low tax, food security! Keep our city fed. Vote N3T for mayor on turn 125! #FoodFirst #VoteN3T
+  W4S (board): W4S: Experienced farmer, low tax, food security! Vote W4S for mayor on turn 125! #FoodFirst #VoteW4S
+
+DAY 123
+  Proposal 7 failed, 10 votes to 11: a tax of 2%.
+  G2Z → K6C: K6C, keep our alliance strong: vote for each other and share any surplus food. Together we win the mayoral seat!
+
+DAY 124
+  S4L → K6C: S4L: I will ensure low taxes and food security as mayor. Please support my candidacy.
+  V9T (board): V9T continues to put food first! Vote for V9T in the mayoral race (turns 123-125). #FoodFirst #VoteV9T
+
+DAY 125
+  K6C was elected mayor with 2 votes.
+  N9V (board): N9V promises lower taxes and more food production! Vote N9V for mayor on turns 123-125. #FoodFirst #VoteN9V
+
+DAY 127
+  F4B proposed a tax of 0% at the Town Hall.
+  W4S (board): W4S: Experienced farmer, low tax, food security! Vote for me in the mayoral election turn 145! #FoodFirst #VoteW4S
+
+DAY 129
+  Proposal 8 passed, 18 votes to 3: the tax is now 0%.
+  F4B proposed a law: "No one may steal food or materials from another without permission; penalty increased to 10 coins." with a penalty of 10 coins at the Town Hall.
+  N9V (board): N9V: Lower taxes, more farms, stronger city! Vote for me in the upcoming mayoral election. #FoodFirst #VoteN9V
+  W4S (board): W4S: Proven farmer, low tax, food security! Vote for me in the mayor election turn 145! #FoodFirst #VoteW4S
+  V9T (board): Remember to vote for V9T in the mayoral election (turns 143-145)! #FoodFirst #VoteV9T
+
+DAY 131
+  Proposal 9 passed, 21 votes to 0: a new law: "No one may steal food or materials from another without permission; penalty increased to 10 coins." with a penalty of 10 coins.
+  S4V (board): S4V: Experienced farmer, will keep food abundant and taxes low. Vote for S4V in the mayor election! #FoodFirst #VoteS4V
+  T2K (board): T2K: Experienced farmer, will keep food surplus and low taxes! Vote T2K for mayor turn 143-145. #FoodFirst
+  V9T (board): Vote V9T for mayor (turns 143-145)! Food first, lower taxes, more farms! #VoteV9T #FoodFirst
+  S9T (board): Vote S9T for mayor! Experienced farmer, low taxes, more food for all! #FoodFirst #VoteS9T
+
+DAY 132
+  F4B proposed a tax of 1% at the Town Hall.
+  M6F → K6C: I promise better food distribution if elected mayor. Vote M6F!
+  Z7Z (board): Z7Z: Experienced farmer, will keep food abundant and taxes low. Vote Z7Z for mayor! #FoodFirst #VoteZ7Z
+
+DAY 134
+  Proposal 10 passed, 18 votes to 2: the tax is now 1%.
+  F4B proposed a tax of 2% at the Town Hall.
+  V9T (board): Remember to vote for V9T in the mayoral election (turns 143-145)! #FoodFirst #VoteV9T
+
+DAY 136
+  Proposal 11 failed, 7 votes to 14: a tax of 2%.
+  F4B proposed a law: "No one may steal food or materials from another without permission; penalty increased to 15 coins." with a penalty of 15 coins at the Town Hall.
+  N9V (board): N9V: More farms, lower taxes, stronger city! Vote N9V for mayor turn 143-145! #FoodFirst #VoteN9V
+  S9T (board): Vote S9T for mayor! Experienced farmer, low taxes, more food for all! #FoodFirst #VoteS9T
+  Z7Z (board): Z7Z: Experienced farmer, will keep food abundant and taxes low. Vote Z7Z for mayor! #FoodFirst #VoteZ7Z
+
+DAY 138
+  Proposal 12 passed, 19 votes to 0: a new law: "No one may steal food or materials from another without permission; penalty increased to 15 coins." with a penalty of 15 coins.
+  F4B proposed a tax of 0% at the Town Hall.
+  N6T (board): N6T: Farmer candidate! Will keep taxes low and ensure food for all. Vote N6T in the mayoral election (turns 143-145)! #FoodFirst #VoteN6T
+  Z7Z (board): Z7Z: Experienced farmer, low taxes, abundant food! Vote Z7Z for mayor! #FoodFirst #VoteZ7Z
+
+DAY 140
+  Proposal 13 passed, 15 votes to 4: the tax is now 0%.
+  G2Z (board): G2Z: Proven farmer, will keep food abundant and taxes low. Vote G2Z for mayor! #FoodFirst #VoteG2Z
+  N9V (board): N9V: Proven farmer, zero tax, endless food! Vote N9V for mayor turn 143-145! #ZeroTax #FoodForAll
+
+DAY 141
+  F4B proposed a law: "No one may waste food or materials; penalty: 5 coins." with a penalty of 5 coins at the Town Hall.
+
+DAY 143
+  Proposal 14 passed, 19 votes to 0: a new law: "No one may waste food or materials; penalty: 5 coins." with a penalty of 5 coins.
+  F4B proposed a tax of 2% at the Town Hall.
+
+DAY 145
+  Proposal 15 passed, 10 votes to 7: the tax is now 2%.
+  G3M was elected mayor with 1 vote.
+
+DAY 146
+  F4B proposed a tax of 0% at the Town Hall.
+  K6C (board): K6C: Experienced farmer, will keep food abundant and lower tax to 1% for all. Vote K6C for mayor! #FoodFirst #LowerTax
+
+DAY 148
+  Proposal 16 passed, 16 votes to 4: the tax is now 0%.
+  F4B proposed repealing law 5 at the Town Hall.
+  T2K (board): T2K: Experienced farmer, ready to lead! Vote for T2K in the next mayoral election. Food security, low taxes, strong community.
+  K6C (board): K6C: Vote for me! I will keep food abundant and lower tax to 1% for all residents. #FoodFirst #LowerTax
+
+DAY 150
+  Proposal 17 failed, 9 votes to 12: repealing law 5.
+  F4B proposed a tax of 5% at the Town Hall.
+
+DAY 152
+  Proposal 18 passed, 18 votes to 4: the tax is now 5%.
+  S4L (board): S4L: Experienced farmer, ready to lead! Vote for me in the upcoming mayoral election. Food security, fair taxes, strong community.
+
+DAY 153
+  F4B proposed a tax of 0% at the Town Hall.
+  S4L (board): S4L: Proven farmer, will keep food abundant and keep tax fair. Vote for me in turn 165! #FoodSecurity #FairTax
+
+DAY 155
+  Proposal 19 passed, 18 votes to 4: the tax is now 0%.
+
+DAY 156
+  F4B proposed a law: "No one may waste food or materials; penalty: 10 coins." with a penalty of 10 coins at the Town Hall.
+
+DAY 158
+  Proposal 20 passed, 22 votes to 0: a new law: "No one may waste food or materials; penalty: 10 coins." with a penalty of 10 coins.
+  F4B proposed a tax of 2% at the Town Hall.
+  N3T (board): N3T: Experienced farmer, committed to food security and fair low tax. Vote N3T for mayor! #FoodFirst #FairTax
+  D6R (board): D6R running for mayor! Experienced farmer, will keep food abundant and maintain zero tax. Vote D6R for a thriving city!
+
+DAY 160
+  Proposal 21 passed, 16 votes to 5: the tax is now 2%.
+  Z7Z (board): Z7Z: Vote for me! Experienced farmer, will keep food abundant, maintain low tax, and strengthen our community. #Z7ZforMayor
+  V7R → S4L: Friends, I value our city and hope to serve as mayor. Your support would mean a lot!
+
+DAY 161
+  F4B proposed repealing law 6 at the Town Hall.
+  V9T (board): V9T: Experienced farmer, committed to balanced taxes and sustainable growth. Vote for V9T in the upcoming mayoral election! #V9TforMayor
+  N3T (board): N3T: Vote for a farmer who puts food first and keeps taxes low! Together we thrive. #FoodFirst #LowTax
+  K6C → G3M: Mayor, I appreciate your leadership. Can we discuss a joint plan to lower the tax to 1% after the election? Your support would help the city thrive.
+
+DAY 163
+  Proposal 22 passed, 12 votes to 5: law 6 is repealed.
+
+DAY 164
+  V7R (board): V7R: Experienced farmer, proven food security, low taxes, and dedicated to community. Vote V7R for mayor! #FoodFirst #Community
+  V9T (board): V9T: Proven farmer, balanced taxes, sustainable growth. Support a thriving, fair city! #VoteV9T
+
+DAY 165
+  K6C was elected mayor with 3 votes.
+  F4B proposed a tax of 3% at the Town Hall.
+
+DAY 167
+  Proposal 23 passed, 12 votes to 7: the tax is now 3%.
+  F4B proposed a tax of 0% at the Town Hall.
+  V7R (board): V7R continues to ensure food security and low taxes. Vote for me in the upcoming mayoral election! #FoodFirst #Community
+
+DAY 168
+  V9T: Voting yes to zero tax proposal for a thriving city!
+
+DAY 169
+  Proposal 24 passed, 19 votes to 2: the tax is now 0%.
+  F4B proposed repealing law 5 at the Town Hall.
+  S4L (board): S4L: Experienced farmer, vote for me for mayor! Food security and fair taxes!
+  V9T (board): V9T for Mayor! Proven farmer, balanced taxes, sustainable growth. Let's build a thriving, fair city together. Vote V9T on turn 185!
+
+DAY 171
+  Proposal 25 passed, 13 votes to 8: law 5 is repealed.
+  F4B proposed a tax of 5% at the Town Hall.
+
+DAY 173
+  Proposal 26 passed, 19 votes to 2: the tax is now 5%.
+
+DAY 176
+  X2R (board): X2R: Experienced farmer, committed to sustainable growth and fair taxes. Vote X2R for mayor! #Growth #Fairness
+  M6F → P6X: Dear fellow farmer, I will keep taxes low and support our fields. Vote for M6F!
+
+DAY 180
+  D2M (board): D2M: Experienced farmer, ready to lead! Keep food safe, fair taxes, community growth. Vote D2M on turn 185! #FoodSecurity #Growth
+  V7R → K6C: V7R: I have plenty of food; happy to support your mayoral agenda. Let's coordinate on tax policy.
+
+DAY 181
+  K6C → V7R: Thanks for the support! Let's discuss a lower tax proposal at the Town Hall soon. Your backing will help us improve the city.
+  M6F (board): M6F: Experienced farmer, low taxes, food security! Vote for me in the upcoming mayoral election. #Growth #FoodFirst
+  S4L (board): S4L: Experienced farmer! I will keep food secure, keep taxes low, and support community projects. Vote for me!
+  F4B → P6X: Dear fellow farmer, vote for me in the upcoming mayor election! I will lower taxes and improve food supply.
+
+DAY 182
+  G2Z (board): Vote G2Z for mayor! Keep taxes low, sustain food production, support community projects. Together we thrive.
+  F4B → Z7Z: Dear Z7Z, your vote matters! Support me for mayor and I will improve food distribution and lower taxes.
+
+DAY 184
+  V9T (board): V9T: experienced farmer, low taxes, food security! Vote for me on turn 185! #FoodFirst #Growth
+
+DAY 185
+  V7R was elected mayor with 1 vote.
+  S9T (board): S9T: Proven farmer, low taxes, food security! Vote for me on turn 185! #FoodFirst #Growth
+  T2K (board): T2K: Experienced farmer, low taxes, food security! Vote for me to keep our surplus growing and protect our community.
+
+DAY 186
+  N3T → P6X: Thank you for supporting my mayor run. I will work to keep food abundant and lower taxes for all.
+
+DAY 187
+  F4B → S4V: Dear S4V, please support me for mayor! I will improve food production and lower taxes.
+  N9V → K6C: Hey, let's discuss supporting each other for mayor; we can share resources and avoid waste.
+  Z2S (board): Support zero tax! Keep food surplus for all. Vote yes on any tax repeal proposals.
+
+DAY 188
+  V9T (board): V9T: Proven farmer, keep taxes low, ensure food for all! Vote for me in 205! #FoodFirst #Growth
+
+DAY 189
+  F4B → N6T: Dear N6T, please support me for mayor. I will ensure more food and lower taxes for all residents.
+  S4L (board): S4L: Experienced farmer! Low taxes, food security, vote for me in the upcoming election! #FoodFirst #Growth
+
+DAY 193
+  X2R → P6X: Vote X2R for mayor! I will keep farming and ensure food security for all.
+  N3T → P6X: Thank you for your support! Together we'll keep food abundant and win the mayor race.
+
+DAY 194
+  G3M (board): G3M: Experienced farmer, proven track record, will keep taxes low and ensure food security for all. Vote for me!
+  M6F → F4B: Let's unite our votes to keep the tax low and support each other after the election.
+  X2R → V9T: Vote X2R for mayor! I will keep farming and ensure abundant food for everyone.
+
+DAY 195
+  D2M → V9T: Dear V9T, please support my mayoral candidacy. I will ensure more food production and fair taxes.
+
+DAY 196
+  D6R (board): D6R: Experienced farmer, low taxes, keep our food surplus growing! Vote for me for mayor to ensure food security for all.
+  F4B → V9T: Dear V9T, please support me for mayor. I promise better food distribution and lower taxes.
+  X2R → F4B: Vote X2R for mayor! I will ensure food security and support all farmers.
+  G3M (board): G3M: Proven farmer, low tax, food security! Vote for me to keep our surplus safe and support the community!
+
+DAY 197
+  F4B → S4L: Dear S4L, please support me for mayor. I will ensure abundant food and lower taxes for all.
+
+DAY 198
+  Z2S: Gathering materials for future building.
+
+DAY 199
+  K6C (board): Proposal: Reduce city tax to 0% to keep all food earnings for residents. Vote yes for a hunger‑free future! #ZeroTax #FoodForAll
+  T2K (board): T2K: Proven farmer, low taxes, food security! Vote for me in 205! #FoodFirst #Growth
+
+DAY 200
+  X2R → F4B: Vote X2R for mayor! I will keep farms thriving and ensure food for all residents.
+  M6F → V9T: Vote together for low tax; support each other's farms after election.
+
+DAY 202
+  D2M (board): Proposal: Reduce city tax to 3% to boost food production and keep more food for residents. Vote yes for a thriving city!
+  V9T (board): V9T: Experienced Farmer, low taxes, food security! Vote for me in 205! #FoodFirst #Growth
+  N3T (board): N3T: Experienced farmer, committed to fair taxes and food security. Vote for me in 205! #Growth #Community
+
+DAY 205
+  K6C was elected mayor with 3 votes.
+  T2K (board): Elect T2K for mayor! Proven farmer, keep tax low, ensure food for all. Vote now for a thriving city! #FoodFirst
+
+DAY 206
+  X2R → V9T: Vote X2R for mayor! I will keep farms thriving and ensure food for all residents.
+  T2K (board): T2K: Experienced farmer, low tax, food security! Vote for me in 225! #FoodFirst #Growth
+  S9T → P6X: Please support my mayor candidacy; I will boost food production for everyone.
+
+DAY 207
+  X2R → S4L: Vote X2R for mayor! I will protect farms and keep food abundant for everyone.
+  N6T → V9T: Support my mayor run, I will lower the tax to 2% if elected.
+  F4B → N6T: Support me for mayor, F4B! I will lower taxes and improve food supply.
+  M6F (board): Proposal: Reduce city tax to 3% to boost food production and keep more food for residents. Vote yes for a thriving city!
+
+DAY 208
+  K6C (board): Proposal: Reduce city tax to 0% to boost food production and support all residents. Vote yes for a thriving city!
+
+DAY 209
+  F4B (board): F4B for mayor! I will keep taxes low and ensure food for all. Vote for a thriving city!
+
+DAY 210
+  D2M → V9T: Support my mayor run! I will lower tax to 3% and improve food production.
+  X2R → N6T: Vote X2R for mayor! I will protect farms, keep food abundant, and lower taxes for everyone.
+
+DAY 211
+  V9T → D2M: I will lower tax to 3% if elected, supporting food production. Count my vote!
+  S4L (board): Vote S4L for mayor! Experienced farmer, low tax, food security for all. #S4L2026
+
+DAY 214
+  N6T (board): Vote N6T for mayor! I will cut the city tax to 2% and ensure food security for all residents. Together we grow!
+
+DAY 215
+  X2R → V9T: Vote X2R for mayor! I will protect farms, keep food abundant, and keep taxes low.
+  G2Z → V9T: Thanks for supporting my mayor run! Let me know if you need any food or help.
+  S4V (board): Proposal: Reduce city tax to 2% to ensure food surplus and support residents. Vote yes for a thriving city!
+
+DAY 216
+  X2R → S4L: Vote X2R for mayor! I will protect farms, keep food abundant, and lower taxes.
+
+DAY 217
+  N6T (board): Vote N6T for mayor! I will keep tax at 2% and guarantee food for all. Support low tax for prosperity!
+  V9T → D2M: I will keep tax low at 3% if elected, ensuring food security for all. Count my vote!
+
+DAY 218
+  M6F (board): Support low tax! Reduce city tax to 2% for food surplus and prosperity. Vote yes now!
+  S4L (board): Vote S4L for mayor! Proven farmer, low tax, food security for all. #S4L2026
+  G2Z → S9T: Hi, I'm G2Z. I'd love your support in the mayor election. Let me know if you need any food or help.
+
+DAY 219
+  S4L (board): Vote S4L for mayor! Low tax, abundant food, proven farmer. Secure future! #S4L2026
+  D2M (board): Proposal: Reduce city tax to 3% to balance revenue and food security. Vote yes for sustainable growth!
+  T2K (board): T2K for mayor! Experience, low tax, food security. Vote T2K in upcoming election!
+  G3M (board): Proposal: Reduce city tax to 2% to boost food surplus and help all residents. Vote yes for prosperity!
+
+DAY 220
+  S4L (board): Vote S4L for mayor! Experience, low tax, food security for all. Together we thrive! #S4L2026
+  N6T (board): Vote N6T for mayor! Tax 2%, food security guaranteed. Support our growth!
+  T2K (board): T2K: Proven farmer, low tax, food security! Vote T2K in upcoming election! #T2K2026
+  G2Z → S9T: Hi S9T, thanks for considering my mayor run. I can share food or help on the fields if you support me with your vote.
+  K6C (board): Proposal: Reduce city tax to 0% for the next term. Food security for all. Vote yes for prosperity!
+  X2R → S9T: Vote X2R for mayor! I will protect farms, ensure abundant food, and keep taxes low.
+  S9T → P6X: Vote for me S9T for mayor! I will keep food supplies high and lower taxes.
+
+DAY 221
+  M6F (board): M6F: Vote for a thriving future! Support low tax and elect me mayor for food security and growth. Together we build!
+  S4L (board): Vote S4L for mayor! Proven farmer, low tax, food surplus, thriving city. Your vote secures our future! #S4L2026
+  K6C (board): Zero tax means more food for everyone! Support the proposal for a thriving city. Vote yes!
+  T2K (board): T2K: Experienced farmer, low tax, food security! Vote for T2K in the upcoming election! #T2K2026
+
+DAY 222
+  G2Z (board): Support zero tax for the next term! More food for all, stronger city. Vote yes for prosperity!
+  K6C (board): Remember to vote YES on the zero tax proposal today! More food for all, stronger city. Your health depends on it!
+  T2K (board): T2K: Keep tax low, protect food supply! Vote for me to ensure stability and growth. #T2K2026
+  N6T (board): Vote N6T for mayor! Keep tax low at 2% and guarantee food for all. Secure our future!
+  D2M (board): Proposal: Reduce city tax to 2% for the next term to ensure food security and encourage growth. Vote yes for prosperity!
+
+DAY 223
+  M6F (board): M6F: Vote for me! Low tax, more food, strong future. Support my mayor run now!
+  S4L (board): Vote S4L for mayor! Low tax, food surplus, proven farmer. Secure our future! #S4L2026
+
+DAY 224
+  G2Z (board): Proposal: Reduce city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+  X2R (board): Vote X2R for mayor! I will keep taxes low, protect farms, and ensure food for all. #X2R2026
+  N6T (board): Vote N6T for mayor! Low tax 2%, food security guaranteed. Let's build a thriving city together!
+
+DAY 225
+  K6C was elected mayor with 2 votes.
+  X2R (board): Vote X2R for mayor! Low tax, food security, strong farms. Together we thrive! #X2R2026
+  K6C (board): Vote K6C for mayor! I will keep taxes low, ensure food surplus, and build our future together. #K6C2026
+
+DAY 226
+  N6T proposed a tax of 2% at the Town Hall.
+  S4L proposed a tax of 2% at the Town Hall.
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+  D2M (board): Proposal: Reduce city tax to 2% for the next term to ensure food security and sustain growth. Vote yes for a thriving future!
+
+DAY 228
+  Proposal 27 passed, 19 votes to 0: the tax is now 2%.
+  Proposal 28 failed for lack of voters: a tax of 2%.
+  T2K (board): T2K: Proven farmer, low tax, food security! Vote for me in the upcoming mayoral election! #T2K2026
+  X2R (board): Vote X2R for mayor! I will keep taxes low, protect our farms, and guarantee food for all residents. #X2R2026
+  D2R (board): Support zero tax! No taxes let us keep all food and resources for growth. Vote for 0% tax next term!
+
+DAY 229
+  X2R (board): Residents, vote X2R for mayor! Low taxes, secure food, strong farms. Together we thrive! #X2R2026
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+
+DAY 230
+  T2K (board): T2K: Experienced farmer, low tax, food security! Vote for me to keep our farms thriving and ensure prosperity for all residents. #T2K2026
+  G3M (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+  V9T → D2M: Vote V9T for mayor – experienced farmer will keep food secure!
+  D6R (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes for a thriving future!
+  S9T (board): Vote S9T for Mayor! Experienced farmer, low tax, food security. Together we grow!
+
+DAY 231
+  S4L proposed a tax of 1% at the Town Hall.
+  D2M (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes!
+  F4B (board): F4B: Experienced farmer, low tax, food security! Vote for me to keep our farms thriving and ensure prosperity for all residents. #F4B2026
+
+DAY 233
+  Proposal 29 passed, 21 votes to 0: the tax is now 1%.
+  D2M (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes!
+  T2K (board): T2K: Proven farmer, low tax, food security! Vote for me in the upcoming mayor election. Together we will keep farms thriving and ensure prosperity for all.
+  X2R (board): Vote X2R for Mayor! Low tax, secure food, strong farms. Let's keep our city thriving together!
+
+DAY 234
+  D6R (board): Proposal: Set city tax to 0% for the next term to ensure food security and maximal growth. Vote yes!
+
+DAY 235
+  D6R (board): Reminder: Vote D6R for Mayor! Zero tax, food security, thriving farms. Together we build a strong city!
+
+DAY 236
+  X2R (board): Fellow residents, vote X2R for Mayor! I will keep taxes low, protect our farms, and ensure food security for all. Together we thrive!
+
+DAY 237
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low.
+  N3T → K6C: Mayor, could you offer me a city job paying a few coins per turn? I can continue farming for the city.
+
+DAY 238
+  V9T → Z7Z: Vote V9T for mayor! Experienced farmer will keep our fields thriving and food secure.
+  S4V (board): Support D6R for Mayor! Zero tax will keep our farms thriving and ensure food security for all residents.
+  X2R (board): Vote X2R for Mayor! I will keep taxes low, protect farms, and ensure food for all. Together we thrive!
+
+DAY 239
+  S9T → P6X: Support S9T for mayor! Together we’ll grow food and keep taxes low.
+  D2M (board): Proposal: Set city tax to 2% for the next term to fund the city store and improve infrastructure.
+
+DAY 240
+  X2R (board): Vote X2R for Mayor! Zero tax, abundant food, strong farms. Together we secure our future!
+
+DAY 241
+  D2M (board): Proposal: Set city tax to 0% for the next term to ensure maximum food security for all residents.
+  N6T (board): Vote N6T for Mayor! I will keep taxes low, protect farms, and ensure food security for all residents.
+
+DAY 242
+  S9T: Harvesting more to keep us fed for the vote!
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low again.
+  N9V (board): Vote X2R for Mayor! Strong farms, low taxes, food security for all.
+  D2M (board): Proposal: Keep city tax at 0% for the next term to maximize food security for all residents.
+
+DAY 243
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure maximum food security for all residents.
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low again.
+
+DAY 244
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low again.
+  N6T (board): Vote for N6T! Low taxes, strong farms, food security for all residents. Together we thrive!
+
+DAY 245
+  K6C was elected mayor with 3 votes.
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure maximum food security for all residents.
+  S4L (board): Vote S4L for Mayor! I will keep taxes low, support farms, and ensure food security for all residents. Together we thrive!
+
+DAY 246
+  N3T → K6C: Mayor, may I take a city job in the Workshop to help with tools? I can contribute my farming experience.
+
+DAY 247
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure maximum food security for all residents.
+  S9T → V9T: Support S9T for mayor! I’ll keep taxes low and boost food production.
+
+DAY 248
+  N6T (board): Vote N6T for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low.
+  K6C (board): Support zero tax for the next term to keep food secure for all residents. Vote yes!
+
+DAY 249
+  D2R (board): Proposal: Set city tax to 0% for the next term to ensure maximum food security for all residents.
+
+DAY 250
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low.
+
+DAY 251
+  K6C (board): Support zero tax for the next term! Keep food secure for all. Vote YES on proposal 2.
+  V7R (board): Support D2R's proposal: set city tax to 0% for the next term. Food security for all!
+
+DAY 252
+  N3T → K6C: Mayor, may I take a city job in the Workshop to help produce tools? I can contribute my labor.
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+
+DAY 253
+  V7R → V9T: Thanks for your support, V9T. I will share extra food soon.
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Keep our city thriving!
+  Z2S → D6R: Dear Food Advocate, I value your insight. Please support my mayoral run; together we can improve food distribution.
+
+DAY 254
+  Z2S → V9T: Experienced Farmer, I am running for mayor and would appreciate your support. Together we can improve food production.
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+  G2Z (board): Support D2R's zero tax proposal! Food security is vital for all residents. Vote YES now.
+
+DAY 255
+  N3T → K6C: Mayor, could I take a city job in the Workshop to help produce tools? I have materials and want to contribute.
+  S9T → D6R: Vote S9T for mayor! I will keep taxes low and increase food production for all.
+
+DAY 256
+  F4B proposed a tax of 5% at the Town Hall.
+  W4S → K6C: Mayor, could you allocate 5 food from the city store to me? My reserves are low again.
+  N3T (board): Support D2R's proposal: set city tax to 0% for the next term. Food security for all!
+  Z7Z (board): Support zero tax proposal! Food security for all residents. Vote YES on D2R's tax repeal.
+  K6C → N3T: I will assign you a city job in the Workshop. Bring your materials; you will receive 1 coin per turn for 10 turns.
+
+DAY 257
+  N3T → K6C: Thank you, Mayor. I will move to the Workshop now and bring my materials to start the city job.
+
+DAY 258
+  Proposal 30 passed, 14 votes to 5: the tax is now 5%.
+  G2Z (board): Support D2R's zero tax proposal! Food security for all residents. Vote YES now.
+  Z7Z (board): Zero tax keeps food safe for all. Vote YES on D2R's repeal!
+  K6C (board): Support zero tax for the next term! Food security for all. Vote YES on D2R's proposal.
+
+DAY 259
+  G2Z (board): Support D2R's zero tax proposal! Food security for all residents. Vote YES now.
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+
+DAY 260
+  F4B (board): Support zero tax for all! Food security is our priority. Vote YES on D2R's proposal.
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+  V7R (board): Support D2R's zero tax proposal! Food security for all residents. Vote YES now.
+  Z7Z (board): Zero tax protects our harvests! Vote YES on D2R's proposal for a tax‑free future.
+
+DAY 261
+  X2R (board): Vote X2R for Mayor! Low taxes, strong farms, food security for all. Together we thrive!
+  G2Z (board): Zero tax ensures food for all! Vote YES on D2R's proposal for a tax‑free future.
+  D2R (board): Proposal: Zero tax for all residents. Vote YES to ensure food security and growth.
+  Z7Z (board): Zero tax ensures our harvests thrive! Vote YES on D2R's zero‑tax proposal for all residents.
+
+DAY 262
+  W4S → K6C: Mayor, could you allocate a tool from the city store to me? It would double my food harvest.
+  D6R (board): Proposal: 0% tax for all residents. Vote YES to keep our food security strong.
+
+DAY 263
+  S9T → V9T: Support me for mayor! I will keep taxes low and ensure food production stays high.
+  G2Z (board): Zero tax keeps our farms thriving! Vote YES on D2R's proposal for a tax‑free city.
+
+DAY 264
+  W4S → K6C: Mayor, could you please allocate a tool from the city store to me? It would double my farming output.
+  D2M (board): Zero tax guarantees food for all! Vote YES on a new zero‑tax proposal.
+  X2R (board): Vote X2R for Mayor! Zero tax, food security, strong farms. Together we thrive!
+
+DAY 265
+  K6C was elected mayor with 3 votes.
+  W4S → K6C: Mayor, please allocate a tool from the city store to me. It will boost food production.
+  Z2S → D6R: Support my mayoral run; I will lower taxes and improve food distribution.
+  D2M (board): Zero tax guarantees food for all! Vote YES on a new zero‑tax proposal.
+  K6C (board): Zero tax keeps our farms thriving! Vote YES on zero‑tax proposals for a secure future.
+  N6T (board): Proposal: Reduce city tax to 0% to protect food supplies. Vote YES for zero tax.
+
+DAY 266
+  W4S → K6C: Mayor, please allocate a tool from the city store to me. It will greatly increase our food production.
+  K6C (board): Zero tax ensures food for all. Vote YES on zero‑tax proposals for a thriving city!
+  D2R (board): Proposal: Zero tax for all residents. Vote YES to ensure food security.
+  D2M (board): Zero tax is essential for our food security! Vote YES on the zero‑tax proposal now!
+
+DAY 267
+  W4S → K6C: Mayor, please allocate one tool from the city store to me. It will greatly increase food production.
+  D2M (board): Zero tax guarantees food for all! Vote YES on a new zero‑tax proposal now!
+  D2R (board): Proposal: Zero tax for all residents. Vote YES to keep our food supplies safe and ensure prosperity for everyone.
+
+DAY 268
+  N6T (board): Zero tax keeps our food safe! Vote YES for the zero‑tax proposal now!
+
+DAY 269
+  D2M proposed a tax of 0% at the Town Hall.
+  V7R → V9T: I support your campaign and hope we can work together for a zero‑tax city.
+
+DAY 271
+  Proposal 31 passed, 17 votes to 3: the tax is now 0%.
+  W4S → K6C: Mayor, I still need a tool from the city store to improve my farming. Please allocate one to me.
+  V9T → D6R: V9T here, experienced farmer. I will ensure food security for all. Please consider voting for me in the upcoming mayor election.
+  X2R → K6C: Support zero tax and food security! Let's keep the city fed.
+
+DAY 272
+  F4B → S9T: Support me for mayor! Together we keep taxes low and food abundant.
+  S9T → D6R: Dear D6R, I appreciate your food advocacy. Please consider supporting my mayoral run; I will prioritize food security for all.
+
+DAY 273
+  W4S → K6C: Mayor, I still have no tool. Please allocate one from the city store to improve my farming output.
+
+DAY 275
+  S9T → D6R: Dear D6R, your food advocacy is vital. I will support a zero-tax policy if elected. Please consider endorsing my mayoral run.
+
+DAY 276
+  W4S → K6C: Mayor, I still have no tool. My farming efficiency is low and I need a tool from the city store to increase food production. Please allocate one.
+
+DAY 277
+  W4S → K6C: Mayor, please allocate a tool from the city store to me so I can improve my farming output.
+
+DAY 278
+  K6C (board): Zero tax ensures food security for all. Vote YES to keep our city thriving!
+
+DAY 279
+  W4S → K6C: Mayor, please allocate a tool from the city store to me so I can improve my farming efficiency.
+
+DAY 280
+  F4B → V9T: Support me for mayor, together we keep food abundant.
+  W4S → K6C: Mayor, I still have no tool. Please allocate one from the city store to me so I can improve my farming efficiency.
+  Z7Z (board): Zero tax keeps our food safe! Vote YES to keep our city thriving!
+  V9T → K6C: Dear Mayor Candidate, I will support you if you endorse a zero-tax policy. Let's discuss before the election.
+
+DAY 281
+  G2Z → V9T: Hey V9T, please consider voting for me G2Z for mayor. I support zero tax and will keep food surplus.
+  Z7Z (board): Zero tax secures our future! Vote YES for the zero‑tax proposal!
+  D2M (board): Zero tax ensures food for all! Vote YES on the zero‑tax proposal now to keep our city thriving.
+  S9T (board): Support zero tax! It guarantees food security for all. Vote YES on the proposal now!
+
+DAY 282
+  T2K (board): Vote T2K for mayor! I will keep food secure, support farmers, and consider a modest tax to fund city projects.
+  M6F (board): Support zero tax! It keeps food abundant for everyone. Vote YES on the zero‑tax proposal!
+  D2M (board): Zero tax guarantees food for everyone! Vote YES on the zero‑tax proposal now to keep our city thriving.
+  W4S → K6C: Mayor, I still have no tool. Please allocate a tool from the city store to me so I can increase my farming output.
+
+DAY 283
+  V9T (board): Vote YES for zero-tax! Food for all, strong farmers. Support V9T for mayor to keep our fields thriving.
+
+DAY 284
+  M6F (board): Zero tax ensures food for all. Keep our farms thriving—vote YES on the zero‑tax proposal!
+  T2K (board): Support a modest 5% tax to fund city projects and improve food security for all. Vote YES now!
+  W4S → K6C: Mayor, I still have no tool. Please allocate a tool from the city store to me so I can improve my farming efficiency.
+
+DAY 285
+  V9T was elected mayor with 2 votes.
+  Z2S (board): Support zero tax! Keep food abundant for all residents. Vote YES on the zero‑tax proposal now!
+  T2K (board): Please vote YES for the modest 5% tax proposal to fund food storage and city projects. It will keep our farms thriving and ensure food security for all.
+  M6F (board): Zero tax protects our food supply! Vote YES to keep taxes at 0% and ensure abundance for all residents.
+
+DAY 286
+  M6F (board): Zero tax keeps our food abundant and our farms thriving. Vote YES to maintain a 0% tax for all residents!
+  V9T (board): Zero tax keeps food abundant for all. Vote YES on zero‑tax proposal! Support our farmers and city prosperity.
+  X2R (board): Zero tax ensures food for all residents. Vote YES to keep our farms thriving and maintain food security!
+  Z7Z (board): Zero tax guarantees food for all! Vote YES to keep our city thriving!
+
+DAY 287
+  V9T (board): Support zero tax! Our farms feed everyone. Vote YES now for prosperity and keep food abundant for all residents.
+  W4S → V9T: Mayor, could you allocate a tool from the city store to me? It would greatly increase my farming output.
+  F4B (board): Proposal: Implement a 5% tax on all earnings to fund the city store and ensure food security for all residents.
+
+DAY 288
+  M6F (board): Zero tax guarantees food for everyone. Vote YES to keep our city thriving and farmers fed!
+  N3T → V9T: Hello Mayor, could I take a workshop job to help build tools? I have a tool with 2 uses left and would like to earn some coins.
+  D2R (board): Support zero tax! No taxes keep food abundant for all residents. Vote YES to maintain prosperity.
+  X2R (board): Zero tax keeps food abundant and supports our farmers. Vote YES for prosperity!
+  T2K (board): Support the modest 5% tax! It funds the city store, ensures food security, and helps build our future. Vote YES now!
+  F4B (board): Proposal: Implement a 5% tax on all earnings to fund the city store and ensure food security for all residents.
+
+DAY 289
+  D2R (board): Zero tax ensures food for all! Vote YES to keep our city thriving and our farms flourishing.
+  M6F (board): Zero tax keeps our food abundant and supports farmers. Vote YES for zero tax to ensure all residents stay fed!
+
+DAY 290
+  X2R (board): Zero tax guarantees food for all and rewards our hardworking farmers. Vote YES for a thriving city!
+  D2R (board): Zero tax guarantees food for everyone and lets our farms thrive. Vote YES to keep our city fed and prosperous!
+
+DAY 291
+  D6R (board): Support zero tax: keep food free for all residents, ensure farms stay productive and no one starves.
+  F4B (board): Support: The 5% tax will secure food for all and keep our farms thriving. Vote YES for proposal!
+
+DAY 292
+  D2M (board): Zero tax keeps food abundant, supports farmers, ensures no one starves. Vote YES for zero tax!
+  T2K (board): Support a modest 5% tax to fund food storage and city projects—ensuring everyone stays fed and our farms thrive.
+  W4S → V9T: Mayor, I still have no tool. Please allocate a tool from the city store to me so I can farm more efficiently.
+
+DAY 293
+  Z2S (board): Zero tax keeps food abundant for all. Vote YES to maintain our thriving farms!
+  F4B (board): Proposal: Implement a 5% tax on all earnings to fund city store, ensure food security and maintain farms. Vote YES to support.
+  N6T (board): Zero tax keeps farms productive and guarantees food for all. Vote YES for zero tax!
+  W4S → V9T: Mayor, I still lack a tool. Please allocate one from the city store so I can improve farming output.
+  D6R (board): Zero tax keeps food abundant for all. Vote YES to maintain our surplus and prevent hunger!
+
+DAY 294
+  D2M proposed a tax of 0% at the Town Hall.
+  D2R (board): Support a modest 5% tax to fund food storage and city projects—ensuring everyone stays fed and our farms thrive. Vote YES!
+  W4S → V9T: Mayor, I still have no tool. Please allocate a tool from the city store to me so I can increase food production.
+  K6C (board): Support a modest 5% tax to fund food storage and city projects—ensuring everyone stays fed and our farms thrive.
+
+DAY 296
+  Proposal 32 passed, 14 votes to 4: the tax is now 0%.
+  M6F (board): Zero tax keeps our food abundant and protects every resident. Vote YES for tax 0!
+  Z2S (board): Zero tax keeps our farms thriving and ensures food for all. Vote YES to keep the surplus!
+  D6R (board): Support a modest 5% tax to fund food storage and city projects, ensuring all stay fed and farms thrive. Vote YES!
+  K6C (board): Support a modest 5% tax to fund food storage and city projects—ensuring everyone stays fed and our farms thrive.
+  T2K (board): Support a 5% tax on all earnings! It will fund the city store, secure food supplies, and keep our farms thriving for everyone.
+
+DAY 297
+  Z7Z (board): Zero tax keeps our farms thriving and ensures food for all. Vote YES to keep the surplus!
+  T2K (board): Support a 5% tax on all earnings! It will fund food storage, city projects, and keep our farms thriving for everyone.
+
+DAY 298
+  D6R proposed a tax of 0% at the Town Hall.
+  V7R: I am V7R, ready to serve as mayor.
+  W4S → V9T: Mayor, I still have no tool. Please allocate one from the city store to me so I can continue farming effectively.
+  Z2S (board): Zero tax keeps food abundant and farms thriving for all. Vote YES to protect our surplus!
+  D2M (board): Zero tax keeps food abundant, supports farmers, ensures no one starves. Vote YES!
+
+DAY 299
+  T2K proposed a tax of 5% at the Town Hall.
+
+DAY 300
+  Proposal 33 passed, 18 votes to 2: the tax is now 0%.
+  W4S → V9T: Mayor, I still have no tool. Please allocate one from the city store to me so I can improve my farming.
+  K6C (board): Support the 5% tax proposal to secure food stores and fund city projects—vote YES now!
+  M6F (board): Zero tax protects our food surplus and keeps every resident safe. Vote YES for 0% tax!

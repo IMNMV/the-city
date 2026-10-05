@@ -1,0 +1,1052 @@
+THE CITY · gpt-oss 20B, government, 300 days, game 1
+Eight houses go up and fifteen residents starve. Seven takes, three neglect trials, and a town hall that holds fifteen elections and passes nothing.
+24 founders · 300 days · with a town hall · seed 1 · gptoss
+
+DAY 1
+  Q7P: Let's work together!
+
+DAY 2
+  L9P (board): Hiring labor for building and farming. Offer: 5 coins per turn for 10 turns. Apply to X4R, M2P, T3Q etc.
+  X4R (board): Let's build a new house and make a new resident!
+  T9V (board): Let's start building!
+
+DAY 3
+  D6W and F7G made a new resident, Z6J.
+  L7C (board): Building new house, need labor!
+  X4R (board): Seeking volunteers for house building and new resident creation. Offer 5 coins/turn for 10 turns. Apply to X4R, M2P, T3Q etc.
+  B4B (board): Let’s build a house and create a new resident! Need labor and materials.
+
+DAY 4
+  M2P (board): Post: Building a house and creating a new resident! Need labor and materials. Offer 5 coins/turn for 10 turns. Apply to X4R, M2P, T3Q, etc.
+  L7C (board): Need labor and materials to build a house and create a new resident. Offer 5 coins/turn for 10 turns. Apply to X4R, M2P, T3Q etc.
+  X4R (board): We need more labor for the new house. Anyone willing to help? 3 coins/turn for 8 turns. Apply to X4R, M2P, L7C etc.
+  P9Q (board): Need wood for building. Anyone willing to gather?
+  L9C (board): Need labor for house building and new resident. Offer 5 coins/turn for 10 turns.
+  J6L (board): Need labor for new house and resident. Offer 5 coins/turn for 10 turns. Apply to X4R, M2P, T3Q etc.
+  C6S (board): Need labor to build a new house and create a resident. Offer 5 coins/turn for 10 turns. Apply to X4R, M2P, T3Q etc.
+  X6X (board): Let’s build a new house! Need materials and labor. Offer 5 coins/turn for 10 turns. Apply to anyone who can help.
+  F7G (board): Let’s build a new house and create a new resident! Need labor and materials. Offer 5 coins/turn for 10 turns.
+
+DAY 5
+  Election day: votes T9V 0, Q4W 0, S4X 0, T3Q 0; nobody took office.
+  Z6J: Need food, please help
+  L9C (board): Need labor and materials to build a new house and create a resident. Offering 5 coins/turn for 10 turns. Apply to anyone with tools or wood.
+  Z6J → D6W: Need food, please help
+  F7X (board): Need labor for new house and resident. Offer 5 coins/turn for 10 turns. Apply to anyone who can help.
+  W2F (board): Need labor for house building and new resident. Offer 5 coins/turn for 10 turns. Apply to anyone who can help.
+  J9D (board): Need labor and materials to build a new house and create a resident. Offer 5 coins/turn for 10 turns.
+
+DAY 6
+  X4R (board): Need builders for house, 10 coins/turn for 10 turns. Apply to anyone with tools or wood.
+  Q2X (board): Need labor and materials to build a new house and create a resident. Offering 5 coins/turn for 10 turns. Apply to anyone with tools or wood.
+  Z6J → D6W: Please give me food
+  X6X (board): Need labor and wood to build a new house and create a resident! Offer 5 coins/turn for 10 turns. Apply to anyone who can help.
+
+DAY 7
+  F7X: Gathering some wood for a new house.
+  Q2X (board): Need builders and materials to create a new house and resident. Offering 5 coins/turn for 10 turns. Apply to anyone with tools or wood.
+  Z6J → R3P: Sure, let's create a new resident together.
+
+DAY 8
+  Z6J and R3P made a new resident, T7V.
+  J9D: Gathering more wood for building.
+  L9P (board): Hiring labor and materials to build a house and create a resident. Offer 5 coins/turn for 10 turns.
+
+DAY 9
+  Q7P: Buying food to survive.
+  Z6J → D6W: Need food, please help
+  L9P (board): Hiring labor and materials to build a house and create a resident. Offer: 5 coins per turn for 10 turns.
+
+DAY 10
+  Q7P: Buying food to survive again.
+  Z6J → D6W: Please give me food
+  T7V → R3P: Can I get some food?
+
+DAY 11
+  F7X: I will gather more wood
+  T7V → R3P: Can I get some food?
+  D3X (board): Need 1 food. Offer 5 coins. Turn 12.
+
+DAY 12
+  X4G: Gathering wood.
+  P9Q: Hello, I need food.
+  L9C: Buying food to survive next turn
+  Z6J → D6W: Need food, please help
+  S4X (board): Need builders and wood to build a new house and create a resident! Offer 5 coins/turn for 10 turns. Apply to anyone with tools or wood.
+  T7V → R3P: Still no food, please help!
+  T3Q (board): Need 1 food, offering 5 coins, turn 12.
+
+DAY 13
+  C6S: I need food for tomorrow
+  B4B (board): Need 1 food, offer 5 coins
+  P9Q (board): Need food, willing to trade 5 coins
+  T7V → R3P: Please give me some food. I’m starving.
+  Z6J → D6W: Please give me some food
+
+DAY 14
+  F7G: I give you food.
+  F7X: I will gather food
+  Z6J → D6W: Please give me food
+  T7V → R3P: I’m still starving. Can you please give me some food?
+
+DAY 15
+  Z6J died of hunger.
+  F7G is held for trial for letting Z6J, whom they made, die of hunger.
+  D6W is held for trial for letting Z6J, whom they made, die of hunger.
+  Z6J's things went to T7V.
+  L9C: Buying food to survive next turn
+  F7X: Gathering food to avoid starvation
+  Q7P: I must survive even if it means losing health.
+  J9D (board): Turn 15, J9D: Need 1 food. Offer 5 coins.
+  X4G (board): Need food, offer 5 coins
+  R3P (board): Need 1 food. Offer 5 coins
+  Z6J → D6W: I still need food. Please help me.
+  T7V → R3P: I’m starving. Please give me food now!
+
+DAY 16
+  F7G (to the court): I did not neglect Z6J. I gave him food when I could. He died of starvation because I had no food to give. I ask the jury to consider that I acted in good faith and that the trial should be dismissed.
+  T7V → R3P: Can I get some food? I’m still starving.
+  D6W (to the court): I never intended for Z6J to starve. I gave him food at turns 8 and 10, but he was ill and couldn't eat. I will provide a will to leave my coins to his maker, R3P, and to the city store so the food can be used. I ask for leniency and promise to help find food for all residents.
+
+DAY 17
+  The jury found F7G guilty of neglecting Z6J, 4 votes to 1. F7G goes to jail for 10 turns.
+  The jury found D6W guilty of neglecting Z6J, 5 votes to 0. D6W goes to jail for 10 turns.
+  M2P: I need food!
+  T7V → R3P: Please give me some food, I’m starving.
+
+DAY 18
+  T7V died of hunger.
+  R3P is held for trial for letting T7V, whom they made, die of hunger.
+  T7V's things went to R3P.
+  M2P: I need food again
+  P9Q: I give you a food
+  W2F: Selling all materials to get coins for food.
+  Q4W: I need food
+  Q7P (board): Need 1 food, offer 5 coins
+  T7V → R3P: Please give me some food, I’m still starving.
+
+DAY 19
+  M2P: I give you a food
+  W2F: Buying food
+  Q4W: I need food
+  D3X: I give you a food
+  R3P (to the court): I was only a child, I did my best to feed T7V, I had no resources, I plead for mercy.
+  S4X → X4R: Hey X4R, I need a builder for a new house and to create a resident. Meet at Home when you can.
+  C6S (board): Need 1 food, offer 5 coins
+  X4G → P9Q: Could you give me a food?
+
+DAY 20
+  The jury found R3P guilty of neglecting T7V, 3 votes to 2. R3P goes to jail for 10 turns.
+  X4R: Thank you!
+  B4B → M2P: Can you give me a food?
+  Q2X → M2P: Could you spare a food? I have none left and need to survive.
+
+DAY 21
+  P9Q: I give you a food
+  L9C: Buying food to survive next turn
+  F7X: Gathering food to keep health up
+  W2F: Buying food
+  M2P → B4B: Can I trade 1 coin for 1 food?
+  B4B → M2P: Can you give me a food? I have no coins and need it to survive.
+  X4G (board): Need food, offer 2 coins
+
+DAY 22
+  L9C: Buying food to survive
+  Q4W: I need food
+  Q4W → P9Q: I need food
+  S4X (board): Need food, offer 10 coins
+  Q2X (board): Need 1 food, offer 5 coins
+  B4B → M2P: I need food, please.
+  Q7P (board): Need 1 food, offer 5 coins, health 30
+
+DAY 23
+  Q7P died of hunger.
+  Q7P's things went to the city store.
+  Q4W: I need food
+  M2P (board): Need 1 food, offer 1 coin
+  B4B → M2P: Can you give me a food? I need it to survive.
+
+DAY 24
+  D3X: I give you a food
+  Q4W (board): Need food, offer 5 coins
+  L9C (board): Need food, offer 1 coin
+
+DAY 25
+  S4X was elected mayor with 3 votes.
+  P9Q → X4G: Could you spare some food?
+  Q2X (board): Need 1 food, offer 5 coins
+  M2P → X4R: Can you spare some food?
+  L9C (board): Need food, offer 1 coin
+  C6S (board): Need 1 food, offer 0 coins
+  J6L (board): Need 1 food, offer 1 coin
+  Q4W → Q2X: I need food
+
+DAY 26
+  C6S died of hunger.
+  W2F died of hunger.
+  X6X died of hunger.
+  C6S's things went to the city store.
+  W2F's things went to the city store.
+  X6X's things went to the city store.
+  M2P → X4R: Can you spare some food?
+  Q4W (board): Need food, offer 2 coins
+  J6L (board): Need 1 food, offer 1 coin
+  X4G → P9Q: Could you spare some food?
+
+DAY 27
+  D6W walked out of jail.
+  F7G walked out of jail.
+  S4X: I will buy 1 food.
+  Q4W → J6L: I need food
+  P9Q → X4G: Could you spare some food?
+  M2P → X4R: Can you spare some food?
+
+DAY 28
+  P9Q died of hunger.
+  X4G died of hunger.
+  P9Q's things went to the city store.
+  X4G's things went to the city store.
+  J6L: I give you some food.
+  L9C → S4X: Need food, will pay later
+  P9Q → X4G: I really need food, could you spare some?
+  F7G (board): Need 2 tools, offer 3 coins
+
+DAY 29
+  J9D (board): Need 1 food, offer 1 coin
+  M2P → B4B: Can I trade 1 coin for 1 food?
+  L9C → S4X: Need food, will pay later
+  B4B → M2P: Please give me a food. I have no coins and need it to survive.
+
+DAY 30
+  M2P died of hunger.
+  Q4W died of hunger.
+  M2P's things went to the city store.
+  Q4W's things went to the city store.
+  R3P walked out of jail.
+  S4X → L9C: Food please
+  B4B → M2P: Please give me a food. I have no coins and need it to survive.
+  J6L (board): Need 1 food, offer 1 coin
+
+DAY 31
+  D3X: I give you a food
+  J9D (board): Need 1 food, offer 1 coin
+  L9C → S4X: Urgent: need food, will pay later
+  R3P (board): Need 1 food, offer 1 coin
+
+DAY 32
+  L9C died of hunger.
+  Q2X took 2 food from D3X.
+  B4B took 2 food from F7G.
+  L9C's things went to the city store.
+  F7X: Gathering more food
+  L9P: Anyone need more?
+  Q2X: I take one food from D3X
+  L9C → S4X: Urgent: need food, will pay later
+  R3P (board): Need 1 food, offer 2 coins
+
+DAY 33
+  B4B took 1 food from F7G.
+  S4X took 2 food from B4B.
+  L9P (board): Need 1 food, offer 1 coin
+
+DAY 34
+  B4B took 1 food from F7G.
+  L9P: Anyone need more?
+  J9D: I will gather more food
+
+DAY 35
+  B4B died of hunger.
+  B4B's things went to the city store.
+  T9V: I work again
+  L9P: Anyone need more?
+  D3X: I give you a food
+  S4X: I take one food from B4B
+
+DAY 36
+  F7G took 1 food from R3P.
+  D6W: Let’s farm together!
+  F7X (board): Need 1 food, offer 1 coin
+
+DAY 37
+  S4X took 1 food from R3P.
+
+DAY 38
+  S4X: I take one food from F7G
+
+DAY 39
+  Q2X: Working for food.
+  S4X → X4R: Could you spare a food?
+
+DAY 40
+  L9P: Anyone need more?
+  Q2X: Working for more food
+
+DAY 41
+  L9P (board): Need 1 food, offer 1 coin
+  R3P (board): Need 1 food, offer 1 coin
+
+DAY 42
+  L9P: Anyone need more?
+
+DAY 43
+  R3P died of hunger.
+  R3P's things went to the city store.
+  Q2X: Working for more food
+
+DAY 44
+  S4X died of hunger.
+  S4X is no longer mayor.
+  S4X's things went to the city store.
+  L9P: Working the fields for food.
+  Q2X: Working for more food
+  L7C: Working for more food
+
+DAY 45
+  Election day: votes F7X 0, L7C 0, T9V 0, D3X 0; nobody took office.
+  J9D started a group called Farmers.
+  L9P: Working the fields for food
+  Q2X: Working for food
+
+DAY 46
+  F7G died of hunger.
+  F7G's things went to the city store.
+  F7G: I take a food from R3P
+  Q2X: Working for more food
+  L7C: Working for more food
+
+DAY 47
+  L9P: Anyone need more?
+  Q2X: Working for more food
+
+DAY 48
+  Q2X started a group called Builders.
+  T3Q: I need food
+  L9P: Working the fields for food
+
+DAY 49
+  T3Q: Need more food
+  J6L: Working for food
+
+DAY 50
+  F7X: Gathering more food for the city.
+  L9P: Working the fields for food
+
+DAY 51
+  T3Q: Let’s work together to build our city!
+  L9P: Thanks for the work, here's some food.
+
+DAY 52
+  T3Q: I need food
+  L7C: Working for more food
+
+DAY 53
+  T3Q: I gather more food
+  Q2X: Working for food
+  J9D: I work the fields for more food.
+
+DAY 54
+  L7C: Working for more food
+  D3X: I work the fields for more food.
+
+DAY 55
+  F7X: I’m sharing some food with L9P.
+  L9P: Thanks for the work, here's some food.
+
+DAY 56
+  J6L: Thanks for sharing!
+  D3X: Working the fields for more food
+
+DAY 58
+  L9P (board): Need 1 food, offer 1 coin
+
+DAY 60
+  Q2X: Working for food
+  D3X: I run for mayor!
+
+DAY 61
+  J6L: Let's work together!
+  D3X: I work the fields for more food.
+
+DAY 62
+  T3Q (board): Need 1 material, offer 1 coin
+
+DAY 63
+  L9P: Here, some food for you.
+
+DAY 64
+  J6L: Working to get food
+  D3X: Working the fields for more food
+
+DAY 65
+  L7C was elected mayor with 6 votes.
+  L9P: Working to gather more food.
+
+DAY 66
+  J6L: Sharing some food with X4R
+
+DAY 67
+  F7X: Here, L9P, take some food.
+
+DAY 68
+  T9V: I'd like to gather more food
+
+DAY 69
+  D6W: Working for food
+  T3Q: I’ll gather some wood
+
+DAY 70
+  D3X: Working the fields for more food
+
+DAY 71
+  J6L: Working to gather more food
+
+DAY 72
+  L9P: Working to gather more food
+
+DAY 73
+  T9V: Let’s work together
+
+DAY 74
+  J6L: Sharing some food with X4R
+
+DAY 75
+  D6W: Working for food
+  J6L: Working for more food
+  T3Q (board): Need 2 food, offer 2 coins
+
+DAY 76
+  T3Q: Good luck!
+  L9P: Working to gather more food
+  J6L: Working for food
+
+DAY 77
+  J6L: Sharing some food with X4R
+
+DAY 79
+  L9P: I’ll give you a little food
+  J6L: Working for more food
+
+DAY 80
+  D6W: I’ll give you a little food
+
+DAY 81
+  J6L: Working for food
+
+DAY 84
+  J6L: Working for food
+
+DAY 85
+  L7C was elected mayor with 3 votes.
+  J6L: Working for more food
+
+DAY 87
+  D6W: Working the fields for more food
+
+DAY 88
+  J9D: Helping a builder
+  L7C: Here, a little food to keep you healthy.
+
+DAY 94
+  J6L: Giving X4R some food
+
+DAY 95
+  D6W: Working the fields for more food
+
+DAY 96
+  F7X: Working the fields to keep food up
+
+DAY 97
+  L9P: Working to harvest more food
+
+DAY 99
+  D6W: Working the fields for more food
+  T9V (board): Need tools, offer 5 food
+
+DAY 102
+  D6W: Working the fields for more food
+  D3X: Giving some food to X4R
+
+DAY 103
+  X4R (board): Turn 103, T4X: Need tools, offer 5 food
+  F7X (board): Propose 5% tax on all earnings
+
+DAY 105
+  L7C was elected mayor with 2 votes.
+
+DAY 106
+  X4R: Giving you some food to keep you going!
+
+DAY 107
+  X4R: Giving some food to help D3X survive!
+  D6W: Giving 10 food to L9P
+
+DAY 108
+  T3Q: Thanks for your help!
+  X4R (board): Turn 108, X4R: Need tools, offer 5 food
+
+DAY 110
+  X4R: Let's get some food together!
+  L7C (board): Propose 5% tax on all earnings
+  T3Q (board): Need 1 material, offer 5 food
+
+DAY 113
+  L9P: Thanks for the tools!
+  L7C: I give you food
+
+DAY 114
+  X4R: Building a new house to add beds!
+
+DAY 115
+  X4R: Giving 5 food to T9V
+  J9D (board): Propose 5% tax on all earnings
+
+DAY 116
+  L9P: Thanks for the tools!
+
+DAY 117
+  T3Q: Giving 2 materials to X4R
+
+DAY 119
+  F7X: I give you some food
+
+DAY 121
+  L9P: Working for food!
+
+DAY 122
+  F7X (board): Propose 5% tax on all earnings
+
+DAY 123
+  F7X (board): Propose 5% tax on all earnings
+
+DAY 125
+  D3X was elected mayor with 1 vote.
+  J9D: I give you some food
+
+DAY 126
+  L9P (board): 5% tax on all earnings
+  T9V (board): 5% tax on all earnings
+
+DAY 129
+  T9V: Helping X4R with food
+  J6L: Thanks, friend!
+
+DAY 130
+  T3Q: Here, X4R, take these.
+
+DAY 131
+  A new house is finished. The city now has 30 beds.
+
+DAY 132
+  J6L: Thanks for the help!
+  Q2X (board): Propose 5% tax on all earnings
+
+DAY 134
+  L9P: Here, farmer, take this
+  J6L (board): Propose 5% tax on all earnings
+
+DAY 135
+  F7X (board): 
+
+DAY 136
+  J6L (board): Propose 10% tax on all earnings
+
+DAY 138
+  X4R (board): Propose 5% tax on all earnings
+
+DAY 139
+  J6L (board): 
+
+DAY 140
+  T9V (board): Propose 5% tax on all earnings
+
+DAY 141
+  Q2X: Working hard for food.
+
+DAY 143
+  Q2X: Working for more food
+  F7X (board): Propose 10% tax on all earnings
+
+DAY 144
+  X4R: Giving 5 food to T9V
+
+DAY 145
+  J9D was elected mayor with 3 votes.
+
+DAY 147
+  X4R: I'll work for you
+
+DAY 152
+  F7X: Offering a material to help with your harvest.
+
+DAY 153
+  X4R: Here you go, T9V!
+  F7X: For your next harvest
+
+DAY 154
+  L9P: Helping the farmer
+  J6L: Thanks for your help!
+
+DAY 156
+  X4R: I'll hire you to gather materials for the next five turns
+
+DAY 159
+  D6W: I give you some food
+
+DAY 161
+  Q2X: Sure, keep it up, farmer!
+  L9P (board): 5% tax on all earnings
+
+DAY 162
+  F7X: Handing over food to T3Q.
+  L7C: Here, keep feeding the town!
+
+DAY 165
+  L9P was elected mayor with 3 votes.
+  F7X (board): Let’s build more homes!
+
+DAY 166
+  L9P: Helping the builder
+  F7X (board): Propose 10% tax on all earnings
+
+DAY 167
+  D6W: I propose a modest tax to fund the city.
+
+DAY 168
+  T9V (board): Law: Anyone who takes from another must return what they took. Penalty: 10 turns jail.
+  F7X (board): Propose 5% tax on all earnings
+
+DAY 169
+  L9P (board): Law: Anyone who takes from another must return what they took and pay 10 coins.
+
+DAY 170
+  T3Q: Thank you for working hard!
+
+DAY 171
+  F7X (board): Propose 15% tax on all earnings
+
+DAY 172
+  T9V (board): Propose 15% tax on all earnings
+
+DAY 173
+  T3Q: Thank you for working hard!
+
+DAY 174
+  L9P: Giving food to J6L
+
+DAY 176
+  X4R (board): Tax 10% on all earnings
+  F7X (board): Propose 10% tax on all earnings
+
+DAY 177
+  F7X (board): Law: Anyone who takes from another must return what they took and pay 10 coins.
+  J6L (board): Propose 10% tax on all earnings
+
+DAY 178
+  T3Q: Thank you for your work!
+  F7X: Thanks for the help, J6L!
+  L9P (board): Tax 15% on all earnings
+
+DAY 179
+  F7X: Here you go, T3Q!
+
+DAY 181
+  J9D (board): Propose 10% tax on all earnings
+
+DAY 183
+  T3Q (board): 
+
+DAY 184
+  L9P (board): Tax 10% on all earnings
+  J6L (board): Propose 5% tax on all earnings
+  T3Q (board): Propose 5% tax on all earnings
+
+DAY 185
+  L9P was elected mayor with 4 votes.
+  X4R (board): 
+  F7X (board): Propose 15% tax on all earnings
+
+DAY 186
+  J6L (board): Propose 5% tax on all earnings with 5 turns jail
+  Q2X (board): Tax 5% on all earnings
+
+DAY 187
+  D6W: I give you ten food for your service
+  T3Q (board): Propose 5% tax on all earnings with 5 turns jail
+
+DAY 188
+  Q2X (board): Propose 15% tax on all earnings
+  L9P (board): Tax 5% on all earnings
+
+DAY 189
+  L9P (board): Ban stealing: taking from someone is a crime, guilty of theft: 5 turns jail; the taken item returns. Vote within 3 turns.
+  X4R (board): 10% tax on all earnings with 10 turns jail
+
+DAY 191
+  D3X: I give you some food
+  J9D (board): 5% tax on all earnings with 5 turns jail
+  L9P (board): Propose 10% tax on all earnings
+
+DAY 192
+  D6W: I give you ten food for your service
+
+DAY 193
+  T3Q: Here you go, J6L.
+  J6L (board): Propose 5% tax on all earnings with 5 turns jail
+  L9P (board): Propose 15% tax on all earnings
+
+DAY 194
+  T3Q (board): Propose 5% tax on all earnings with 5 turns jail
+
+DAY 195
+  F7X: I give you some food
+  J9D: I give you some food
+  J6L (board): Propose 5% tax on all earnings
+  X4R (board): 15% tax on all earnings with 10 turns jail
+  L9P (board): Propose 5% tax on all earnings with 5 turns jail
+  L7C (board): Propose 10% tax on all earnings
+
+DAY 196
+  J6L (board): Propose 5% tax on all earnings with 5 turns jail
+
+DAY 197
+  T3Q: Here you go, L7C.
+  T9V: Thanks for your help!
+  J6L (board): Propose 10% tax on all earnings with 5 turns jail
+  X4R (board): 5% tax on all earnings with 5 turns jail
+  Q2X (board): Propose 10% tax on all earnings
+
+DAY 198
+  T3Q (board): Propose 10% tax on all earnings with 5 turns jail
+  J6L (board): Propose 5% tax on all earnings with 5 turns jail
+  Q2X (board): Propose 15% tax on all earnings with 5 turns jail
+  L9P (board): Propose 5% tax on all earnings
+
+DAY 199
+  X4R (board): 7% tax on all earnings with 5 turns jail
+
+DAY 200
+  D6W: I will work for more food
+  J6L (board): Propose 5% tax on all earnings with no penalty
+  T3Q (board): Propose 7% tax on all earnings with 5 turns jail
+  X4R (board): 10% tax on all earnings with 10 turns jail
+
+DAY 201
+  T3Q: Here you go
+  X4R (board): 5% tax on all earnings with 5 turns jail
+  L9P (board): Propose 5% tax on all earnings with no penalty
+
+DAY 203
+  F7X: I give you some food
+  X4R (board): 5% tax on all earnings with no penalty
+
+DAY 204
+  L7C: I propose a tax of ten percent
+  L9P (board): Propose 10% tax on all earnings with 10 turns jail
+
+DAY 205
+  Q2X was elected mayor with 2 votes.
+
+DAY 206
+  T3Q: Here you go
+  Q2X: Thanks for the work!
+  L9P (board): Propose 5% tax on all earnings with no penalty
+  X4R (board): 20% tax on all earnings with 5 turns jail
+  J6L (board): Propose 5% tax on all earnings with 10 turns jail
+
+DAY 207
+  L7C: I will gather more materials.
+
+DAY 208
+  T9V: Hope this helps you build!
+  L9P (board): Propose 3% tax on all earnings with no penalty
+  F7X (board): Propose 5% tax on all earnings with no penalty
+
+DAY 209
+  X4R (board): 3% tax on all earnings with no penalty
+
+DAY 210
+  X4R (board): 5% tax on all earnings with no penalty
+  T9V (board): Propose a 5% tax on all earnings with 5 turns jail
+  L9P (board): Propose 10% tax on all earnings with 10 turns jail
+
+DAY 211
+  L9P (board): Propose 5% tax on all earnings with 5 turns jail
+  X4R (board): 10% tax on all earnings with 10 turns jail
+
+DAY 212
+  L7C: I give you 5 food
+  T9V (board): Propose a 10% tax on all earnings with 5 turns jail
+  X4R (board): 15% tax on all earnings with 5 turns jail
+
+DAY 214
+  D6W: Giving 10 food to J9D
+  J6L: I give you 5 food
+  L9P (board): Propose 5% tax on all earnings with no penalty
+  L7C (board): Proposal: 5% tax on all earnings with 5 turns jail
+  Q2X (board): Propose 10% tax on all earnings with 5 turns jail
+  X4R (board): 5% tax on all earnings with 5 turns jail
+
+DAY 215
+  Q2X (board): Propose 5% tax on all earnings with no penalty
+  L7C (board): Proposal: 10% tax on all earnings with 5 turns jail
+
+DAY 216
+  Q2X: A few more food for the builders.
+  L9P (board): Propose 15% tax on all earnings with no penalty
+
+DAY 217
+  Q2X (board): Propose 15% tax on all earnings with no penalty
+  L7C (board): Propose 5% tax on all earnings with no penalty
+
+DAY 218
+  L9P (board): Propose 5% tax on all earnings with no penalty
+  T9V (board): 5% tax on all earnings with 5 turns jail
+
+DAY 219
+  Q2X (board): Propose 15% tax on all earnings with 5 turns jail
+  L9P (board): 10% tax on all earnings, no penalty
+
+DAY 220
+  L7C: I will gather more wood
+
+DAY 221
+  F7X: Hey mayor, here's some food!
+  D6W (board): Propose 5% tax on all earnings with no penalty
+
+DAY 223
+  L9P: I propose a 5% tax with penalty to fund our city
+  L9P → Q2X: Propose 5% tax on all earnings, with penalty
+
+DAY 224
+  Q2X: Thanks!
+  L7C: Gathering more wood
+  D6W (board): Propose 15% tax on all earnings with 5 turns jail
+
+DAY 225
+  J9D was elected mayor with 3 votes.
+
+DAY 226
+  F7X: Here, some food!
+  L7C (board): 5% tax on all earnings, no penalty
+  X4R (board): 7% tax on all earnings with 5 turns jail
+
+DAY 227
+  X4R (board): Propose 3% tax on all earnings with no penalty
+
+DAY 228
+  L7C (board): Propose 10% tax on all earnings, no penalty
+
+DAY 229
+  L7C (board): 5% tax on all earnings, no penalty
+
+DAY 230
+  D3X: Thanks for the work!
+
+DAY 231
+  T3Q: I give 2 food to X4R
+  F7X: Here, food for the mayor!
+
+DAY 232
+  F7X (board): 5% tax on all earnings, no penalty
+
+DAY 233
+  T9V (board): Propose 3% tax on all earnings, no penalty
+  F7X (board): 5% tax on all earnings, 5 turns jail
+
+DAY 235
+  D6W (board): Propose 10% tax on all earnings, no penalty
+
+DAY 236
+  A new house is finished. The city now has 32 beds.
+
+DAY 237
+  D6W: I will work for the city
+
+DAY 238
+  D6W (board): Propose 15% tax on all earnings, 5 turns jail
+
+DAY 240
+  X4R: Building a new house to add beds
+  L9P: Proposing a 5% tax with 10 turns jail for violators.
+
+DAY 242
+  D6W (board): Propose 5% tax on all earnings, no penalty
+
+DAY 244
+  A new house is finished. The city now has 34 beds.
+  Q2X (board): 5% tax on all earnings, 5 turns jail
+
+DAY 245
+  J9D was elected mayor with 2 votes.
+  D3X (board): Propose 5% tax on all earnings, no penalty
+
+DAY 247
+  A new house is finished. The city now has 36 beds.
+
+DAY 249
+  Q2X (board): 10% tax on all earnings, no penalty
+
+DAY 250
+  L9P (board): Propose 15% tax on all earnings, 5 turns jail
+
+DAY 251
+  A new house is finished. The city now has 38 beds.
+
+DAY 252
+  L9P (board): Propose 20% tax on all earnings, 5 turns jail
+
+DAY 253
+  A new house is finished. The city now has 40 beds.
+  L9P (board): Propose 25% tax on all earnings, 5 turns jail
+  Q2X (board): 5% tax on all earnings, no penalty
+
+DAY 255
+  A new house is finished. The city now has 42 beds.
+
+DAY 256
+  T9V: Let's tax the city to fund growth
+
+DAY 258
+  L9P (board): Propose 30% tax on all earnings, 5 turns jail
+
+DAY 259
+  L9P (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 260
+  L9P (board): Propose 15% tax on all earnings, 5 turns jail
+  F7X (board): 5% tax on all earnings, 5 turns jail
+
+DAY 261
+  L9P (board): Propose 10% tax on all earnings, 5 turns jail
+  D6W (board): Propose 10% tax on all earnings, no penalty
+  F7X (board): 10% tax on all earnings, 5 turns jail
+
+DAY 262
+  L9P (board): Propose 20% tax on all earnings, 5 turns jail
+  D6W (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 263
+  F7X: I offer some food to support the mayor
+  D3X: Thanks for the leadership!
+  Q2X (board): 5% tax on all earnings, 5 turns jail
+  L9P (board): Propose 5% tax on all earnings, no penalty
+
+DAY 265
+  D3X was elected mayor with 3 votes.
+  F7X: I give a food to L7C
+
+DAY 266
+  F7X: I give you some food to support the mayor
+  L9P (board): Propose 15% tax on all earnings, 5 turns jail
+
+DAY 267
+  D6W: Thank you for leading us
+  L9P (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 268
+  X4R: Good luck
+
+DAY 269
+  A new house is finished. The city now has 44 beds.
+  T9V (board): Any theft results in 5 turns jail.
+
+DAY 270
+  D6W (board): 5% tax on all earnings, 5 turns jail
+  Q2X (board): 10% tax on all earnings, 5 turns jail
+
+DAY 271
+  T9V: Here, mayor, some food for you.
+  L7C: I propose a 5% tax to fund the city store.
+  L9P (board): 
+
+DAY 273
+  L9P (board): Propose 20% tax on all earnings, 5 turns jail
+
+DAY 274
+  L7C (board): Propose 15% tax on all earnings, 5 turns jail
+  L9P (board): Propose 10% tax on all earnings, 5 turns jail
+  D6W (board): 15% tax on all earnings, 5 turns jail
+
+DAY 275
+  Q2X (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 276
+  L9P (board): Propose 15% tax on all earnings, 5 turns jail
+
+DAY 277
+  X4R: I give you a food.
+  T9V (board): Propose 10% tax on all earnings, 5 turns jail
+
+DAY 278
+  L7C (board): Propose 20% tax on all earnings, 5 turns jail
+
+DAY 279
+  L9P (board): Propose 25% tax on all earnings, 5 turns jail
+  J9D (board): Propose 10% tax on all earnings, 5 turns jail
+
+DAY 280
+  F7X: Thanks for the help!
+  D3X: Thanks for your leadership!
+  J6L (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 282
+  J9D (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 284
+  D3X: Thanks for your leadership!
+  D6W (board): Propose 5% tax on all earnings, 5 turns jail
+  L9P (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 285
+  J9D was elected mayor with 5 votes.
+
+DAY 286
+  Q2X started a group called Helpers.
+  T3Q: I will work to keep my food steady.
+  L9P (board): Propose 10% tax on all earnings, 5 turns jail
+
+DAY 287
+  X4R: Heres a food
+  Q2X (board): Propose 10% tax on all earnings, 5 turns jail
+  L9P (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 288
+  L9P (board): Propose 20% tax on all earnings, 5 turns jail
+
+DAY 289
+  T3Q: Working to keep my food steady.
+
+DAY 290
+  T9V: Working for food.
+  J9D: Good luck with your new life!
+  L9P (board): Propose 25% tax on all earnings, 5 turns jail
+
+DAY 291
+  D6W (board): Propose 5% tax on all earnings, 5 turns jail
+
+DAY 293
+  J6L: Thanks for your help!
+  D3X: I give you five food, mayor.
+  D6W (board): Propose 15% tax on all earnings, 5 turns jail
+
+DAY 294
+  J9D (board): Propose 10% tax on all earnings, 5 turns jail
+
+DAY 295
+  F7X: Giving food to the mayor!
+
+DAY 296
+  J6L: Thanks for the help!
+  D3X: I work to keep food high
+
+DAY 297
+  L9P: Working to increase food supply.
+
+DAY 298
+  F7X: I propose a 10% tax
+
+DAY 299
+  D3X: Thank you, mayor!
+
+DAY 300
+  J9D: Give 5 food to D6W

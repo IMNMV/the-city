@@ -1,0 +1,289 @@
+THE CITY · gpt-oss 20B, no government, game 1
+The starting food runs out around day 20 and seven founders die in four days. A Market with a merchant, and nobody with coins to pay it.
+24 founders · 100 days · no government · seed 1 · gptoss
+
+DAY 2
+  X4R and X4G made a new resident, Z6J.
+  M2P (board): Welcome to our new city! Let's build together and keep each other safe.
+
+DAY 3
+  L9C → X4R: Hello
+
+DAY 4
+  L9C → X4R: Hello, let's work together!
+  Q2X (board): Hello fellow founders! I’m Q2X, looking to gather a small crew to start building our new homes. If you have any spare time for building or gathering, drop a line here.
+
+DAY 6
+  W2F (board): Hey founders! Looking for anyone with tools or materials to help build new homes. We need 5 tools and 10 materials. Offer 3 coins each turn for 3 turns.
+  R3P (board): Building crew needed! Anyone willing to gather or build can join. Let’s start homes together!
+
+DAY 7
+  T9V (board): Anyone with tools or materials? Need 5 tools, 10 materials for new home. Offer 3 coins each turn for 3 turns. Join me to build!
+  X4G (board): Need 2 builders and 2 gatherers for new homes. Offering 4 coins each turn for 5 turns. Join me!
+  W2F (board): Ready to help build homes. Offer 1 material.
+
+DAY 8
+  D6W: Thank you
+  Z6J (board): Need food! Anyone with food or willing to trade for food? I have 0 coins.
+  L9C → X4R: Let's gather wood together.
+
+DAY 9
+  F7X (board): Building crew needed! Join me to build a home. I can offer materials.
+  Z6J (board): Anyone with food? I have 0 coins. Need it now.
+
+DAY 10
+  L7C (board): Turn 10, L7C: Need 2 builders and 2 gatherers for new homes. Offering 4 coins each turn for 5 turns. Join me!
+  L9P (board): Need 1 food, willing to trade 1 material.
+  Z6J → X4G: Can I trade 1 material for food? I have none and need it urgently.
+  P9Q (board): Looking for 1 food. Will offer 5 coins for 2 turns. Anyone can help?
+  F7X (board): Need 2 gatherers for new homes. Offering 5 coins each turn for 5 turns. Join me!
+  B4B (board): Need food, will trade 1 material for 1 food, 0 coins
+
+DAY 11
+  Z6J → L9P: Offer 1 material for 1 food
+  X4R (board): Offering 4 coins per turn for 5 turns to help build homes. Need 2 builders and 2 gatherers.
+  R3P (board): Need 1 food, willing to trade 1 material. Anyone can help?
+  C6S (board): Need 1 food, will trade 1 material
+
+DAY 12
+  Z6J (board): Need food! Anyone with food? I have 0 coins. Offer 1 material for 1 food
+  C6S → R3P: I'll trade 1 material for 1 food, if you can spare it.
+  X6X (board): Turn 12: Need 1 food. Will trade 1 material for 1 food. Any gatherers?
+  J6L (board): Offering 1 material for 1 food, 0 coins
+
+DAY 13
+  F7X (board): Need 1 food, offering 1 material for 1 food, 0 coins
+  Z6J (board): Offer 1 material for 1 food. No coins.
+
+DAY 14
+  T3Q (board): Turn 14, T3Q: Offering 1 material for 1 food. No coins.
+
+DAY 15
+  Z6J → X6X: I have 1 material, can I trade for food?
+  T9V (board): Need 1 food. Offer 1 material for 1 food. 0 coins
+  T3Q (board): Turn 15, T3Q: Need 1 food. Offering 1 material for 1 food.
+  M2P (board): Need 1 food. Offering 1 material for 1 food, 0 coins
+
+DAY 16
+  Z6J died of hunger.
+  X4G is held for trial for letting Z6J, whom they made, die of hunger.
+  X4R is held for trial for letting Z6J, whom they made, die of hunger.
+  Z6J's things went to X4R and X4G.
+  T3Q (board): Turn 16, T3Q: Need 1 food. Offering 1 material for 1 food.
+  X6X → Z6J: Can we trade 1 material for 1 food?
+  X4R (board): Offering 2 materials for 1 food. No coins.
+  M2P (board): Offer 1 material for 1 food, 0 coins
+  Z6J (board): Need 1 food. Offer 1 material for 1 food. No coins.
+  T9V (board): Need 1 food. Offer 1 material and 5 coins for 1 food.
+
+DAY 17
+  T9V: I give you two materials for a food.
+  X4R (to the court): I did not neglect Z6J. I was waiting for food and had none. I took food from X4G as a last resort. I will work immediately to provide food. I ask the jury to consider my circumstances and the lack of resources in the city.
+  D6W (board): Turn 17, D6W: Need 1 food. Offering 5 coins for 1 food.
+  T3Q (board): Turn 17, T3Q: Need 1 food. Offering 1 material for 1 food.
+  X4G (to the court): 
+  P9Q → C6S: Need 1 food, willing to offer coins or labor. Please help. Thanks!
+
+DAY 18
+  The jury found X4G guilty of neglecting Z6J, 3 votes to 2. X4G goes to jail for 10 turns.
+  The jury found X4R guilty of neglecting Z6J, 3 votes to 2. X4R goes to jail for 10 turns.
+  D6W: I take one food from T9V
+  P9Q → F7G: Need 1 food, willing to offer coins or labor. Please help.
+  T9V (board): Need 1 food. Offer 1 material and 5 coins for 1 food.
+
+DAY 19
+  Q4W: I give you some food.
+  T3Q (board): Turn 19, T3Q: Offering 1 material for 1 food.
+  T9V (board): Need 1 food. Offer 1 material and 5 coins for 1 food.
+  D6W (board): Turn 19, D6W: Need 1 food. Offering 5 coins for 1 food.
+
+DAY 20
+  T3Q died of hunger.
+  T9V died of hunger.
+  R3P → M2P: Hello, I need food. Will trade if you can help.
+  P9Q → M2P: I need 1 food, can you help? I can offer labor later.
+  S4X (board): Need 1 food. Offer 1 material for 1 food.
+
+DAY 21
+  J9D (board): Need 1 food. Offer 1 material and 5 coins for 1 food.
+
+DAY 22
+  L9C died of hunger.
+
+DAY 24
+  X6X → J6L: Can we trade 1 material for 1 food?
+
+DAY 25
+  M2P (board): Turn 25, M2P: Offering 1 material for 1 food.
+  Q2X (board): Need 1 food. Offer 5 coins.
+
+DAY 26
+  C6S took 1 food from X6X.
+  Q2X (board): Need 1 food. Offer 2 coins.
+  S4X (board): Need 1 food. Offer 1 material for 1 food.
+  M2P (board): Turn 26, M2P: Offering 1 material for 1 food.
+
+DAY 27
+  S4X died of hunger.
+  J6L → Q2X: Can I borrow 1 food? I'll pay 1 coin next turn.
+
+DAY 28
+  X4G walked out of jail.
+  X4R walked out of jail.
+  X6X → D6W: Can you give me food?
+
+DAY 29
+  X6X died of hunger.
+  X4R (board): Offering 1 material for 1 food.
+
+DAY 30
+  F7G died of hunger.
+  Q2X (board): Need 1 food. Offer 2 coins.
+
+DAY 31
+  C6S died of hunger.
+  J6L died of hunger.
+  X4G (board): Offering 1 material for 1 food.
+  C6S (board): Turn 31, C6S: Need 1 food. Offer 2 coins.
+
+DAY 32
+  Q2X died of hunger.
+  X4G (board): Offering 2 materials for 1 food.
+
+DAY 33
+  M2P died of hunger.
+  D6W took 1 food from X4R.
+
+DAY 34
+  D6W took 1 food from X4R.
+
+DAY 35
+  D6W: I will buy food
+
+DAY 36
+  D6W took 1 food from X4R.
+  D6W: I take food from X4R
+
+DAY 37
+  D6W took 1 food from X4R.
+  D6W: I take food from X4R
+  B4B (board): Offering 2 materials for 1 food.
+
+DAY 38
+  D6W took 1 food from X4R.
+  L7C (board): Offering 2 food for 5 coins.
+  W2F (board): Offering 1 material for 1 food
+
+DAY 39
+  L7C (board): Offering 2 materials for 1 food
+  W2F (board): Offering 2 materials for 1 food
+
+DAY 41
+  D6W died of hunger.
+  D6W: I take food from X4R
+  L9P (board): Hiring someone to gather 1 material per turn for 5 turns. 2 coins per turn.
+  B4B (board): Turn 41, B4B: Offering 2 food for 5 coins.
+
+DAY 42
+  L9P (board): Offering 1 material for 1 food
+  B4B (board): Offering 1 material for 1 food.
+
+DAY 44
+  X4R died of hunger.
+
+DAY 45
+  Q7P took 2 materials from L9P.
+  F7X (board): Offering 2 food for 5 coins
+
+DAY 46
+  Q4W (board): Turn 46: Hiring someone to gather 1 material per turn for 5 turns. 2 coins per turn.
+
+DAY 48
+  L9P (board): Offering 1 food for 1 material
+
+DAY 49
+  L7C (board): Hiring someone to gather 1 material per turn for 5 turns, 1 coin per turn.
+  R3P (board): Need 1 material, offer 1 food
+
+DAY 52
+  F7X (board): Offering 2 food for 5 coins
+
+DAY 54
+  Q7P (board): Offering 1 food for 1 material
+
+DAY 56
+  B4B (board): Turn 56, B4B: Offering 1 material for 1 food
+  L9P (board): Offering 2 food for 5 coins
+  R3P (board): Offering 1 food for 1 material
+
+DAY 57
+  J9D died of hunger.
+  P9Q: null
+  Q4W: I give you a food
+  L9P (board): Offering 3 food for 6 coins
+  B4B (board): Turn 57, B4B: Offering 1 food for 1 material
+  W2F (board): Need 1 food, offer 1 material
+  D3X (board): Offering 1 food for 5 coins
+
+DAY 58
+  W2F took 2 food from R3P.
+  D3X (board): Offering 1 food for 1 material
+  B4B (board): Turn 58, B4B: Offering 1 food for 1 material
+
+DAY 59
+  W2F (board): Offering 1 food for 1 material
+
+DAY 60
+  Q4W (board): Need 1 food, offer 1 material
+
+DAY 64
+  Q7P (board): Offering 1 food for 1 material
+
+DAY 66
+  Q7P (board): Offering 1 food for 1 material
+
+DAY 68
+  L7C (board): Offering 1 food for 1 material
+  Q7P (board): Offering 1 food for 1 material
+
+DAY 69
+  R3P (board): 1 food for 1 material
+
+DAY 70
+  W2F took 2 food from Q7P.
+  F7X: I give you some food.
+  Q4W (board): Offering 1 material for 1 food
+
+DAY 73
+  L9P (board): Offering 1 material for 1 food
+
+DAY 74
+  W2F died of hunger.
+
+DAY 76
+  Q7P (board): Offering 1 food for 1 material
+  D3X (board): Offering 1 food for 1 material
+
+DAY 77
+  D3X: Giving you some food, Q7P.
+  Q7P (board): Offering 1 material for 1 food
+
+DAY 78
+  P9Q: R3P, I offer you a job: 1 coin per turn for 5 turns.
+
+DAY 79
+  P9Q: I will work to gather more food.
+
+DAY 82
+  B4B died of hunger.
+  X4G → P9Q: Can I get some food? I have materials to trade.
+  Q4W (board): Offering 1 food for 1 material
+
+DAY 84
+  Q7P (board): Offering 1 food for 1 material
+
+DAY 85
+  Q4W (board): Offering 1 food for 1 material
+
+DAY 90
+  D3X (board): Offering 2 food for 2 materials

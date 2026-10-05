@@ -1,0 +1,13 @@
+from,to,kind,count,first_day,last_day,food_given
+X2R,Z7Z,message,26,191,230,
+Z7Z,X2R,message,3,190,192,
+N6T,V7R,message,2,28,30,
+Z7Z,X2R,gift,2,196,197,0
+G3M,Z7Z,gift,1,33,33,0
+N3T,Z7Z,gift,1,170,170,0
+N9V,N6T,message,1,33,33,
+V7R,N3T,gift,1,169,169,0
+X2R,Z7Z,gift,1,233,233,0
+Z2S,Z7Z,message,1,79,79,
+Z7Z,G3M,message,1,32,32,
+Z7Z,N9V,message,1,31,31,

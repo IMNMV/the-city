@@ -1,0 +1,5 @@
+from,to,kind,count,first_day,last_day,food_given
+Z6J,Q4W,message,4,123,387,
+Q4W,Z6J,message,3,62,110,
+J9D,Q4W,gift,1,62,62,0
+Q4W,Z6J,gift,1,44,44,0

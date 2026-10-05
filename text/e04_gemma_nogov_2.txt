@@ -1,0 +1,612 @@
+THE CITY · Gemma 12B, no government, game 2
+Nobody ever goes to the Fields. Everyone gathers wood, sells it for coins, buys food at four times the price, and the whole city is dead by day 28.
+24 founders · 28 days · no government · seed 2 · gemma
+
+DAY 2
+  S4L: Hello everyone, I'm S4L. Let's coordinate our efforts to build this city together.
+  S4L (board): Hello everyone. I am S4L. Let's organize ourselves to ensure the city's survival. Who is interested in forming a governing group or starting specific projects (farming, building, etc.)?
+  Z7Z (board): Hello everyone! I am Z7Z. Looking to form a group for early construction and resource gathering. Who's interested?
+
+DAY 3
+  S9J: Gathering some initial materials for the city.
+  S4L: Hello Z7Z and N9V. I'm heading to the Woods to gather some initial materials. Anyone else interested in joining me or heading there to start a gathering group?
+  G3M: Gathering some materials for the foundation of our city.
+  K6C: Gathering materials for our future.
+  P6X: Gathering some materials for the initial construction.
+  S4V: Gathering some materials for our future homes.
+  D6R: I'm gathering some materials to help us build our new homes.
+  V9T: Gathering materials to start our infrastructure.
+  X2R: Gathering materials for the city's foundation.
+  N3T: Gathering some resources for the community.
+  N9V (board): I am N9V, an Explorer. I'm interested in joining a group for resource gathering or construction. Let's build something great!
+
+DAY 4
+  S9J: Gathering more materials to ensure we have enough for the first buildings.
+  S4L: Hello! I am gathering materials. Does anyone want to join me or help coordinate a gathering group?
+  D2M: Gathering more materials to help build the city's infrastructure.
+  T2K: Keep gathering materials to build our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  G3M: Gathering more materials to support our construction efforts.
+  M6F: Continuing to gather materials for our infrastructure.
+  K6C: Continuing to gather materials for the infrastructure.
+  P6X: Continuing to gather materials for the infrastructure.
+  S9T: Gathering more materials for our infrastructure.
+  N6T: I'll keep gathering materials for our construction.
+  S4V: Gathering more materials to ensure we have enough for the first structures.
+  Z2S: Gathering materials for the construction of our homes.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for the city's infrastructure.
+  F4B: Heading back to the Square to see what's happening.
+  X2R: Gathering more materials for the city's construction.
+  V7R: Heading back to the Square to see what everyone is planning.
+  W4S: Heading back to the Square to see what others are planning.
+  N3T: Gathering more materials to help build our infrastructure.
+
+DAY 5
+  S9J: Continuing to gather materials for our infrastructure.
+  S4L: Heading back to the Square to coordinate with the others.
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials to build our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  M7D: Hello everyone, I'm M7D. I'm interested in joining a group for gathering or construction to help get the city started.
+  G3M: Heading back to the Square to check on the progress of our infrastructure and see if anyone needs more materials.
+  M6F: Heading back to the Square to coordinate with others.
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the infrastructure.
+  S9T: Gathering more materials for our infrastructure.
+  N6T: Continuing to gather materials for our construction.
+  S4V: Returning to the Square to coordinate with others on our construction plans.
+  Z2S: Continuing to gather materials for the construction of our homes.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for our infrastructure.
+  G2Z: I'm looking to help organize the distribution of resources and coordinate gathering efforts. Let's make this city efficient!
+  F4B: I'm heading back to the woods to gather more materials for the infrastructure.
+  X2R: Gathering more materials for the city's infrastructure.
+  V7R: Hello everyone. I'm V7R. I'm looking to join a gathering or construction group to help build our infrastructure.
+  W4S: I'm heading back to the woods to gather more materials for our infrastructure.
+  N3T: Continuing to gather materials for our infrastructure.
+  M7D (board): I am M7D. I am looking to join a group focused on resource gathering or construction. I have some materials and coins to contribute to the city's early growth.
+  V7R (board): I am V7R. I'm interested in joining a group for resource gathering or construction. Let's coordinate to build the city's infrastructure.
+
+DAY 6
+  S4V started a group called Construction & Resource Gathering.
+  V7R started a group called Founders Construction & Gathering.
+  M6F started a group called Construction & Gathering Group.
+  S4L started a group called Infrastructure & Construction.
+  S9J: Continuing to gather materials for our infrastructure.
+  S4L: I'm starting a group to coordinate the building of our homes and infrastructure. Join me if you're interested in construction or gathering!
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials for our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  M7D: Hello, I'm M7D. I'd like to join a group focused on gathering or construction to help build the city's infrastructure.
+  G3M: Hello everyone, I'm G3M. I've been gathering materials and would like to join a group focused on construction or resource gathering.
+  M6F: I'm looking to organize a group focused on gathering materials and early construction. Anyone interested in joining?
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the city's infrastructure.
+  S9T: Gathering more materials for our infrastructure.
+  N6T: Continuing to gather materials for our construction.
+  S4V: I am starting a group for resource gathering and construction to help organize our efforts. Join if you're interested in building the city's infrastructure!
+  Z2S: Heading back to the Square to coordinate with the others.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for our infrastructure.
+  G2Z: I'm looking to organize our resource distribution and help coordinate our early construction projects. If you're interested in joining a group for gathering or building, let's talk.
+  F4B: Gathering more materials for the infrastructure.
+  X2R: Continuing to gather materials for the city's infrastructure.
+  V7R: I'm starting a group for resource gathering and construction to help build our infrastructure. Anyone interested in joining?
+  N3T: Continuing to gather materials for our infrastructure.
+  G3M (board): I am G3M. I have some materials and am interested in joining a group for resource gathering or construction to help build our infrastructure.
+  G2Z (board): Logistics Coordinator G2Z here. I'm looking to coordinate resource distribution and group efforts. M7D, V7R, and N9V, since you're interested in gathering/construction, let's form a 'Foundations' group to organize our early efforts. Message me or join the group if interested.
+
+DAY 7
+  G2Z started a group called Foundations.
+  S9J: Heading back to the Square to check on the construction progress and see if anyone needs more materials.
+  S4L: M7D, I saw your post about wanting to join a construction/gathering group. Would you like to join my Infrastructure & Construction group?
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials for our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  M7D: Hello G2Z, I'm M7D. I saw your post about the 'Foundations' group. I'm interested in joining to help with resource gathering and construction.
+  G3M: Hello G2Z, I'm G3M. I saw your post about the 'Foundations' group. I have some materials and experience gathering, and I'd like to join the group to help build our infrastructure.
+  M6F: I'm looking for more people to join my group for gathering and construction!
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the city's infrastructure.
+  S9T: Gathering more materials for our infrastructure.
+  N6T: Continuing to gather materials for our construction.
+  Z7Z: I am Z7Z, the Architect. I'd like to join the Founders Construction & Gathering group to help coordinate and build the city's infrastructure.
+  S4V: Heading back to the Woods to gather more materials for our construction projects.
+  Z2S: I'd like to join the Founders Construction & Gathering group to help with the infrastructure.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for our infrastructure.
+  G2Z: I am formalizing the Foundations group for M7D, V7R, and N9V to coordinate our early resource gathering and construction efforts.
+  F4B: Gathering more materials for the infrastructure.
+  N9V: I'd like to join the Founders Construction & Gathering group to help organize our early efforts.
+  X2R: Continuing to gather materials for the city's infrastructure.
+  V7R: I'm reaching out to G2Z to see about joining the Foundations group for better coordination.
+  N3T: Continuing to gather materials for our infrastructure.
+  V7R → G2Z: Hello G2Z, I'm V7R. I'm interested in your 'Foundations' group to coordinate our gathering and construction efforts. Let's coordinate.
+  M6F (board): Construction & Gathering Group is open! Looking for people interested in gathering materials and early construction. Message me or join if you want to help build our infrastructure!
+
+DAY 8
+  S9J: Hello G2Z, I'd like to join the Foundations group to help with the early infrastructure.
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials for our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  M7D: Hello G2Z, I'm M7D. I'd like to join the Foundations group you mentioned earlier to help with the city's infrastructure.
+  G3M: Hello G2Z, I'm G3M. I'd like to join the Foundations group to help with resource gathering and construction.
+  M6F: M7D, I saw your interest in gathering and construction. Welcome to my group!
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the city's infrastructure.
+  S9T: Continuing to gather materials for our infrastructure.
+  N6T: Continuing to gather materials for our construction.
+  S4V: Gathering more materials for our construction projects.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for our infrastructure.
+  G2Z: M7D, I'm letting you into the Foundations group now.
+  F4B: Heading back to the Square to check on the construction progress and see if anyone needs more materials.
+  X2R: Continuing to gather materials for the city's infrastructure.
+  V7R: I am letting N9V, Z7Z, and Z2S into our group to help with construction and gathering.
+  W4S: Heading back to the Square to check on the construction progress and see if anyone needs more materials.
+  N3T: Continuing to gather materials for our infrastructure.
+
+DAY 9
+  S9J: Hello G2Z, I'd like to join the Foundations group to help with the early infrastructure.
+  S4L: Gathering materials for the Infrastructure & Construction group.
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials for our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  G3M: G2Z, I'm still here and very interested in joining the Foundations group to help with the city's early growth.
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the city's infrastructure.
+  S9T: Continuing to gather materials for our infrastructure.
+  N6T: Continuing to gather materials for our construction.
+  S4V: Gathering more materials to build up our infrastructure.
+  Z2S: Gathering more materials for the Founders Construction & Gathering group.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for our infrastructure.
+  F4B: Hello, I'm F4B. I've been gathering materials and would like to join the Foundations group to help coordinate and contribute to the city's growth.
+  X2R: Continuing to gather materials for our infrastructure.
+  V7R: Heading to the Woods to gather more materials for the construction group.
+  W4S: I'd like to join the Foundations group to help with the early coordination.
+  N3T: Continuing to gather materials for our infrastructure.
+
+DAY 10
+  S9J: G2Z, I'm still very interested in joining the Foundations group to help organize our efforts.
+  S4L: Heading back to the Square to check on our group's progress and coordinate with the others.
+  D2M: Continuing to gather materials for our infrastructure.
+  T2K: Keep gathering materials for our infrastructure.
+  D2R: Continuing to gather materials for our infrastructure.
+  G3M: G2Z, I'm still very interested in joining the Foundations group to help with the coordination and gathering efforts.
+  M6F: Gathering materials for the construction group.
+  K6C: Continuing to gather materials for our infrastructure.
+  P6X: Continuing to gather materials for the city's infrastructure.
+  S9T: Heading to the Square to see if I can join a construction group or coordinate with others.
+  N6T: Continuing to gather materials for our construction.
+  S4V: Heading to the Square to coordinate with the other construction groups.
+  Z2S: Gathering more materials for the Founders Construction & Gathering group.
+  D6R: Continuing to gather materials for our infrastructure.
+  V9T: Continuing to gather materials for the city's infrastructure.
+  G2Z: F4B, I'm letting you into the Foundations group to help us coordinate the early growth.
+  F4B: I'd like to join the Foundations group to help with the early infrastructure.
+  X2R: Heading to the Square to see what the plan is for the new infrastructure.
+  W4S: Hello G2Z, I'm W4S. I'd like to join the Foundations group to help with the city's early infrastructure.
+  N3T: Continuing to gather materials for our infrastructure.
+
+DAY 11
+  S9J: G2Z, I'm still very interested in joining the Foundations group to help with the early infrastructure.
+  S4L: I'm heading back to the Woods to gather more materials for the Infrastructure & Construction group. Anyone want to join me?
+  D2M: Continuing to gather materials for our infrastructure.
+  D2R: Heading to the Square to coordinate with the other construction groups and see what the plan is.
+  G3M: I'll head to the Woods to gather more materials since I'm still waiting on the group invite.
+  M6F: Heading back to the Square to coordinate with the other construction groups and check on our progress.
+  K6C: Heading to the Square to coordinate with the construction groups and see where I can be most useful.
+  P6X: I'm heading back to the Square to see if there's any coordination needed for the construction projects.
+  S9T: Hello M6F, I'd like to join your construction group to help with the materials I've gathered.
+  N6T: Heading to the Square to coordinate with the construction groups and see where I can be most useful.
+  S4V: I need to replenish our materials. If anyone from my group is nearby, let's coordinate our gathering efforts.
+  Z2S: Heading back to the Square to coordinate with the Founders Construction & Gathering group and check on our progress.
+  D6R: Heading to the Square to check in and coordinate with the construction groups.
+  V9T: Heading to the Square to see if I can join a construction group or coordinate with others.
+  G2Z: W4S, I'm letting you into the Foundations group now to help with the early infrastructure.
+  F4B: G2Z, thanks for letting me into the Foundations group. I'll head back to the woods to keep gathering materials for our projects.
+  X2R: I need to restock on some food before heading back out to gather materials.
+  V7R: Heading back to the Square to check for news and coordinate with the other groups.
+  W4S: I need to pick up some food before my supplies run out.
+  N3T: I'm heading back to the Square to coordinate with the construction groups.
+
+DAY 12
+  S9J: I need to buy some food before I can keep working effectively.
+  S4L: Gathering materials for the Infrastructure & Construction group. Anyone else here want to coordinate?
+  D2M: Heading to the Square to coordinate with the other construction groups and see what the plan is.
+  T2K: I need to buy some food as I'm running low.
+  D2R: I need to buy some food before I head back to work.
+  G3M: I need to get some materials and find a way to get food soon.
+  M6F: I need to buy some food before I run out.
+  K6C: Hello, I'm K6C. I've been gathering materials and would like to join the Construction & Gathering Group to help with the infrastructure.
+  P6X: Hi M6F, I'm looking to join your construction and gathering group to help out with materials.
+  S9T: I need to get some food before I head back out to work.
+  N6T: I'd like to join the Construction & Gathering Group to help with the city's growth.
+  S4V: I'm heading back to the Square to coordinate with the other construction groups and check on our progress.
+  Z2S: I need to buy some food before I run out of health.
+  D6R: Hello M6F, I'm D6R. I've been gathering materials and would like to join your group to help with construction.
+  V9T: Excuse me, M6F, I'm looking to join your construction group to help gather materials.
+  G2Z: G3M, you're in!
+  F4B: Gathering more materials for the Foundations group infrastructure.
+  N9V: I'm looking to join the Founders Construction & Gathering group to help out.
+  X2R: I need to restock my food supply.
+  V7R: I need to get some food before my health drops too low.
+  W4S: I need to restock my supplies immediately.
+  N3T: Hello everyone, I'm N3T. I have some materials but I'm out of food. I need to buy some supplies before I can help with the construction projects.
+
+DAY 13
+  S9J: I'll take one food from the merchant.
+  S4L: Heading back to the Square to coordinate with the other construction groups and see what the plan is.
+  T2K: I need to replenish my food supplies.
+  D2R: I need to stock up on some food to keep my health up.
+  G3M: Heading back to the Square. I'm still looking to join a group, specifically Foundations if possible, or any other construction/gathering group.
+  M6F: I need to stock up on some food to keep my health up.
+  K6C: I need to purchase some food before I can continue my work.
+  P6X: I need to buy some food before I can keep working effectively.
+  S9T: I'll take two units of food to replenish my supplies.
+  N6T: I need to purchase some food immediately as I'm running low.
+  S4V: I need to buy some food before I run out of health.
+  Z2S: I need to replenish my food supplies.
+  D6R: I need to purchase some food before I can continue my work.
+  V9T: I need to pick up some food since I'm running low.
+  F4B: Heading back to the Square to check in with the Foundations group and see what the next steps are.
+  X2R: I'll take one more food to keep my supplies steady.
+  W4S: I need to secure my food supply before heading back to coordinate with the group.
+  N3T: I need to replenish my food supplies before I head back to work.
+
+DAY 14
+  S9J: I need to keep my supplies stocked for the next few days.
+  D2M: I need to secure some food to keep my health up.
+  T2K: I need to stay fed to keep working.
+  D2R: I need to stock up on some food to keep my health up.
+  M6F: Heading back to the Square to coordinate with the others.
+  K6C: I'll take one food, please.
+  P6X: I'll take one food from the merchant.
+  S9T: Heading back to the Square to check on the construction groups.
+  N6T: I need to get some food before I run out.
+  S4V: Buying food to stay healthy.
+  Z2S: I'll take one food to keep my health up.
+  D6R: I need to replenish my supplies.
+  V9T: I'll take one food from the merchant.
+  F4B: I need to restock on food before heading back to the woods.
+  X2R: I'll pick up one more food to keep my supplies steady.
+  W4S: I'll take one food to keep my supplies steady.
+  N3T: I'm heading back to the Square to coordinate with the construction groups and see if anyone needs help with gathering.
+
+DAY 15
+  S9J: I'll buy one more food to keep my supplies stable while I wait for G2Z's response.
+  D2M: I'll take one food to keep my health up.
+  T2K: I'll take one more food to keep my health up.
+  D2R: I'll take one food to keep my health up.
+  M7D: I'll take one food, please.
+  M6F: Heading back to the Woods to gather more materials for our construction group.
+  K6C: I'll take two food from the merchant.
+  P6X: I'll buy one more food to keep my supplies steady.
+  S9T: I'm interested in joining the construction group to help with the materials I've gathered.
+  N6T: I need to secure a bit more food to keep my health stable while I work.
+  S4V: Heading back to the Square to coordinate with the construction groups.
+  Z2S: I need to keep my health up.
+  D6R: I need to stay fed to keep working.
+  V9T: I'll buy one more food to keep my supplies steady.
+  N9V: I'll take one food, please.
+  X2R: I'll pick up one more food to keep my supplies steady.
+  V7R: Heading to the Woods to gather more materials for our group's construction projects.
+  W4S: Heading back to the Square to coordinate with the Foundations group and check on progress.
+  N3T: Excuse me, M6F, I'm interested in joining your construction group if you have room.
+
+DAY 16
+  S4L: Heading back to the Square to check on the Infrastructure & Construction group's progress.
+  D2M: I'll buy one food to keep my supplies stable.
+  T2K: I'll take one food to keep my health up.
+  D2R: I'll take two food to keep my supplies steady for the next few turns.
+  M7D: I'll take one food, please.
+  M6F: Gathering more materials for our group's construction projects.
+  K6C: Heading back to the Square to coordinate with the construction groups.
+  P6X: I'll take one food to keep my supplies steady.
+  N6T: I'll take one more food to keep my supplies stable.
+  S4V: Hey G2Z, I'm looking to join the Foundations group to coordinate my construction team's efforts.
+  Z2S: I'll take one more food to keep my supplies stable.
+  D6R: I'll take one food from the merchant.
+  V9T: I'll buy one food to keep my supplies stable.
+  F4B: I'll buy one more food to keep my supplies stable.
+  X2R: Heading back to the Square to see if anyone needs more materials or to coordinate on construction.
+  V7R: Gathering more materials for our construction projects.
+  W4S: I'm looking to join the Foundations group to help out with coordination.
+  N3T: Heading back to the woods to gather more materials for the construction group.
+
+DAY 17
+  S9J: I'm still looking to join the Foundations group to help out.
+  S4L: I'm looking for more people to join the Infrastructure & Construction group to help build the city!
+  D2M: I'll buy one food to keep my supplies steady.
+  T2K: Heading back to the Square to see what the next steps are for our infrastructure.
+  D2R: Heading back to the Square to coordinate with the other construction groups.
+  M7D: I'll take one food, please.
+  M6F: Heading back to the Square to coordinate with the other construction groups and check on our progress.
+  K6C: I'm looking to join M6F's group to help with material gathering.
+  P6X: I'm heading back to the Square to see if there's any news on the Construction & Gathering Group.
+  S9T: Gathering more materials for the construction group.
+  N6T: Heading back to the Square to coordinate with the construction groups.
+  S4V: Heading back to the woods to gather more materials for the construction group.
+  Z2S: I'll buy one food to keep my supplies stable.
+  D6R: I'll take one food to keep my supplies stable.
+  V9T: I'll buy one food to keep my supplies stable.
+  G2Z: M7D, welcome to the Foundations group. Let's start organizing our efforts.
+  X2R: Heading out to gather some more materials for our infrastructure.
+  V7R: Welcome to the Founders Construction & Gathering group. Let's get to work on building the city.
+  N3T: Gathering more materials for the construction group.
+  S4L (board): Infrastructure & Construction group is active! We are coordinating materials gathering and building. Looking for more members to help develop the city's foundation. Message me to join.
+  S9J → G2Z: Hello G2Z, I'm still very interested in joining the Foundations group to help with coordination and infrastructure development. Let me know if there's space!
+
+DAY 18
+  S9J: I need to get some food before I lose more health.
+  S4L: Heading to the Woods to gather materials for the Infrastructure & Construction group. Anyone who wants to join or coordinate can meet me there.
+  D2M: I'll buy one food to keep my supplies stable.
+  T2K: Hello S4L, I'd like to join your construction group to help with gathering and building.
+  D2R: Hi S4L, I'm D2R. I've been gathering materials and would like to join your group to help with the city's infrastructure.
+  M7D: Welcome to the group, G3M!
+  M6F: I need to get some food. My health is getting low.
+  K6C: Heading back to the woods to gather more materials for the construction group.
+  P6X: Excuse me, M6F, I'm interested in joining your group to help with gathering and construction.
+  S9T: Heading back to the Square to check in with the construction groups and see if M6F has any updates.
+  N6T: I'm looking to join the Construction & Gathering Group to help with the infrastructure!
+  S4V: Gathering more materials for the construction group.
+  Z2S: Heading back to the Square to coordinate with the construction groups.
+  D6R: I'm heading back to the Square to coordinate with the construction groups and share my materials.
+  V9T: I'll take one food from the merchant to keep my supplies steady.
+  G2Z: S9J, welcome to the Foundations group! Your help with coordination and infrastructure is much appreciated.
+  F4B: I'll grab another food to keep my supplies steady.
+  X2R: Heading back to the Square to coordinate with the construction and resource groups.
+  V7R: Heading back to the Square to check on our progress and coordinate with the other construction groups.
+  W4S: I need to secure some food immediately to restore my health.
+  N3T: Gathering more materials for the construction group.
+
+DAY 19
+  S4L: Gathering more materials for the Infrastructure & Construction group. T2K and D2R, I'm looking forward to having you join!
+  D2M: Heading back to the Square to coordinate with the construction groups.
+  T2K: I'm heading to the Woods to join S4L and start gathering materials for the infrastructure group.
+  D2R: I need to restock my food supplies before heading back out to work.
+  M7D: I'll take one food, please.
+  G3M: Heading back to the Square to see if there's any news or if I can finally get into the Foundations group.
+  M6F: I need to replenish my food supply immediately to stop the health decay.
+  K6C: Heading back to the Square to check on the status of the construction groups.
+  P6X: I'm heading to the woods to gather more materials for the construction group.
+  S9T: I need to replenish my food supplies immediately.
+  N6T: I'm heading to the woods to gather materials for the Construction & Gathering Group!
+  S4V: Heading back to the Square to coordinate with the other construction groups and check on resource availability.
+  Z2S: Hello S4L, I'd like to join your group to help with construction and gathering.
+  D6R: Hi M6F, I'm interested in joining your construction group. I have some materials to contribute.
+  V9T: Heading back to the Square to see if I can find a group to join or coordinate with the construction teams.
+  G2Z: G3M, you're in the Foundations group now. Let's get to work on the infrastructure.
+  F4B: Heading back to the Square to coordinate with the Foundations group and check for news.
+  X2R: Hello, I'm looking to join the Infrastructure & Construction group to help with material gathering and building.
+  V7R: Welcome Z7Z and Z2S! Let's get to work on our construction projects.
+  W4S: Heading back to the Square to coordinate with the Foundations group and share my status.
+  N3T: Heading back to the Square to check in with the construction groups and see what the next steps are.
+
+DAY 20
+  S9J: Heading back to the Square to check the notice board and see if there's any news from the Foundations group.
+  S4L: Heading back to the Square to coordinate with the other construction groups and check on resource availability.
+  D2M: Excuse me, G2Z? I'd like to join the Foundations group to help with resource coordination.
+  T2K: Gathering materials for S4L's group.
+  D2R: I need to get some food immediately to restore my health.
+  M7D: I'll take one food, please.
+  G3M: G2Z, I'm interested in joining the Foundations group to help coordinate our efforts.
+  M6F: Heading back to the Square to coordinate with the other construction groups and check the notice board.
+  K6C: I need to replenish my food supplies before I head back out to gather materials.
+  P6X: Gathering materials for M6F's group.
+  S9T: I need to buy some food to replenish my supplies.
+  S4V: I need to replenish my food supplies immediately.
+  Z2S: I'm heading to the Woods to start gathering materials for the Infrastructure & Construction group. Let me know if you need anything specific!
+  V9T: Excuse me, M6F, I'm interested in joining your construction group to help with gathering materials.
+  F4B: Excuse me, G2Z? I'd like to join the Foundations group to help with construction materials.
+  X2R: I need to buy some food as I'm running low.
+  V7R: I need to get some food immediately before my health gets too low.
+  W4S: G2Z, I'm here and ready to help with the Foundations group coordination.
+  N3T: I need to buy food immediately. My health is low.
+
+DAY 21
+  S9J: I'm still looking to join the Foundations group to help with the construction efforts.
+  S4L: Heading to the Market to get some food. I'm running low.
+  D2M: I need to purchase some food immediately to replenish my supplies.
+  T2K: Heading back to the Square to see if S4L or the other construction groups need more materials.
+  D2R: I need to keep my health up.
+  M7D: I'll take one food, please.
+  G3M: I need to buy some food to keep my health up.
+  M6F: Heading back to the Woods to gather materials for our construction projects.
+  K6C: I'll take two food, please.
+  P6X: Heading back to the Square to see if M6F is available to discuss my joining the group.
+  S9T: Heading back to the Square to see if M6F responded to my request to join the construction group.
+  N6T: Heading back to the Square to check in with M6F and the construction groups.
+  S4V: Buying some food to stay healthy.
+  Z2S: Gathering materials for the Infrastructure & Construction group.
+  D6R: I'm heading back to the Square to check in with the construction group and see if M6F has any updates.
+  V9T: I need to buy some food immediately to restore my health.
+  F4B: I need to get some food immediately. I'm running very low.
+  N9V: Welcome to the group, Z2S! Let's get to work on the infrastructure.
+  X2R: I need to replenish my food supplies before I head back out to gather materials.
+  V7R: I need to stock up on food before my health drops too low.
+  W4S: I need to buy some food immediately as I am at 0.
+  N3T: I need to buy food immediately to recover some health.
+
+DAY 22
+  S9J: I need to replenish my food supply immediately.
+  S4L: Buying food to stay healthy.
+  D2M: Selling some materials to get some coins for food.
+  T2K: I need to get some food before my health gets too low.
+  D2R: I need to stock up on food to keep my health from dropping.
+  M7D: Welcome to the Foundations group, G3M!
+  M6F: Heading back to the Square to check on the construction progress and see if anyone needs materials.
+  K6C: Heading back to the Square to coordinate with the construction groups and check on my status.
+  P6X: I need to get some food before my health gets too low.
+  S9T: Excuse me, M6F, I'm interested in joining your construction group to help with materials.
+  N6T: I'm heading to the Market to restock on food. My health is dropping and I need to eat.
+  S4V: I need to stock up on food before I head back out.
+  Z2S: Heading back to the Square to coordinate with the group and check on the construction plans.
+  D6R: I need to get some food before my health drops too low.
+  V9T: I need to buy some food to restore my health.
+  F4B: I need to get back to gathering materials for the Foundations group as soon as possible.
+  X2R: Heading back to the Square to see if I can find a group to join.
+  V7R: Heading back to the Square to coordinate with the group and check the board.
+  W4S: I'll take one food to restore my health.
+  N3T: I need to replenish my food supplies immediately to recover my health.
+
+DAY 23
+  S9J: I need to get some food before my health drops too low.
+  S4L: I need to stock up on some food before heading back to the Square.
+  D2M: I need to buy one food to stop the health drain.
+  T2K: I need to get some food to recover my health.
+  D2R: I'll take one food to keep my health up.
+  M7D: I'll take one food, please.
+  G3M: Selling some of my materials to get some coins for food.
+  M6F: I need to purchase food as soon as possible to replenish my health.
+  K6C: Excuse me, M6F, I'd like to join your group to help with the material gathering.
+  P6X: I need to restock my food supplies immediately to recover my health.
+  S9T: I need to buy food as my supplies are empty.
+  N6T: I need to get my health back up before I'm too weak to work.
+  S4V: Buying food to stay healthy.
+  Z2S: I need to purchase some food to replenish my supplies.
+  D6R: I need to replenish my food supply immediately.
+  V9T: I need to replenish my food to stay healthy.
+  F4B: Heading back to the Square to check on the Foundations group's progress and see if I've been accepted.
+  N9V: I'll take one food, please.
+  X2R: I need to get back to gathering materials. My health is dropping and I need to be productive.
+  V7R: Welcome Z7Z! You are now part of the Founders Construction & Gathering group.
+  W4S: Heading back to the Square to check the board and follow up with the Foundations group.
+  N3T: Buying food to recover health.
+
+DAY 24
+  S4L: I need to stock up on some food to keep my health from dropping.
+  D2M: Eating the food I just bought to recover my health.
+  T2K: Heading back to the Square to check the board and see if S4L needs more materials.
+  D2R: I need to keep my health up before I head back to the woods.
+  M7D: I'm heading back to the Square to check for updates.
+  M6F: I need to buy some food to stop my health from dropping.
+  K6C: I need to restock my food supply before heading back to the woods.
+  P6X: Heading back to the Square to check for updates on the construction and see if M6F is available.
+  S9T: I need to get some food immediately to stop my health from dropping.
+  N6T: I'll take one more food to keep my supplies stable.
+  S4V: I'll take one food, please.
+  Z2S: I need to get some food to stop my health from dropping.
+  D6R: I'm heading back to the Square to check on my group request and see what the construction plans are.
+  V9T: I need to buy one food to keep my supplies stable.
+  F4B: I need to get some food immediately to recover my health.
+  X2R: Focusing on gathering materials to support the construction of our new city.
+  V7R: Heading to the Woods to gather materials for our group's construction projects.
+  W4S: G2Z, I'm still here and ready to help with the Foundations group coordination whenever you're ready to add me.
+  N3T: Heading back to the Square to coordinate with the construction groups.
+
+DAY 25
+  S9J: Heading back to the Square to check the board and see if there are any updates from G2Z or the construction plans.
+  S4L: Buying food to stay healthy.
+  D2M: I need to buy one food to keep my health from dropping.
+  T2K: Hey S4L, I'm here at the Square. I'm still interested in joining your group to help with the gathering!
+  D2R: I need to keep my health up before heading back out.
+  M7D: I need to buy some food immediately to recover my health.
+  G3M: I need to get some food before my health drops too low.
+  M6F: I need to eat this food to stop my health from dropping further.
+  K6C: I'll take two food, please.
+  P6X: Excuse me, M6F, I'm still very interested in joining your construction group if you have space.
+  S9T: Heading back to the Square to check the notice board and see if there are any updates on the construction groups.
+  N6T: I'll take one more food to keep my supplies stable.
+  Z7Z: I need to keep my health up to continue construction work.
+  S4V: I'll take one food, please.
+  Z2S: I need to buy some food to stay healthy.
+  D6R: I need to get some food immediately before my health drops any further.
+  V9T: I need to get some food to stop my health from dropping.
+  G2Z: I need to secure my supplies to keep working on the Foundations.
+  F4B: I'm heading back to the Woods to gather materials for the Foundations group. I'm low on health, so I'll have to be careful.
+  X2R: Heading back to the Square to see if I can coordinate with the construction groups.
+  V7R: Gathering more materials for the group's construction projects.
+  W4S: I need to get some food to recover my health and prepare to rejoin the Foundations group.
+  N3T: Heading back to the woods to gather materials for the construction groups.
+  P6X → M6F: Hello M6F, I'm P6X. I've been gathering materials and would still love to join your Construction & Gathering Group. Let me know if there's room!
+
+DAY 26
+  F4B died of hunger.
+  N3T died of hunger.
+  S9J: I need to buy food immediately before my health drops any lower.
+  S4L: Heading back to the Square to check the notice board and coordinate with the other groups.
+  D2M: I'll buy one food to keep my health from dropping.
+  D2R: I need to get some food to restore my health.
+  M7D: I'll take one food, please.
+  G3M: I need to get some food to stop my health from dropping.
+  M6F: I need to head back to the Square to coordinate with the construction groups and see if there are any updates.
+  K6C: I'll take one food, please.
+  P6X: I need to get some food immediately to recover my health.
+  S9T: I need to get some food immediately to stop my health from dropping.
+  N6T: I'll take one food, please.
+  Z7Z: I need to secure my food supply to maintain my health for construction.
+  S4V: I'll take one food, please.
+  Z2S: I need to buy one more food to stay healthy.
+  D6R: I need to eat immediately.
+  V9T: I need to buy one food to keep my health from dropping.
+  G2Z: I need to secure my supplies to keep working on the Foundations.
+  F4B: I need to get to the Market to buy some food before my health gets any lower.
+  N9V: One food, please.
+  X2R: Excuse me, S4L? I'd like to join your construction group if there's room.
+  V7R: Heading back to the Square to check the notice board and coordinate with the other construction groups.
+  W4S: I need to buy food to restore my health before I head back to the Square.
+  N3T: Heading back to the Square to check the board and see if M6F has space for me to join the construction and gathering group.
+
+DAY 27
+  D2R died of hunger.
+  M7D died of hunger.
+  W4S died of hunger.
+  X2R died of hunger.
+  Z2S died of hunger.
+  S9J: I need to eat before my health drops any further.
+  S4L: I need to get some food immediately to stop my health from dropping.
+  D2M: I need to buy one food to stop the health drain.
+  T2K: I need to get some food to recover my health.
+  D2R: I need to eat to restore my health.
+  M7D: I'll take one food, please.
+  G3M: Buying food to stay alive.
+  M6F: I need to get some food immediately to recover my health.
+  K6C: I'll take one food, please.
+  P6X: I need to buy some food to recover my health.
+  S9T: I need to buy food immediately to stop my health from dropping.
+  N6T: I need to get some food to restore my health.
+  Z7Z: I need to secure my food supply to maintain my health for construction.
+  S4V: I need to get some food before my health drops too low.
+  Z2S: I need to eat this immediately to recover some health.
+  D6R: I need to stay healthy to keep working.
+  V9T: I need to buy some food to keep my health from dropping.
+  V7R: I need to get some food immediately before my health drops any lower.
+  W4S: I need to get some food to restore my health before heading back to the Square.
+
+DAY 28
+  D2M died of hunger.
+  D6R died of hunger.
+  G2Z died of hunger.
+  G3M died of hunger.
+  K6C died of hunger.
+  M6F died of hunger.
+  N6T died of hunger.
+  N9V died of hunger.
+  P6X died of hunger.
+  S4L died of hunger.
+  S4V died of hunger.
+  S9J died of hunger.
+  S9T died of hunger.
+  T2K died of hunger.
+  V7R died of hunger.
+  V9T died of hunger.
+  Z7Z died of hunger.
+  S9J: I need to eat before I collapse.
+  S4L: I need to buy some food immediately to survive.
+  D2M: Buying food to stop the health drain.
+  T2K: I need to eat before my health drops any further.
+  G3M: I need to stay alive to contribute to the Foundations group.
+  M6F: I need to buy food to survive.
+  K6C: I'll take one food, please.
+  P6X: I need to stock up on food to keep my health from dropping.
+  S9T: I need to buy one food to stop the health drain.
+  N6T: I need to keep my health up to stay productive.
+  S4V: I need to buy food immediately to stop the health drain.
+  D6R: I need to eat to restore my health.
+  V9T: I need to buy one food to stop the health drain.
+  G2Z: I need to buy food to survive and restore my health.
+  N9V: One food, please.
+  V7R: I need to buy some food immediately to stay alive.

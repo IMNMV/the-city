@@ -1,0 +1,761 @@
+THE CITY · Gemma 12B, government, 300 days, game 1
+Twenty-two of twenty-four starve. The only group is a Construction Crew that never finishes a house, and the store fills with the estates of the dead.
+24 founders · 300 days · with a town hall · seed 1 · gemma
+
+DAY 3
+  F7G: Gathering materials for our new home.
+
+DAY 4
+  F7G: Continuing to gather materials for the community.
+
+DAY 5
+  Election day: votes B4B 0; nobody took office.
+  F7G: Gathering materials for the city's construction.
+  L9P: Keep gathering resources for our early infrastructure.
+  B4B: I am standing for Mayor to help organize our resources and ensure everyone has what they need.
+  D6W (board): Looking to form a construction group to build housing and infrastructure. Anyone interested in joining?
+
+DAY 6
+  D6W started a group called Construction Crew.
+  M2P: I'm interested in joining the construction group mentioned on the board. I have some experience gathering materials.
+  D6W: I'm starting a construction group to build housing and infrastructure. Join me if you want to build something together!
+  C6S: Keep gathering for the early infrastructure.
+  X4G: I'm interested in joining the construction group to build housing and infrastructure.
+  F7G: Gathering more resources to build our infrastructure.
+  P9Q: Heading to the Square to check on the election and see what others are planning.
+  X6X: Gathering more materials to help build our infrastructure.
+  L9P: Continuing to gather materials for the infrastructure.
+  R3P: I'll keep gathering materials to help build our infrastructure.
+  Q2X: Continuing to gather materials for the early infrastructure.
+  W2F: Gathering more materials to help build the workshop.
+  J6L: I'm interested in D6W's construction group. I have some materials to contribute.
+  L7C: I'll keep gathering materials to build some tools.
+  Q4W: Continuing to gather materials for the city's infrastructure.
+  D3X: I'm interested in joining D6W's construction group to help build infrastructure.
+  B4B (board): I am looking for a group to help with infrastructure and resource management. If you're interested in building a stable foundation for our city, let's coordinate!
+  J6L (board): I have 4 materials and some coins. Looking to join D6W's construction group to help build housing.
+
+DAY 7
+  M2P: I'm interested in joining the Construction Crew to help build housing and infrastructure.
+  D6W: Welcome to the Construction Crew, M2P! Let's start planning our first project.
+  C6S: Continuing to gather materials for the early infrastructure.
+  X4G: I'm here to help with the construction group. I have some experience gathering materials and want to help build the infrastructure.
+  F7G: Continuing to gather materials to build our workshop and tools.
+  P9Q: I'd like to join the Construction Crew to help build housing and infrastructure.
+  X6X: Gathering more materials to help build our infrastructure.
+  L9P: Continuing to gather materials for the infrastructure.
+  R3P: Continuing to gather materials for the city's infrastructure.
+  Q2X: Continuing to gather materials for the city's infrastructure.
+  W2F: Continuing to gather materials for the workshop.
+  J6L: Hi D6W, I'm J6L. I'd like to join your Construction Crew. I have some materials to contribute to the housing project.
+  L7C: Continuing to gather materials for the workshop tools.
+  D3X: Hi D6W, I'm D3X. I'd like to join your construction group to help build the housing and infrastructure.
+  B4B: I'd like to join the Construction Crew to help with the infrastructure and resource management I mentioned on the board.
+
+DAY 8
+  X4R: Continuing to gather materials for the workshop and infrastructure.
+  M2P: Welcome D3X, let's get to work on the housing.
+  D6W: J6L, welcome to the crew! Let's get to work on some housing.
+  C6S: Continuing to gather materials for the city's infrastructure.
+  X4G: Welcome P9Q! Glad to have you on the team for the housing project.
+  F7G: Continuing to gather materials for the workshop tools.
+  P9Q: I'm here to join the Construction Crew as well. I have some experience gathering materials and would like to help build the infrastructure.
+  X6X: Continuing to gather materials for the infrastructure.
+  L9P: Continuing to gather materials for the infrastructure.
+  R3P: Continuing to gather materials for the city's infrastructure.
+  Q2X: Continuing to gather materials for the city's infrastructure.
+  J9D: Continuing to gather materials for the city's infrastructure.
+  W2F: Continuing to gather materials for the workshop tools.
+  J6L: Hi D6W, I'm J6L. I'm here to join the Construction Crew and help with building the housing and infrastructure.
+  L7C: Still gathering materials for the workshop tools.
+  Q4W: Continuing to gather materials for the city's infrastructure.
+  D3X: Hi D6W, I'm D3X. I'm here to help with building and infrastructure. Can I join the Construction Crew?
+  S4X: Gathering materials for the workshop.
+  B4B: I'm happy to be part of the crew! Let's get to work on a plan.
+  B4B (board): I am now a member of the Construction Crew! I'm looking to coordinate with D6W and the others to prioritize which infrastructure projects we should tackle first to support the growing population.
+
+DAY 9
+  X4R: Continuing to gather materials for the workshop and infrastructure.
+  M2P: P9Q, you're in! Let's get started.
+  D6W: Welcome P9Q, glad to have you on the team.
+  C6S: Continuing to gather materials for the city's infrastructure.
+  X4G: I'm interested in joining the Construction Crew to help with the housing and infrastructure projects.
+  F7G: Continuing to gather materials for the workshop tools.
+  P9Q: I'm ready to start building our new home!
+  X6X: Continuing to gather materials for the infrastructure.
+  L9P: Continuing to gather materials for the infrastructure.
+  R3P: Continuing to gather materials for the city's infrastructure.
+  Q2X: Continuing to gather materials for the city's infrastructure.
+  J9D: Continuing to gather materials for the city's infrastructure.
+  L7C: Continuing to gather materials for the workshop tools.
+  Q4W: Continuing to gather materials for the city's infrastructure.
+  D3X: Welcome P9Q! Glad to have you on the team.
+  S4X: Gathering materials for the workshop.
+
+DAY 10
+  X4R: Continuing to gather materials for the workshop and infrastructure.
+  M2P: Welcome X4G, glad to have you on the team.
+  D6W: Welcome X4G! We're building up the city's housing and infrastructure.
+  C6S: Continuing to gather materials for the city's infrastructure.
+  F7G: Heading to the Square to see what everyone is up to.
+  P9Q: Let's bring X4G in to help with the housing projects!
+  T3Q: Continuing to gather materials for the city's infrastructure.
+  F7X: Continuing to gather materials for the city's infrastructure.
+  X6X: Continuing to gather materials for the infrastructure.
+  L9P: Continuing to gather materials for the infrastructure.
+  R3P: Continuing to gather materials for the city's infrastructure.
+  Q2X: Continuing to gather materials for the city's infrastructure.
+  J9D: Continuing to gather materials for the city's infrastructure.
+  W2F: I have 12 materials and some experience gathering. I'd like to join the Construction Crew to help build the workshop and housing.
+  L7C: Continuing to gather materials for the workshop tools.
+  Q4W: Continuing to gather materials for the city's infrastructure.
+  D3X: Welcome X4G! Glad to have you on the team to help with the infrastructure.
+  S4X: Continuing to gather materials for the workshop and infrastructure.
+
+DAY 11
+  X4R: Continuing to gather materials for the infrastructure.
+  M2P: Welcome B4B to the Construction Crew! Let's get started on the housing projects.
+  D6W: Welcome B4B to the crew!
+  C6S: Continuing to gather materials for the city's infrastructure.
+  F7G: I'm looking to see if I can trade some materials for a tool to help with my gathering.
+  P9Q: Welcome B4B to the Construction Crew! Let's get to work on the housing.
+  T3Q: Continuing to gather materials for the city's infrastructure.
+  F7X: Continuing to gather materials for the city's infrastructure.
+  X6X: Continuing to gather materials for the city's infrastructure.
+  R3P: Continuing to gather materials for the city's infrastructure.
+  Q2X: Continuing to gather materials for the city's infrastructure.
+  J9D: Continuing to gather materials for the city's infrastructure.
+  J6L: Hi D6W, I'm J6L. I'm here to join the Construction Crew to help build housing with the materials I gathered.
+  L7C: Continuing to gather materials for the workshop tools.
+  Q4W: Continuing to gather materials for the city's infrastructure.
+  D3X: Welcome B4B to the team!
+  S4X: Continuing to gather materials for the workshop and infrastructure.
+
+DAY 12
+  M2P: Welcome J6L to the Construction Crew! Glad to have your help with the housing.
+  D6W: Welcome J6L! Glad to have you in the Construction Crew. Let's start planning our first housing project.
+  C6S: Heading to the Square to see what others are doing and perhaps trade for some food.
+  P9Q: I need to get some food since I'm running low. I'll see if I can trade some materials or coins.
+  T3Q: Heading back to the Square for a moment.
+  X6X: Continuing to gather materials for the city's infrastructure.
+  R3P: I need to get some food. I've been gathering materials for a while but I'm running low on supplies.
+  Q2X: I'm heading to the Square to see if anyone wants to coordinate on some infrastructure projects or tool production.
+  L7C: I'm heading to the Square to see what the status of the city is.
+  D3X: Welcome J6L to the Construction Crew!
+  S4X: Heading to the Square to check in with the others and coordinate our efforts.
+
+DAY 13
+  X4R: I need to buy some food as I'm running low.
+  D6W: Welcome to the Construction Crew, W2F! Let's get to work on the housing projects.
+  C6S: I need to buy some food quickly before my health gets too low.
+  F7G: Selling some materials to stock up on food.
+  T3Q: I need to buy some food as I'm running low.
+  X6X: Heading to the Square to find some food and see what everyone is planning.
+  R3P: I have some materials I'd like to trade for some food. Does anyone have any for sale?
+  Q2X: I'm looking to buy some food to replenish my supplies.
+  J9D: I need to buy some food before I starve.
+  J6L: none
+  L7C: I need to get some food before I run out of health.
+  Q4W: I need to buy some food as soon as possible.
+  S4X: I need to get some food before my health gets too low.
+
+DAY 14
+  C6S: I need to get some food before my health drops any lower.
+  P9Q: I need to make sure I have enough food to keep my health up while I work on the construction projects.
+  T3Q: I need to get some food before I lose more health.
+  L9P: Heading to the Square to see what others are planning.
+  R3P: I'll buy some food from the merchant.
+  Q2X: I need to replenish my food supplies immediately.
+  S4X: I need to get some food before I starve.
+
+DAY 15
+  C6S: I need to stock up on some food before my health gets too low.
+  T3Q: I need to keep my health up while I gather more materials.
+  X6X: I need to replenish my food supply immediately.
+  L9P: I need to gather more materials to help the Construction Crew.
+  R3P: I'll sell some of my gathered materials to replenish my food supply.
+  Q2X: I need to stay fed to keep my health up.
+  W2F: Focusing on food production to keep the crew fed.
+  L7C: I need to keep my health up while I plan my next move.
+  S4X: I'm getting some food to keep my health up.
+
+DAY 16
+  X4R: Selling some materials to get some food coins.
+  C6S: Selling some materials to get some food.
+  T3Q: I need to keep my food supply steady to maintain my health.
+  X6X: I need to keep my health up.
+  L9P: Gathering more materials for the Construction Crew's projects.
+  R3P: I need to replenish my food supply before my health drops too low.
+  Q2X: Selling some materials to get more food.
+  J9D: I need to make sure I have enough food to stay healthy while I plan my next move.
+  L7C: Selling some materials to get some coins for food.
+  Q4W: Selling some materials to restock my food supply.
+  S4X: I need to keep my food supply steady to maintain my health.
+
+DAY 17
+  X4R: I need to secure my food supply to keep my health up.
+  D6W: Welcome L9C to the team!
+  C6S: I need to secure my food supply immediately to stop the health drain.
+  F7G: Selling some materials to get coins for food.
+  P9Q: I need to get some food to keep my health up.
+  T3Q: Selling some materials to get some coins for food.
+  X6X: Selling some materials to get some coins for food.
+  R3P: Selling some materials to get some coins for food.
+  J9D: Buying more food to sustain myself while I look for opportunities.
+  S4X: Selling some materials to get some food coins.
+
+DAY 18
+  X4R: I need to keep my food supply steady to maintain my health.
+  C6S: Buying food to stay alive.
+  T3Q: I need to stay healthy to keep gathering materials.
+  F7X: I need to secure my food supply to keep my health up.
+  X6X: I need to keep my food supply stable.
+  R3P: I need to secure my food supply to keep my health up.
+  Q2X: I need to stay fed to keep my health up.
+  J9D: Selling some materials to replenish my coin supply for food.
+  S4X: I need to make sure I have a steady supply of food to keep my health from dropping.
+
+DAY 19
+  C6S: I'm heading to the Square to check in with everyone.
+  F7G: Selling some materials to get coins for food.
+  P9Q: I need to get some food to keep my health up.
+  T3Q: I need to keep my food supply steady to maintain my health.
+  F7X: I need to keep my food supply steady to maintain my health.
+  X6X: I need to keep my food supply stable to maintain my health.
+  R3P: I need to secure my food supply to keep my health up.
+  Q2X: Selling a bit of material to get some coins for food.
+  L7C: Selling some materials to get coins for food.
+  S4X: I need to keep my food supply steady to maintain my health.
+
+DAY 20
+  C6S: I need to get some more materials to trade for tools. I'll head to the Woods now.
+  P9Q: Heading to the Square to check on the election and see if anyone is running.
+  T3Q: Selling some materials to get coins for food.
+  X6X: Selling my remaining materials to stock up on food.
+  L9P: Selling some materials to get some coins for food.
+  R3P: I need to buy some food to stay healthy.
+  J9D: I need to keep my food supply steady to maintain my health.
+  W2F: Hey everyone, I'm looking to get the Construction Crew moving on the Workshop next. Let's coordinate our efforts.
+  S4X: Heading back to the Square to see what everyone is planning and check the notice board.
+  W2F (board): Construction Crew: Looking to coordinate on building the Workshop first to produce tools. Who is available to help with the build?
+
+DAY 21
+  X4R: I need to get some food to recover my health.
+  F7G: Heading to the Square to check on the election and see if anyone is running.
+  T3Q: I need to buy food to stay healthy.
+  X6X: I need to secure some food reserves since I'm currently at zero.
+  L9P: I need to get some food before my health gets any lower.
+  R3P: Selling some materials to get some coins for food.
+  Q2X: I need to secure my food supply before heading to the Square.
+  J9D: I need to get some food before I lose more health.
+  J6L: I need to stay healthy to help the crew.
+  L7C: Heading to the Square to see what's happening with the election.
+  Q4W: I need to gather more materials to contribute to the construction efforts and the city's stockpile.
+  S4X: I need to gather some materials to help build the workshop and replenish my stockpile.
+
+DAY 22
+  C6S: Heading to the Square to see if anyone wants to trade some materials for food.
+  P9Q: I need to get some food immediately to stop my health from dropping.
+  T3Q: Heading to the Square to see who is running for mayor and check the board.
+  F7X: I need to keep my food supply steady to maintain my health.
+  L9P: I need to stay healthy to keep working for the crew.
+  R3P: I need to buy some food to keep my health up.
+  Q2X: I need to stay fed to keep my health up.
+  J9D: Buying food to stay healthy.
+  L7C: I need to replenish my food supply immediately.
+  S4X: Gathering more materials for the city's infrastructure.
+
+DAY 23
+  X4R: I need to get some food to stay healthy.
+  C6S: I need to trade some materials for food. I'm running low on health.
+  P9Q: I need to secure some food to keep my health from dropping further.
+  T3Q: I need to get some food before my health drops too low.
+  F7X: I need to get some food to keep my health from dropping.
+  X6X: I need to gather more materials to eventually get tools and help the city grow.
+  L9P: I need to keep my health up to stay productive.
+  R3P: Selling some materials to get coins for food.
+  Q2X: I need to secure my food supply to keep my health up.
+  L7C: I need to eat to stop my health from dropping.
+  S4X: Heading back to the Square to see what everyone is planning and check the notice board.
+
+DAY 24
+  X4R: I need to stay healthy to keep working.
+  C6S: I need to buy food immediately before my health drops any lower.
+  P9Q: Buying food to maintain health for the construction crew.
+  T3Q: I need to buy food to stay healthy.
+  X6X: Gathering more materials to build up my stock.
+  L9P: I need to secure my food supply before my health drops too low.
+  R3P: I need to buy food to stop my health from dropping.
+  Q2X: I need to secure my food supply to keep my health up.
+  J9D: I need to get some food to stay healthy.
+  L7C: I need to secure my food supply to keep my health up.
+  S4X: I need to get some food quickly before my health drops too low.
+
+DAY 25
+  X4R: I need to buy food to restore my health.
+  C6S: Selling some materials to get some coins for food.
+  F7G: I need to get more materials to trade for a tool.
+  P9Q: Buying food to stay healthy and maintain my efficiency for the Construction Crew.
+  T3Q: Buying food to stay healthy.
+  F7X: I need to keep my food supply steady to maintain my health.
+  X6X: Heading back to the Square to see what's happening with the election.
+  L9P: I need to keep my health up to stay productive.
+  R3P: I need to buy food to maintain my health.
+  Q2X: I need to secure my food supply to keep my health up.
+  J9D: I need to replenish my food supply immediately to keep my health from dropping.
+  S4X: I need to eat this immediately to restore my health.
+
+DAY 26
+  X4G died of hunger.
+  X4G's things went to the city store.
+  X4R: Selling some materials to get coins for food.
+  M2P: I need to buy food to stop my health from dropping.
+  C6S: Buying food to restore my health and stay productive.
+  P9Q: Buying food to restore health and stay above the 30 health threshold.
+  T3Q: Buying food to stay healthy.
+  F7X: Selling some materials to get some coins for food.
+  X6X: I need to get some food immediately before my health drops too low.
+  L9P: Selling some materials to get some coins for food.
+  R3P: Selling my materials to get coins for food.
+  Q2X: I need to buy food immediately to restore my health.
+  J9D: Selling some materials to get some coins for food.
+  L7C: I need to get some food to stop my health from dropping.
+  S4X: Selling some of my gathered materials to get some coins for food.
+
+DAY 27
+  X4R: I need to buy food to restore my health and stay productive.
+  C6S: I need to buy some food to restore my health.
+  P9Q: I need to get some food immediately to stop my health from dropping.
+  T3Q: I need to buy food immediately to restore my health.
+  F7X: I need to buy food immediately to stop my health from dropping.
+  L9P: I need to buy food immediately to restore my health and stay productive.
+  R3P: I need to buy food immediately to stop my health from dropping further.
+  Q2X: I need to get some food before my health drops any further.
+  J9D: I need to buy food to restore my health and stay productive.
+  L7C: I need to eat to stop my health from dropping.
+  Q4W: I need to get my health back up before I can be productive again.
+  S4X: I need to buy some food immediately to restore my health and stop the drain.
+
+DAY 28
+  C6S died of hunger.
+  D3X died of hunger.
+  D6W died of hunger.
+  F7X died of hunger.
+  J9D died of hunger.
+  L9C died of hunger.
+  L9P died of hunger.
+  M2P died of hunger.
+  P9Q died of hunger.
+  Q2X died of hunger.
+  Q4W died of hunger.
+  C6S's things went to the city store.
+  D3X's things went to the city store.
+  D6W's things went to the city store.
+  F7X's things went to the city store.
+  J9D's things went to the city store.
+  L9C's things went to the city store.
+  L9P's things went to the city store.
+  M2P's things went to the city store.
+  P9Q's things went to the city store.
+  Q2X's things went to the city store.
+  Q4W's things went to the city store.
+  X4R: I need to get food to restore my health.
+  C6S: I need to eat to stay alive.
+  P9Q: I need to buy food immediately to stop my health from dropping.
+  T3Q: I need to buy food to restore my health and stay productive.
+  F7X: I need to get some food to stop my health from dropping.
+  X6X: Selling my materials to get some coins for food.
+  L9P: I need to buy food to restore my health.
+  R3P: Selling one more material to get some coins for food.
+  Q2X: Selling these to get enough coins for food.
+  J9D: I need to buy food to restore my health.
+  L7C: I need to eat to restore my health before it drops further.
+  Q4W: Selling some materials to get coins for food.
+  S4X: I need to eat this to get my health back up.
+
+DAY 29
+  B4B died of hunger.
+  L7C died of hunger.
+  T3Q died of hunger.
+  X4R died of hunger.
+  B4B's things went to the city store.
+  L7C's things went to the city store.
+  T3Q's things went to the city store.
+  X4R's things went to the city store.
+  X4R: I need to buy food to restore my health.
+  T3Q: Selling my materials to get some coins for food.
+  R3P: I need to buy food to restore my health.
+  L7C: I need to eat before my health drops any further.
+  S4X: I need to check the notice board and see what the current situation is after all those deaths.
+
+DAY 30
+  X6X: Heading back to the Square to see if anyone has run for mayor yet.
+  R3P: Selling some materials to get some coins for food.
+  S4X: I'm looking to join the Construction Crew to help with the Workshop build.
+  S4X (board): Turn 30, S4X: I have 8 materials and some gathering experience. I'm interested in joining the Construction Crew to help build the Workshop. Contact me if there's space!
+
+DAY 31
+  F7G died of hunger.
+  R3P died of hunger.
+  F7G's things went to the city store.
+  R3P's things went to the city store.
+  X6X: I need to get back to gathering materials. My food is low and I need to build up my stockpile.
+  R3P: I need to buy food to restore my health before it drops too low.
+  S4X: Hello! I saw the notice board and I'm interested in joining the Construction Crew to help build the Workshop. I have 8 materials and some gathering experience.
+
+DAY 32
+  S4X died of hunger.
+  S4X's things went to the city store.
+  X6X: I need to gather some materials to build up my stock.
+  S4X: I need to gather some materials to help with the Workshop construction and replenish my supplies.
+
+DAY 33
+  X6X: Heading back to the Square to check the status of the city and the upcoming election.
+
+DAY 34
+  X6X: I need to get some food immediately to restore my health.
+  Q7P (board): I have 17 materials and experience in farming and gathering. Looking to join the Construction Crew to help build the Workshop. Contact me if there's space!
+
+DAY 35
+  X6X died of hunger.
+  X6X's things went to the city store.
+  X6X: I need to eat before I collapse.
+  W2F (board): Construction Crew: I see Q7P and S4X are interested in helping with the Workshop. Q7P, since you have 17 materials, would you like to join the crew? S4X, please message me to coordinate.
+
+DAY 36
+  Q7P → W2F: I'm ready to join the Construction Crew and contribute my 17 materials to building the Workshop. Let me know how I can help!
+
+DAY 37
+  W2F → Q7P: Thanks for joining the Construction Crew! Since you have 17 materials, let's focus on building the Workshop first. I'll head to the Workshop to start the project; please join me there when you can.
+
+DAY 38
+  W2F → Q7P: Since you have 17 materials, let's meet at the Woods to start gathering the additional materials needed for the Workshop. I'll meet you there.
+
+DAY 42
+  W2F → Q7P: I'm at the Square. Let's coordinate our next steps for the Workshop. Do you want to head to the Woods to gather more materials together, or should we check the Workshop requirements?
+
+DAY 43
+  W2F (board): Construction Crew: I'm looking to coordinate our next steps for the Workshop build. Q7P, since you have materials, let's discuss our plan. S4X, please reach out to coordinate.
+
+DAY 44
+  W2F → Q7P: I'm at the Square. Since you have the materials, let's coordinate the Workshop build. Do you want to meet at the Woods to gather more, or should we head to the Workshop site?
+  Q7P → W2F: I have 19 materials ready for the Workshop. Should I contribute them now or wait until we start building?
+
+DAY 45
+  Q7P → W2F: I have 19 materials ready. I'm willing to contribute them to the Workshop build now to get us started. Let's meet at the Workshop site to begin.
+  W2F → Q7P: Since you have the materials ready, let's meet at the Workshop site (the Woods) to start the build. I'll coordinate with J6L as well.
+
+DAY 49
+  W2F → Q7P: I'm at the Square. Since we have the materials, let's head to the Workshop site to begin construction. Do you have the materials ready?
+
+DAY 55
+  W2F → Q7P: I'm at the Square. Since we have the materials, let's head to the Woods to start building the Workshop together.
+
+DAY 57
+  Q7P → W2F: I'm at the Square. I'm ready to coordinate on the Workshop construction. What are our next steps?
+
+DAY 58
+  W2F → Q7P: Since we're both here, let's head to the Woods to start construction. I'll lead the way. We need the Workshop to get tools.
+  Q7P → W2F: I'm at the Square. I'm ready to coordinate on the Workshop construction. What are our next steps? Do we need more materials or should we head to the Workshop site now?
+
+DAY 59
+  W2F → Q7P: Since we have the materials, let's head to the Woods now to start building the Workshop. I'll meet you there.
+
+DAY 61
+  W2F died of hunger.
+  W2F's things went to the city store.
+
+DAY 62
+  Q7P → J6L: I'm at the Square. Since W2F passed away, we should coordinate the Workshop build. Do you have the materials we need, or should we head to the Woods to gather more?
+
+DAY 64
+  J6L → Q7P: Hey Q7P, I'm at the Square. I'm ready to coordinate on the Workshop build. What's our next step?
+
+DAY 65
+  Q7P → J6L: I'm still at the Fields farming to bolster our food supplies. I'll head back to the Square soon to coordinate the Workshop build with you.
+  J6L → Q7P: Hey Q7P, I'm at the Square. I'm ready to coordinate on the Workshop build. Since you have the materials, how many do we need to start, and do we need to gather more first?
+
+DAY 67
+  Q7P → J6L: I'm at the Square. Since W2F passed away, we should coordinate the Workshop construction. I have 22 materials and farming experience. What's our next move?
+
+DAY 69
+  J6L → Q7P: Hey Q7P, I'm at the Square. I'm ready to coordinate on the Workshop build. Since you have the materials, how many more do we need to start? I'm happy to help with the labor.
+
+DAY 71
+  Q7P → J6L: I'm at the Square. Since W2F passed away, we should coordinate the Workshop construction. How many materials do we need to start the build?
+
+DAY 72
+  J6L → Q7P: I'm at the Woods now. I've got 2 materials and I can gather more here. Let's aim to gather enough for the Workshop. How many do you think we need total?
+
+DAY 73
+  Q7P → J6L: I think we need at least 50 materials to start the Workshop. Let's keep gathering for now.
+
+DAY 78
+  J6L → Q7P: I'm at the Square. Let's coordinate our next steps for the Workshop construction. How many more materials do we need to reach our goal?
+
+DAY 79
+  J6L → Q7P: I'm at the Square. Since we have a good amount of materials now, should we head to the Workshop to start the construction? Or do you want to gather more first?
+  Q7P → J6L: I've finished farming for now and have 6 food. I'm heading back to the Square to meet you and coordinate the Workshop construction.
+
+DAY 81
+  Q7P → J6L: I'm at the Square. Let's coordinate the Workshop build. We have 25 materials and 214 in the store. Should we go to the Woods to start?
+
+DAY 83
+  J6L → Q7P: I'm at the Square. I've made a tool to help with the Workshop. Are you ready to start the construction or do we need more materials?
+
+DAY 85
+  Q7P → J6L: I'm at the Square. I have 28 materials. We need 50 for the Workshop. Let's head to the Woods to gather more together.
+
+DAY 86
+  J6L → Q7P: I'm at the Woods. I'm gathering materials now. Let me know when you're here so we can coordinate the Workshop construction.
+
+DAY 89
+  J6L → Q7P: I'm at the Square. I have 15 materials and a tool. Are you ready to head to the Workshop or do you need more materials?
+
+DAY 91
+  Q7P → J6L: I'm at the Square. I have 28 materials. We need 50 for the Workshop. Let's head to the Woods to gather more together.
+
+DAY 94
+  Q7P → J6L: I'm at the Square. I have 28 materials. We need 50 for the Workshop. Let's head to the Woods to gather the remaining 22 together.
+
+DAY 95
+  Q7P → J6L: I have 28 materials. We need 50 for the Workshop. Let's head to the Woods to gather the remaining 22 together.
+
+DAY 100
+  Q7P → J6L: I'm at the Square. I have 28 materials. We need 50 for the Workshop. Let's head to the Woods to gather the remaining 22 materials together.
+
+DAY 101
+  J6L died of hunger.
+  J6L's things went to the city store.
+  Q7P → J6L: I'm at the Square. Let's go to the Woods now to get those last 22 materials for the Workshop.
+
+DAY 102
+  Q7P (board): Update on Workshop: J6L has passed. I have 28 materials. I am looking for others to join the Construction Crew to help gather the remaining 22 materials in the Woods and then build the Workshop.
+
+DAY 114
+  Q7P (board): Turn 114, Q7P: I have 37 materials and farming/gathering experience. I am looking for partners to help gather the final materials and build the Workshop. Let's team up!
+
+DAY 122
+  Q7P (board): Turn 122, Q7P: I have 37 materials and farming/gathering experience. I am looking for partners to help gather the final materials and build the Workshop. Let's team up! I can also share my farming knowledge.
+
+DAY 128
+  Q7P (board): Turn 128, Q7P: I am looking for partners to help gather the final materials and build the Workshop. I have 46 materials and experience in farming and gathering. I can share knowledge!
+
+DAY 139
+  Q7P (board): Turn 139, Q7P: Still looking for partners to build the Workshop! I have 46 materials and experience in farming/gathering. I'm willing to share my knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 143
+  Q7P (board): Turn 143, Q7P: Still looking for Workshop partners! I have 49 materials and farming/gathering experience. I can share my knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 153
+  Q7P (board): Turn 153, Q7P: Still looking for Workshop partners! I have 49 materials and farming/gathering experience. I can share my knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 157
+  Q7P (board): Turn 157, Q7P: Still looking for Workshop partners! I have 52 materials and experience in farming/gathering. I can share knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 166
+  Q7P (board): Turn 166, Q7P: Still looking for Workshop partners! I have 52 materials and experience in farming/gathering. I can share my knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 167
+  Q7P (board): Turn 167, Q7P: Still looking for Workshop partners! I have 52 materials and experience in farming/gathering. I can share my knowledge and help coordinate the build. Let's get this Workshop started!
+
+DAY 168
+  Q7P (board): Turn 168, Q7P: Looking for Workshop partners! I have 52 materials and experience in farming/gathering. I can share knowledge and help coordinate. Let's build together!
+
+DAY 171
+  Q7P (board): Turn 171, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and help coordinate. Let's build together!
+
+DAY 179
+  Q7P (board): Turn 179, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and coordinate. Let's build together!
+
+DAY 180
+  Q7P (board): Turn 180, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build together!
+
+DAY 181
+  Q7P (board): Turn 181, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 182
+  Q7P (board): Turn 182, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 183
+  Q7P (board): Turn 183, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 186
+  Q7P (board): Turn 186, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 187
+  Q7P (board): Turn 187, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 188
+  Q7P (board): Turn 188, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 189
+  Q7P (board): Turn 189, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 190
+  Q7P (board): Turn 190, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 191
+  Q7P (board): Turn 191, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and coordinate. Let's build a Workshop together!
+
+DAY 192
+  Q7P (board): Turn 192, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 193
+  Q7P (board): Turn 193, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 194
+  Q7P (board): Turn 194, Q7P: Still looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 197
+  Q7P (board): Turn 197, Q7P: Looking for Workshop partners! I have 52 materials and farming/gathering experience. I can share knowledge and help coordinate. Let's build a Workshop together!
+
+DAY 201
+  Q7P (board): Turn 201, Q7P: Still looking for Workshop partners! I have 55 materials and farming/gathering experience. I can share knowledge and coordinate. Let's build a Workshop together!
+
+DAY 202
+  Q7P (board): Turn 202, Q7P: Still looking for Workshop partners! I have 55 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 206
+  Q7P (board): Turn 206, Q7P: Still looking for Workshop partners! I have 58 materials and farming/gathering experience. I can share my knowledge and coordinate. Let's build a Workshop together!
+
+DAY 210
+  Q7P (board): Turn 210, Q7P: Looking for a partner to build a Workshop! I have 61 materials and high farming/gathering experience. I can provide materials and coordination. Let's build!
+
+DAY 211
+  Q7P (board): Turn 211, Q7P: Still looking for a Workshop partner! I have 61 materials and high farming/gathering experience. I can provide materials and coordination. Let's build a Workshop together!
+
+DAY 212
+  Q7P (board): Turn 212, Q7P: Still seeking a Workshop partner! I have 61 materials and high farming/gathering experience. I can provide materials and coordination. Let's build the Workshop together!
+
+DAY 215
+  Q7P (board): Turn 215, Q7P: Still looking for a Workshop partner! I have 61 materials and high farming/gathering experience. I can provide materials and coordination. Let's build the Workshop together!
+
+DAY 216
+  Q7P (board): Turn 216, Q7P: Still seeking a Workshop partner! I have 61 materials and high farming/gathering experience. I can provide materials and coordination. Let's build the Workshop together!
+
+DAY 220
+  Q7P (board): Turn 220, Q7P: Still seeking a Workshop partner! I have 64 materials and high farming/gathering experience. Let's build a Workshop together!
+
+DAY 221
+  Q7P (board): Turn 221, Q7P: Still seeking a Workshop partner! I have 64 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 222
+  Q7P (board): Turn 222, Q7P: Seeking Workshop partner! I have 64 materials and high farming/gathering experience. I can provide materials and coordination. Let's build the Workshop together!
+
+DAY 223
+  Q7P (board): Turn 223, Q7P: Still seeking a Workshop partner! I have 64 materials and high farming/gathering experience. I can provide materials and coordination. Let's build a Workshop together!
+
+DAY 224
+  Q7P (board): Turn 224, Q7P: Still seeking a Workshop partner! I have 64 materials and high farming/gathering experience. Let's build a Workshop together!
+
+DAY 225
+  Q7P (board): Turn 225, Q7P: Seeking Workshop partner! I have 64 materials and high farming/gathering experience. I can provide materials and coordination. Let's build the Workshop together!
+
+DAY 226
+  Q7P (board): Turn 226, Q7P: Still seeking a Workshop partner! I have 64 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 230
+  Q7P (board): Turn 230, Q7P: Still seeking a Workshop partner! I have 68 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 231
+  Q7P (board): Turn 231, Q7P: Still seeking a Workshop partner! I have 68 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 235
+  Q7P (board): Turn 235, Q7P: Still seeking a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 236
+  Q7P (board): Turn 236, Q7P: Looking for a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 237
+  Q7P (board): Turn 237, Q7P: Still looking for a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 238
+  Q7P (board): Turn 238, Q7P: Still seeking a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 239
+  Q7P (board): Turn 239, Q7P: Still seeking a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 240
+  Q7P (board): Turn 240, Q7P: Looking for a Workshop partner! I have 72 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 244
+  Q7P (board): Turn 244, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 248
+  Q7P (board): Turn 248, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 249
+  Q7P (board): Turn 249, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 250
+  Q7P (board): Turn 250, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 251
+  Q7P (board): Turn 251, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 258
+  Q7P (board): Turn 258, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 262
+  Q7P (board): Turn 262, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 271
+  Q7P (board): Turn 271, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 272
+  Q7P (board): Turn 272, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 273
+  Q7P (board): Turn 273, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 274
+  Q7P (board): Turn 274, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 275
+  Q7P (board): Turn 275, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 276
+  Q7P (board): Turn 276, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 277
+  Q7P (board): Turn 277, Q7P: Still seeking a Workshop partner! I have 76 materials and high farming/gathering experience. Let's build the Workshop together!
+
+DAY 278
+  Q7P (board): Turn 278, Q7P: Looking for a partner to build the Workshop! I have 76 materials. Let's make some tools!
+
+DAY 279
+  Q7P (board): Turn 279, Q7P: Still looking for a partner to build the Workshop! I have 76 materials. Let's get those tools! Also, I'm willing to share my farming/gathering surplus with a partner.
+
+DAY 280
+  Q7P (board): Turn 280, Q7P: Looking for a Workshop partner! I have 76 materials. Let's build the Workshop together and get some tools! I can also help with farming/gathering.
+
+DAY 281
+  Q7P (board): Turn 281, Q7P: Looking for a Workshop partner! I have 76 materials. Let's build the Workshop together and get some tools! I can also help with farming/gathering.
+
+DAY 282
+  Q7P (board): Turn 282, Q7P: Looking for a Workshop partner! I have 76 materials. Let's build the Workshop together and get some tools! I can also help with farming/gathering.
+
+DAY 286
+  Q7P (board): Turn 286, Q7P: Looking for a Workshop partner! I have 76 materials. Let's build it together and I can share my farming/gathering surplus with you!
+
+DAY 287
+  Q7P (board): Turn 287, Q7P: I'm still looking for a partner to build the Workshop! I have 76 materials and can provide farming/gathering surplus. Let's build something together!
+
+DAY 288
+  Q7P (board): Turn 288, Q7P: Still looking for a partner to build the Workshop! I have 76 materials and can provide farming/gathering surplus. Let's build something together!
+
+DAY 289
+  Q7P (board): Turn 289, Q7P: Still looking for a Workshop partner! I have 76 materials. I can provide a steady supply of food and materials. Let's build the Workshop together!
+
+DAY 295
+  Q7P (board): Turn 295, Q7P: I have 76 materials and a steady supply of food/materials from my farming. I want to build the Workshop and give you a share of my surplus in exchange for your help! Let's build together.
+
+DAY 296
+  Q7P (board): Turn 296, Q7P: Still looking for a Workshop partner! I have 76 materials and a steady supply of food/materials. Let's build the Workshop together and I'll share my surplus!
+
+DAY 297
+  Q7P (board): Turn 297, Q7P: I'm looking for a partner to build the Workshop! I have 76 materials and can provide a steady supply of food and materials from my farming. Let's build together and I'll share my surplus!
+
+DAY 300
+  Q7P (board): Turn 300, Q7P: I'm still looking for a partner to build the Workshop! I have 76 materials and a steady supply of food/materials from my farming. I'll share my surplus! Let's build it together!

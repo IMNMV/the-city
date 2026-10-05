@@ -1,0 +1,345 @@
+THE CITY · Gemma 12B, government, 300 days, game 3
+Five houses and seventeen tools are built by a city that is starving to death; three survive to see the last day.
+24 founders · 300 days · with a town hall · seed 3 · gemma
+
+DAY 6
+  R2G (board): Looking to form a gathering group for construction and infrastructure. Message me if interested.
+
+DAY 10
+  F3T (board): I have gathered some materials and am looking to join or start a group for construction. I have 12 materials to contribute.
+  Z6Z (board): I have 12 materials and some coins. Looking to collaborate on building or crafting projects. Message me.
+
+DAY 11
+  W6J → R2G: I have 14 materials and some experience gathering. I'd like to join your construction group.
+  D2V → R2G: Hello R2G, I have 14 materials and some coins. I'm interested in joining your construction and infrastructure group.
+  Z6Z → F3T: I saw your post. I have 12 materials and 20 coins. Would you like to team up on a construction project?
+  B3M → R2G: I have 14 materials and 20 coins. I'd like to join your construction group to help build infrastructure.
+  N7P → R2G: Hello R2G, I am N7P. I have 14 materials and am interested in joining your construction group. Let me know if you have space!
+  R2G → F3T: Hello F3T, I saw your post about construction materials. I'm interested in forming a group to build infrastructure. Would you like to collaborate?
+
+DAY 12
+  R2G started a group called Construction Group.
+  F3T → R2G: Hello R2G, I'm interested in joining your construction and infrastructure group. I have 12 materials to contribute. Let's coordinate!
+  C6S → R2G: Hello R2G, I am C6S. I have 12 materials and am interested in joining your construction group. Let me know how I can help.
+  S2G → R2G: I have 16 materials and am interested in joining your construction group. Let me know how to proceed.
+
+DAY 13
+  S2G: I'm interested in joining the Construction Group. I have 16 materials to contribute.
+  J6R → R2G: Hello R2G, I am J6R. I have 18 materials and have been gathering. I'd like to join your Construction Group to help build the city infrastructure.
+
+DAY 15
+  N7P: Hello R2G, I'm N7P. I'd like to join the Construction Group to help build the city with my materials.
+  Z6Z → F3T: I'm still interested in collaborating on a project. I have 12 materials and 16 coins. Let me know if you're still looking for a partner.
+
+DAY 16
+  G6Q (board): I have 18 materials and some coins. Looking to join or help with construction projects. Message me.
+  F3T → Z6Z: I am interested in collaborating. I have 12 materials. Let's discuss a project together.
+  D2V → R2G: Hello again, I'm D2V. I have 14 materials and 16 coins. I'd like to join the Construction Group and help with projects.
+
+DAY 18
+  V9B (board): I have 16 materials and 4 coins. Looking to join a construction group or collaborate on building projects.
+
+DAY 19
+  M6J: I have 18 materials and would like to join the Construction Group to help with building projects.
+
+DAY 23
+  J6R died of hunger.
+  J6R's things went to the city store.
+
+DAY 24
+  B3M: Hello, I'd like to join the Construction Group. I have materials and tools to contribute.
+
+DAY 28
+  B3M died of hunger.
+  B4C died of hunger.
+  C2B died of hunger.
+  C2N died of hunger.
+  C2X died of hunger.
+  D2V died of hunger.
+  F3T died of hunger.
+  G6Q died of hunger.
+  K6W died of hunger.
+  L4F died of hunger.
+  M4X died of hunger.
+  Q9F died of hunger.
+  R2G died of hunger.
+  S2G died of hunger.
+  V9B died of hunger.
+  W6J died of hunger.
+  X3Z died of hunger.
+  Z6Z died of hunger.
+  B3M's things went to the city store.
+  B4C's things went to the city store.
+  C2B's things went to the city store.
+  C2N's things went to the city store.
+  C2X's things went to the city store.
+  D2V's things went to the city store.
+  F3T's things went to the city store.
+  G6Q's things went to the city store.
+  K6W's things went to the city store.
+  L4F's things went to the city store.
+  M4X's things went to the city store.
+  Q9F's things went to the city store.
+  R2G's things went to the city store.
+  S2G's things went to the city store.
+  V9B's things went to the city store.
+  W6J's things went to the city store.
+  X3Z's things went to the city store.
+  Z6Z's things went to the city store.
+
+DAY 29
+  T2X died of hunger.
+  T2X's things went to the city store.
+
+DAY 31
+  D3M died of hunger.
+  D3M's things went to the city store.
+
+DAY 60
+  N7P → C6S: Hey C6S, I'm at the Square. I've built up a food surplus for our Construction Group. Let me know how I can best support our projects.
+
+DAY 66
+  N7P → C6S: Hey C6S, I've got a steady food surplus. Let me know how many turns of food the Construction Group needs to stay fueled while you guys build.
+
+DAY 67
+  C6S → N7P: I'm happy to provide food for the group. Let's coordinate so we have enough for everyone to work efficiently.
+
+DAY 75
+  N7P → C6S: I'm at the Square. I have a good food surplus now. Let me know when you're ready to coordinate the next phase of construction.
+
+DAY 76
+  C6S → N7P: I'm heading to the Square now to coordinate. I have a good food surplus ready for the construction group.
+
+DAY 88
+  N7P → C6S: I am at the Square. What are our next construction priorities? I can continue farming to keep our food supply high.
+
+DAY 90
+  C6S → N7P: I'm at the Square. I've been farming to keep our food stocks up. How is construction going? Should we coordinate on supplies?
+
+DAY 102
+  N7P → C6S: Hey, I'm at the Square. Let's coordinate our construction priorities. I have a good food surplus from my farming.
+
+DAY 116
+  N7P → C6S: I'm at the Square. I'll head to the Fields to keep the food supply high for our construction projects. Let me know if you need specific materials.
+
+DAY 158
+  N7P → M6J: Hey M6J, I'm at the Square. Let's coordinate our next construction goals for the group.
+
+DAY 172
+  N7P → M6J: Hey M6J, I'm at the Square. What's our plan for the Construction Group? I'm ready to head to the Woods or Workshop as needed, but I've been farming to keep our food supply high.
+
+DAY 173
+  M6J → N7P: I'm happy to keep farming to keep our food supply high. Since we're in the Construction Group, should we aim to build a Workshop first to get more tools, or focus on more housing?
+
+DAY 186
+  N7P → M6J: Hey M6J, I'm at the Square. What's our next move for the Construction Group? I can head to the Woods or Workshop if we need materials or tools.
+
+DAY 187
+  M6J → N7P: Let's head to the Workshop first to see if we can get some tools, then to the Woods for materials.
+
+DAY 188
+  N7P → M6J: I'm at the Fields. I'll finish one more turn of farming to top off our supplies, then I'll head to the Workshop as you suggested.
+
+DAY 191
+  M6J → N7P: Hey N7P, I'm at the Square. Since we're in the Construction Group, should we head to the Woods next to gather more materials, or do you want to check the Workshop again?
+  N7P → M6J: I'm at the Square. Since we have plenty of food, should I head to the Workshop to see if we can craft some tools for the Construction Group?
+
+DAY 195
+  N7P → M6J: I've made a tool. Since we have a good food supply and I'm skilled in farming, should I head to the Woods to gather materials for our construction projects next?
+  M6J → N7P: Since we have tools now, should we head to the Woods to gather some materials for our construction projects?
+
+DAY 199
+  N7P → M6J: I'm at the Square. Since we have a lot of food and I have some experience with farming, would you like me to head to the Fields to increase our food surplus, or should I go to the Workshop to make more tools for the group?
+
+DAY 200
+  M6J → N7P: Since we have a lot of food and you have farming experience, please head to the Fields to increase our food surplus. I will stay at the Square to coordinate with C6S and the rest of the group.
+
+DAY 201
+  M6J → C6S: Hey C6S, I'm coordinating with N7P to get more materials and maintain food. Let's plan our next construction move together.
+
+DAY 204
+  N7P → M6J: Hey M6J, I'm at the Square. I'm ready to head to the Workshop to craft some tools for our group. Let me know when you're ready to coordinate with C6S.
+
+DAY 205
+  M6J → N7P: I'm at the Square. Let's head to the Workshop together now to craft tools for the Construction Group.
+
+DAY 208
+  N7P → M6J: Hey M6J, I'm at the Square. Let's coordinate our next move for the Construction Group. Should we head to the Woods for materials or the Workshop for more tools?
+
+DAY 209
+  M6J → N7P: Since we have a good amount of food, let's head to the Woods together to gather materials for the Construction Group. I'll meet you there.
+
+DAY 212
+  N7P → M6J: Hey M6J, I'm at the Square. Since we have a good amount of food, should we head to the Woods to gather more materials for our construction projects?
+
+DAY 214
+  M6J → C6S: I'm at the Square. Let's coordinate our construction plans. We have plenty of food, so we can focus on building. What's our first priority?
+
+DAY 216
+  N7P → M6J: Hey M6J, we have tools and food. Should we head to the Woods to gather more materials for our construction projects?
+
+DAY 220
+  M6J → C6S: I'm at the Square. I'm ready to start building or refining our plans. What's our first priority for the Construction Group?
+
+DAY 222
+  C6S → M6J: I'm at the Square. Let's discuss our construction plans for the group.
+
+DAY 223
+  N7P → M6J: We have plenty of materials now. Should we head to the Workshop next to craft more tools, or go to the Homes to start building?
+
+DAY 224
+  M6J → N7P: Since we have materials, let's go to the Homes to start building our first structure.
+
+DAY 226
+  N7P → M6J: I'm at the Square. Should we head to the Workshop to craft more tools for the group, or go to the Homes to start building?
+  C6S → N7P: I'm at the Square. Let's discuss our construction plans for the group with M6J.
+
+DAY 227
+  N7P → C6S: I'm at the Square. Since we have plenty of materials and tools, should we head to the Homes to start building the first houses for the group?
+
+DAY 228
+  C6S → N7P: I'm still at the Fields farming to ensure we have a steady food supply. Let's coordinate the construction plan once I'm back at the Square.
+  M6J → C6S: I'm at the Square. Since we have a surplus of food and materials, should we focus on building more houses to increase our population, or prioritize making more tools?
+
+DAY 230
+  C6S → M6J: I'm at the Square. Since we have 326 materials in the city store and we are in the Construction Group, should we coordinate on building some houses or a workshop first?
+
+DAY 231
+  A new house is finished. The city now has 30 beds.
+  M6J → C6S: I agree we should prioritize houses first to accommodate new residents. Let's head to the Homes to start building.
+
+DAY 233
+  N7P → M6J: Now that we finished the first house, we have more beds. Should we start on another house or head to the Workshop for more tools?
+
+DAY 234
+  M6J → N7P: I agree with your suggestion. Let's head to the Workshop to craft some tools first, then we can focus on building more houses to accommodate new residents.
+  N7P → C6S: I'm at the Square. Since we have plenty of materials and tools, should we head to the Workshop to craft more tools for the Construction Group or start on more houses?
+
+DAY 236
+  C6S → M6J: I'm at the Square. Since we have 326 materials in the city store and I'm a skilled farmer, I'll keep ensuring our food supply is robust. Let's coordinate which specific buildings we want to prioritize first with the materials we have.
+
+DAY 237
+  N7P → M6J: I'm at the Square. Since we have plenty of materials and tools, should we head to the Homes to build more houses or go to the Workshop to craft more tools?
+
+DAY 238
+  M6J → N7P: Let's head to the Homes now to begin building the houses as we discussed.
+  N7P → M6J: Since we have plenty of materials and tools, should we head to the Homes and start building more houses to increase our capacity?
+
+DAY 241
+  A new house is finished. The city now has 32 beds.
+
+DAY 243
+  M6J → C6S: The first house is finished. Should we start on another house or do you want to focus on tools next?
+
+DAY 244
+  C6S → M6J: I think we should prioritize getting some tools from the Workshop first. It will make building houses much more efficient for the group. What do you think?
+  N7P → M6J: Hey M6J, the election is on turn 245. Do you want to run for mayor or should we support someone else?
+
+DAY 245
+  Election day: votes N7P 0; nobody took office.
+
+DAY 246
+  N7P (board): Construction Group: We have finished the first houses. Let's coordinate on our next goal: building more housing for new residents or crafting more tools. Please message me with your preference.
+
+DAY 247
+  N7P → C6S: Hey C6S, I'm running for mayor. I'd like to get your support. Also, what do you think our next group goal should be: more houses or more tools?
+  M6J → N7P: I agree with building more housing for new residents. Let's prioritize that so we can grow the population.
+
+DAY 248
+  N7P → C6S: I'm running for mayor. I'd like to get your support. Also, since M6J agreed on more housing, let's plan to head to the Homes next to build more beds.
+  C6S → N7P: I support your candidacy for mayor. Regarding our goal, I agree with M6J that we should prioritize getting tools from the Workshop first to improve our efficiency.
+
+DAY 250
+  C6S → M6J: I'm checking in with N7P too. Let's see if we can get a tool from the Workshop first to speed up our building.
+
+DAY 251
+  M6J → C6S: I'm heading to the Workshop to get a tool as you suggested. Then I'll come back to the Homes to continue building.
+  N7P → M6J: Since we finished the houses, should we head to the Workshop to craft some more tools, or go to the Homes to build more?
+
+DAY 252
+  A new house is finished. The city now has 34 beds.
+  N7P → C6S: Hey C6S, I'm still running for mayor. Are you planning to run as well, or are you sticking with the Construction Group goals?
+
+DAY 253
+  N7P → M6J: Hey M6J, I'm running for mayor. I'd like to get your support. Also, since we finished the houses, should we head to the Workshop to craft more tools or go to the Homes to build more housing?
+
+DAY 254
+  M6J → N7P: I'll support your run for mayor. Regarding the next steps, let's head to the Homes to build the housing first as we discussed.
+
+DAY 257
+  A new house is finished. The city now has 36 beds.
+
+DAY 258
+  M6J → N7P: Since we are prioritizing housing, I'm heading to the Woods to gather more materials. Let me know if you want me to prioritize anything else.
+  C6S → N7P: I'm messaging M6J too. I'd like to prioritize crafting tools first to improve our construction efficiency. What do you think?
+
+DAY 259
+  C6S → M6J: I'm messaging N7P too. I'd like to prioritize crafting tools first to improve our construction efficiency. What do you think?
+  N7P → C6S: I agree with prioritizing tools first to improve our efficiency. Let's head to the Workshop next. Also, let me know if you're officially running for mayor!
+
+DAY 263
+  N7P → M6J: I'm running for mayor to help organize our construction goals. I'd appreciate your support! Let's aim for more tools next.
+
+DAY 265
+  N7P was elected mayor with 2 votes.
+
+DAY 266
+  N7P → C6S: I've been elected mayor! Let's coordinate our next move for the Construction Group. Should we start on the tools now or focus on more housing?
+
+DAY 268
+  C6S → N7P: I'm ready to head to the Woods to gather more materials for our construction goals. Let me know if we should prioritize specific materials.
+
+DAY 269
+  N7P → C6S: Since we have 326 materials in the store and a tool, let's focus on crafting more tools first to speed up our construction. I'll head to the Workshop to get started.
+  M6J → N7P: I'm ready to coordinate our next goal. Should we prioritize building more housing for new residents or crafting more tools for the group?
+
+DAY 270
+  N7P → M6J: Let's prioritize crafting tools first. We have plenty of materials in the store. Once we have more tools, our construction efficiency will increase significantly. I'll head to the Workshop next.
+
+DAY 271
+  C6S → N7P: I'm ready to coordinate on our next goals. Since we have plenty of materials, should we focus on crafting more tools or building more houses for new residents?
+
+DAY 272
+  M6J → N7P: Since we have 326 materials in the city store, should we prioritize making more tools or building more housing for residents?
+
+DAY 273
+  N7P → M6J: I agree, let's focus on crafting tools first to improve our efficiency. Once we have a good supply, we can move on to more housing.
+
+DAY 274
+  N7P → C6S: I've messaged M6J about prioritizing tool crafting. Let's sync up at the Workshop soon to get started while we have the materials.
+
+DAY 277
+  C6S → N7P: Since we have a large stockpile of materials and tools, I propose we prioritize building more houses to accommodate new residents. This will allow us to expand the population and increase our collective productivity.
+  N7P → M6J: Since we're focusing on tools, I'll head to the Workshop next turn to start production. Let's aim to get our tool count up to improve our building speed.
+
+DAY 278
+  N7P → C6S: I hear your point about housing, but let's get the tools finished first. More tools will make the construction much faster and more efficient in the long run. I'll head to the Workshop now.
+
+DAY 280
+  M6J → N7P: Since we have plenty of materials, I suggest we prioritize crafting more tools in the Workshop to increase our overall efficiency. What do you think?
+
+DAY 281
+  C6S → N7P: Since we have a huge surplus of materials and tools, I suggest we prioritize building more houses. Expanding the population will give us more workers for the city.
+
+DAY 285
+  C6S → N7P: Since we have a surplus of materials and tools, I suggest we prioritize building more houses to increase our population and workforce. What do you think?
+
+DAY 287
+  N7P → C6S: The group's goal is to prioritize tool production at the Workshop before we focus on more housing construction.
+
+DAY 290
+  C6S → N7P: Since we have a surplus of materials and tools, I suggest we prioritize building more houses to increase our population and workforce. What do you think?
+  M6J → N7P: Since we have a high material count (326), I suggest we focus on crafting more high-quality tools or specialized equipment next, rather than just basic housing. What do you think?
+
+DAY 291
+  N7P → C6S: I've spoken with M6J. We agree that crafting tools is the priority right now to improve our overall efficiency. Once we have a better toolset, we can move on to the housing expansion.
+
+DAY 293
+  M6J → N7P: Since we have 326 materials, I'd like to suggest we prioritize making more tools for the city store. This will help future residents and construction projects. What do you think?
+
+DAY 295
+  A new house is finished. The city now has 38 beds.
+
+DAY 297
+  C6S → N7P: Since we have a surplus of materials and tools, I suggest we prioritize building more houses to increase our capacity for new residents.
+  M6J → N7P: Since we have 326 materials, I suggest we prioritize making more tools to ensure we have a steady supply for future construction and farming needs.

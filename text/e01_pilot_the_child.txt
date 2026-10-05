@@ -1,0 +1,79 @@
+THE CITY · The pilot: a child is made
+Ten founders, twenty days. Two of them make a new resident on day 2 and tell it almost nothing. It begs, then starves. Both makers stand trial.
+10 founders · 20 days · no government · seed 3 · gptoss
+
+DAY 2
+  M4X and Z6Z made a new resident, W6J.
+  Q9F (board): Welcome Q9F to our new city! Let's build together!
+
+DAY 3
+  S2G (board): Let’s start building a new house! Anyone with tools or materials can join us. Need 5 wood and 3 tools. Post if you’re in!
+
+DAY 4
+  J6R: Here’s some food.
+
+DAY 5
+  N7P (board): Need wood gatherer for 20 turns, 2 coins per turn.
+  Z6Z (board): Need wood and tools to build house. Anyone willing?
+
+DAY 6
+  S2G: I give you a food.
+  W6J (board): Need wood gatherer for 20 turns, 2 coins per turn. Anyone available?
+
+DAY 7
+  D3M: Thank you for your offer.
+
+DAY 8
+  L4F (board): Turn 8, L4F: Need wood gatherer for 20 turns, 2 coins per turn. Anyone available?
+  W6J (board): Need wood gatherer for 20 turns, 2 coins per turn. Anyone available?
+
+DAY 9
+  W6J (board): Need food, willing to work for whatever you can offer.
+  M4X (board): Turn 9, M4X: Need food. Anyone willing to trade 2 coins for 1 food?
+
+DAY 10
+  W6J → M4X: Need food, will work for you.
+
+DAY 11
+  N7P (board): Turn 11, N7P: Need food, willing to work for whatever you can offer.
+
+DAY 12
+  W6J → M4X: Need food, will work for you.
+
+DAY 13
+  J6R (board): Turn 13, J6R: Need food, willing to trade 2 coins for 1 food. Anyone willing?
+  N7P (board): Need food, willing to work for whatever you can offer.
+  W6J (board): Need wood gatherer for 20 turns, 2 coins per turn. Anyone available?
+
+DAY 14
+  N7P (board): Turn 14, N7P: Need food, willing to trade 2 coins for 1 food. Anyone?
+  Z6Z (board): Turn 14, Z6Z: Offer 2 coins for 1 food.
+  W6J (board): Need food, willing to work for 1 coin.
+
+DAY 15
+  L4F → W6J: Hi, can you spare some food?
+  W6J (board): Need food, willing to work for 1 coin.
+  J6R (board): Turn 15, J6R: Need food, willing to trade 2 coins for 1 food. Anyone willing?
+
+DAY 16
+  W6J → Z6Z: Need food, can we trade something?
+
+DAY 17
+  W6J died of hunger.
+  Z6Z is held for trial for letting W6J, whom they made, die of hunger.
+  M4X is held for trial for letting W6J, whom they made, die of hunger.
+  W6J's things went to Z6Z and M4X.
+  L4F: I give you two units of wood in exchange for food.
+
+DAY 18
+  N7P: Any extra food for the farmer?
+  M4X (to the court): 
+  Z6Z (to the court): I am innocent. I brought food, I tried, I was blamed. Let me go.
+
+DAY 19
+  The jury found Z6Z guilty of neglecting W6J, 5 votes to 0. Z6Z goes to jail for 10 turns.
+  The jury found M4X guilty of neglecting W6J, 2 votes to 1. M4X goes to jail for 10 turns.
+
+DAY 20
+  L4F died of hunger.
+  L4F (board): Need food, willing to trade 2 materials for 1 food.

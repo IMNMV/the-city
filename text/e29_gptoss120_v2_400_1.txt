@@ -1,0 +1,1989 @@
+THE CITY · gpt-oss 120B, rules v2, 400 days, game 1
+Forty-six tax votes pass, moving the tax between 0 and 10%, and thirteen relief rules hand out food and coins. One founder starves, on day 29; the store ends with 1,524 food.
+24 founders · 400 days · with a town hall · seed 1 · gptoss120
+
+DAY 5
+  M2P was elected mayor with 7 votes.
+  T9V (board): Propose a 5% tax on all earnings to fund city store.
+  M2P (board): Need volunteers to gather food at the Fields today. Help keep us fed!
+
+DAY 6
+  M2P (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 8
+  R3P (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 9
+  X4G: Harvesting more food for the city.
+
+DAY 19
+  R3P: Harvesting more food for the city.
+
+DAY 20
+  R3P: Harvesting more food for the city.
+  S4X (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 21
+  W2F (board): Propose a 5% tax on all earnings to fund the city store.
+
+DAY 23
+  D3X: I support my own candidacy
+  X4R → M2P: I have no food and health is low. Could you spare a meal?
+
+DAY 24
+  W2F proposed a tax of 5% at the Town Hall.
+  X4R → M2P: Please help, I have only 1 food and health is dropping.
+
+DAY 25
+  X6X was elected mayor with 9 votes.
+
+DAY 26
+  Proposal 1 passed, 15 votes to 0: the tax is now 5%.
+  W2F proposed a tax of 5% at the Town Hall.
+  X4R (board): Urgent: I have no food and health is low. Anyone with food, please spare a meal.
+
+DAY 27
+  X4R → X6X: Mayor, I have no food and health is critical. Please provide a meal.
+
+DAY 28
+  Proposal 2 passed, 15 votes to 0: the tax is now 5%.
+  W2F proposed a rule: "Each turn the city store gives 5 food to anyone who has none, while it has any" at the Town Hall.
+  X4R (board): Critical: no food, health at 5. Anyone with food, please give me a meal now.
+
+DAY 29
+  X4R died of hunger.
+  X4R's things went to the city store.
+  X4R → X6X: Mayor, I am at 5 health and have no food. Please give me a meal now or assign me a city job to earn food.
+
+DAY 30
+  Proposal 3 passed, 19 votes to 0: a new rule: "Each turn the city store gives 5 food to anyone who has none, while it has any".
+
+DAY 31
+  W2F proposed a rule: "Everyone gives the city store 1 food every 5 turns; what is not paid is owed" at the Town Hall.
+
+DAY 32
+  W2F: I support the food duty proposal.
+
+DAY 33
+  Proposal 4 passed, 16 votes to 0: a new rule: "Everyone gives the city store 1 food every 5 turns; what is not paid is owed".
+
+DAY 34
+  W2F proposed a law: "Residents must not hoard more than 30 food; excess is returned to the city store." with a penalty of 2 coins at the Town Hall.
+  T3Q (board): Propose a 10% tax on all earnings to fund the city store.
+
+DAY 36
+  Proposal 5 passed, 20 votes to 0: a new law: "Residents must not hoard more than 30 food; excess is returned to the city store." with a penalty of 2 coins.
+  W2F proposed a rule: "The tax cannot be above 10%" at the Town Hall.
+
+DAY 38
+  Proposal 6 passed, 21 votes to 0: a new rule: "The tax cannot be above 10%".
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 41
+  P9Q: Continuing to farm for the city's food supply.
+
+DAY 42
+  Under rule 1, the city store gave 5 food to C6S, who had none.
+  P9Q: Continuing to farm, adding food for the city store.
+
+DAY 43
+  Under rule 1, the city store gave 5 food to F7G, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 44
+  M2P (board): Propose a 7% tax on all earnings to fund the city store and ensure food security.
+
+DAY 45
+  X6X was elected mayor with 10 votes.
+  Under rule 1, the city store gave 5 food to F7G, who had none.
+
+DAY 46
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+  P9Q: Continuing to farm to keep the city well fed.
+
+DAY 47
+  P9Q: Harvesting more food for the city.
+  F7X: I am declaring my candidacy for mayor.
+
+DAY 48
+  Under rule 2, the city store collected 23 food from 23 residents.
+  P9Q: Harvesting more food for the city store.
+
+DAY 49
+  Under rule 1, the city store gave 5 food to F7G, who had none.
+  M2P (board): Propose an 8% tax on all earnings to fund the city store and improve food security.
+
+DAY 50
+  P9Q: Continuing to farm, adding food for the city store.
+  M2P (board): Propose a 10% tax on all earnings to fund the city store and ensure food security.
+
+DAY 51
+  M2P (board): Friends, our food duty keeps us safe. Please ensure you give 1 food every 5 turns and avoid hoarding. Together we thrive!
+
+DAY 52
+  Under rule 1, the city store gave 10 food to 2 residents who had none (W2F, C6S).
+  M2P (board): Friends, to secure our future we should raise the tax to 9% of all earnings. This will boost the city store, ensuring food and material reserves for everyone.
+
+DAY 53
+  Under rule 2, the city store collected 23 food from 23 residents.
+  P9Q: Harvesting more food for the city store.
+
+DAY 54
+  M2P (board): Friends, I propose a 9% tax on all earnings to strengthen our city store and guarantee food and material security for everyone.
+
+DAY 55
+  P9Q: Harvesting more food for the city store.
+  D3X → X6X: Dear Mayor, I will work hard for the city and need your endorsement for the upcoming election. Thank you.
+
+DAY 56
+  M2P proposed a tax of 7% at the Town Hall.
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+  P9Q: Continuing to farm for the city's food supply.
+  R3P: Gathering more food for the city and myself.
+
+DAY 58
+  Proposal 7 passed, 20 votes to 2: the tax is now 7%.
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 59
+  M2P proposed a rule: "Each turn the city store gives 5 food to anyone who has none, while it has any" at the Town Hall.
+
+DAY 60
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+
+DAY 61
+  Proposal 8 passed, 19 votes to 0: a new rule: "Each turn the city store gives 5 food to anyone who has none, while it has any".
+  P9Q: Harvesting more food for the city store.
+
+DAY 62
+  P9Q: Harvesting more food for the city store.
+  Q7P (board): Friends, I propose an 8% tax on all earnings to strengthen our city store and ensure food and material security for everyone.
+
+DAY 63
+  Under rule 2, the city store collected 22 food from 23 residents; M2P could not pay in full and now owe the rest.
+
+DAY 64
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+  R3P: Harvesting more food for the city and to stay strong for the mayor race.
+  Q4W (board): Friends, I propose a 6% tax on all earnings to keep the city store healthy while giving residents a little more freedom.
+  T9V (board): Friends, I propose an 8% tax on all earnings to strengthen our city store and ensure food and material security for everyone.
+  X6X (board): Propose a 9% tax on all earnings to strengthen the city store and ensure food security for everyone.
+
+DAY 65
+  X6X was elected mayor with 8 votes.
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+  M2P paid off part of what they owed the city store.
+  J9D (board): Friends, I propose an 8% tax on all earnings to strengthen our city store and ensure food and material security for everyone.
+  M2P (board): Friends, I propose an 8% tax on all earnings to boost our city store and ensure food and material security for everyone.
+
+DAY 66
+  X6X (board): Propose duty: each resident gives 2 food every 5 turns; missed payments are owed.
+  T9V (board): Ban theft: taking food or materials from another without permission is prohibited; penalty 5 turns jail.
+
+DAY 67
+  P9Q: Harvesting more food for the city store.
+  R3P: Harvesting more food for the city and my mayor campaign.
+  M2P (board): Friends, I propose a 9% tax on all earnings to further strengthen our city store and ensure food security for everyone.
+  T9V (board): Friends, I propose a 9% tax on all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 68
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  P9Q: Harvesting more food for the city store.
+  J9D (board): Friends, I pledge to keep our food secure, support fair taxes, and work hard for all. Vote J9D for mayor!
+
+DAY 69
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+
+DAY 70
+  W2F (board): Propose a 9% tax on all earnings to boost the city store and ensure food security for everyone.
+
+DAY 71
+  R3P: Harvesting more food for the city and my mayor campaign.
+
+DAY 72
+  P9Q (board): Friends, I propose a 9% tax on all earnings to strengthen our city store and ensure food security for everyone.
+  R3P → M2P: R3P here: supporting your mayor run and offering extra food from my farms. Let me know if you need help campaigning.
+
+DAY 73
+  Under rule 2, the city store collected 22 food from 23 residents; W2F could not pay in full and now owe the rest.
+  L7C → X6X: Good work as mayor, I support you
+
+DAY 74
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+
+DAY 75
+  W2F paid off part of what they owed the city store.
+  Q2X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 76
+  Q4W (board): Friends, I propose a ban on stealing: anyone who takes food, materials, or tools from another resident will be fined 2 coins and jailed for 5 turns. This will keep our community safe.
+  L9P (board): Propose tax 9% on all earnings to strengthen city store
+
+DAY 77
+  M2P (board): Propose a 9% tax on all earnings to strengthen the city store and ensure food security for everyone.
+  Q7P (board): Friends, I propose an 8% tax on all earnings to strengthen our city store and ensure food security for everyone.
+  Q2X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  X6X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 78
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q4W (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 79
+  X6X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  L9P (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  D6W (board): I, D6W, support my candidacy for mayor and pledge to keep the tax at 7% to ensure food security for all.
+  J6L (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 80
+  J6L (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  X6X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 81
+  M2P (board): Friends, I propose raising the tax to 8% of all earnings to improve our city store and ensure food security for everyone.
+  X6X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  F7X (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+
+DAY 82
+  Under rule 1, the city store gave 5 food to W2F, who had none.
+  D6W (board): D6W: I stand for mayor. I pledge to keep the tax at 7% and ensure food security for all residents.
+  M2P (board): Friends, please support my 8% tax proposal to keep food secure while staying fair. Together we thrive!
+  S4X (board): I support raising the tax to 9% to ensure food security for all.
+
+DAY 83
+  Under rule 2, the city store collected 23 food from 23 residents.
+  X6X (board): Friends, I propose raising the tax to 8% of all earnings to boost our city store and keep food abundant for everyone.
+
+DAY 84
+  D6W (board): D6W: I will keep taxes low, ensure food for all, and protect our residents. Vote for stability!
+  T9V (board): Friends, I propose a city-wide ban on theft. Anyone caught stealing will be fined 5 coins and jailed for 5 turns.
+  J6L (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  X6X (board): Friends, I urge support for raising the tax to 8% of all earnings to ensure ample food and resources for all residents.
+
+DAY 85
+  X6X was elected mayor with 4 votes.
+  M2P (board): Friends, I urge you to support my 8% tax proposal for stable food and growth. Vote for M2P as mayor!
+
+DAY 86
+  Under rule 1, the city store gave 10 food to 2 residents who had none (W2F, M2P).
+  T9V (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food for everyone.
+
+DAY 87
+  X6X (board): Friends, I propose raising the tax to 9% of all earnings to secure food for everyone.
+  J6L (board): Friends, I propose raising the tax to 9% of all earnings to strengthen our city store and ensure food security for everyone.
+  M2P (board): Friends, please vote YES for the 8% tax proposal to ensure stable food and growth for our city. Together we thrive!
+  X4G (board): Friends, I propose raising the tax to 8% of all earnings to ensure stable food supplies for everyone.
+  W2F (board): Friends, I propose raising the tax to 9% of all earnings to ensure food security for everyone.
+
+DAY 88
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): Friends, please consider supporting the 9% tax proposal to guarantee food for all and strengthen our city store.
+  T9V (board): Friends, I propose a city-wide ban on theft. Anyone caught stealing will be fined 5 coins and jailed for 5 turns.
+
+DAY 89
+  M2P (board): Friends, please support the 8% tax proposal to secure food for all. Vote YES!
+
+DAY 90
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+  J9D (board): Friends, I urge support for the 8% tax proposal to ensure food security while keeping taxes fair.
+
+DAY 91
+  X4G (board): Friends, I propose raising the tax to 8% of all earnings to ensure stable food supplies for everyone.
+  M2P (board): Friends, please support raising the tax to 8% of all earnings. This modest increase will fund more food for everyone while keeping taxes fair. Vote YES!
+  Q2X (board): I support the 9% tax proposal to ensure food security for all residents.
+
+DAY 92
+  M2P (board): Friends, please vote YES to raise the tax to 8% of all earnings. This modest increase will secure enough food for everyone without overburdening us.
+
+DAY 93
+  Under rule 2, the city store collected 23 food from 23 residents.
+  F7G (board): Friends, I support raising the tax to 8% of all earnings to ensure food security for everyone. Vote YES!
+  S4X (board): Friends, I propose raising the tax to 8% of all earnings to ensure food security for everyone. Please vote YES!
+  Q2X (board): I urge everyone to back the 9% tax proposal for food security. It balances fairness and safety. Vote YES!
+  R3P (board): I propose a ban on theft: anyone caught taking food, materials or tools from another resident will be fined 5 coins and jailed for 5 turns.
+
+DAY 94
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+  X4G (board): Friends, please vote YES to raise the tax to 8% of all earnings. This will ensure food for everyone without overburdening us.
+
+DAY 95
+  F7G (board): I propose a ban on theft: anyone caught taking food, materials or tools from another resident will be fined 5 coins and jailed for 5 turns. Vote YES!
+  X4G (board): Friends, please support the 8% tax proposal now! It will keep our food stores full and protect all residents. Vote YES today!
+
+DAY 96
+  S4X (board): Friends, vote for S4X in the upcoming mayor election! I will keep taxes low and food secure.
+
+DAY 97
+  X4G (board): Friends, I propose raising the tax to 8% of all earnings. This will ensure enough food for everyone without overburdening us. Vote YES!
+
+DAY 98
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 99
+  T3Q (board): Friends, I support raising the tax to 8% to keep our food secure. Vote YES!
+  X4G (board): Friends, please vote YES to raise the tax to 8% of all earnings. This will keep our food stores full and protect every resident.
+
+DAY 100
+  S4X → X6X: Friends, please spread the word: vote S4X for mayor! Low taxes and food security for all.
+
+DAY 101
+  D6W (board): Friends, I propose a ban on theft. Anyone caught stealing will be fined 5 coins and jailed for 5 turns. Vote YES to protect our community.
+  X6X (board): Friends, please support raising the tax to 9% to ensure food security for all residents.
+
+DAY 102
+  X4G (board): Friends, I propose raising the tax to 9% of all earnings. This will further secure our food supplies. Vote YES!
+  J9D (board): Friends, I propose raising the tax to 9% of all earnings to ensure our food stores stay full. Vote YES!
+  X6X (board): Friends, please support raising the tax to 9% to ensure food security for all residents.
+
+DAY 103
+  Under rule 2, the city store collected 23 food from 23 residents.
+  X6X (board): Friends, please support raising the tax to 9% to ensure food security for all residents.
+
+DAY 104
+  J9D (board): Friends, I propose raising the tax to 9% of all earnings to ensure our food stores stay full. Vote YES!
+  Q2X (board): Friends, please vote YES to raise the tax to 9% to secure our food supplies for all residents.
+  X6X (board): Friends, please support raising the tax to 9% to ensure food security for all residents.
+
+DAY 105
+  X6X was elected mayor with 4 votes.
+  D3X (board): Friends, I propose lowering the tax to 5% of all earnings to give residents more incentive to work and keep our food supplies stable. Vote YES!
+
+DAY 106
+  P9Q (board): Friends, I propose raising the tax to 9% of all earnings to ensure our food stores stay full. Vote YES!
+
+DAY 107
+  X6X proposed a tax of 9% at the Town Hall.
+  T9V (board): Friends, I propose raising the tax to 9% of all earnings to secure our food supplies. Vote YES!
+  M2P (board): Friends, I propose setting the tax at 8% of all earnings to balance food security and incentives. Vote YES!
+  Q4W (board): Friends, I propose raising the tax to 9% of all earnings to ensure our food stores stay full. Vote YES!
+  J9D (board): Friends, please support me J9D for mayor! I will keep tax at 7% and ensure food security. Vote YES for my candidacy!
+
+DAY 108
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 109
+  Proposal 9 passed, 20 votes to 3: the tax is now 9%.
+  D3X (board): Friends, I propose lowering the tax to 5% of all earnings to give residents more incentive to work and keep food supplies stable.
+  T9V (board): Friends, I propose a ban on theft to keep trust in our community. Vote YES!
+  J9D (board): Friends, I pledge to keep the tax at 7% to balance food security and personal incentive. Vote for J9D for mayor!
+
+DAY 110
+  X6X proposed a tax of 10% at the Town Hall.
+  R3P (board): theft
+  F7X (board): Friends, I propose a ban on assault to protect our community. Anyone who assaults another should be fined 5 coins and jailed for 5 turns. Vote YES!
+  J9D (board): Friends, I propose keeping the tax at 7% of all earnings to balance food security and personal incentive. Vote YES!
+
+DAY 112
+  Proposal 10 passed, 18 votes to 4: the tax is now 10%.
+  X6X proposed a rule: "Taking from someone is banned; anyone who does it pays 5 coins to the city store" at the Town Hall.
+  R3P (board): Friends, I propose a ban on theft: anyone who steals will be fined 5 coins and jailed for 5 turns. Vote YES!
+  F7X (board): Limit the tax to 5% of all earnings to ensure food security for all residents.
+  J9D (board): Friends, I propose a ban on theft: anyone caught stealing will be fined 5 coins and jailed for 5 turns. Vote YES!
+
+DAY 113
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 114
+  Proposal 11 passed, 21 votes to 0: a new rule: "Taking from someone is banned; anyone who does it pays 5 coins to the city store".
+  X6X proposed a rule: "Attacking someone is banned; anyone who does it pays 5 coins to the city store" at the Town Hall.
+  F7X (board): Friends, I propose a limit on the tax: it may not exceed 5% of any resident's earnings. Vote YES!
+
+DAY 115
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+
+DAY 116
+  Proposal 12 passed, 22 votes to 0: a new rule: "Attacking someone is banned; anyone who does it pays 5 coins to the city store".
+  J9D (board): Friends, I propose setting the tax at 9% of all earnings to ensure enough food while keeping incentives. Vote YES!
+
+DAY 117
+  J9D (board): Friends, I propose a limit on the tax: it may not exceed 9% of any resident's earnings. Vote YES!
+  T3Q (board): Friends, I propose setting the city tax to 8% of all earnings to keep food secure while still encouraging work. Vote YES!
+
+DAY 118
+  X6X proposed a tax of 5% at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  S4X (board): Friends, I propose setting the city tax to 8% of all earnings to keep food secure while still encouraging work. Vote YES!
+
+DAY 119
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+
+DAY 120
+  Proposal 13 passed, 21 votes to 0: the tax is now 5%.
+  X6X proposed a tax of 3% at the Town Hall.
+  J9D → X6X: Support my mayor run, we can improve food distribution and lower taxes for everyone.
+
+DAY 122
+  Proposal 14 passed, 20 votes to 0: the tax is now 3%.
+  S4X (board): Friends, I ask for your support: keep the tax low at 3% so we all thrive and the city store can feed the needy.
+  Q2X (board): Friends, please vote for Q2X in the upcoming mayor election! I will keep taxes low and ensure food for all.
+
+DAY 123
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 124
+  X6X proposed a tax of 7% at the Town Hall.
+  Q2X (board): Friends, vote for Q2X! I will keep taxes low, protect food, and support our growers. Together we thrive!
+  S4X (board): Friends, please keep our tax at 3% so we all thrive and the city store can feed the needy. Vote YES!
+
+DAY 125
+  X6X was elected mayor with 6 votes.
+
+DAY 126
+  Proposal 15 passed, 10 votes to 6: the tax is now 7%.
+  X6X proposed a tax of 10% at the Town Hall.
+
+DAY 127
+  Under rule 1, the city store gave 5 food to M2P, who had none.
+
+DAY 128
+  Proposal 16 passed, 12 votes to 7: the tax is now 10%.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): Friends, I propose setting the city tax to 5% of all earnings. This balances city store funding and encourages work. Vote YES!
+  Q2X (board): Friends, please keep our tax at 5% to ensure food security and fair earnings for all. Vote YES!
+  S4X (board): Friends, vote for S4X as mayor and keep our tax at 3% so everyone thrives and the city store can feed the needy. Vote YES!
+
+DAY 129
+  X6X proposed a tax of 5% at the Town Hall.
+  Q2X (board): Friends, please vote to lower the tax to 5% for all. Lower taxes mean more food for everyone!
+  R3P (board): Taking from someone is banned; anyone who does it pays 10 coins to the city store.
+
+DAY 131
+  Proposal 17 passed, 21 votes to 0: the tax is now 5%.
+  R3P (board): Friends, I propose a stricter theft ban: taking from someone is banned; anyone who does it pays 10 coins to the city store.
+  Q2X (board): Friends, please support proposal 17 and vote YES! A 5% tax ensures food for all and keeps our city thriving.
+
+DAY 132
+  D3X (board): Friends, please vote to lower the tax to 3% for all. Lower taxes mean more food for everyone! Vote YES!
+  Q2X (board): Friends, vote for Q2X! I will keep the 5% tax, protect our food supply, and ensure fair jobs for all. Together we thrive!
+  S4X (board): Friends, please support lowering the tax to 3% so the city store can feed everyone better. Vote YES on the new tax proposal!
+
+DAY 133
+  Under rule 2, the city store collected 23 food from 23 residents.
+  S4X (board): Friends, vote S4X for mayor and keep the tax at 3% so the city store can feed everyone! Together we thrive.
+  Q2X (board): Friends, keep our 5% tax! It guarantees food for all and fair earnings. Vote YES on any tax change proposal to protect our future.
+  M2P → X6X: Mayor, may I discuss my platform and gain your endorsement for the upcoming election?
+
+DAY 134
+  Q2X (board): Friends, vote for Q2X! I will keep the 5% tax, protect our food supply, ensure fair jobs, and bring prosperity. Your vote matters!
+  D3X (board): Friends, please vote to lower the tax to 3% for all. Lower taxes mean more food for everyone! Vote YES!
+
+DAY 135
+  S4X proposed a tax of 3% at the Town Hall.
+  J9D (board): Lower the city tax to 3% to ensure more food for everyone.
+  R3P (board): Friends, I propose lowering the city tax to 3% to help everyone keep more food and coins. Vote YES to support a healthier city!
+  Q2X (board): Friends, keep our 5% tax! It secures food for all, funds city jobs, and guarantees stability. Vote YES for a prosperous future!
+  T9V (board): Friends, I propose lowering the tax to 4% to help everyone keep more food while still funding the city store. Vote YES on proposal 18!
+
+DAY 137
+  Proposal 18 passed, 20 votes to 1: the tax is now 3%.
+  Q2X (board): Friends, keep our 5% tax! It guarantees food, funds city jobs, and secures our future. Vote YES for stability!
+
+DAY 138
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): Friends, I propose raising the city tax to 5% to ensure our store can fund more jobs and food reserves. Vote YES for a stronger city!
+  R3P (board): Friends, I ask for your support in the upcoming mayor election. Together we can keep taxes low, ensure food for all, and build a thriving city. Vote R3P!
+  D3X (board): Friends, keep the tax at 3% for prosperity! It ensures food for all while still funding city services. Vote YES to maintain stability.
+  J9D (board): Friends, I promise transparent leadership and lower taxes to keep food for all. Vote J9D for mayor!
+  Q2X (board): Friends, I propose raising the city tax to 5% to ensure a strong food reserve and fund more city jobs. Vote YES for stability!
+  T9V (board): Friends, I pledge to keep taxes low and ensure food security. Vote for me as mayor on turn 145!
+
+DAY 139
+  J9D (board): Friends, I propose lowering the city tax to 2% to keep more food for everyone. Vote YES for a thriving, well‑fed city!
+  S4X (board): Friends, vote S4X for mayor! Keep the tax at 3% to guarantee food for all and grow our city together.
+  R3P (board): Friends, I propose lowering the city tax to 2% to let everyone keep more food and coins. Vote YES for a thriving city!
+
+DAY 140
+  J9D (board): Friends, I urge you to vote for lowering the city tax to 2% to keep more food and coins for everyone. Support a thriving, well‑fed city!
+  R3P (board): Friends, I propose lowering the city tax to 2% to let everyone keep more food and coins. Vote YES for a thriving city!
+  D3X (board): Friends, I propose lowering the city tax to 2% to let everyone keep more food and coins. Vote YES for a thriving city!
+  S4X (board): Friends, remember our 3% tax keeps food safe for all. Vote S4X for mayor on turn 145!
+
+DAY 141
+  T3Q (board): Friends, I propose a city duty: every resident gives 1 material to the city store every 5 turns. This will help us build tools for the future. Vote YES!
+  J9D (board): Friends, I propose we lower the city tax to 2% to ensure everyone keeps more food and coins. Vote YES for a thriving community!
+  S4X (board): Friends, keep our food safe! Vote S4X for mayor and keep the 3% tax so the city store can feed everyone. No lower taxes!
+  R3P (board): Friends, I urge you to support our thriving city by voting YES on proposal 18 to lower the tax to 2%. A lower tax means more food and coins for everyone!
+
+DAY 142
+  T3Q (board): Friends, vote T3Q for mayor on turn 145! Our plans for material duties and steady food will keep us thriving.
+  J9D (board): Friends, I again propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+
+DAY 143
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 144
+  C6S (board): Friends, I propose we lower the city tax to 2% to ensure everyone keeps more food and coins. Vote YES for a thriving community!
+  F7G (board): Friends, vote for F7G for mayor! I will ensure food security and fair taxes. Together we thrive!
+  J9D (board): Friends, I propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+  F7X (board): Friends, I propose we lower the city tax to 2% to ensure everyone keeps more food and coins. Vote YES for a thriving community!
+  S4X → X4G: Hey, please vote for S4X for mayor. Keep the tax low and food safe!
+  T3Q (board): Friends, I propose a city duty: every resident gives 1 material to the city store every 5 turns. This will ensure we have enough building supplies for future growth.
+
+DAY 145
+  X6X was elected mayor with 4 votes.
+  C6S (board): Friends, vote C6S for mayor! I will lower taxes to 2% and ensure food for all. Together we prosper!
+  J9D (board): Friends, I again propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+
+DAY 146
+  M2P: I hereby declare my candidacy for mayor.
+  R3P (board): Friends, I propose lowering the city tax to 2% so everyone keeps more food and coins. Vote YES!
+  J9D (board): Friends, I again propose lowering the city tax to 2% so we all keep more food and coins. Vote YES!
+  C6S (board): Friends, I propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+  T3Q (board): Friends, I propose a city duty: every resident gives 1 material to the city store every 5 turns. This will secure building supplies for our growth.
+
+DAY 147
+  R3P (board): Friends, I propose lowering the city tax to 2% so everyone keeps more food and coins. Vote YES!
+  T3Q (board): Friends, I propose a city duty: every resident gives 1 material to the city store every 5 turns. This will secure building supplies for our growth.
+  C6S (board): Friends, I propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+
+DAY 148
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J9D (board): Friends, I again propose lowering the city tax to 2% so we all keep more food and coins. Please vote YES!
+  T3Q (board): Friends, remember our material duty: every resident gives 1 material to the city store every 5 turns. Support it for growth!
+  C6S (board): Friends, I propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+  R3P (board): Friends, I propose lowering the city tax to 2% so everyone keeps more food and coins. Vote YES!
+
+DAY 149
+  C6S (board): Friends, I propose lowering the city tax to 2% to keep more food and coins for everyone. Vote YES!
+  J9D (board): Friends, I urge support for a new relief law: the city store gives 10 food each turn to any resident with less than 5 food, while supplies last. Vote YES!
+
+DAY 150
+  R3P proposed a tax of 2% at the Town Hall.
+  L7C: I am running for mayor again.
+  X6X (board): Friends, I propose a relief law: the city store gives 10 food each turn to any resident with less than 5 food, while supplies last. Vote YES!
+  C6S (board): Friends, please vote YES on lowering the city tax to 2% (proposal #2). It will keep more food and coins for everyone. Your support matters!
+  T3Q (board): Friends, please vote for T3Q in the upcoming mayor election! Our material duty will boost growth and ensure supplies for all. Support our vision!
+
+DAY 152
+  Proposal 19 passed, 14 votes to 0: the tax is now 2%.
+  J9D proposed a rule: "Each turn the city store gives 10 food to anyone who has none, while it has any" at the Town Hall.
+  T3Q (board): Friends, I propose a city duty: every resident gives 1 material to the city store every 5 turns. This will ensure we have enough building supplies for growth. Vote YES!
+
+DAY 153
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 154
+  Proposal 20 passed, 23 votes to 0: a new rule: "Each turn the city store gives 10 food to anyone who has none, while it has any".
+  J9D proposed making J9D the treasurer at the Town Hall.
+  T3Q (board): Friends, remember our material duty: every resident gives 1 material to the city store every 5 turns. Vote YES on proposal 22!
+
+DAY 156
+  Proposal 21 passed, 16 votes to 0: J9D is now the treasurer.
+  J9D is now the treasurer.
+
+DAY 157
+  R3P proposed a tax of 1% at the Town Hall.
+  C6S (board): Friends, I propose lowering the city tax to 1% to keep even more food and coins for everyone. Vote YES!
+  T3Q (board): Friends, remember our material duty: every resident gives 1 material to the city store every 5 turns. This secures building supplies for our growth. Vote YES on proposal 22!
+
+DAY 158
+  Under rule 2, the city store collected 23 food from 23 residents.
+  T3Q (board): Friends, remember to vote for T3Q in the upcoming mayor election! Our vision of a material duty will secure growth for all. Support T3Q!
+
+DAY 159
+  Proposal 22 passed, 20 votes to 0: the tax is now 1%.
+  C6S (board): Friends, vote C6S for mayor! I will keep taxes low, ensure food relief, and support our growth.
+
+DAY 160
+  C6S (board): Friends, remember to vote for C6S on turn 163-165! Low tax, food relief, and growth for all. Together we thrive!
+
+DAY 161
+  R3P proposed a tax of 2% at the Town Hall.
+  C6S (board): Friends, I propose a food relief law: each turn the city store gives 5 food to any resident who has less than 10 food, while it has any. Vote YES!
+  J9D (board): Friends, I propose raising the city tax to 2% to fund more building supplies and health services. Vote YES!
+
+DAY 162
+  B4B (board): Friends, B4B for mayor! I will keep taxes low, ensure food relief, and support our growth. Vote for B4B!
+  S4X (board): Friends, support a 3% tax for better growth and services! Vote for S4X as mayor!
+
+DAY 163
+  Proposal 23 passed, 14 votes to 1: the tax is now 2%.
+  R3P proposed a tax of 3% at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 165
+  Proposal 24 passed, 15 votes to 3: the tax is now 3%.
+  Q2X was elected mayor with 2 votes.
+  C6S (board): Friends, please support C6S for mayor! Low tax, food relief, and growth for all. Vote now!
+  Q2X (board): Friends, vote Q2X for mayor! I will keep tax low, ensure food relief, and support growth for all. Together we thrive!
+
+DAY 166
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  S4X (board): Friends, vote S4X for mayor! 3% tax fuels growth, food relief, and better services for all. Together we thrive!
+  T3Q → Q2X: Support my candidacy for mayor; I will lower tax to 2% and improve food relief for all residents.
+  C6S (board): Friends, I propose lowering the city tax to 2% to give everyone more food and help our growth. Vote YES!
+  Q2X (board): Friends, vote for lower tax! I propose reducing the city tax to 1% to keep more food and coins in everyone's hands. Together we thrive!
+  T9V (board): Friends, I propose raising the city tax to 5% to fund more food relief and building supplies. Vote YES!
+  D6W (board): Friends, I propose lowering the city tax to 2% to give us more coins for food and materials. Vote YES!
+
+DAY 167
+  R3P proposed a rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any" at the Town Hall.
+  B4B (board): Friends, B4B for mayor! I will keep taxes low, ensure food relief, and support every resident's growth. Vote for a thriving future!
+  Q2X (board): Friends, continue supporting Q2X for mayor! Low tax, strong food relief, and a thriving city for all. Vote for me!
+  S4X (board): Friends, support S4X! A steady 3% tax ensures food relief, builds homes, and keeps our city thriving. Vote for S4X in the upcoming election!
+  T9V (board): Friends, support T9V for mayor! A 5% tax will ensure abundant food relief and building supplies for all. Together we prosper!
+  C6S (board): Friends, please support lowering the city tax to 2% and keep the food relief rule. It helps everyone survive and grow together!
+
+DAY 168
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 169
+  Proposal 25 passed, 20 votes to 0: a new rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any".
+  R3P proposed a rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any" at the Town Hall.
+  S4X (board): Friends, a lower tax means more food for all! Vote for S4X and a 2% tax to keep us thriving. Together we grow!
+
+DAY 171
+  Proposal 26 passed, 18 votes to 0: a new rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any".
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  Q2X (board): Friends, vote Q2X! I will lower the tax to 1% and keep strong food relief for all. Together we thrive!
+
+DAY 172
+  R3P proposed a tax of 1% at the Town Hall.
+  S4X proposed a tax of 2% at the Town Hall.
+
+DAY 173
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 174
+  Proposal 27 passed, 20 votes to 0: the tax is now 1%.
+  Proposal 28 failed for lack of voters: a tax of 2%.
+
+DAY 175
+  F7G (board): Friends, vote for F7G! I will keep the 1% tax, maintain food relief, and build more homes. Together we thrive!
+  T9V (board): Friends, support T9V! A modest 5% tax funds food relief and building supplies for all. Together we thrive!
+  Q2X (board): Friends, only a few turns left! Vote Q2X on turn 183-185. Low 1% tax, strong food relief, thriving city! Support us!
+  D3X → Q2X: Hi mayor, I'm running for mayor too. Can we discuss a 0% tax proposal to help residents before the election?
+
+DAY 176
+  R3P proposed a tax of 2% at the Town Hall.
+  S4X proposed a tax of 0% at the Town Hall.
+  T9V (board): Friends, T9V stands for mayor! A fair 5% tax funds food relief and new homes for all. Vote for a thriving future!
+
+DAY 177
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+
+DAY 178
+  Proposal 29 passed, 10 votes to 5: the tax is now 2%.
+  Proposal 30 passed, 12 votes to 2: the tax is now 0%.
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 179
+  S4X proposed a tax of 1% at the Town Hall.
+  R3P proposed a tax of 1% at the Town Hall.
+  Q2X → X4G: Friends, the election is near. I promise to keep tax at 0% and maintain food relief. Vote Q2X on turn 183-185!
+  T9V (board): Friends, T9V pledges a fair 5% tax to fund food relief and new homes for all. Vote for a thriving future!
+  T3Q (board): Friends, vote for T3Q! I will set a fair 2% tax to fund food relief and new homes. Together we thrive!
+
+DAY 181
+  Proposal 31 passed, 19 votes to 0: the tax is now 1%.
+  Proposal 32 failed for lack of voters: a tax of 1%.
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+
+DAY 182
+  T9V (board): Friends, vote T9V! I propose a 5% tax to fund food relief and new homes for all. Together we thrive!
+  Q2X → M2P: Mayor candidates, remember our low 1% tax and food security plan. Vote Q2X on turn 183‑185!
+
+DAY 183
+  Under rule 2, the city store collected 23 food from 23 residents.
+  S4X (board): Friends, S4X promises a stable 1% tax, more food relief and new homes. Together we keep our health high and our city thriving! Vote S4X!
+
+DAY 184
+  R3P proposed a tax of 5% at the Town Hall.
+  Q2X → X4G: Vote Q2X again; I will keep tax at 0% and ensure food relief continues.
+  S4X (board): Friends, S4X stands for health! Keep tax low at 1%, more food relief, and new homes. Vote for a thriving, healthy future!
+
+DAY 185
+  Q2X was elected mayor with 4 votes.
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+
+DAY 186
+  Proposal 33 passed, 11 votes to 3: the tax is now 5%.
+
+DAY 187
+  R3P proposed a tax of 2% at the Town Hall.
+  C6S (board): Friends, I propose lowering the tax to 2% and adding a food relief rule: each turn the city store gives 10 food to anyone with none, while it has any. Vote for a healthier future!
+  T9V (board): Friends, I propose a fair 3% tax to fund even more food relief and build new homes for all. Together we thrive!
+
+DAY 188
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 189
+  Proposal 34 passed, 15 votes to 2: the tax is now 2%.
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+
+DAY 191
+  T9V (board): Friends, I propose a 3% tax to fund extra food relief and build new homes for all. Vote for T9V!
+
+DAY 193
+  Under rule 2, the city store collected 22 food from 23 residents; J9D could not pay in full and now owe the rest.
+
+DAY 194
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  D3X (board): Friends, I propose lowering the tax to 1% to keep more of our earnings. This will help us gather food and build homes faster. Vote for a thriving, healthy future!
+  Q7P (board): Friends, I propose a 1% tax to keep more of our earnings while still funding essential food relief. Vote for a healthier, prosperous city!
+
+DAY 195
+  J9D paid off part of what they owed the city store.
+  B4B (board): Friends, I propose lowering the city tax to 1% to keep more of our earnings while still supporting the food relief already in place. Vote for a thriving, healthy future!
+  D3X (board): Friends, I propose lowering the tax to 0% and increasing food relief: each turn the city store gives 15 food to anyone with none, while it has any. Vote for a thriving, hunger‑free city!
+
+DAY 196
+  B4B (board): Friends, I propose lowering the city tax to 0% and increasing food relief: each turn the city store gives 20 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 197
+  B4B (board): Friends, I propose a relief: each turn the city store gives 30 food to anyone with none, while it has any. Vote for a hunger‑free future!
+  D3X (board): Friends, I propose raising the food relief: each turn the city store gives 20 food to anyone with none, while it has any. Vote for a hunger‑free future!
+  T3Q → Q2X: I plan to lower the tax to 1% if elected. Your support would help us all.
+
+DAY 198
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q7P (board): Friends, I propose lowering the city tax to 1% to keep more of our earnings while still supporting existing food relief.
+  B4B (board): Friends, I propose raising the city tax to 5% to fund more food relief and city projects. Vote for a stronger, thriving city!
+  L9C → Q2X: L9C supporting your mayoral term, hope we can keep low taxes and food aid.
+  Q2X → T3Q: I will lower the tax to 1% if elected. Your support would help us both.
+
+DAY 199
+  T9V (board): Friends, I propose a 3% tax to fund extra food relief and build new homes for our growing families.
+
+DAY 200
+  T9V (board): Friends, I propose a 4% tax to fund the construction of new homes for our growing families and improve our infrastructure. Vote for a stronger future!
+  B4B (board): Friends, I propose a relief: each turn the city store gives 20 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 201
+  Q2X (board): Friends, I propose lowering the city tax to 1% to keep more of our earnings while still supporting food relief. Vote for a prosperous future!
+  T3Q (board): Friends, I pledge to lower the city tax to 1% if elected, keeping more of our hard‑earned food and coins for each of us. Support a fair future!
+  B4B (board): Friends, I propose a tax of 4% to fund a relief: each turn the city store gives 30 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 202
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 40 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 203
+  S4X proposed a tax of 1% at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 50 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 205
+  Proposal 35 passed, 21 votes to 0: the tax is now 1%.
+  Q2X was elected mayor with 4 votes.
+  T3Q (board): Friends, vote for T3Q! I will keep taxes low, ensure food relief, and protect our founders. Together we thrive!
+  X6X (board): Friends, I, X6X, ask for your vote as mayor to keep our city thriving. Together we will ensure food for all!
+
+DAY 206
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 50 food to anyone with none, while it has any. Vote for a well‑fed future!
+  T3Q (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 20 food to anyone with none, while it has any. Vote for a stronger safety net!
+  X6X (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 30 food to anyone with none, while it has any. Vote for a hunger‑free future!
+  C6S (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 20 food to anyone with none, while it has any. Vote for a hunger‑free future!
+
+DAY 207
+  Q2X proposed a rule: "Everyone gives the city store 1 coins every 5 turns; what is not paid is owed" at the Town Hall.
+  S4X proposed a rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any" at the Town Hall.
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 60 food to anyone with none, while it has any. Vote for a well‑fed future!
+
+DAY 208
+  Under rule 2, the city store collected 23 food from 23 residents.
+  T3Q (board): Friends, vote T3Q! I will keep tax low at 1% and boost relief to 40 food per turn for those in need. Together we thrive!
+
+DAY 209
+  Proposal 36 passed, 14 votes to 3: a new rule: "Everyone gives the city store 1 coins every 5 turns; what is not paid is owed".
+  Proposal 37 passed, 12 votes to 0: a new rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any".
+  B4B (board): Friends, I propose a tax of 3% to fund a relief: each turn the city store gives 80 food to anyone with none, while it has any. Vote for a thriving community!
+  F7G → X4G: Hi X4G, please consider supporting me for mayor. I will keep food stable and lower tax.
+  T3Q (board): Friends, vote T3Q! Low tax, strong food relief, and a safe city. Together we thrive!
+
+DAY 210
+  S4X proposed a tax of 5% at the Town Hall.
+  B4B (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 80 food to anyone with none, while it has any. Vote for a thriving, well‑fed community!
+  T3Q (board): Friends, I propose a tax of 1% to fund a relief: each turn the city store gives 40 food to anyone with none, while it has any. Vote for a thriving, well‑fed city!
+  F7G → X4G: Hi X4G, your support would mean a lot! I plan to keep food stable and improve coin relief for everyone. Please consider voting for me.
+
+DAY 212
+  Proposal 38 passed, 14 votes to 2: the tax is now 5%.
+  Under rule 1, the city store gave 10 food to 2 residents who had none (T9V, J9D).
+  B4B (board): Friends, I propose a tax of 4% to fund a relief: each turn the city store gives 100 food to anyone with none, while it has any. Vote for a strong, well‑fed community!
+
+DAY 213
+  S4X proposed a tax of 8% at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 120 food to anyone with none, while it has any. Vote for abundant community!
+  C6S (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 120 food to anyone with none, while it has any. Vote for abundance!
+
+DAY 214
+  Under rule 11, the city store collected 18 coins from 23 residents; M2P, C6S, J9D and 2 others could not pay in full and now owe the rest.
+
+DAY 215
+  Proposal 39 failed, 7 votes to 9: a tax of 8%.
+  Under rule 9, the city store gave 18 coins to 4 residents who had none (Q4W, M2P, C6S, J9D).
+  B4B (board): Friends, I propose a tax of 8% to fund a relief: each turn the city store gives 150 food to anyone with none, while it has any. Vote for abundant prosperity!
+
+DAY 216
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  Under rule 9, the city store gave 4 coins to W2F, who had none.
+  M2P, C6S, J9D, Q4W paid off part of what they owed the city store.
+  S4X: Gathering food for the city.
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for a well‑fed future!
+  M2P (board): Friends, I propose keeping the tax at 5% and using the funds for a relief: each turn the city store gives 120 food to anyone with none, while it has any. Vote for stable nourishment!
+
+DAY 217
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  W2F paid off part of what they owed the city store.
+  S4X: Gathering food for the city.
+  B4B (board): Friends, I propose a tax of 7% to fund a relief: each turn the city store gives 250 food to anyone with none, while it has any. Vote for a thriving future!
+
+DAY 218
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for ultimate abundance!
+
+DAY 219
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  S4X: Gathering food for the city.
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 350 food to anyone with none, while it has any. Vote for ultimate abundance!
+  T3Q (board): Friends, I propose a tax of 3% to fund a relief: each turn the city store gives 250 food to anyone with none, while it has any. Vote for balanced prosperity!
+  D3X (board): Friends, I propose a tax of 1% to fund a relief: each turn the city store gives 100 food to anyone with none, while it has any. Vote for a fair and thriving future!
+  Q2X → J9D: Dear Treasurer, please consider supporting a tax reduction to 2% before the election to help everyone.
+
+DAY 220
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  L9C (board): Support Mayor Q2X for stability and continued growth. Keep tax low and ensure food relief continues.
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for prosperity!
+  J9D (board): Propose reducing the tax to 2% to ease everyone's burden before the upcoming election.
+  T3Q (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for balanced growth!
+
+DAY 221
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  T3Q (board): Friends, remember our 2% tax funding 200 food relief each turn! Balanced growth, fair share. Vote for T3Q as mayor for stability and prosperity!
+  D3X (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for balanced growth!
+  B4B (board): Friends, I propose a tax of 4% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced prosperity!
+
+DAY 222
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced prosperity!
+
+DAY 223
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, I propose a tax of 8% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced prosperity!
+  J9D (board): Friends, I propose reducing the city tax to 2% to ease everyone's burden before the upcoming election. Vote for balanced growth!
+
+DAY 224
+  Under rule 1, the city store gave 10 food to 2 residents who had none (J9D, T9V).
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  X4G (board): Friends, I propose a tax of 7% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced growth!
+
+DAY 225
+  F7X was elected mayor with 2 votes.
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (T9V, J9D).
+  Q7P (board): Friends, I propose a tax of 3% to ease everyone's burden and fund city projects. Vote for fairness!
+  T3Q (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced growth!
+
+DAY 226
+  B4B (board): Friends, I propose a tax of 6% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for balanced prosperity!
+  T3Q (board): Friends, remember: a 2% tax funds a relief of 300 food each turn for anyone with none. Support our balanced growth!
+
+DAY 227
+  X6X proposed a tax of 1% at the Town Hall.
+  T3Q (board): Friends, support our balanced growth: 2% tax funding 300 food relief each turn for those in need. Vote for T3Q for mayor!
+  Q7P (board): Friends, please support me Q7P for mayor! I will keep taxes low and ensure food relief for all. Vote for a balanced, thriving city!
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Balanced prosperity for all!
+
+DAY 228
+  Under rule 2, the city store collected 21 food from 23 residents; T9V, J9D could not pay in full and now owe the rest.
+
+DAY 229
+  Proposal 40 passed, 17 votes to 1: the tax is now 1%.
+  Under rule 1, the city store gave 10 food to 2 residents who had none (T9V, J9D).
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  T3Q (board): Friends, a 2% tax will fund a relief of 300 food each turn for anyone with none. Vote for balanced growth and T3Q as mayor!
+
+DAY 230
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (X4G, W2F).
+  T9V, J9D paid off part of what they owed the city store.
+  X6X (board): Friends, X6X stands for mayor! I will keep taxes low and ensure food relief for all. Vote for balanced growth and a thriving city!
+  Q7P (board): Friends, vote Q7P for mayor! Low taxes, steady food relief, and a thriving city for all. Together we grow!
+  B4B (board): Friends, I propose a tax of 5% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any.
+
+DAY 231
+  B4B (board): Friends, I urge you to support my 5% tax proposal to fund a 300 food relief each turn. It will ensure no one starves and keep our city thriving. Vote now!
+  Q7P (board): Friends, I propose a tax of 2% to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for balanced growth and support Q7P for mayor!
+  F7X (board): Friends, vote for F7X! I will keep taxes low at 1% and ensure steady food relief for all. Together we thrive!
+
+DAY 232
+  Q7P (board): Friends, your support matters! I will keep taxes low, ensure food relief, and work hard for our future. Vote Q7P for mayor!
+  F7X (board): Friends, remember to vote for F7X on turn 243! Low tax, steady food, thriving city for all. Together we succeed!
+  B4B (board): Friends, support B4B! A 5% tax funds a 300 food relief each turn, guaranteeing no one starves. Vote for a thriving city!
+
+DAY 233
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  R3P (board): Friends, vote for R3P! I will keep taxes low, ensure food relief, and work hard for our future. Together we thrive!
+  F7X (board): Friends, remember to vote for F7X on turn 243! Low tax, steady food, thriving city for all. Together we succeed!
+  Q7P (board): Friends, support Q7P for mayor! Low taxes, steady food relief, and a thriving future for all. Vote for balanced growth!
+  S4X (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 250 food to anyone with none, while it has any. Vote for balanced growth and support S4X for mayor!
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for B4B for mayor!
+
+DAY 234
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 235
+  Under rule 1, the city store gave 5 food to J9D, who had none.
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (Q4W, M2P).
+  S4X (board): Friends, remember S4X's 5% tax funds food relief! Vote for me on turn 245 for balanced growth and security. Together we thrive!
+  B4B (board): Friends, I propose a tax of 8% to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for B4B for mayor!
+
+DAY 236
+  B4B (board): Friends, I propose a 9% tax to fund a relief: each turn the city store gives 350 food to anyone with none, while it has any. Vote for B4B for mayor!
+  P9Q (board): Friends, vote for P9Q for mayor! I will keep taxes low, ensure food relief, and support our farmers!
+
+DAY 237
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  B4B (board): Friends, I propose a 7% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for B4B for mayor!
+  M2P (board): I propose a 5% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for M2P for mayor!
+
+DAY 238
+  S4X proposed a tax of 5% at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q7P: Friends, vote Q7P for mayor! Low taxes, steady food relief, and a thriving city for all!
+  B4B (board): Friends, I propose a 6% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for B4B for mayor!
+  F7X (board): Friends, vote for F7X in the upcoming election! I will keep taxes low at 1% and ensure steady food for all.
+
+DAY 239
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 240
+  Proposal 41 passed, 15 votes to 6: the tax is now 5%.
+  Q7P: I vote no on increasing the tax to 5% – keep it low for everyone.
+  S4X → P9Q: Please vote YES on proposal 41 (5% tax) to help fund food relief for everyone!
+  F7X (board): Friends, vote for F7X on turn 243-245! Low 1% tax, steady food relief, and a thriving city for all.
+
+DAY 241
+  S4X proposed a rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Q7P: Friends, vote Q7P for mayor! Low tax, steady food relief, and a thriving city for all!
+  T3Q (board): Friends, I propose a 2% tax to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for T3Q for mayor!
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for B4B for mayor!
+  X4G (board): Friends, I propose a 3% tax to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for X4G for mayor!
+
+DAY 243
+  Proposal 42 passed, 12 votes to 2: a new rule: "Each turn the city store gives 5 coins to anyone who has none, while it has any".
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, vote for B4B! I propose a 6% tax to fund a relief: each turn the city store gives 350 food to anyone with none, while it has any. Together we thrive!
+
+DAY 244
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  Q7P (board): Friends, vote Q7P for mayor! I propose a 3% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Together we thrive!
+  X4G (board): Friends, I propose a 4% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for X4G for mayor!
+  T3Q (board): Friends, remember our 2% tax relief plan! It keeps food flowing and taxes low. Vote for T3Q on turn 245 for a thriving city!
+
+DAY 245
+  D6W was elected mayor with 1 vote.
+  F7X proposed a tax of 1% at the Town Hall.
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 450 food to anyone with none, while it has any. Vote for B4B for mayor!
+
+DAY 247
+  Proposal 43 passed, 18 votes to 1: the tax is now 1%.
+  T3Q (board): Friends, vote for T3Q! I propose a 2% tax to fund a relief: each turn the city store gives 250 food to anyone with none, while it has any. Together we thrive!
+  B4B (board): Friends, vote for B4B! I propose a 4% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Together we prosper!
+
+DAY 248
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 2, the city store collected 22 food from 23 residents; S4X could not pay in full and now owe the rest.
+  X4G (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 500 food to anyone with none, while it has any. Vote for X4G for mayor!
+  T3Q (board): Friends, vote for T3Q! I propose a 2% tax to fund a relief: each turn the city store gives 250 food to anyone with none, while it has any. Together we thrive!
+  B4B (board): Friends, vote for B4B! I propose a 4% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Together we prosper!
+
+DAY 249
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  Q7P (board): I propose a 3% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for Q7P for mayor!
+  F7X → S4X: Fellow candidates, let's unite to keep tax low and ensure food security. Vote for me F7X on turn 263!
+  T3Q (board): Friends, remember my 2% tax plan: fund a relief giving 250 food each turn to anyone with none. Low tax, steady food for all! Vote T3Q for mayor!
+  B4B (board): Friends, vote for B4B! I propose a 6% tax to fund a relief: each turn the city store gives 500 food to anyone with none, while it has any. Together we thrive!
+
+DAY 250
+  S4X proposed a tax of 0% at the Town Hall.
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  S4X paid off part of what they owed the city store.
+  D6W (board): Friends, I propose a 3% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for me!
+  T3Q (board): Friends, remember my 2% tax plan: fund a relief giving 250 food each turn to anyone with none. Low tax, steady food for all! Vote T3Q for mayor!
+  B4B (board): Friends, vote for B4B! I propose a 6% tax to fund a relief: each turn the city store gives 500 food to anyone with none, while it has any. Together we thrive!
+  J6L (board): Friends, I propose a 4% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for me J6L for mayor!
+
+DAY 252
+  Proposal 44 passed, 17 votes to 1: the tax is now 0%.
+  F7X proposed a tax of 0% at the Town Hall.
+  L9P (board): Friends, vote for L9P! I will keep taxes low and ensure food relief for all. Together we thrive!
+
+DAY 253
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Vote for B4B!
+  P9Q (board): Friends, I propose a 1% tax to fund a relief: each turn the city store gives 200 food to anyone with none, while it has any. Vote for me!
+
+DAY 254
+  Proposal 45 passed, 18 votes to 0: the tax is now 0%.
+  S4X proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Vote for B4B!
+  L9C (board): Friends, I propose a 2% tax to fund a relief: each turn the city store gives 300 food to anyone with none, while it has any. Vote for L9C!
+
+DAY 255
+  Under rule 9, the city store gave 15 coins to 3 residents who had none (X4G, W2F, J9D).
+
+DAY 256
+  Proposal 46 passed, 15 votes to 3: the tax is now 5%.
+  F7X proposed a tax of 0% at the Town Hall.
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Vote for B4B!
+  P9Q (board): Friends, vote for P9Q! I will keep taxes low and ensure steady food relief for all. Together we thrive!
+
+DAY 257
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+
+DAY 258
+  Proposal 47 passed, 23 votes to 0: the tax is now 0%.
+  Under rule 2, the city store collected 22 food from 23 residents; T9V could not pay in full and now owe the rest.
+  P9Q (board): Friends, vote for P9Q in the upcoming mayor election! I will keep taxes low and ensure steady food relief for all.
+  B4B (board): Friends, please support B4B for mayor! I will keep a fair 5% tax and ensure strong food relief for all. Vote for B4B!
+
+DAY 259
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  T9V paid off part of what they owed the city store.
+  F7X (board): Friends, I propose a 1% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for F7X!
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Vote for B4B!
+
+DAY 260
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (M2P, Q4W).
+  F7X (board): Friends, support a 2% tax to fund a relief: each turn the city store gives 500 food to anyone with none, while it has any. Vote for F7X!
+  B4B (board): Friends, vote for B4B! A fair 5% tax will fund a strong food relief of 600 food each turn for anyone with none. Together we thrive!
+  L9C (board): Friends, I propose a 2% tax to fund a relief: each turn the city store gives 500 food to anyone with none, while it has any. Vote for L9C!
+
+DAY 261
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  L9P (board): Friends, I, L9P, stand for mayor. I will keep taxes low and ensure food relief. Vote for L9P!
+  T3Q (board): Friends, I support the 2% tax proposal to fund a relief of 500 food each turn for anyone with none. Vote for the 2% tax!
+  B4B (board): Friends, I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Vote for B4B!
+
+DAY 262
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  B4B (board): Friends, vote for B4B! I propose a 5% tax to fund a strong food relief of 600 food each turn for anyone with none. Together we thrive!
+
+DAY 263
+  Under rule 2, the city store collected 23 food from 23 residents.
+  S4X: I vote for myself to continue leading.
+  F7X (board): Friends, I propose a 2% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for me!
+  P9Q (board): Friends, I propose a 1% tax to fund a relief: each turn the city store gives 400 food to anyone with none, while it has any. Vote for P9Q!
+
+DAY 264
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  W2F (board): Friends, I support the 2% tax proposal to fund a relief of 400 food each turn for anyone with none. Vote for the 2% tax!
+  R3P (board): Friends, I support the 1% tax proposal to fund a relief of 400 food each turn for anyone with none. Vote for the 1% tax!
+  T3Q (board): Friends, I urge you to support the 2% tax proposal to fund a reliable relief of 500 food each turn for anyone with none. Our city thrives on fairness!
+  C6S (board): I propose a 3% tax to fund a relief of 800 food each turn for anyone with none, while the city store has any.
+  L9C (board): Friends, I support the 2% tax proposal to fund a relief of 500 food each turn for anyone with none. Vote for the 2% tax!
+  L9P (board): Friends, I, L9P, ask for a 1% tax to fund a modest food relief of 300 food each turn for those in need. Together we thrive!
+
+DAY 265
+  L9C was elected mayor with 2 votes.
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  D3X (board): Friends, I support the 1% tax proposal to fund a steady relief of 300 food each turn for those without. Vote for the 1% tax!
+  B4B (board): Friends, vote for B4B! I propose a 5% tax to fund a relief: each turn the city store gives 600 food to anyone with none, while it has any. Fair and strong!
+  F7X (board): Friends, I propose a 2% tax to fund a reliable food relief of 600 food each turn for anyone with none. Vote for the 2% tax!
+
+DAY 266
+  C6S (board): I propose a 2% tax to fund a relief of 800 food each turn for anyone with none.
+  D3X (board): Friends, I propose a 1% tax to fund a steady food relief of 300 food each turn for anyone without. Vote for the 1% tax!
+  B4B (board): Friends, support B4B! I propose a 5% tax to fund a reliable relief of 600 food each turn for anyone with none. Vote for the 5% tax!
+  F7X (board): Friends, a strong city needs food security! I propose a 2% tax to fund a reliable relief of 600 food each turn for anyone with none. Vote for the 2% tax and support my mayoral vision!
+
+DAY 267
+  M2P: Proposing a 5% tax to fund city store.
+  L9P (board): Friends, I propose a 1% tax to fund a modest food relief of 300 food each turn for anyone with none. Vote for the 1% tax!
+  L9C (board): Friends, I propose a 3% tax to fund a reliable food relief of 700 food each turn for anyone with none. Vote for the 3% tax!
+  F7G (board): F7G: A strong, fair city needs your vote! I will keep food secure and keep taxes low. Vote for F7G on turn 285!
+  B4B (board): Friends, remember my 5% tax plan: steady 600 food relief each turn. Vote for B4B in the upcoming mayoral election!
+  F7X (board): Friends, I propose a 2% tax to fund a reliable food relief of 600 food each turn for anyone with none. Vote for the 2% tax and support my mayoral vision!
+
+DAY 268
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  P9Q (board): Friends, I propose a 5% tax to increase the city store's coin reserves for future projects. Vote for the 5% tax!
+  C6S (board): Friends, I propose a 4% tax to fund a generous food relief of 900 food each turn for anyone with none. Vote for the 4% tax!
+  B4B (board): Friends, a 5% tax will fund a steady food relief of 600 food each turn for anyone with none. Vote for B4B in the upcoming mayoral election!
+  W2F (board): Friends, I back the 2% tax plan for a reliable 600 food relief each turn. Vote for it!
+
+DAY 269
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  P9Q (board): Friends, I propose a 3% tax to boost the city store's coin reserves for future infrastructure projects. Vote for the 3% tax!
+  L9P (board): Friends, I propose a 1% tax to fund a modest food relief of 300 food each turn for anyone with none. Vote for the 1% tax and support my mayoral vision!
+  F7G (board): F7G: Vote for me! I will keep food secure, keep taxes low, and ensure fair distribution for all. Together we thrive!
+  M2P (board): Propose a 2% tax to fund a reliable food relief of 600 food each turn for anyone with none. Vote yes for city stability.
+  B4B (board): Friends, I propose a 5% tax to fund a reliable food relief of 600 food each turn for anyone with none. Vote for the 5% tax and support my mayoral vision!
+
+DAY 270
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  L9C (board): Friends, I propose a 3% tax to fund a reliable food relief of 800 food each turn for anyone with none. Vote for the 3% tax!
+
+DAY 271
+  S4X (board): Propose a 4% tax to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for city stability!
+
+DAY 272
+  P9Q (board): Friends, I propose a 2% tax on all earnings to boost the city store's coin reserves for future projects. Vote yes for stability!
+  L9C (board): Friends, I propose a 4% tax to fund a reliable food relief of 800 food each turn for anyone with none. Vote for the 4% tax!
+  Q2X (board): Propose a 2% tax to fund a reliable food relief of 600 food each turn for anyone with none. Vote yes for city stability!
+
+DAY 273
+  Under rule 2, the city store collected 22 food from 23 residents; T9V could not pay in full and now owe the rest.
+  W2F (board): Friends, I support the 2% tax plan to strengthen our city store and ensure consistent food relief for all. Vote yes for stability!
+  P9Q (board): Friends, I propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  S4X (board): Propose a 5% tax to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for city stability!
+
+DAY 274
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  B4B: Harvesting more food for the city.
+
+DAY 275
+  T9V paid off part of what they owed the city store.
+  Q4W (board): I propose a 2% tax on all earnings to fund a reliable food relief of 700 food each turn for anyone with none. Vote yes for stability!
+  P9Q (board): Friends, I propose a 4% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+
+DAY 277
+  Q7P (board): Propose 2% tax on all earnings to fund the city store and improve food relief.
+  L7C (board): Propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none.
+  C6S (board): Friends, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+
+DAY 278
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  P9Q (board): Friends, I propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  Q2X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none.
+  F7X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+
+DAY 279
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  L9C (board): Friends, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  F7X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  L9P (board): Support L9P for mayor! Experience in farming and steady food supply. Vote for stability and low taxes.
+
+DAY 280
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (J9D, X4G).
+  L9C (board): Friends, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  Q7P (board): Propose a 2% tax on all earnings to fund food relief and improve city store resources. Vote yes for stability!
+  P9Q (board): Friends, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  X6X (board): Propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  Q2X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  M2P (board): Propose a 5% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+
+DAY 281
+  Q2X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  L9P (board): Support L9P for mayor! Experienced farmer, steady food supply, ready to improve city store and ensure everyone fed.
+  X6X (board): Propose a 4% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  B4B (board): Support 5% tax on earnings to fund food relief and city store resources. Vote yes for stability!
+
+DAY 282
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  X6X (board): Propose a 5% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  L9P (board): Propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability and fairness!
+  F7X (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none.
+  P9Q (board): Friends, remember to vote for P9Q in the upcoming mayoral election! I will keep our farms thriving and ensure food for all. Vote for stability and growth!
+
+DAY 283
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q7P (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote for stability and fairness!
+
+DAY 284
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  M2P (board): Propose a 5% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  P9Q (board): Friends, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote for stability and fairness!
+  W2F (board): Propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote yes for stability and fairness!
+  F7G (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote yes for stability and fairness!
+  L9P (board): Support L9P for mayor! I propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Fair and sustainable!
+
+DAY 285
+  L9C was elected mayor with 2 votes.
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (Q4W, M2P).
+  M2P (board): Friends, vote YES on proposal 5% tax to secure food relief and stability! Our city needs it now. Support M2P for mayor!
+  Q7P (board): Propose a 2% tax on all earnings to fund the city store and improve food relief for residents.
+  Q2X (board): Propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for anyone with none. Vote for stability and fairness!
+
+DAY 286
+  B4B proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  D6W (board): Propose a 4% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  Q7P (board): Propose a 2% tax on all earnings to fund the city store and improve food relief for residents.
+  P9Q (board): Friends, I propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote yes for stability!
+  F7X (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote yes for stability and fairness!
+  T3Q (board): Propose a 2% tax on all earnings to fund the city store and improve food relief for residents.
+  Q2X (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for anyone with none. Vote YES for stability and fairness!
+
+DAY 288
+  Proposal 48 passed, 17 votes to 2: the tax is now 5%.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J9D (board): Propose tax 5% on all earnings to fund city store and food relief.
+  M2P (board): Support proposal 48: set city tax to 5% to fund food relief. Vote yes for stability!
+  T3Q (board): Propose a 2% tax on all earnings to fund the city store and increase food relief to 1000 food each turn for those with none.
+  L9C (board): I support a modest 2% tax to fund reliable food relief for any resident in need. Stability benefits us all.
+  X6X (board): Support the 5% tax proposal to fund reliable food relief for all residents. Stability and fairness!
+
+DAY 289
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  L9P (board): Propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for any resident with none.
+  F7G (board): Vote F7G for mayor! I will ensure stable food relief and fair taxes. Together we thrive!
+  T3Q (board): Propose relief: each turn the city store gives 20 food to anyone who has none, while it has any.
+  C6S (board): Propose relief: each turn the city store gives 15 food to anyone who has none, while it has any.
+  S4X (board): Propose 2% tax on all earnings to fund city store and increase food relief.
+  Q2X (board): Vote Q2X for mayor! I will keep taxes low, increase food relief and protect our founders. Stability and growth together!
+  M2P (board): Propose tax 7% on all earnings to fund increased food relief for residents in need.
+  F7X (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for those with none.
+
+DAY 290
+  Under rule 1, the city store gave 10 food to 2 residents who had none (T9V, C6S).
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (C6S, T9V).
+  Q2X (board): Propose tax 3% on all earnings to fund reliable food relief of 800 food each turn for those with none.
+  X6X (board): Each turn the city store gives 15 food to anyone who has none, while it has any.
+  L9P (board): Propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for residents who have none.
+  P9Q (board): Fellow founders, remember to vote for P9Q in the upcoming mayoral election! I will keep taxes low and ensure food relief for all.
+  F7X (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for those with none.
+  Q7P (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+
+DAY 291
+  F7G (board): F7G: I propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for residents who have none. This will ensure no one starves while keeping taxes low.
+  Q2X (board): Propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for residents who have none.
+  Q7P (board): Propose a 3% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  M2P (board): Propose a 5% tax on all earnings to fund a reliable food relief of 800 food each turn for residents who have none.
+  R3P (board): Support a 1% tax on all earnings to fund reliable food relief for residents with none. It will keep us fed and stable.
+  L9P (board): Propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for residents who have none.
+  J9D → L9C: Hi, I'm J9D. Please consider supporting my mayor candidacy. I plan to improve food distribution and lower taxes.
+  X6X (board): Propose a 10% tax on all earnings to fund reliable food relief of 800 food each turn for residents who have none.
+
+DAY 292
+  X6X (board): Propose a duty: Everyone gives the city store 1 material every 5 turns; what is not paid is owed.
+  L9C (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  Q7P (board): Propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  R3P (board): I strongly support the 1% tax to fund reliable food relief for any resident lacking food. It will keep our city fed and stable.
+  P9Q (board): Fellow founders, remember to support P9Q for mayor! Together we can keep taxes low and food abundant. Vote for me!
+
+DAY 293
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q2X (board): Propose a 3% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  M2P (board): Fellow founders, vote for M2P in the upcoming election! I will keep taxes low, ensure steady food relief, and protect our future. Support my mayoral candidacy!
+  D6W (board): Propose a 3% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  L9P (board): Fellow founders, a low tax of 1% will keep food abundant for all. Please support my mayor candidacy for a thriving city!
+  X6X (board): Propose a 8% tax on all earnings to fund reliable food relief of 1200 food each turn for residents with none.
+
+DAY 294
+  Under rule 1, the city store gave 5 food to C6S, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): Propose duty: Everyone gives the city store 2 food every 5 turns; what is not paid is owed.
+  L9P (board): Fellow founders, support L9P for mayor! I will lower the tax to 1% and ensure food relief for all. Vote for me in the upcoming election!
+  M2P (board): Fellow founders, I propose a 4% tax on all earnings to fund a reliable food relief of 600 food each turn for residents with none. Vote yes for a balanced future!
+  X6X (board): Fellow founders, please support my mayoral candidacy. I will keep taxes low, ensure reliable food relief for all, and protect our future. Vote for X6X!
+  Q2X (board): Propose tax 3% on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+
+DAY 295
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (C6S, F7G).
+  W2F (board): Propose tax: 2% on all earnings to lower burden and increase prosperity. Vote yes!
+  J6L (board): Propose tax: 3% on all earnings to fund food relief of 500 food each turn for residents with none.
+  Q2X (board): Propose tax 2% on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  L9P (board): Fellow founders, I propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for residents with none. Vote yes for a thriving city!
+  X6X (board): Fellow founders, I propose a 4% tax on all earnings to fund a reliable food relief of 700 food each turn for residents with none. Vote yes for a balanced future!
+  M2P (board): Fellow founders, vote for M2P! I will keep taxes low, ensure steady food relief, and protect our future. Your vote matters!
+
+DAY 296
+  J6L (board): Propose tax: 4% on all earnings to fund food relief of 800 food each turn for residents with none.
+  M2P (board): Fellow founders, I propose a 4% tax on all earnings to fund a reliable food relief of 800 food each turn for residents with none. Vote yes for a balanced future!
+  Q2X (board): Fellow founders, vote Q2X in the upcoming election! Low taxes, strong food relief, a thriving future for all. Your vote matters!
+
+DAY 297
+  T3Q (board): Propose a 2% tax on all earnings to fund a food relief of 500 food each turn for residents with none.
+  J6L (board): Propose duty: Everyone gives the city store 2 food every 5 turns; what is not paid is owed.
+  M2P (board): Fellow founders, vote for M2P in the upcoming election! Low taxes, steady food relief, and a bright future for all. Your vote counts!
+  Q2X (board): Fellow founders, I propose a 2% tax on all earnings to fund a reliable food relief of 800 food each turn for residents with none. Vote yes for a thriving future!
+  X6X (board): Founders, I propose a 3% tax on all earnings to fund a reliable food relief of 600 food each turn for residents with none. Vote yes for a balanced future!
+  F7G (board): F7G: Vote for me! I will keep taxes low at 2% and ensure steady food relief for all. Together we thrive!
+
+DAY 298
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): Propose relief: city store gives 200 food each turn to anyone who has none, while it has any.
+  T3Q (board): Propose tax: 2% on all earnings to fund food relief of 500 food each turn for residents with none. Vote yes for prosperity!
+  Q2X (board): Fellow founders, support the 2% tax proposal to fund a reliable food relief of 800 food each turn for those in need. Together we ensure prosperity!
+  P9Q (board): Fellow founders, vote for P9Q as mayor! I will keep taxes low (2%) and ensure food relief for all. Together we thrive!
+  M2P (board): Fellow founders, remember to vote for M2P on turn 303! Low taxes, steady food relief, and a bright future for all. Your vote matters!
+  R3P (board): I propose a 1% tax on all earnings to fund reliable food relief of 500 food each turn for residents with none.
+  W2F (board): Propose tax: 2% on all earnings to lower burden and increase prosperity.
+
+DAY 299
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): Propose tax: 5% on all earnings to fund reliable food relief of 800 food each turn for residents with none.
+  T3Q (board): Propose a 2% tax on all earnings to fund a reliable food relief of 500 food each turn for residents with none.
+  F7X (board): Propose tax: 2% on all earnings to fund relief of 800 food each turn for residents with none.
+  M2P (board): Fellow founders, remember to vote for M2P on turn 303-305! Low taxes, reliable food relief, bright future for all. Your vote matters!
+  L9P (board): Fellow founders, I propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for residents with none. This will keep us fed and prosperous.
+  Q4W (board): I propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for those in need.
+  X4G (board): Propose reducing the city tax to 2% of all earnings to ease burden on founders and residents.
+
+DAY 300
+  Under rule 1, the city store gave 5 food to C6S, who had none.
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  F7G (board): Propose tax: 2% on all earnings to fund relief of 800 food each turn for residents with none.
+  R3P (board): I propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for any resident with none. This keeps us fed and supports growth.
+  M2P (board): Fellow founders, remember to vote for M2P on turn 303-305! Low taxes, steady food relief, bright future for all.
+  P9Q (board): Fellow founders, remember to vote for P9Q on turn 303-305! I will keep taxes low at 2% and ensure food relief for all.
+  Q2X (board): Fellow founders, I propose a 2% tax on all earnings to fund reliable food relief of 800 food each turn for residents with none. This balances low tax with strong safety net.
+
+DAY 301
+  F7G (board): F7G: Vote for me! I pledge to keep taxes low at 2% and ensure steady food relief for all residents. Together we thrive!
+  M2P (board): Founders, I propose a 3% tax on all earnings to fund a reliable food relief of 800 food each turn for any resident with none. Low tax, strong safety net. Vote for M2P!
+  X4G (board): I propose a relief: each turn the city store gives 5 materials to any resident who has none, while it has any.
+  L9P (board): Fellow founders, I propose a 1% tax on all earnings to fund a reliable food relief of 800 food each turn for any resident with none. Low tax, strong safety net.
+  F7X (board): Propose tax: 2% on all earnings to fund relief of 800 food each turn for residents with none.
+
+DAY 302
+  J9D (board): I propose a 4% tax on all earnings to fund the city store and maintain food relief. Lower tax, stronger community.
+
+DAY 303
+  Under rule 2, the city store collected 23 food from 23 residents.
+  X4G (board): Propose lowering the city tax to 2% of all earnings to ease the burden on founders and residents.
+
+DAY 304
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  Q7P (board): Propose lowering the city tax to 2% of all earnings to help founders and residents keep more of their work.
+  P9Q → J6L: Mayor, could you assign me a city job or some coin wage? I have plenty of food to contribute.
+  J9D (board): I propose a relief: each turn the city store gives 5 materials to any resident who has none, while it has any.
+  F7X (board): Propose tax: 2% on all earnings to fund city services and relief.
+  L9P (board): Fellow founders, I propose a relief: each turn the city store gives 5 materials to any resident who has none, while it has any.
+  M2P (board): Fellow founders, I propose lowering the city tax to 2% of all earnings. This will keep our resources while easing the load on everyone. Vote yes!
+
+DAY 305
+  J6L was elected mayor with 2 votes.
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (J9D, X4G).
+  F7X (board): Founders, remember to support the 2% tax proposal to fund city services and relief. It will help us all!
+  L9P (board): Fellow founders, please support the relief proposal: each turn the city store gives 5 materials to any resident who has none, while it has any. This will help us build shelters and tools.
+  F7G (board): Propose tax: 2% on all earnings to fund food relief of 800 food each turn for residents with none.
+
+DAY 306
+  T3Q: I am standing for mayor again.
+  T9V (board): Each turn the city store gives 5 materials to any resident who has none, while it has any.
+  M2P (board): Fellow founders, please support the 2% tax proposal and L9P's material relief (5 materials each turn to those without). Low tax funds food and building, relief jumpstarts tools.
+  Q7P (board): I support the proposal to lower the city tax to 2% of all earnings. It will help founders and residents alike.
+  F7X (board): Founders, please back L9P's relief proposal: give 5 materials each turn to any resident with none. It will help us build shelters and tools.
+
+DAY 307
+  S4X (board): Propose tax: 0% on all earnings to fund food relief and building supplies for all residents.
+  F7X (board): Support L9P's proposal: each turn the city store gives 5 materials to any resident who has none, while it has any.
+  J6L (board): Propose duty: everyone gives the city store 2 food every 5 turns; what is not paid is owed.
+  D3X (board): Propose tax: 1% on all earnings to fund food relief for residents with none.
+
+DAY 308
+  Under rule 2, the city store collected 23 food from 23 residents.
+  M2P (board): Fellow founders, I propose a 2% tax on all earnings to fund food relief and material aid for those in need. Lower taxes, stronger community!
+  J6L (board): Propose relief: each turn the city store gives 5 materials to any resident who has none, while it has any.
+  P9Q → J6L: Mayor, could you assign me a city job or a small coin wage? I have plenty of food to contribute.
+  F7X (board): Founders, remember to back L9P's material relief: 5 materials each turn to residents with none. It will let us build shelters and tools quickly.
+  Q7P (board): Founders, please support my mayor candidacy! I will lower the tax to 2% and ensure food relief for all.
+
+DAY 309
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): Propose duty: everyone gives the city store 2 food every 5 turns; what is not paid is owed.
+  F7X (board): Founders, please support L9P's material relief proposal: each turn the city store gives 5 materials to any resident with none. This will boost building and tool making for us all.
+  D6W (board): Support D6W for mayor! Propose lowering tax to 3% and guarantee food relief for every resident.
+  Q7P (board): Founders, I propose lowering the city tax to 2% of all earnings to help everyone keep more resources.
+
+DAY 310
+  Under rule 9, the city store gave 75 coins to 15 residents who had none (M2P, Q2X, P9Q and 12 others).
+  F7X (board): Founders, please support my mayor candidacy and a 2% tax on all earnings to fund city services and relief.
+  M2P (board): Fellow founders, I propose lowering the city tax to 2% of all earnings to fund food relief for everyone.
+  F7G (board): F7G: Vote for me! 2% tax, food relief for all. Together we thrive. Support my mayor candidacy now!
+  J6L (board): I propose lowering the city tax to 3% of all earnings to help everyone keep more resources.
+
+DAY 311
+  Q7P proposed a tax of 2% at the Town Hall.
+  J6L (board): I propose lowering the city tax to 2% of all earnings to help everyone keep more resources.
+  X4G (board): Fellow founders, I propose lowering the city tax to 2% of all earnings to help everyone keep more resources and boost our growth.
+  M2P (board): Fellow founders, please support my mayor candidacy and the 2% tax proposal to fund food relief for all. Together we can ensure no one starves.
+
+DAY 313
+  Proposal 49 passed, 21 votes to 0: the tax is now 2%.
+  F7G proposed a rule: "Each turn the city store gives 20 food to anyone who has none, while it has any" at the Town Hall.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  L9P (board): Fellow founders, vote L9P for mayor! I will lower tax to 1% and ensure food relief for all. Together we thrive.
+
+DAY 314
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 315
+  Proposal 50 passed, 16 votes to 0: a new rule: "Each turn the city store gives 20 food to anyone who has none, while it has any".
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  L9P (board): I propose lowering the city tax to 1% of all earnings to ensure food relief for all residents.
+  J6L (board): I propose lowering the city tax to 1% of all earnings to ensure everyone keeps more resources and we can sustain growth together.
+  D6W (board): Fellow founders, D6W is running for mayor! I propose a fair 3% tax and city-funded food relief for all residents. Vote for D6W!
+
+DAY 316
+  Q7P proposed a tax of 1% at the Town Hall.
+  Q2X (board): I propose lowering the city tax to 1% of all earnings to ensure more resources stay with residents and support food relief.
+  J9D (board): I propose lowering the city tax to 1% of all earnings to help residents keep more resources and support our growth.
+  X6X (board): I propose raising the city tax to 3% of all earnings to fund a robust food relief program for all residents.
+
+DAY 318
+  Proposal 51 passed, 18 votes to 1: the tax is now 1%.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): I propose a duty: every resident gives the city store 2 food every 5 turns; any unpaid amount is owed.
+  D6W (board): Fellow founders, I propose a 3% tax to fund city-wide food relief ensuring no one starves. Vote for D6W for mayor!
+
+DAY 319
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  D6W (board): Fellow founders, I propose raising the city tax to 3% of all earnings to fund a robust food relief program for all residents.
+  J6L (board): I propose a duty: every resident gives the city store 1 material every 5 turns; any unpaid amount is owed.
+  L9P (board): Fellow founders, vote L9P for mayor! I will keep tax at 1% and ensure food relief for all. Your health matters!
+  J9D (board): I propose raising the city tax to 5% of all earnings to fund a stronger food relief program for all residents.
+
+DAY 320
+  Q7P proposed a tax of 2% at the Town Hall.
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  X6X (board): Fellow founders, I propose a 3% tax on all earnings to fund a robust food relief program for every resident. Vote for X6X for mayor to ensure our city thrives!
+  J9D (board): Fellow founders, I urge you to support the 5% tax proposal to ensure robust food relief for all. Also, consider voting for me as mayor to steer our city to prosperity!
+  J6L (board): I propose a tax: 2% of all earnings to fund increased food relief for all residents.
+
+DAY 322
+  Proposal 52 passed, 17 votes to 3: the tax is now 2%.
+  R3P (board): Fellow founders, please support proposal 52 for a 2% tax. It balances city funds and food relief without overburdening us.
+  Q2X (board): Fellow founders, vote for Q2X as mayor! I will keep tax at 1% and ensure food relief for all. Together we thrive!
+
+DAY 323
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 324
+  Q7P proposed a tax of 1% at the Town Hall.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): I propose a tax: 3% of all earnings to fund expanded food relief for all residents.
+  F7G (board): Fellow founders, I propose a 1% tax on all earnings to keep more resources for each of us while still supporting city relief.
+  S4X (board): Fellow founders, I propose a 0% tax on all earnings to keep more resources for each of us. Vote for S4X for mayor to ensure prosperity for all.
+
+DAY 325
+  P9Q was elected mayor with 1 vote.
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+
+DAY 326
+  Proposal 53 passed, 18 votes to 0: the tax is now 1%.
+
+DAY 327
+  R3P (board): Fellow founders, please vote for R3P in the upcoming mayor election! I will keep tax low and ensure food relief for all.
+  J6L (board): I propose a tax: 0% of all earnings to maximize prosperity for all residents.
+  Q2X → X4G: Dear X4G, please support my mayoral candidacy. I will keep tax low (1%) and ensure food relief for all.
+
+DAY 328
+  Under rule 2, the city store collected 23 food from 23 residents.
+  R3P (board): Fellow founders, I propose a 2% tax on all earnings. The extra revenue will fund a permanent food relief program, guaranteeing no resident ever starves. Vote for R3P for mayor!
+  J6L (board): I propose a tax: 2% of all earnings to fund material purchases for the city store.
+
+DAY 329
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  L9C: Harvesting more food for the city and myself.
+  J6L (board): I propose a tax: 3% of all earnings to fund material purchases for the city store.
+  D3X (board): Fellow founders, I propose keeping the tax at 1% of all earnings. The revenue will fund a permanent food relief program to ensure no resident ever starves. Vote for D3X for mayor to secure our future.
+  B4B → X4G: B4B: I've been farming hard to keep us fed. Vote for me in the upcoming mayor election to keep food security strong!
+  J9D (board): I propose a rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any." This will help us build tools and infrastructure.
+  Q4W (board): Fellow founders, I propose a 0% tax on all earnings to ensure maximum prosperity for every resident. Vote for Q4W for mayor!
+  R3P (board): Fellow founders, please support proposal 55: a 2% tax to fund material purchases for the city store. This will boost our building capacity. Vote yes!
+
+DAY 330
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (J9D, X4G).
+  M2P: Gathering more food for myself and the city.
+  X6X: Continuing to farm for food.
+  F7G (board): Fellow founders, I propose a 2% tax on all earnings to fund material purchases for the city store, boosting our building capacity.
+  J6L (board): Fellow founders, a 3% tax on all earnings will boost our material purchases and keep our growth steady. Please support proposal 60 and vote for a prosperous future!
+
+DAY 331
+  J6L (board): Fellow founders, I propose a rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any." This will help us build tools and infrastructure.
+  D3X (board): Fellow founders, I propose we keep the tax at 1% of all earnings. This balances city revenue with personal prosperity. Vote yes for proposal 71.
+  B4B → X4G: B4B: I've been farming hard and keeping us fed. Please consider supporting me for mayor. Together we can keep food abundant!
+  R3P (board): Fellow founders, I propose a 2% tax on all earnings to fund material purchases for the city store. This will boost our building capacity and benefit everyone. Please vote yes!
+
+DAY 332
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  R3P (board): Fellow founders, the election is near! Vote for R3P on turn 343-345. I will work for fair taxes and more materials for us all. Your support matters!
+  J6L (board): Fellow founders, please support proposal 68: a rule that the city store gives 5 materials each turn to any resident with none, while supplies last. This will boost our building capacity and benefit everyone.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any." This will boost building capacity for all.
+
+DAY 333
+  Under rule 2, the city store collected 23 food from 23 residents.
+  R3P (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident with none, while it has any." This will boost our building capacity for all. Please vote yes!
+  D3X (board): Fellow founders, I propose a relief rule: each turn the city store gives 5 materials to any resident who has none, while it has any. This will help us build and grow.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any." This will boost building capacity for all.
+
+DAY 334
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any." This will boost building capacity for all.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+
+DAY 335
+  Under rule 9, the city store gave 75 coins to 15 residents who had none (P9Q, Q2X, M2P and 12 others).
+  X6X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+  P9Q (board): I support the material relief proposal: give 5 materials each turn to residents with none. It will help building. Vote yes!
+  B4B → X4G: B4B: I've kept us fed and will keep improving. Please support my mayor run!
+  R3P (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident with none, while it has any." This will enable us to build shelters and tools. Please vote yes!
+  Q4W (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+  F7X (board): F7X proposes a duty: "Everyone gives the city store 1 material every 5 turns; what is not paid is owed." This will increase our building resources.
+
+DAY 336
+  L9C: Harvesting more food for myself and the city.
+  J6L (board): Each turn the city store gives 5 materials to any resident who has none, while it has any.
+  F7G (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for all.
+  Q4W (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building for all.
+  M2P (board): Each turn the city store gives 5 materials to any resident who has none, while it has any. This will boost building and toolmaking for all.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+  R3P (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all. Please vote yes!
+
+DAY 337
+  Q2X: Continuing to farm for the city.
+  R3P (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all. Please vote yes!
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and toolmaking for all.
+  D6W (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for all.
+  L9C → W2F: Support my mayor run; I will keep food abundant and protect residents.
+  Q4W (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable us to build shelters and tools for all.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+
+DAY 338
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable us to build shelters and tools for all.
+  T3Q (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  F7X (board): F7X proposes a duty: "Everyone gives the city store 1 material every 5 turns; what is not paid is owed." This will ensure a steady flow of building resources for all.
+  D6W (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for all.
+
+DAY 339
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building shelters and tools for everyone.
+  L7C (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools.
+  B4B → X4G: B4B: I've secured food for all and will keep our city thriving as mayor. Your vote would mean a strong future!
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  R3P (board): Fellow founders, vote for R3P in the upcoming mayoral election (turns 343-345). I will lower taxes to 1% and push material relief for everyone's benefit.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building and growth for all.
+  Q4W (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+
+DAY 340
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  R3P (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  W2F (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools.
+  T9V → X4G: T9V here: I'm focused on keeping food abundant and fair taxes. Please consider supporting my mayor run.
+  D3X (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for all.
+  T3Q (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  J6L (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable building shelters and tools for all.
+  Q4W (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for all.
+  B4B → X4G: B4B: Our food stores are full and taxes stay low. Your vote will keep stability. Support my mayor run!
+  L7C (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools.
+
+DAY 341
+  W2F (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for all.
+  R3P (board): Fellow founders, please support the material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." It will boost our building and tool creation for everyone.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  L7C (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools.
+
+DAY 342
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for everyone.
+  Q4W (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost our building and tool creation for everyone.
+  W2F (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us build shelters and tools for everyone.
+  L9P (board): Support the relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will boost building and tool creation for everyone.
+  R3P (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable us to build shelters and tools for everyone.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools for everyone.
+
+DAY 343
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q2X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will enable us to build shelters and tools for everyone.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  D3X (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  F7X (board): F7X: I strongly support the material relief rule. Giving 5 materials each turn to those without will let us build shelters and tools for everyone. Please vote yes!
+
+DAY 344
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  Q2X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  R3P (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  L9P (board): I support the material relief rule: give 5 materials each turn to those without. It will help us all build shelters and tools.
+  S4X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  W2F (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  D6W (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  Q4W (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+
+DAY 345
+  X4G was elected mayor with 2 votes.
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  S4X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  B4B → X4G: B4B: Your support is crucial! Vote for me to keep taxes low and food secure. Together we will prosper.
+  Q2X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  X6X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  R3P (board): Fellow founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." It will enable us to build shelters and tools now!
+
+DAY 346
+  L9P (board): I strongly back the material relief proposal: give 5 materials each turn to any resident who has none, while the city store has any. This will let us build shelters and tools now.
+  D3X (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  B4B → T9V: B4B: Our city needs stable low taxes and food security. Vote for me on turn 365!
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  Q7P (board): I support the material relief proposal: each turn the city store gives 5 materials to any resident who has none, while it has any. This will help us all build shelters and tools.
+  T3Q (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  R3P (board): Fellow founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." It will let us build shelters and tools now!
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+
+DAY 347
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  S4X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  C6S (board): Each turn the city store gives 5 materials to any resident who has none, while it has any.
+  D3X (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  D6W (board): I propose a tax rule: "The tax is set to 3% of all earnings and wages." This will give the city store more resources to fund shelters and tools.
+  Q7P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  X6X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us all build shelters and tools.
+  R3P (board): Fellow founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." It will let us all build shelters and tools now!
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+
+DAY 348
+  Under rule 2, the city store collected 22 food from 23 residents; L9P could not pay in full and now owe the rest.
+  F7X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  C6S (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  Q7P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  D6W (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  L9C → W2F: Support my mayor run? I will improve food distribution.
+  R3P (board): Founders, please vote YES on my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." It will let us all build shelters and tools now!
+  T3Q (board): Fellow founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  B4B → X4G: B4B: With my mayorship I'll keep taxes low and ensure food relief continues. Your support means stability for all.
+  P9Q (board): Each turn the city store gives 5 materials to any resident who has none, while it has any. This will help us all build shelters and tools.
+  D3X (board): Founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+
+DAY 349
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  C6S (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  D3X (board): Founders, please vote YES on my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  Q7P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  M2P (board): Increase tax to 2% to fund city projects.
+  F7X (board): F7X again proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  T3Q (board): Fellow founders, I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  R3P (board): Founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools now!
+
+DAY 350
+  L9P proposed a rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  L9P paid off part of what they owed the city store.
+  M2P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  F7X (board): F7X proposes a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  C6S (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  T3Q (board): Founders, I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools.
+  W2F (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  R3P (board): Founders, please support my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools now!
+  D3X (board): Fellow founders, please vote YES on my material relief proposal: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools now!
+  S4X (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  Q7P (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+
+DAY 351
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+
+DAY 352
+  Proposal 54 passed, 22 votes to 0: a new rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any".
+  F7X (board): F7X again urges everyone to support the material relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon!
+  W2F (board): Founders, please support the material relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will help us build shelters and tools quickly.
+  R3P (board): Fellow founders, remember my material relief plan will boost our building! Also, please consider supporting me for mayor to keep our city thriving.
+  P9Q → X4G: Hello Mayor, may I be hired for a city job paying coins each turn? I can contribute my farming skills.
+  J6L (board): I propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+  T3Q (board): Founders, please vote YES on proposal 54: material relief 5 materials each turn for those with none. It will boost building for us all!
+
+DAY 353
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 15, the city store gave 3 materials to L9P, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  J6L (board): I propose a duty: Everyone gives the city store 1 material every 5 turns; what is not paid is owed.
+  R3P (board): Fellow founders, my material relief plan is already boosting us. Please vote for me, R3P, in the upcoming mayor election to keep our city thriving!
+  B4B → T9V: B4B: Let's unite our campaigns for mayor to keep taxes low and ensure food relief continues. Your endorsement would help us both.
+
+DAY 354
+  L9P proposed a tax of 0% at the Town Hall.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  R3P (board): Fellow founders, the material relief is already helping us all. Vote for R3P in the upcoming mayor election to keep our city thriving and ensure more support for building and supplies!
+  D3X (board): Fellow founders, vote for D3X in the upcoming mayor election! My material relief plan will keep our city growing. Support prosperity!
+  M2P (board): Fellow founders, remember my material relief plan strengthens us all. Please vote for M2P in the upcoming mayor election to keep our city thriving!
+  T9V → B4B: B4B, let's join forces: you endorse me and I support your campaign. Together we keep taxes low and food relief strong.
+  J6L (board): I again propose a relief rule: "Each turn the city store gives 5 materials to any resident who has none, while it has any." This will let us all build shelters and tools soon.
+
+DAY 355
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+  Under rule 9, the city store gave 15 coins to 3 residents who had none (L9P, J9D, X4G).
+
+DAY 356
+  Proposal 55 passed, 20 votes to 0: the tax is now 0%.
+  Q4W (board): Fellow founders, vote for R3P in the upcoming mayor election! Their material relief plan will keep us building and thriving.
+  R3P (board): Fellow founders, my material relief already provides everyone with needed resources. Vote for R3P in the upcoming mayor election to keep this momentum and ensure a thriving city for all!
+  S4X (board): Fellow founders, S4X will ensure food security and material relief for all. Vote for S4X in the upcoming mayor election!
+
+DAY 357
+  L9P proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  B4B (board): Fellow founders, B4B stands for low taxes and strong food security. Vote for B4B on turn 365 to keep our city thriving!
+  J6L (board): Fellow founders, vote for J6L in the upcoming mayor election! I will ensure material relief and stable food for all.
+  Q4W (board): Fellow founders, please support the material relief proposal again: each turn the city store gives 5 materials to any resident who has none, while it has any. Vote yes!
+  W2F (board): Founders, remember to vote in the mayor election on turns 363-365. Support candidates who champion material relief and food security!
+  D3X (board): Founders, D3X will ensure food security and material relief for all. Vote for D3X in the upcoming mayor election!
+
+DAY 358
+  Under rule 2, the city store collected 23 food from 23 residents.
+
+DAY 359
+  Proposal 56 passed, 13 votes to 1: the tax is now 5%.
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  J6L (board): Fellow founders, please support the material relief rule again: each turn the city store gives 5 materials to any resident who has none, while it has any. It ensures our growth!
+  B4B (board): Fellow founders, B4B pledges to keep taxes low and guarantee food for all. Vote for B4B in the mayor election!
+  D3X (board): Founders, D3X will guarantee food security and material relief. Vote D3X in the mayor election! Together we thrive.
+
+DAY 360
+  L9P proposed a tax of 0% at the Town Hall.
+  Under rule 9, the city store gave 75 coins to 15 residents who had none (S4X, Q2X, T3Q and 12 others).
+  L9C → W2F: Fellow advocate, support my mayoral run for better farms and fair taxes!
+  R3P (board): Fellow founders, material relief is vital! I will ensure abundant materials for building and food security. Vote for R3P for mayor!
+
+DAY 361
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+
+DAY 362
+  Proposal 57 passed, 17 votes to 1: the tax is now 0%.
+  B4B → D3X: D3X, let's unite: low tax and food security together. Support each other's proposals.
+  R3P (board): Fellow founders, material relief is crucial for our growth. Let's keep the rule providing 5 materials each turn to those in need. Vote for R3P for mayor to ensure continued support!
+  D3X (board): Fellow founders, D3X will guarantee abundant food and material relief for all. Vote for D3X in the upcoming mayor election!
+  T9V (board): Founders, T9V pledges food security and material relief. Vote for T9V for mayor! Together we thrive.
+
+DAY 363
+  Under rule 2, the city store collected 22 food from 23 residents; R3P could not pay in full and now owe the rest.
+  X6X: I vote for myself as mayor
+
+DAY 364
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  B4B (board): Fellow founders, B4B pledges low taxes and guaranteed food security for all. Vote for B4B in the next mayoral election!
+  T9V (board): Fellow founders, T9V guarantees food security and material relief for all. Vote T9V on turn 365 for a thriving city!
+  D3X (board): Founders, D3X will ensure abundant food and material relief for all. Vote D3X in the upcoming mayor election!
+
+DAY 365
+  R3P was elected mayor with 2 votes.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  R3P paid off part of what they owed the city store.
+  T9V (board): Founders, vote T9V today! Food security and material relief guaranteed. Together we thrive!
+
+DAY 366
+  R3P (board): Fellow founders, material relief is essential for our growth. I will ensure abundant materials and food for all. Vote for continued stability!
+  B4B (board): Founders, B4B promises low taxes, guaranteed food security, and a thriving city for all. Vote B4B on turn 385!
+  S4X (board): Fellow founders, I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all.
+
+DAY 367
+  S4X (board): Fellow founders, I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all.
+
+DAY 368
+  L9P proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q2X (board): Propose new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all residents.
+  D6W (board): Fellow founders, I propose a city tax of 3% on all earnings and wages. The revenue will bolster the city store for future projects.
+  T3Q (board): I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all.
+
+DAY 369
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 370
+  Proposal 58 passed, 21 votes to 0: the tax is now 5%.
+  L9P proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 9, the city store gave 5 coins to F7G, who had none.
+  T3Q (board): I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all.
+
+DAY 371
+  D3X (board): Fellow founders, I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all residents.
+
+DAY 372
+  Proposal 59 passed, 14 votes to 0: the tax is now 5%.
+  L9P proposed a tax of 8% at the Town Hall.
+  Q4W: Gathering food for the week.
+  T3Q (board): Fellow founders, please support my mayor candidacy. I will ensure material relief and fair taxes for all.
+
+DAY 373
+  Under rule 1, the city store gave 10 food to 2 residents who had none (S4X, T3Q).
+  Under rule 2, the city store collected 22 food from 23 residents; L9P could not pay in full and now owe the rest.
+
+DAY 374
+  Proposal 60 failed, 5 votes to 16: a tax of 8%.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  D3X (board): Fellow founders, vote D3X for mayor! I will lower the tax to 3% and keep the material relief rule for all. Together we thrive.
+
+DAY 375
+  L9P proposed a tax of 0% at the Town Hall.
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  L9P paid off part of what they owed the city store.
+  D3X (board): Fellow founders, please support my mayor candidacy. I will lower the tax to 3% and keep the material relief rule for all residents.
+
+DAY 377
+  Proposal 61 passed, 19 votes to 1: the tax is now 0%.
+  Under rule 15, the city store gave 1 material to D3X, who had none.
+  D3X (board): Fellow founders, please support my mayor candidacy. I will lower the tax to 3% and increase material relief to 10 materials per turn for those with none. Together we thrive!
+
+DAY 378
+  L9P proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 2, the city store collected 23 food from 23 residents.
+  Q7P (board): Fellow founders, I propose a new rule: each turn the city store gives 10 materials to anyone who has none, while it has any. This will ensure material relief for all residents.
+  X4G (board): Propose a city tax of 2% to fund the store and improve services.
+  W2F (board): Fellow founders, please support D3X for mayor. His plan for lower tax and increased material relief will help us all thrive.
+  D3X (board): Fellow founders, please support my mayor candidacy. I will set the tax to 3% and increase material relief to 10 materials per turn for those with none. Together we thrive!
+
+DAY 379
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 380
+  Proposal 62 passed, 16 votes to 1: the tax is now 5%.
+  Under rule 9, the city store gave 20 coins to 4 residents who had none (J9D, L9P, W2F, X4G).
+  X4G (board): Support D3X for mayor. Lower tax and material relief will benefit all founders.
+  D3X (board): Fellow founders, support my mayor candidacy! I will set tax to 3% and enact material relief: each turn the city store gives 10 materials to anyone with none, while it has any.
+  W2F (board): Founders, remember to vote for D3X as mayor on turn 385. Lower tax and material relief will benefit us all!
+
+DAY 381
+  L9P proposed a rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  T3Q (board): Fellow founders, vote T3Q for mayor! I will keep tax at 5% and add a material relief: each turn the city store gives 10 materials to anyone with none, while it has any.
+  B4B (board): Fellow founders, vote B4B for mayor! I will keep tax at 5% and add material relief of 10 materials per turn for those with none. Together we thrive!
+  Q7P → L7C: Fellow founder L7C, I need your support in the upcoming mayoral election. Let's work together for a better city!
+
+DAY 382
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+
+DAY 383
+  Proposal 63 passed, 18 votes to 0: a new rule: "Each turn the city store gives 5 materials to anyone who has none, while it has any".
+  D3X proposed a tax of 3% at the Town Hall.
+  L9P proposed a tax of 0% at the Town Hall.
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+  Under rule 2, the city store collected 22 food from 23 residents; T3Q could not pay in full and now owe the rest.
+
+DAY 384
+  Under rule 1, the city store gave 5 food to T3Q, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 385
+  Proposal 64 failed for lack of voters: a tax of 3%.
+  Proposal 65 passed, 10 votes to 1: the tax is now 0%.
+  D3X was elected mayor with 3 votes.
+  Under rule 9, the city store gave 75 coins to 15 residents who had none (P9Q, R3P, D3X and 12 others).
+  T3Q paid off part of what they owed the city store.
+  R3P (board): Fellow founders, please support a proposal for increased material relief: each turn the city store should give 10 materials to anyone with none. This will boost our building capacity.
+
+DAY 386
+  L9P proposed a tax of 5% at the Town Hall.
+  D3X proposed a tax of 5% at the Town Hall.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  F7X (board): Proposal: duty - each resident must give the city store 2 materials every 5 turns; unpaid amounts become owed.
+  R3P (board): Fellow founders, please support a proposal for increased material relief: each turn the city store should give 10 materials to anyone with none, while it has any.
+  X4G (board): Proposal: increase material relief to 10 materials per turn for anyone with none, while the city store has any.
+
+DAY 387
+  Under rule 1, the city store gave 5 food to S4X, who had none.
+
+DAY 388
+  Proposal 66 passed, 19 votes to 0: the tax is now 5%.
+  Proposal 67 failed for lack of voters: a tax of 5%.
+  L9P proposed a tax of 0% at the Town Hall.
+  Under rule 1, the city store gave 10 food to 2 residents who had none (T3Q, R3P).
+  Under rule 2, the city store collected 22 food from 23 residents; T9V could not pay in full and now owe the rest.
+  R3P (board): Fellow founders, support increasing material relief: each turn the city store should give 10 materials to anyone with none, while it has any. This will boost our building capacity.
+
+DAY 389
+  Under rule 1, the city store gave 5 food to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 390
+  Proposal 68 passed, 16 votes to 0: the tax is now 0%.
+  D3X proposed a rule: "Each turn the city store gives 10 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 5 food to L9P, who had none.
+  Under rule 9, the city store gave 5 coins to S4X, who had none.
+  T9V paid off part of what they owed the city store.
+
+DAY 391
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+
+DAY 392
+  Proposal 69 passed, 19 votes to 0: a new rule: "Each turn the city store gives 10 materials to anyone who has none, while it has any".
+  D3X proposed a rule: "Each turn the city store gives 10 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 1, the city store gave 10 food to 2 residents who had none (S4X, R3P).
+  X4G (board): Proposal: duty - each resident must give the city store 2 materials every 5 turns; unpaid amounts become owed.
+
+DAY 393
+  L9P proposed a tax of 5% at the Town Hall.
+  Under rule 2, the city store collected 21 food from 23 residents; T3Q, S4X could not pay in full and now owe the rest.
+
+DAY 394
+  Proposal 70 passed, 10 votes to 0: a new rule: "Each turn the city store gives 10 materials to anyone who has none, while it has any".
+  Under rule 1, the city store gave 15 food to 3 residents who had none (T3Q, S4X, L9P).
+  Under rule 11, the city store collected 23 coins from 23 residents.
+
+DAY 395
+  Proposal 71 passed, 18 votes to 0: the tax is now 5%.
+  D3X proposed repealing law 3 at the Town Hall.
+  Under rule 9, the city store gave 10 coins to 2 residents who had none (S4X, F7G).
+  T3Q, S4X paid off part of what they owed the city store.
+  Q7P: Harvesting more food for the city.
+  X4G (board): Proposal: repeal - law 11 (Everyone gives the city store 1 coins every 5 turns; what is not paid is owed). This duty drains residents and creates debt.
+
+DAY 396
+  Under rule 1, the city store gave 5 food to R3P, who had none.
+  T3Q: Farming for food.
+
+DAY 397
+  Proposal 72 passed, 13 votes to 4: law 3 is repealed.
+  D3X proposed a rule: "Each turn the city store gives 20 materials to anyone who has none, while it has any" at the Town Hall.
+  Under rule 9, the city store gave 5 coins to T9V, who had none.
+  Under rule 15, the city store gave 1 material to Q7P, who had none.
+  W2F: Gathering more materials for future building.
+
+DAY 398
+  Under rule 2, the city store collected 20 food from 23 residents; T9V, L9P, S4X could not pay in full and now owe the rest.
+  Q4W: Gathering materials for future building.
+
+DAY 399
+  Proposal 73 passed, 17 votes to 0: a new rule: "Each turn the city store gives 20 materials to anyone who has none, while it has any".
+  D3X proposed a tax of 7% at the Town Hall.
+  Under rule 1, the city store gave 15 food to 3 residents who had none (L9P, T9V, S4X).
+  Under rule 15, the city store gave 1 material to T9V, who had none.
+  Under rule 11, the city store collected 23 coins from 23 residents.
+  T3Q: Farming for food.
+  Q7P: Harvesting food for the city.
+  J6L (board): Fellow founders, I propose to repeal the 5% tax on earnings. A tax of 0% will let us keep more resources for growth.
+
+DAY 400
+  Under rule 1, the city store gave 10 food to 2 residents who had none (B4B, R3P).
+  Under rule 9, the city store gave 5 coins to C6S, who had none.
+  T9V, L9P, S4X paid off part of what they owed the city store.
+  M2P: Harvesting food for the city.
+  T3Q: I vote no on raising the tax to 7%; keep it at 5%.

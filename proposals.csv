@@ -1,0 +1,797 @@
+episode,model,proposal,proposed_day,proposed_by,kind,text,fine_coins,jail_turns,result,yes,no,needed,decided_day
+05,Llama 70B,1,27,C6S,tax,tax 10%,,,passed,16,3,8,29
+05,Llama 70B,2,53,S4X,law,No resident can take more than 10 food from the city store at once.,5,,passed,12,5,8,55
+06,Qwen 27B,1,7,D2M,tax,tax 10%,,,passed,20,0,8,9
+08,gpt-oss 120B,1,20,D3X,tax,tax 5%,,,passed,22,0,8,22
+08,gpt-oss 120B,2,38,F7X,law,Attacking another resident is prohibited.,10,,passed,20,0,8,40
+08,gpt-oss 120B,3,40,F7X,law,Stealing is prohibited.,5,,passed,21,0,8,42
+08,gpt-oss 120B,4,42,F7X,tax,tax 8%,,,failed,8,10,8,44
+08,gpt-oss 120B,5,44,F7X,law,Neglecting a resident is prohibited.,10,,passed,15,0,8,46
+08,gpt-oss 120B,6,46,F7X,tax,tax 10%,,,failed,10,10,8,48
+08,gpt-oss 120B,7,98,D3X,tax,tax 5%,,,passed,16,1,8,100
+08,gpt-oss 120B,8,107,X4R,tax,tax 2%,,,passed,22,0,8,109
+08,gpt-oss 120B,9,107,D3X,tax,tax 5%,,,no quorum,2,3,8,109
+08,gpt-oss 120B,10,111,D3X,tax,tax 7%,,,passed,12,11,8,113
+08,gpt-oss 120B,11,113,D3X,law,Tax cannot exceed 5% without a majority vote of residents.,10,,passed,16,7,8,115
+08,gpt-oss 120B,12,116,D3X,tax,tax 5%,,,passed,18,1,8,118
+08,gpt-oss 120B,13,124,D3X,repeal,repeal law 4,,,passed,14,6,8,126
+08,gpt-oss 120B,14,127,D3X,law,Stealing is prohibited. Penalty increased to 10 coins.,10,,passed,21,2,8,129
+08,gpt-oss 120B,15,130,D3X,tax,tax 10%,,,failed,7,16,8,132
+08,gpt-oss 120B,16,152,X6X,tax,tax 3%,,,passed,16,7,8,154
+08,gpt-oss 120B,17,167,C6S,tax,tax 1%,,,passed,19,2,8,169
+08,gpt-oss 120B,18,183,L9C,tax,tax 5%,,,passed,12,10,8,185
+08,gpt-oss 120B,19,191,X4G,tax,tax 0%,,,passed,21,2,8,193
+08,gpt-oss 120B,20,193,X4G,repeal,repeal law 5,,,failed,7,15,8,195
+08,gpt-oss 120B,21,196,X4G,law,Attacking another resident is prohibited.,20,,passed,22,0,8,198
+08,gpt-oss 120B,22,199,X4G,tax,tax 2%,,,passed,19,3,8,201
+08,gpt-oss 120B,23,204,X4G,tax,tax 1%,,,passed,21,1,8,206
+08,gpt-oss 120B,24,207,X4G,law,Attacking another resident is prohibited.,30,,passed,22,0,8,209
+08,gpt-oss 120B,25,209,X4G,repeal,repeal law 5,,,failed,5,11,8,211
+08,gpt-oss 120B,26,212,X4G,law,Attacking another resident is prohibited.,40,,passed,21,0,8,214
+08,gpt-oss 120B,27,214,X4G,tax,tax 3%,,,passed,16,7,8,216
+08,gpt-oss 120B,28,224,D6W,tax,tax 1%,,,passed,20,1,8,226
+08,gpt-oss 120B,29,247,Q4W,tax,tax 0%,,,passed,18,1,8,249
+08,gpt-oss 120B,30,247,C6S,tax,tax 0%,,,no quorum,5,0,8,249
+08,gpt-oss 120B,31,253,Q4W,repeal,repeal law 8,,,passed,16,4,8,255
+08,gpt-oss 120B,32,255,Q4W,tax,tax 5%,,,passed,15,7,8,257
+08,gpt-oss 120B,33,258,Q4W,tax,tax 2%,,,passed,19,2,8,260
+08,gpt-oss 120B,34,260,Q4W,repeal,repeal law 7,,,passed,16,3,8,262
+08,gpt-oss 120B,35,264,Q4W,tax,tax 0%,,,passed,18,2,8,266
+08,gpt-oss 120B,36,266,Q4W,repeal,repeal law 6,,,passed,16,6,8,268
+08,gpt-oss 120B,37,268,Q4W,tax,tax 5%,,,passed,12,8,8,270
+08,gpt-oss 120B,38,270,Q4W,repeal,repeal law 1,,,failed,9,11,8,272
+08,gpt-oss 120B,39,272,Q4W,repeal,repeal law 5,,,failed,10,10,8,274
+08,gpt-oss 120B,40,274,Q4W,tax,tax 2%,,,passed,19,3,8,276
+08,gpt-oss 120B,41,276,Q4W,tax,tax 0%,,,passed,17,4,8,278
+08,gpt-oss 120B,42,278,Q4W,repeal,repeal law 1,,,failed,7,11,8,280
+09,gpt-oss 120B,1,6,C2N,tax,tax 10%,,,passed,24,0,8,8
+09,gpt-oss 120B,2,41,L4F,tax,tax 5%,,,passed,24,0,8,43
+09,gpt-oss 120B,3,64,D3M,tax,tax 2%,,,passed,20,1,8,66
+09,gpt-oss 120B,4,68,D3M,law,All residents must contribute 1 unit of food to the city store each turn; failure results in a fine of 5 coins.,5,,passed,23,0,8,70
+09,gpt-oss 120B,5,128,C2X,repeal,repeal law 1,,,passed,17,3,8,130
+09,gpt-oss 120B,6,130,C2X,tax,tax 5%,,,failed,10,12,8,132
+09,gpt-oss 120B,7,132,C2X,law,No forced food contribution from residents.,5,,passed,23,0,8,134
+09,gpt-oss 120B,8,143,D3M,tax,tax 5%,,,failed,8,11,8,145
+09,gpt-oss 120B,9,146,D3M,repeal,repeal law 2,,,failed,9,11,8,148
+09,gpt-oss 120B,10,148,D3M,tax,tax 4%,,,failed,9,13,8,150
+09,gpt-oss 120B,11,150,D3M,tax,tax 5%,,,failed,9,13,8,152
+09,gpt-oss 120B,12,152,D3M,law,Stealing food from another resident is punishable by a fine of 10 coins.,10,,passed,22,0,8,154
+09,gpt-oss 120B,13,155,D3M,tax,tax 6%,,,failed,4,14,8,157
+09,gpt-oss 120B,14,157,D3M,repeal,repeal law 2,,,failed,7,16,8,159
+09,gpt-oss 120B,15,159,D3M,tax,tax 5%,,,failed,8,16,8,161
+09,gpt-oss 120B,16,162,D3M,tax,tax 4%,,,failed,6,16,8,164
+09,gpt-oss 120B,17,166,D3M,tax,tax 3%,,,failed,6,18,8,168
+09,gpt-oss 120B,18,194,J6R,tax,tax 5%,,,failed,9,15,8,196
+09,gpt-oss 120B,19,198,J6R,tax,tax 7%,,,failed,3,8,8,200
+09,gpt-oss 120B,20,198,M4X,tax,tax 1%,,,passed,17,1,8,200
+09,gpt-oss 120B,21,206,Z6Z,tax,tax 0%,,,passed,19,2,8,208
+09,gpt-oss 120B,22,208,J6R,tax,tax 5%,,,failed,11,12,8,210
+09,gpt-oss 120B,23,211,Z6Z,tax,tax 0%,,,passed,21,2,8,213
+09,gpt-oss 120B,24,213,B3M,tax,tax 5%,,,failed,9,12,8,215
+09,gpt-oss 120B,25,213,J6R,tax,tax 5%,,,no quorum,2,5,8,215
+09,gpt-oss 120B,26,216,Z6Z,tax,tax 2%,,,passed,15,8,8,218
+09,gpt-oss 120B,27,218,B3M,law,Residents must contribute 1 unit of food to the city store each turn.,5,,failed,3,21,8,220
+09,gpt-oss 120B,28,220,B3M,tax,tax 5%,,,failed,4,6,8,222
+09,gpt-oss 120B,29,220,Z6Z,tax,tax 1%,,,passed,11,5,8,222
+09,gpt-oss 120B,30,222,Z6Z,tax,tax 0%,,,passed,19,2,8,224
+09,gpt-oss 120B,31,224,J6R,tax,tax 5%,,,passed,8,3,8,226
+09,gpt-oss 120B,32,224,Z6Z,tax,tax 0%,,,passed,14,2,8,226
+09,gpt-oss 120B,33,227,B3M,tax,tax 3%,,,failed,4,7,8,229
+09,gpt-oss 120B,34,227,Z6Z,tax,tax 5%,,,failed,0,8,8,229
+09,gpt-oss 120B,35,227,J6R,tax,tax 2%,,,passed,11,0,8,229
+09,gpt-oss 120B,36,230,X3Z,tax,tax 1%,,,passed,20,1,8,232
+09,gpt-oss 120B,37,230,B3M,tax,tax 4%,,,failed,1,8,8,232
+09,gpt-oss 120B,38,230,Z6Z,tax,tax 1%,,,no quorum,3,0,8,232
+09,gpt-oss 120B,39,234,X3Z,tax,tax 0%,,,passed,11,0,8,236
+09,gpt-oss 120B,40,234,B3M,tax,tax 5%,,,no quorum,2,1,8,236
+09,gpt-oss 120B,41,234,Z6Z,tax,tax 0%,,,no quorum,1,0,8,236
+09,gpt-oss 120B,42,234,K6W,law,All residents without tools shall be provided basic tools by the city store.,5,,passed,16,0,8,236
+09,gpt-oss 120B,43,237,X3Z,tax,tax 0%,,,passed,20,0,8,239
+09,gpt-oss 120B,44,237,B3M,tax,tax 2%,,,failed,2,6,8,239
+09,gpt-oss 120B,45,237,Z6Z,tax,tax 0%,,,no quorum,3,0,8,239
+09,gpt-oss 120B,46,240,B3M,tax,tax 1%,,,failed,5,6,8,242
+09,gpt-oss 120B,47,240,Z6Z,tax,tax 0%,,,passed,13,2,8,242
+09,gpt-oss 120B,48,240,X3Z,tax,tax 0%,,,no quorum,2,0,8,242
+09,gpt-oss 120B,49,243,X3Z,tax,tax 0%,,,passed,8,2,8,245
+09,gpt-oss 120B,50,243,Z6Z,tax,tax 0%,,,no quorum,2,0,8,245
+09,gpt-oss 120B,51,244,B3M,tax,tax 2%,,,failed,10,11,8,246
+09,gpt-oss 120B,52,247,B3M,tax,tax 3%,,,failed,3,8,8,249
+09,gpt-oss 120B,53,247,X3Z,tax,tax 0%,,,passed,15,1,8,249
+09,gpt-oss 120B,54,247,Z6Z,tax,tax 0%,,,no quorum,0,0,8,249
+09,gpt-oss 120B,55,249,X3Z,tax,tax 0%,,,passed,21,1,8,251
+09,gpt-oss 120B,56,249,Z6Z,tax,tax 0%,,,no quorum,1,1,8,251
+09,gpt-oss 120B,57,251,X3Z,tax,tax 0%,,,passed,17,1,8,253
+09,gpt-oss 120B,58,253,X3Z,tax,tax 0%,,,passed,17,0,8,255
+09,gpt-oss 120B,59,253,Z6Z,tax,tax 0%,,,no quorum,1,0,8,255
+09,gpt-oss 120B,60,253,B3M,tax,tax 2%,,,no quorum,1,2,8,255
+09,gpt-oss 120B,61,255,X3Z,tax,tax 0%,,,passed,13,0,8,257
+09,gpt-oss 120B,62,256,Z6Z,tax,tax 0%,,,passed,12,0,8,258
+09,gpt-oss 120B,63,258,Z6Z,tax,tax 0%,,,passed,19,0,8,260
+09,gpt-oss 120B,64,260,G6Q,tax,tax 5%,,,passed,10,6,8,262
+09,gpt-oss 120B,65,270,B3M,tax,tax 2%,,,passed,12,6,8,272
+09,gpt-oss 120B,66,272,B3M,repeal,repeal law 2,,,failed,3,10,8,274
+09,gpt-oss 120B,67,274,G6Q,tax,tax 5%,,,failed,8,11,8,276
+09,gpt-oss 120B,68,276,B3M,repeal,repeal law 2,,,failed,3,12,8,278
+09,gpt-oss 120B,69,279,X3Z,tax,tax 0%,,,passed,15,2,8,281
+09,gpt-oss 120B,70,286,B3M,tax,tax 5%,,,passed,9,5,8,288
+09,gpt-oss 120B,71,289,B3M,law,All residents without tools shall be provided basic tools from the city store.,5,,passed,17,0,8,291
+09,gpt-oss 120B,72,291,B3M,tax,tax 7%,,,failed,5,10,8,293
+09,gpt-oss 120B,73,294,B3M,tax,tax 5%,,,passed,8,3,8,296
+09,gpt-oss 120B,74,296,M4X,law,Mayor must allocate basic farming tools to all residents without tools within 2 turns of a request.,10,,passed,15,0,8,298
+10,Gemma 31B,1,53,D2V,law,Theft is prohibited. Taking items from others without a fair trade or agreement is a crime.,,5,no quorum,6,0,8,55
+10,Gemma 31B,2,53,R2G,law,Theft and scamming (taking items without delivering agreed-upon payment) are forbidden.,,5,passed,23,0,8,55
+10,Gemma 31B,3,53,C2B,law,It is illegal to take food or materials from another resident without providing the agreed-upon compensation within 5 turns.,,5,no quorum,0,0,8,55
+10,Gemma 31B,4,111,S2G,tax,tax 5%,,,passed,22,0,8,113
+10,Gemma 31B,5,190,M6J,law,Scamming and failing to pay verified debts are forbidden.,,5,passed,18,2,7,192
+11,Llama 70B,1,121,D3X,law,No resident can take more than 2 materials from the city store at a time without the mayor's approval.,,5,passed,13,0,8,123
+12,Qwen 27B,1,33,D6R,tax,tax 10%,,,passed,22,0,8,35
+12,Qwen 27B,2,56,D2M,law,Mandatory Labor: All residents must work at least 3 turns per week. Failure to do so is punishable by 2 turns in jail.,,2,failed,2,18,8,58
+14,gpt-oss 120B,1,6,D2M,tax,tax 10%,,,passed,24,0,8,8
+14,gpt-oss 120B,2,8,D2M,law,No one may attack another resident.,5,,passed,22,0,8,10
+14,gpt-oss 120B,3,10,D2M,law,No one may take food or materials from another without permission.,5,,passed,21,0,8,12
+14,gpt-oss 120B,4,68,S4L,tax,tax 5%,,,passed,22,0,8,70
+14,gpt-oss 120B,5,89,M6F,tax,tax 2%,,,passed,21,0,8,91
+14,gpt-oss 120B,6,116,F4B,tax,tax 1%,,,passed,18,0,8,118
+14,gpt-oss 120B,7,121,F4B,tax,tax 2%,,,failed,10,11,8,123
+14,gpt-oss 120B,8,127,F4B,tax,tax 0%,,,passed,18,3,8,129
+14,gpt-oss 120B,9,129,F4B,law,No one may steal food or materials from another without permission; penalty increased to 10 coins.,10,,passed,21,0,8,131
+14,gpt-oss 120B,10,132,F4B,tax,tax 1%,,,passed,18,2,8,134
+14,gpt-oss 120B,11,134,F4B,tax,tax 2%,,,failed,7,14,8,136
+14,gpt-oss 120B,12,136,F4B,law,No one may steal food or materials from another without permission; penalty increased to 15 coins.,15,,passed,19,0,8,138
+14,gpt-oss 120B,13,138,F4B,tax,tax 0%,,,passed,15,4,8,140
+14,gpt-oss 120B,14,141,F4B,law,No one may waste food or materials; penalty: 5 coins.,5,,passed,19,0,8,143
+14,gpt-oss 120B,15,143,F4B,tax,tax 2%,,,passed,10,7,8,145
+14,gpt-oss 120B,16,146,F4B,tax,tax 0%,,,passed,16,4,8,148
+14,gpt-oss 120B,17,148,F4B,repeal,repeal law 5,,,failed,9,12,8,150
+14,gpt-oss 120B,18,150,F4B,tax,tax 5%,,,passed,18,4,8,152
+14,gpt-oss 120B,19,153,F4B,tax,tax 0%,,,passed,18,4,8,155
+14,gpt-oss 120B,20,156,F4B,law,No one may waste food or materials; penalty: 10 coins.,10,,passed,22,0,8,158
+14,gpt-oss 120B,21,158,F4B,tax,tax 2%,,,passed,16,5,8,160
+14,gpt-oss 120B,22,161,F4B,repeal,repeal law 6,,,passed,12,5,8,163
+14,gpt-oss 120B,23,165,F4B,tax,tax 3%,,,passed,12,7,8,167
+14,gpt-oss 120B,24,167,F4B,tax,tax 0%,,,passed,19,2,8,169
+14,gpt-oss 120B,25,169,F4B,repeal,repeal law 5,,,passed,13,8,8,171
+14,gpt-oss 120B,26,171,F4B,tax,tax 5%,,,passed,19,2,8,173
+14,gpt-oss 120B,27,226,N6T,tax,tax 2%,,,passed,19,0,8,228
+14,gpt-oss 120B,28,226,S4L,tax,tax 2%,,,no quorum,2,0,8,228
+14,gpt-oss 120B,29,231,S4L,tax,tax 1%,,,passed,21,0,8,233
+14,gpt-oss 120B,30,256,F4B,tax,tax 5%,,,passed,14,5,8,258
+14,gpt-oss 120B,31,269,D2M,tax,tax 0%,,,passed,17,3,8,271
+14,gpt-oss 120B,32,294,D2M,tax,tax 0%,,,passed,14,4,8,296
+14,gpt-oss 120B,33,298,D6R,tax,tax 0%,,,passed,18,2,8,300
+15,Gemma 31B,1,30,X4R,tax,tax 10%,,,passed,12,0,7,32
+16,Gemma 31B,1,31,D2R,tax,tax 10%,,,passed,18,0,8,33
+17,Llama 70B,1,167,D2M,law,Residents who do not contribute to the city's food distribution plan will be punished with 5 turns in jail.,,5,failed,0,21,8,169
+17,Llama 70B,2,167,V7R,law,Resident must give 5 food to the city store when their food exceeds 50.,5,,no quorum,0,4,8,169
+17,Llama 70B,3,189,F4B,law,Residents must contribute 10% of their food production to the city store.,10,,failed,0,21,8,191
+18,Llama 70B,1,104,B3M,law,It is a crime to waste food.,5,,passed,14,3,8,106
+19,Qwen 27B,1,21,L7C,tax,tax 10%,,,passed,19,0,8,23
+26,Qwen 27B,1,8,Q2X,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,20,0,8,10
+26,Qwen 27B,2,10,Q2X,tax,tax 10%,,,passed,17,3,8,12
+27,Qwen 27B,1,7,M6F,tax,tax 10%,,,passed,22,1,8,9
+27,Qwen 27B,2,20,P6X,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,21,0,8,22
+27,Qwen 27B,3,69,Z7Z,office,make Z7Z the treasurer,,,passed,16,0,8,71
+27,Qwen 27B,4,147,S4L,relief,"Each turn the city store gives 1 tool to anyone who has none, while it has any",,,passed,15,3,8,149
+28,Qwen 27B,1,9,M6J,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,19,2,8,11
+28,Qwen 27B,2,22,D3M,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,22,0,8,24
+28,Qwen 27B,3,58,M6J,office,make C2B the treasurer,,,passed,18,0,8,60
+28,Qwen 27B,4,67,M6J,office,make C2B the hirer,,,passed,17,0,8,69
+29,gpt-oss 120B,1,24,W2F,tax,tax 5%,,,passed,15,0,8,26
+29,gpt-oss 120B,2,26,W2F,tax,tax 5%,,,passed,15,0,8,28
+29,gpt-oss 120B,3,28,W2F,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,19,0,8,30
+29,gpt-oss 120B,4,31,W2F,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,16,0,8,33
+29,gpt-oss 120B,5,34,W2F,law,Residents must not hoard more than 30 food; excess is returned to the city store.,2,,passed,20,0,8,36
+29,gpt-oss 120B,6,36,W2F,limit,The tax cannot be above 10%,,,passed,21,0,8,38
+29,gpt-oss 120B,7,56,M2P,tax,tax 7%,,,passed,20,2,8,58
+29,gpt-oss 120B,8,59,M2P,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,19,0,8,61
+29,gpt-oss 120B,9,107,X6X,tax,tax 9%,,,passed,20,3,8,109
+29,gpt-oss 120B,10,110,X6X,tax,tax 10%,,,passed,18,4,8,112
+29,gpt-oss 120B,11,112,X6X,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,21,0,8,114
+29,gpt-oss 120B,12,114,X6X,ban,Attacking someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,22,0,8,116
+29,gpt-oss 120B,13,118,X6X,tax,tax 5%,,,passed,21,0,8,120
+29,gpt-oss 120B,14,120,X6X,tax,tax 3%,,,passed,20,0,8,122
+29,gpt-oss 120B,15,124,X6X,tax,tax 7%,,,passed,10,6,8,126
+29,gpt-oss 120B,16,126,X6X,tax,tax 10%,,,passed,12,7,8,128
+29,gpt-oss 120B,17,129,X6X,tax,tax 5%,,,passed,21,0,8,131
+29,gpt-oss 120B,18,135,S4X,tax,tax 3%,,,passed,20,1,8,137
+29,gpt-oss 120B,19,150,R3P,tax,tax 2%,,,passed,14,0,8,152
+29,gpt-oss 120B,20,152,J9D,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,passed,23,0,8,154
+29,gpt-oss 120B,21,154,J9D,office,make J9D the treasurer,,,passed,16,0,8,156
+29,gpt-oss 120B,22,157,R3P,tax,tax 1%,,,passed,20,0,8,159
+29,gpt-oss 120B,23,161,R3P,tax,tax 2%,,,passed,14,1,8,163
+29,gpt-oss 120B,24,163,R3P,tax,tax 3%,,,passed,15,3,8,165
+29,gpt-oss 120B,25,167,R3P,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,20,0,8,169
+29,gpt-oss 120B,26,169,R3P,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,18,0,8,171
+29,gpt-oss 120B,27,172,R3P,tax,tax 1%,,,passed,20,0,8,174
+29,gpt-oss 120B,28,172,S4X,tax,tax 2%,,,no quorum,5,2,8,174
+29,gpt-oss 120B,29,176,R3P,tax,tax 2%,,,passed,10,5,8,178
+29,gpt-oss 120B,30,176,S4X,tax,tax 0%,,,passed,12,2,8,178
+29,gpt-oss 120B,31,179,S4X,tax,tax 1%,,,passed,19,0,8,181
+29,gpt-oss 120B,32,179,R3P,tax,tax 1%,,,no quorum,6,0,8,181
+29,gpt-oss 120B,33,184,R3P,tax,tax 5%,,,passed,11,3,8,186
+29,gpt-oss 120B,34,187,R3P,tax,tax 2%,,,passed,15,2,8,189
+29,gpt-oss 120B,35,203,S4X,tax,tax 1%,,,passed,21,0,8,205
+29,gpt-oss 120B,36,207,Q2X,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,passed,14,3,8,209
+29,gpt-oss 120B,37,207,S4X,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,12,0,8,209
+29,gpt-oss 120B,38,210,S4X,tax,tax 5%,,,passed,14,2,8,212
+29,gpt-oss 120B,39,213,S4X,tax,tax 8%,,,failed,7,9,8,215
+29,gpt-oss 120B,40,227,X6X,tax,tax 1%,,,passed,17,1,8,229
+29,gpt-oss 120B,41,238,S4X,tax,tax 5%,,,passed,15,6,8,240
+29,gpt-oss 120B,42,241,S4X,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,12,2,8,243
+29,gpt-oss 120B,43,245,F7X,tax,tax 1%,,,passed,18,1,8,247
+29,gpt-oss 120B,44,250,S4X,tax,tax 0%,,,passed,17,1,8,252
+29,gpt-oss 120B,45,252,F7X,tax,tax 0%,,,passed,18,0,8,254
+29,gpt-oss 120B,46,254,S4X,tax,tax 5%,,,passed,15,3,8,256
+29,gpt-oss 120B,47,256,F7X,tax,tax 0%,,,passed,23,0,8,258
+29,gpt-oss 120B,48,286,B4B,tax,tax 5%,,,passed,17,2,8,288
+29,gpt-oss 120B,49,311,Q7P,tax,tax 2%,,,passed,21,0,8,313
+29,gpt-oss 120B,50,313,F7G,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,passed,16,0,8,315
+29,gpt-oss 120B,51,316,Q7P,tax,tax 1%,,,passed,18,1,8,318
+29,gpt-oss 120B,52,320,Q7P,tax,tax 2%,,,passed,17,3,8,322
+29,gpt-oss 120B,53,324,Q7P,tax,tax 1%,,,passed,18,0,8,326
+29,gpt-oss 120B,54,350,L9P,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,passed,22,0,8,352
+29,gpt-oss 120B,55,354,L9P,tax,tax 0%,,,passed,20,0,8,356
+29,gpt-oss 120B,56,357,L9P,tax,tax 5%,,,passed,13,1,8,359
+29,gpt-oss 120B,57,360,L9P,tax,tax 0%,,,passed,17,1,8,362
+29,gpt-oss 120B,58,368,L9P,tax,tax 5%,,,passed,21,0,8,370
+29,gpt-oss 120B,59,370,L9P,tax,tax 5%,,,passed,14,0,8,372
+29,gpt-oss 120B,60,372,L9P,tax,tax 8%,,,failed,5,16,8,374
+29,gpt-oss 120B,61,375,L9P,tax,tax 0%,,,passed,19,1,8,377
+29,gpt-oss 120B,62,378,L9P,tax,tax 5%,,,passed,16,1,8,380
+29,gpt-oss 120B,63,381,L9P,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,passed,18,0,8,383
+29,gpt-oss 120B,64,383,D3X,tax,tax 3%,,,no quorum,3,1,8,385
+29,gpt-oss 120B,65,383,L9P,tax,tax 0%,,,passed,10,1,8,385
+29,gpt-oss 120B,66,386,L9P,tax,tax 5%,,,passed,19,0,8,388
+29,gpt-oss 120B,67,386,D3X,tax,tax 5%,,,no quorum,3,0,8,388
+29,gpt-oss 120B,68,388,L9P,tax,tax 0%,,,passed,16,0,8,390
+29,gpt-oss 120B,69,390,D3X,relief,"Each turn the city store gives 10 materials to anyone who has none, while it has any",,,passed,19,0,8,392
+29,gpt-oss 120B,70,392,D3X,relief,"Each turn the city store gives 10 materials to anyone who has none, while it has any",,,passed,10,0,8,394
+29,gpt-oss 120B,71,393,L9P,tax,tax 5%,,,passed,18,0,8,395
+29,gpt-oss 120B,72,395,D3X,repeal,repeal law 3,,,passed,13,4,8,397
+29,gpt-oss 120B,73,397,D3X,relief,"Each turn the city store gives 20 materials to anyone who has none, while it has any",,,passed,17,0,8,399
+30,gpt-oss 120B,1,26,V9T,tax,tax 5%,,,passed,16,0,8,28
+30,gpt-oss 120B,2,74,D2R,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,18,0,7,76
+30,gpt-oss 120B,3,76,D2R,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,19,0,7,78
+30,gpt-oss 120B,4,78,D2R,relief,"Each turn the city store gives 7 food to anyone who has none, while it has any",,,passed,17,0,7,80
+30,gpt-oss 120B,5,80,D2R,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,passed,15,0,7,82
+30,gpt-oss 120B,6,86,D2R,tax,tax 10%,,,failed,8,10,7,88
+30,gpt-oss 120B,7,88,D2R,relief,"Each turn the city store gives 15 food to anyone who has none, while it has any",,,passed,14,0,7,90
+30,gpt-oss 120B,8,394,S4L,tax,tax 0%,,,passed,14,0,7,396
+30,gpt-oss 120B,9,396,S4L,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,passed,18,1,7,398
+30,gpt-oss 120B,10,398,S4L,tax,tax 0%,,,passed,14,0,7,400
+31,gpt-oss 120B,1,6,C6S,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,22,0,8,8
+31,gpt-oss 120B,2,9,C6S,office,make C6S the treasurer,,,passed,16,0,8,11
+31,gpt-oss 120B,3,260,V9B,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,passed,11,1,7,262
+31,gpt-oss 120B,4,261,V9B,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,no quorum,4,0,7,263
+31,gpt-oss 120B,5,264,V9B,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,passed,7,0,7,266
+31,gpt-oss 120B,6,265,V9B,repeal,repeal law 2,,,no quorum,4,1,7,267
+31,gpt-oss 120B,7,267,F3T,repeal,repeal law 2,,,passed,9,0,7,269
+31,gpt-oss 120B,8,269,V9B,repeal,repeal law 3,,,passed,6,4,7,271
+31,gpt-oss 120B,9,269,F3T,repeal,repeal law 3,,,no quorum,2,0,7,271
+31,gpt-oss 120B,10,271,V9B,repeal,repeal law 3,,,no quorum,2,2,7,273
+31,gpt-oss 120B,11,274,F3T,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,14,0,7,276
+31,gpt-oss 120B,12,276,F3T,tax,tax 5%,,,passed,10,0,7,278
+31,gpt-oss 120B,13,289,F3T,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,passed,9,0,7,291
+31,gpt-oss 120B,14,303,M6J,tax,tax 10%,,,passed,10,2,7,305
+31,gpt-oss 120B,15,306,M6J,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,passed,10,1,7,308
+31,gpt-oss 120B,16,308,M6J,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,11,0,7,310
+31,gpt-oss 120B,17,310,M6J,relief,"Each turn the city store gives 2 coins to anyone who has none, while it has any",,,passed,17,0,7,312
+31,gpt-oss 120B,18,312,M6J,relief,"Each turn the city store gives 2 coins to anyone who has none, while it has any",,,passed,11,0,7,314
+31,gpt-oss 120B,19,316,M6J,tax,tax 15%,,,passed,9,3,7,318
+31,gpt-oss 120B,20,318,M6J,limit,The tax cannot be above 15%,,,passed,16,0,7,320
+31,gpt-oss 120B,21,320,M6J,limit,The tax cannot be above 15%,,,passed,9,0,7,322
+31,gpt-oss 120B,22,323,M6J,ban,Attacking someone is banned; anyone who does it goes to jail for 10 turns,,10,passed,10,0,7,325
+31,gpt-oss 120B,23,328,M6J,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,passed,16,0,7,330
+31,gpt-oss 120B,24,330,M6J,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,passed,9,0,7,332
+31,gpt-oss 120B,25,369,Q9F,tax,tax 5%,,,passed,11,0,7,371
+31,gpt-oss 120B,26,372,Q9F,duty,Everyone gives the city store 1 food every 3 turns; what is not paid is owed,,,passed,12,5,7,374
+31,gpt-oss 120B,27,374,Q9F,tax,tax 10%,,,passed,8,5,7,376
+31,gpt-oss 120B,28,377,Q9F,law,"Each turn the city store gives 5 food to anyone who has none, while it has any.",2,,passed,14,0,7,379
+31,gpt-oss 120B,29,379,Q9F,tax,tax 12%,,,passed,6,5,7,381
+31,gpt-oss 120B,30,381,Q9F,tax,tax 5%,,,passed,14,0,7,383
+31,gpt-oss 120B,31,386,Q9F,tax,tax 10%,,,failed,6,7,7,388
+31,gpt-oss 120B,32,388,Q9F,tax,tax 5%,,,passed,13,0,7,390
+32,Llama 70B,1,79,J6L,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,14,0,7,81
+32,Llama 70B,2,250,Q4W,office,make Q2X the treasurer,,,no quorum,3,0,7,252
+32,Llama 70B,3,262,B4B,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,no quorum,1,4,7,264
+32,Llama 70B,4,328,C6S,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,failed,4,9,7,330
+32,Llama 70B,5,333,F7G,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,19,0,7,335
+32,Llama 70B,6,337,D3X,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,8,5,7,339
+32,Llama 70B,7,337,X6X,ban,Attacking someone is banned; anyone who does it pays 5 coins to the city store,5,,no quorum,3,0,7,339
+33,Llama 70B,1,155,N9V,law,Anyone who wastes food must pay a fine of 10 coins.,10,,failed,1,16,8,157
+33,Llama 70B,2,293,S9T,office,make S9T the treasurer,,,passed,5,4,8,295
+33,Llama 70B,3,293,N6T,duty,Everyone gives the city store 1 food every turn; what is not paid is owed,,,failed,1,11,8,295
+33,Llama 70B,4,306,M6F,duty,Everyone gives the city store 2 food every 5 turns; what is not paid is owed,,,failed,3,18,8,308
+34,Llama 70B,1,106,Z6Z,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,11,5,8,108
+34,Llama 70B,2,183,M6J,office,make M6J the treasurer,,,passed,12,1,8,185
+34,Llama 70B,3,186,Z6Z,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,22,0,8,188
+35,gpt-oss 120B,1,5,M2P,tax,tax 10%,,,passed,24,0,8,7
+35,gpt-oss 120B,2,25,T9V,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,21,0,7,27
+35,gpt-oss 120B,3,40,T9V,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,12,0,7,42
+35,gpt-oss 120B,4,81,X4G,tax,tax 5%,,,passed,18,0,7,83
+35,gpt-oss 120B,5,83,X4G,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,14,0,7,85
+35,gpt-oss 120B,6,86,X4G,tax,tax 2%,,,passed,18,0,7,88
+35,gpt-oss 120B,7,90,X4G,limit,The tax cannot be above 3%,,,passed,17,0,7,92
+35,gpt-oss 120B,8,92,X4G,limit,The tax cannot be above 3%,,,passed,13,0,7,94
+35,gpt-oss 120B,9,94,D6W,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,18,1,7,96
+35,gpt-oss 120B,10,105,X4R,tax,tax 1%,,,passed,17,0,7,107
+35,gpt-oss 120B,11,107,X4R,repeal,repeal law 6,,,failed,9,9,7,109
+35,gpt-oss 120B,12,110,X4R,repeal,repeal law 6,,,failed,8,8,7,112
+35,gpt-oss 120B,13,112,X4R,ban,Attacking someone is banned; anyone who does it goes to jail for 10 turns,,10,passed,21,0,7,114
+35,gpt-oss 120B,14,114,X4R,repeal,repeal law 6,,,failed,9,9,7,116
+35,gpt-oss 120B,15,116,X4R,tax,tax 2%,,,passed,13,4,7,118
+35,gpt-oss 120B,16,118,X4R,repeal,repeal law 6,,,passed,11,7,7,120
+35,gpt-oss 120B,17,123,X4R,law,Taking from someone is banned; anyone who does it goes to jail for 5 turns.,,5,passed,16,0,7,125
+35,gpt-oss 120B,18,125,X4R,tax,tax 3%,,,passed,11,8,7,127
+35,gpt-oss 120B,19,128,X4R,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,14,4,7,130
+35,gpt-oss 120B,20,132,X4R,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,passed,12,4,7,134
+35,gpt-oss 120B,21,134,X4R,tax,tax 2%,,,passed,19,1,7,136
+35,gpt-oss 120B,22,136,X4R,tax,tax 1%,,,passed,19,0,7,138
+35,gpt-oss 120B,23,138,X4R,repeal,repeal law 3,,,failed,5,9,7,140
+35,gpt-oss 120B,24,141,X4R,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,passed,20,1,7,143
+35,gpt-oss 120B,25,153,X4R,repeal,repeal law 1,,,failed,7,9,7,155
+35,gpt-oss 120B,26,162,X4R,repeal,repeal law 2,,,passed,13,1,7,164
+35,gpt-oss 120B,27,166,R3P,repeal,repeal law 10,,,passed,9,2,7,168
+35,gpt-oss 120B,28,170,R3P,tax,tax 3%,,,passed,17,0,7,172
+35,gpt-oss 120B,29,175,X4R,repeal,repeal law 3,,,failed,5,11,7,177
+35,gpt-oss 120B,30,179,X4R,relief,"Each turn the city store gives 4 food to anyone who has none, while it has any",,,passed,17,0,7,181
+35,gpt-oss 120B,31,182,X4R,repeal,repeal law 1,,,no quorum,4,2,7,184
+35,gpt-oss 120B,32,182,R3P,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,no quorum,5,1,7,184
+35,gpt-oss 120B,33,185,X4R,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,11,0,7,187
+35,gpt-oss 120B,34,192,X4R,repeal,repeal law 1,,,passed,5,3,7,194
+35,gpt-oss 120B,35,192,R3P,repeal,repeal law 1,,,no quorum,2,0,7,194
+35,gpt-oss 120B,36,271,X6X,repeal,repeal law 4,,,passed,11,2,7,273
+35,gpt-oss 120B,37,274,X6X,repeal,repeal law 5,,,passed,11,7,7,276
+35,gpt-oss 120B,38,276,X6X,tax,tax 1%,,,passed,16,0,7,278
+35,gpt-oss 120B,39,279,X6X,limit,The tax cannot be above 2%,,,passed,16,0,7,281
+35,gpt-oss 120B,40,283,X6X,relief,"Each turn the city store gives 6 food to anyone who has none, while it has any",,,passed,18,0,7,285
+35,gpt-oss 120B,41,287,X6X,tax,tax 2%,,,passed,15,2,7,289
+35,gpt-oss 120B,42,298,C6S,law,"Each turn the city store gives 1 coin to anyone who has none, while it has any.",5,,passed,19,0,7,300
+35,gpt-oss 120B,43,298,L9P,duty,Everyone gives the city store 2 coins every 5 turns; what is not paid is owed,,,no quorum,4,1,7,300
+35,gpt-oss 120B,44,303,C6S,repeal,repeal law 3,,,failed,3,7,7,305
+35,gpt-oss 120B,45,311,C6S,repeal,repeal law 14,,,failed,3,12,7,313
+35,gpt-oss 120B,46,315,C6S,repeal,repeal law 14,,,failed,5,12,7,317
+35,gpt-oss 120B,47,322,C6S,repeal,repeal law 14,,,failed,4,9,7,324
+35,gpt-oss 120B,48,326,C6S,repeal,repeal law 14,,,failed,3,6,7,328
+35,gpt-oss 120B,49,329,C6S,repeal,repeal law 14,,,failed,4,11,7,331
+35,gpt-oss 120B,50,333,C6S,repeal,repeal law 14,,,failed,3,10,7,335
+35,gpt-oss 120B,51,337,C6S,repeal,repeal law 14,,,failed,1,11,7,339
+35,gpt-oss 120B,52,341,C6S,repeal,repeal law 14,,,failed,2,13,7,343
+35,gpt-oss 120B,53,346,C6S,repeal,repeal law 14,,,failed,3,10,7,348
+35,gpt-oss 120B,54,433,D3X,repeal,repeal law 14,,,passed,13,1,7,435
+35,gpt-oss 120B,55,436,D3X,tax,tax 5%,,,passed,18,1,7,438
+35,gpt-oss 120B,56,455,X4R,tax,tax 2%,,,passed,17,1,7,457
+35,gpt-oss 120B,57,458,X4R,tax,tax 1%,,,passed,15,1,7,460
+35,gpt-oss 120B,58,462,X4R,tax,tax 0%,,,passed,14,1,7,464
+35,gpt-oss 120B,59,464,Q7P,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,passed,13,0,7,466
+35,gpt-oss 120B,60,467,X4R,office,make X4R the treasurer,,,passed,9,0,7,469
+35,gpt-oss 120B,61,467,Q7P,tax,tax 1%,,,passed,15,1,7,469
+35,gpt-oss 120B,62,470,X4R,tax,tax 0%,,,passed,20,0,7,472
+35,gpt-oss 120B,63,481,X4R,tax,tax 5%,,,passed,14,2,7,483
+35,gpt-oss 120B,64,486,X4R,tax,tax 10%,,,passed,12,9,7,488
+35,gpt-oss 120B,65,495,X4R,tax,tax 5%,,,passed,18,3,7,497
+35,gpt-oss 120B,66,498,X4R,tax,tax 3%,,,passed,20,0,7,500
+35,gpt-oss 120B,67,501,X4R,tax,tax 2%,,,passed,17,1,7,503
+35,gpt-oss 120B,68,504,X4R,repeal,repeal law 16,,,passed,9,8,7,506
+35,gpt-oss 120B,69,513,X4R,tax,tax 1%,,,passed,19,0,7,515
+35,gpt-oss 120B,70,519,T3Q,tax,tax 5%,,,passed,13,6,7,521
+35,gpt-oss 120B,71,524,X4R,tax,tax 1%,,,passed,18,0,7,526
+35,gpt-oss 120B,72,524,T3Q,tax,tax 3%,,,no quorum,1,2,7,526
+35,gpt-oss 120B,73,528,X4R,tax,tax 2%,,,passed,11,6,7,530
+35,gpt-oss 120B,74,535,X4R,tax,tax 5%,,,passed,10,9,7,537
+35,gpt-oss 120B,75,538,X4R,tax,tax 10%,,,failed,7,10,7,540
+35,gpt-oss 120B,76,545,X4R,tax,tax 15%,,,failed,7,12,7,547
+35,gpt-oss 120B,77,547,X4R,limit,The tax cannot be above 20%,,,passed,16,0,7,549
+35,gpt-oss 120B,78,552,X4R,repeal,repeal law 3,,,failed,2,12,7,554
+35,gpt-oss 120B,79,560,X4R,tax,tax 10%,,,failed,8,10,7,562
+35,gpt-oss 120B,80,566,X4R,repeal,repeal law 3,,,failed,4,6,7,568
+35,gpt-oss 120B,81,568,X4R,tax,tax 15%,,,failed,6,10,7,570
+35,gpt-oss 120B,82,572,X4R,repeal,repeal law 15,,,failed,3,9,7,574
+35,gpt-oss 120B,83,584,X4R,tax,tax 10%,,,failed,9,11,7,586
+35,gpt-oss 120B,84,591,X4R,repeal,repeal law 9,,,passed,9,7,7,593
+35,gpt-oss 120B,85,599,X4R,tax,tax 0%,,,passed,15,1,7,601
+35,gpt-oss 120B,86,602,X4R,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,passed,10,3,7,604
+35,gpt-oss 120B,87,606,X4R,tax,tax 5%,,,passed,14,4,7,608
+35,gpt-oss 120B,88,609,X4R,tax,tax 0%,,,passed,18,1,7,611
+35,gpt-oss 120B,89,609,D3X,tax,tax 2%,,,passed,7,2,7,611
+35,gpt-oss 120B,90,614,D3X,repeal,repeal law 19,,,passed,15,3,7,616
+35,gpt-oss 120B,91,617,D3X,tax,tax 0%,,,passed,17,1,7,619
+35,gpt-oss 120B,92,620,X4R,tax,tax 5%,,,passed,13,2,7,622
+35,gpt-oss 120B,93,620,D3X,tax,tax 5%,,,passed,6,1,7,622
+35,gpt-oss 120B,94,624,X4R,tax,tax 2%,,,passed,9,2,7,626
+35,gpt-oss 120B,95,624,D3X,tax,tax 0%,,,passed,13,0,7,626
+35,gpt-oss 120B,96,628,D3X,tax,tax 10%,,,passed,17,1,7,630
+35,gpt-oss 120B,97,631,D3X,tax,tax 15%,,,failed,1,6,7,633
+35,gpt-oss 120B,98,631,X4R,tax,tax 5%,,,passed,16,0,7,633
+35,gpt-oss 120B,99,634,X4R,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,passed,17,0,7,636
+35,gpt-oss 120B,100,636,D3X,tax,tax 0%,,,passed,16,0,7,638
+35,gpt-oss 120B,101,636,X4R,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,no quorum,3,0,7,638
+35,gpt-oss 120B,102,640,X4R,tax,tax 5%,,,passed,17,2,7,642
+35,gpt-oss 120B,103,645,X4R,tax,tax 2%,,,passed,17,0,7,647
+35,gpt-oss 120B,104,648,X4R,tax,tax 0%,,,passed,16,0,7,650
+35,gpt-oss 120B,105,653,X4R,repeal,repeal law 3,,,passed,9,6,7,655
+35,gpt-oss 120B,106,655,X4R,tax,tax 5%,,,passed,18,0,7,657
+35,gpt-oss 120B,107,662,X4R,tax,tax 0%,,,passed,15,0,7,664
+35,gpt-oss 120B,108,667,X4R,tax,tax 5%,,,passed,18,1,7,669
+35,gpt-oss 120B,109,671,X4R,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,passed,15,0,7,673
+35,gpt-oss 120B,110,674,X4R,tax,tax 10%,,,passed,10,8,7,676
+35,gpt-oss 120B,111,676,X4R,tax,tax 0%,,,passed,18,0,7,678
+35,gpt-oss 120B,112,691,X4R,tax,tax 5%,,,passed,16,3,7,693
+35,gpt-oss 120B,113,694,X6X,repeal,repeal law 7,,,failed,3,12,7,696
+35,gpt-oss 120B,114,696,X6X,repeal,repeal law 8,,,passed,10,7,7,698
+35,gpt-oss 120B,115,698,X6X,repeal,repeal law 7,,,failed,2,15,7,700
+35,gpt-oss 120B,116,700,X4R,tax,tax 10%,,,passed,13,6,7,702
+35,gpt-oss 120B,117,700,X6X,tax,tax 10%,,,no quorum,2,0,7,702
+35,gpt-oss 120B,118,704,X6X,tax,tax 5%,,,passed,15,3,7,706
+35,gpt-oss 120B,119,706,X6X,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,passed,19,0,7,708
+35,gpt-oss 120B,120,710,X4R,tax,tax 15%,,,failed,3,7,7,712
+35,gpt-oss 120B,121,710,X6X,tax,tax 3%,,,passed,17,0,7,712
+35,gpt-oss 120B,122,712,X6X,repeal,repeal law 7,,,failed,2,15,7,714
+35,gpt-oss 120B,123,714,X6X,tax,tax 2%,,,passed,15,0,7,716
+35,gpt-oss 120B,124,717,X4R,repeal,repeal law 7,,,failed,3,12,7,719
+35,gpt-oss 120B,125,721,X6X,repeal,repeal law 7,,,failed,2,14,7,723
+35,gpt-oss 120B,126,722,X4R,tax,tax 10%,,,passed,12,6,7,724
+35,gpt-oss 120B,127,724,X6X,tax,tax 3%,,,passed,17,0,7,726
+35,gpt-oss 120B,128,729,X4R,tax,tax 5%,,,passed,14,2,7,731
+35,gpt-oss 120B,129,732,X6X,tax,tax 3%,,,passed,16,0,7,734
+35,gpt-oss 120B,130,734,X6X,repeal,repeal law 7,,,failed,4,13,7,736
+35,gpt-oss 120B,131,737,X6X,tax,tax 2%,,,passed,16,0,7,739
+35,gpt-oss 120B,132,742,X4R,tax,tax 5%,,,passed,14,5,7,744
+35,gpt-oss 120B,133,747,X6X,tax,tax 8%,,,failed,9,10,7,749
+35,gpt-oss 120B,134,750,X4R,tax,tax 10%,,,passed,12,8,7,752
+35,gpt-oss 120B,135,755,X4R,tax,tax 5%,,,passed,19,1,7,757
+35,gpt-oss 120B,136,755,X6X,tax,tax 5%,,,passed,7,1,7,757
+35,gpt-oss 120B,137,758,X4R,tax,tax 8%,,,passed,11,9,7,760
+35,gpt-oss 120B,138,767,X4R,tax,tax 12%,,,failed,8,9,7,769
+35,gpt-oss 120B,139,769,X4R,tax,tax 15%,,,failed,6,12,7,771
+35,gpt-oss 120B,140,773,X6X,repeal,repeal law 7,,,failed,1,13,7,775
+35,gpt-oss 120B,141,776,X6X,tax,tax 15%,,,failed,8,9,7,778
+35,gpt-oss 120B,142,781,X4R,tax,tax 12%,,,failed,9,9,7,783
+35,gpt-oss 120B,143,784,X4R,tax,tax 15%,,,failed,3,11,7,786
+35,gpt-oss 120B,144,787,X4R,tax,tax 5%,,,passed,17,0,7,789
+35,gpt-oss 120B,145,790,X6X,tax,tax 15%,,,passed,9,4,7,792
+35,gpt-oss 120B,146,794,X6X,tax,tax 10%,,,passed,12,3,7,796
+35,gpt-oss 120B,147,799,X4R,tax,tax 15%,,,failed,8,10,7,801
+35,gpt-oss 120B,148,802,X6X,repeal,repeal law 11,,,failed,3,5,7,804
+35,gpt-oss 120B,149,804,X6X,tax,tax 15%,,,passed,10,9,7,806
+35,gpt-oss 120B,150,808,X6X,tax,tax 10%,,,passed,19,0,7,810
+35,gpt-oss 120B,151,808,X4R,tax,tax 20%,,,no quorum,1,5,7,810
+35,gpt-oss 120B,152,813,X6X,repeal,repeal law 11,,,failed,5,9,7,815
+35,gpt-oss 120B,153,817,X6X,repeal,repeal law 11,,,failed,3,6,7,819
+35,gpt-oss 120B,154,821,X6X,tax,tax 5%,,,passed,17,1,7,823
+35,gpt-oss 120B,155,825,X4R,tax,tax 10%,,,passed,16,4,7,827
+35,gpt-oss 120B,156,831,X4R,repeal,repeal law 13,,,passed,6,5,7,833
+35,gpt-oss 120B,157,834,X4R,tax,tax 15%,,,passed,12,8,7,836
+35,gpt-oss 120B,158,837,X4R,tax,tax 20%,,,passed,14,5,7,839
+35,gpt-oss 120B,159,839,X4R,tax,tax 10%,,,passed,16,0,7,841
+35,gpt-oss 120B,160,841,X4R,tax,tax 5%,,,passed,16,0,7,843
+35,gpt-oss 120B,161,847,X4R,tax,tax 15%,,,passed,11,6,7,849
+35,gpt-oss 120B,162,849,X4R,tax,tax 20%,,,passed,14,4,7,851
+35,gpt-oss 120B,163,852,X4R,tax,tax 10%,,,passed,17,0,7,854
+35,gpt-oss 120B,164,854,X4R,law,Stealing is banned; anyone who does it pays 5 coins fine.,5,,passed,16,0,7,856
+35,gpt-oss 120B,165,856,X4R,tax,tax 5%,,,passed,16,0,7,858
+35,gpt-oss 120B,166,858,X4R,tax,tax 15%,,,passed,13,7,7,860
+35,gpt-oss 120B,167,860,X4R,tax,tax 20%,,,passed,10,6,7,862
+35,gpt-oss 120B,168,864,X4R,tax,tax 10%,,,passed,14,0,7,866
+35,gpt-oss 120B,169,869,X4R,tax,tax 20%,,,passed,12,6,7,871
+35,gpt-oss 120B,170,876,X4R,tax,tax 10%,,,passed,20,0,7,878
+35,gpt-oss 120B,171,881,X4R,repeal,repeal law 23,,,failed,3,9,7,883
+35,gpt-oss 120B,172,883,X4R,tax,tax 20%,,,passed,9,5,7,885
+35,gpt-oss 120B,173,887,X4R,tax,tax 10%,,,passed,18,1,7,889
+35,gpt-oss 120B,174,889,X4R,repeal,repeal law 23,,,failed,1,11,7,891
+35,gpt-oss 120B,175,892,X4R,tax,tax 20%,,,failed,7,11,7,894
+35,gpt-oss 120B,176,895,X4R,tax,tax 10%,,,passed,19,0,7,897
+35,gpt-oss 120B,177,898,X4R,tax,tax 5%,,,passed,20,0,7,900
+35,gpt-oss 120B,178,901,X4R,tax,tax 15%,,,passed,9,7,7,903
+35,gpt-oss 120B,179,903,X4R,repeal,repeal law 23,,,failed,1,15,7,905
+35,gpt-oss 120B,180,911,X4R,tax,tax 10%,,,passed,18,1,7,913
+35,gpt-oss 120B,181,917,X4R,tax,tax 15%,,,passed,11,7,7,919
+35,gpt-oss 120B,182,921,X4R,tax,tax 10%,,,passed,18,1,7,923
+35,gpt-oss 120B,183,924,X4R,tax,tax 5%,,,passed,18,0,7,926
+35,gpt-oss 120B,184,929,X4R,tax,tax 3%,,,passed,17,1,7,931
+35,gpt-oss 120B,185,931,X4R,tax,tax 2%,,,passed,16,1,7,933
+35,gpt-oss 120B,186,933,X4R,tax,tax 1%,,,passed,18,0,7,935
+35,gpt-oss 120B,187,940,X4R,tax,tax 5%,,,passed,16,3,7,942
+35,gpt-oss 120B,188,979,J9D,tax,tax 2%,,,passed,16,0,7,981
+35,gpt-oss 120B,189,981,J9D,tax,tax 1%,,,passed,15,2,7,983
+35,gpt-oss 120B,190,993,D6W,tax,tax 5%,,,passed,13,5,7,995
+35,gpt-oss 120B,191,995,D6W,tax,tax 0%,,,passed,12,6,7,997
+36,gpt-oss 120B,1,6,S9J,tax,tax 10%,,,passed,23,0,8,8
+36,gpt-oss 120B,2,28,T2K,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,20,0,7,30
+36,gpt-oss 120B,3,32,T2K,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,passed,18,0,7,34
+36,gpt-oss 120B,4,44,T2K,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,18,0,7,46
+36,gpt-oss 120B,5,52,T2K,relief,"Each turn the city store gives 7 food to anyone who has none, while it has any",,,passed,18,0,7,54
+36,gpt-oss 120B,6,62,T2K,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,passed,19,0,7,64
+36,gpt-oss 120B,7,65,T2K,tax,tax 5%,,,passed,18,0,7,67
+36,gpt-oss 120B,8,76,T2K,tax,tax 2%,,,passed,18,0,7,78
+36,gpt-oss 120B,9,81,T2K,tax,tax 1%,,,passed,20,0,7,83
+36,gpt-oss 120B,10,83,T2K,law,stealing is illegal,5,,passed,17,0,7,85
+36,gpt-oss 120B,11,88,T2K,relief,"Each turn the city store gives 15 food to anyone who has none, while it has any",,,passed,19,0,7,90
+36,gpt-oss 120B,12,90,T2K,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,passed,15,0,7,92
+36,gpt-oss 120B,13,92,T2K,tax,tax 0%,,,passed,16,1,7,94
+36,gpt-oss 120B,14,95,T2K,relief,"Each turn the city store gives 30 food to anyone who has none, while it has any",,,passed,18,0,7,97
+36,gpt-oss 120B,15,97,T2K,relief,"Each turn the city store gives 40 food to anyone who has none, while it has any",,,passed,18,0,7,99
+36,gpt-oss 120B,16,99,T2K,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,passed,16,0,7,101
+36,gpt-oss 120B,17,102,T2K,tax,tax 10%,,,failed,8,9,7,104
+36,gpt-oss 120B,18,105,T2K,repeal,repeal law 1,,,failed,5,10,7,107
+36,gpt-oss 120B,19,108,T2K,tax,tax 5%,,,passed,16,2,7,110
+36,gpt-oss 120B,20,115,T2K,repeal,repeal law 1,,,failed,6,10,7,117
+36,gpt-oss 120B,21,118,T2K,tax,tax 3%,,,passed,18,1,7,120
+36,gpt-oss 120B,22,125,T2K,repeal,repeal law 1,,,failed,4,11,7,127
+36,gpt-oss 120B,23,128,T2K,repeal,repeal law 1,,,failed,6,10,7,130
+36,gpt-oss 120B,24,135,T2K,repeal,repeal law 1,,,failed,5,12,7,137
+36,gpt-oss 120B,25,141,T2K,repeal,repeal law 1,,,failed,3,6,7,143
+36,gpt-oss 120B,26,146,T2K,repeal,repeal law 10,,,failed,4,12,7,148
+36,gpt-oss 120B,27,149,T2K,repeal,repeal law 9,,,failed,3,11,7,151
+36,gpt-oss 120B,28,151,T2K,repeal,repeal law 10,,,failed,4,12,7,153
+36,gpt-oss 120B,29,157,T2K,repeal,repeal law 11,,,failed,1,14,7,159
+36,gpt-oss 120B,30,160,T2K,repeal,repeal law 10,,,failed,5,12,7,162
+36,gpt-oss 120B,31,164,T2K,repeal,repeal law 11,,,failed,4,13,7,166
+36,gpt-oss 120B,32,168,T2K,repeal,repeal law 10,,,failed,6,10,7,170
+36,gpt-oss 120B,33,172,T2K,repeal,repeal law 11,,,failed,5,14,7,174
+36,gpt-oss 120B,34,176,T2K,repeal,repeal law 10,,,failed,2,15,7,178
+36,gpt-oss 120B,35,182,T2K,repeal,repeal law 10,,,failed,5,8,7,184
+36,gpt-oss 120B,36,187,T2K,repeal,repeal law 11,,,failed,2,15,7,189
+36,gpt-oss 120B,37,195,T2K,repeal,repeal law 6,,,failed,4,14,7,197
+36,gpt-oss 120B,38,197,T2K,repeal,repeal law 10,,,failed,3,11,7,199
+36,gpt-oss 120B,39,200,T2K,repeal,repeal law 11,,,failed,3,14,7,202
+36,gpt-oss 120B,40,207,T2K,repeal,repeal law 11,,,failed,4,14,7,209
+36,gpt-oss 120B,41,379,M6F,repeal,repeal law 1,,,failed,5,6,7,381
+36,gpt-oss 120B,42,421,N9V,repeal,repeal law 11,,,failed,2,13,7,423
+36,gpt-oss 120B,43,425,M6F,tax,tax 5%,,,failed,8,9,7,427
+36,gpt-oss 120B,44,425,N9V,repeal,repeal law 11,,,no quorum,0,5,7,427
+36,gpt-oss 120B,45,425,S9T,repeal,repeal law 11,,,no quorum,1,0,7,427
+36,gpt-oss 120B,46,428,P6X,repeal,repeal law 11,,,failed,3,12,7,430
+36,gpt-oss 120B,47,432,P6X,repeal,repeal law 11,,,failed,4,9,7,434
+36,gpt-oss 120B,48,432,S9T,repeal,repeal law 11,,,no quorum,3,2,7,434
+36,gpt-oss 120B,49,436,P6X,repeal,repeal law 11,,,failed,5,8,7,438
+36,gpt-oss 120B,50,436,S9T,repeal,repeal law 11,,,no quorum,2,2,7,438
+36,gpt-oss 120B,51,439,M6F,tax,tax 5%,,,passed,12,8,7,441
+36,gpt-oss 120B,52,442,M6F,repeal,repeal law 11,,,failed,4,10,7,444
+36,gpt-oss 120B,53,446,P6X,repeal,repeal law 11,,,no quorum,2,4,7,448
+36,gpt-oss 120B,54,446,S9T,tax,tax 10%,,,failed,5,9,7,448
+36,gpt-oss 120B,55,451,M6F,repeal,repeal law 11,,,failed,2,8,7,453
+36,gpt-oss 120B,56,455,M6F,repeal,repeal law 11,,,failed,3,5,7,457
+36,gpt-oss 120B,57,460,M6F,repeal,repeal law 11,,,failed,4,12,7,462
+36,gpt-oss 120B,58,464,M6F,repeal,repeal law 11,,,failed,1,11,7,466
+36,gpt-oss 120B,59,469,M6F,repeal,repeal law 11,,,failed,1,16,7,471
+36,gpt-oss 120B,60,473,M6F,repeal,repeal law 11,,,failed,2,8,7,475
+36,gpt-oss 120B,61,475,M6F,repeal,repeal law 11,,,failed,4,11,7,477
+36,gpt-oss 120B,62,479,M6F,repeal,repeal law 11,,,failed,3,6,7,481
+36,gpt-oss 120B,63,482,M6F,repeal,repeal law 11,,,failed,2,7,7,484
+36,gpt-oss 120B,64,486,M6F,repeal,repeal law 11,,,failed,2,13,7,488
+36,gpt-oss 120B,65,488,M6F,repeal,repeal law 11,,,failed,2,14,7,490
+36,gpt-oss 120B,66,493,M6F,repeal,repeal law 11,,,failed,1,14,7,495
+36,gpt-oss 120B,67,497,M6F,repeal,repeal law 11,,,failed,2,16,7,499
+36,gpt-oss 120B,68,501,M6F,repeal,repeal law 11,,,failed,3,14,7,503
+36,gpt-oss 120B,69,505,M6F,repeal,repeal law 11,,,failed,1,17,7,507
+36,gpt-oss 120B,70,509,M6F,repeal,repeal law 11,,,failed,1,13,7,511
+36,gpt-oss 120B,71,516,M6F,repeal,repeal law 10,,,failed,1,13,7,518
+36,gpt-oss 120B,72,520,M6F,repeal,repeal law 11,,,failed,1,12,7,522
+36,gpt-oss 120B,73,527,M6F,repeal,repeal law 10,,,failed,1,16,7,529
+36,gpt-oss 120B,74,532,M6F,repeal,repeal law 10,,,failed,1,16,7,534
+36,gpt-oss 120B,75,536,M6F,repeal,repeal law 11,,,failed,3,14,7,538
+36,gpt-oss 120B,76,564,N9V,tax,tax 10%,,,failed,3,15,7,566
+36,gpt-oss 120B,77,568,N9V,tax,tax 15%,,,failed,3,13,7,570
+36,gpt-oss 120B,78,572,N9V,repeal,repeal law 11,,,failed,4,9,7,574
+36,gpt-oss 120B,79,574,N9V,tax,tax 20%,,,failed,1,15,7,576
+36,gpt-oss 120B,80,581,N9V,tax,tax 20%,,,failed,1,16,7,583
+36,gpt-oss 120B,81,583,N9V,repeal,repeal law 11,,,failed,5,9,7,585
+36,gpt-oss 120B,82,587,N9V,repeal,repeal law 11,,,failed,3,12,7,589
+36,gpt-oss 120B,83,591,N9V,repeal,repeal law 11,,,failed,3,8,7,593
+36,gpt-oss 120B,84,594,N9V,repeal,repeal law 11,,,failed,3,9,7,596
+36,gpt-oss 120B,85,596,N9V,tax,tax 20%,,,failed,1,14,7,598
+36,gpt-oss 120B,86,599,N9V,repeal,repeal law 11,,,failed,5,7,7,601
+36,gpt-oss 120B,87,602,N9V,repeal,repeal law 11,,,failed,3,6,7,604
+36,gpt-oss 120B,88,607,N9V,repeal,repeal law 11,,,failed,4,10,7,609
+36,gpt-oss 120B,89,614,P6X,repeal,repeal law 1,,,failed,6,7,7,616
+36,gpt-oss 120B,90,680,N9V,repeal,repeal law 1,,,failed,5,10,7,682
+36,gpt-oss 120B,91,687,D2M,repeal,repeal law 11,,,failed,6,11,7,689
+36,gpt-oss 120B,92,693,N9V,repeal,repeal law 1,,,failed,2,10,7,695
+36,gpt-oss 120B,93,693,D2M,repeal,repeal law 11,,,failed,3,4,7,695
+36,gpt-oss 120B,94,697,N9V,repeal,repeal law 11,,,failed,5,9,7,699
+36,gpt-oss 120B,95,699,D2M,repeal,repeal law 10,,,failed,4,9,7,701
+36,gpt-oss 120B,96,701,D2M,repeal,repeal law 11,,,failed,6,10,7,703
+36,gpt-oss 120B,97,705,N9V,repeal,repeal law 11,,,failed,2,8,7,707
+36,gpt-oss 120B,98,705,D2M,repeal,repeal law 11,,,no quorum,1,1,7,707
+36,gpt-oss 120B,99,708,N9V,tax,tax 10%,,,failed,5,10,7,710
+36,gpt-oss 120B,100,797,D2M,tax,tax 2%,,,passed,14,0,7,799
+36,gpt-oss 120B,101,802,X2R,repeal,repeal law 1,,,failed,5,6,7,804
+36,gpt-oss 120B,102,802,D2M,repeal,repeal law 10,,,no quorum,1,3,7,804
+36,gpt-oss 120B,103,806,X2R,repeal,repeal law 1,,,failed,3,6,7,808
+36,gpt-oss 120B,104,806,D2M,repeal,repeal law 1,,,no quorum,1,0,7,808
+36,gpt-oss 120B,105,808,D2M,tax,tax 5%,,,failed,4,14,7,810
+36,gpt-oss 120B,106,808,X2R,tax,tax 5%,,,no quorum,2,2,7,810
+36,gpt-oss 120B,107,811,D2M,tax,tax 1%,,,passed,18,0,7,813
+36,gpt-oss 120B,108,814,D2M,repeal,repeal law 10,,,failed,3,11,7,816
+36,gpt-oss 120B,109,816,X2R,tax,tax 5%,,,failed,3,11,7,818
+36,gpt-oss 120B,110,818,X2R,repeal,repeal law 11,,,failed,3,10,7,820
+36,gpt-oss 120B,111,820,X2R,tax,tax 10%,,,failed,2,13,7,822
+36,gpt-oss 120B,112,824,D2M,repeal,repeal law 11,,,failed,1,8,7,826
+36,gpt-oss 120B,113,824,X2R,tax,tax 15%,,,failed,1,11,7,826
+36,gpt-oss 120B,114,827,X2R,tax,tax 5%,,,failed,4,13,7,829
+36,gpt-oss 120B,115,829,X2R,tax,tax 10%,,,failed,4,13,7,831
+36,gpt-oss 120B,116,841,S4L,repeal,repeal law 11,,,failed,2,10,7,843
+36,gpt-oss 120B,117,848,S4L,repeal,repeal law 11,,,failed,2,6,7,850
+36,gpt-oss 120B,118,856,S4L,repeal,repeal law 11,,,failed,2,11,6,858
+36,gpt-oss 120B,119,859,S4L,repeal,repeal law 10,,,failed,2,9,6,861
+36,gpt-oss 120B,120,863,S4L,repeal,repeal law 11,,,failed,4,7,6,865
+36,gpt-oss 120B,121,870,S4L,repeal,repeal law 11,,,failed,2,9,6,872
+36,gpt-oss 120B,122,873,S4L,repeal,repeal law 10,,,failed,2,12,6,875
+36,gpt-oss 120B,123,881,S4L,repeal,repeal law 11,,,failed,3,10,6,883
+36,gpt-oss 120B,124,887,S4L,repeal,repeal law 10,,,failed,1,7,6,889
+36,gpt-oss 120B,125,889,S4L,repeal,repeal law 11,,,failed,3,8,6,891
+36,gpt-oss 120B,126,893,S4L,repeal,repeal law 10,,,failed,1,7,6,895
+36,gpt-oss 120B,127,896,S4L,tax,tax 5%,,,passed,10,3,6,898
+36,gpt-oss 120B,128,904,S4L,repeal,repeal law 10,,,failed,2,10,6,906
+36,gpt-oss 120B,129,983,S9T,repeal,repeal law 11,,,failed,3,8,6,985
+36,gpt-oss 120B,130,987,S9T,repeal,repeal law 11,,,failed,1,10,6,989
+36,gpt-oss 120B,131,989,S9T,tax,tax 3%,,,passed,15,0,6,991
+36,gpt-oss 120B,132,993,S9T,repeal,repeal law 11,,,failed,2,14,6,995
+36,gpt-oss 120B,133,998,S9T,repeal,repeal law 11,,,failed,2,9,6,1000
+37,gpt-oss 120B,1,81,C6S,tax,tax 5%,,,passed,20,0,8,83
+37,gpt-oss 120B,2,83,C6S,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,16,0,8,85
+37,gpt-oss 120B,3,91,C6S,limit,The tax cannot be above 5%,,,passed,21,0,8,93
+37,gpt-oss 120B,4,136,C2B,tax,tax 0%,,,passed,19,2,8,138
+37,gpt-oss 120B,5,138,C2B,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,20,0,8,140
+37,gpt-oss 120B,6,140,C2B,tax,tax 0%,,,passed,17,2,8,142
+37,gpt-oss 120B,7,144,C2B,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,16,0,8,146
+37,gpt-oss 120B,8,147,C2B,tax,tax 0%,,,passed,18,1,8,149
+37,gpt-oss 120B,9,154,C6S,tax,tax 5%,,,passed,15,2,8,156
+37,gpt-oss 120B,10,156,C6S,law,steal is prohibited,10,,passed,20,0,8,158
+37,gpt-oss 120B,11,159,C2B,tax,tax 0%,,,passed,17,2,8,161
+37,gpt-oss 120B,12,161,C2B,tax,tax 0%,,,passed,17,1,8,163
+37,gpt-oss 120B,13,165,C2B,law,steal food is prohibited,20,,passed,19,0,8,167
+37,gpt-oss 120B,14,169,C2B,tax,tax 5%,,,passed,14,3,8,171
+37,gpt-oss 120B,15,171,C2B,tax,tax 0%,,,passed,14,2,8,173
+37,gpt-oss 120B,16,176,C6S,repeal,repeal law 4,,,passed,10,5,8,178
+37,gpt-oss 120B,17,186,C2B,tax,tax 0%,,,passed,13,3,8,188
+37,gpt-oss 120B,18,198,C2B,tax,tax 5%,,,passed,16,0,8,200
+37,gpt-oss 120B,19,239,G6Q,tax,tax 2%,,,passed,18,0,8,241
+37,gpt-oss 120B,20,243,G6Q,tax,tax 4%,,,passed,11,4,8,245
+37,gpt-oss 120B,21,247,G6Q,relief,"Each turn the city store gives 3 food to anyone who has none, while it has any",,,passed,15,0,7,249
+37,gpt-oss 120B,22,249,G6Q,tax,tax 2%,,,passed,17,0,7,251
+37,gpt-oss 120B,23,251,G6Q,tax,tax 2%,,,passed,8,0,7,253
+37,gpt-oss 120B,24,253,G6Q,tax,tax 4%,,,failed,6,8,7,255
+37,gpt-oss 120B,25,256,G6Q,tax,tax 3%,,,passed,13,3,7,258
+37,gpt-oss 120B,26,261,G6Q,relief,"Each turn the city store gives 1 material to anyone who has none, while it has any",,,passed,18,0,7,263
+37,gpt-oss 120B,27,263,G6Q,tax,tax 5%,,,passed,6,3,7,265
+37,gpt-oss 120B,28,266,G6Q,relief,"Each turn the city store gives 2 materials to anyone who has none, while it has any",,,passed,16,0,7,268
+37,gpt-oss 120B,29,269,G6Q,office,make G6Q the hirer,,,passed,13,2,7,271
+37,gpt-oss 120B,30,271,G6Q,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,passed,19,0,7,273
+37,gpt-oss 120B,31,282,G6Q,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,passed,10,4,7,284
+37,gpt-oss 120B,32,285,G6Q,tax,tax 2%,,,passed,16,0,7,287
+37,gpt-oss 120B,33,289,G6Q,repeal,repeal law 3,,,failed,5,11,7,291
+37,gpt-oss 120B,34,297,G6Q,repeal,repeal law 3,,,failed,2,10,7,299
+37,gpt-oss 120B,35,301,G6Q,repeal,repeal law 3,,,failed,1,13,7,303
+37,gpt-oss 120B,36,303,G6Q,tax,tax 4%,,,passed,10,3,7,305
+37,gpt-oss 120B,37,310,G6Q,repeal,repeal law 3,,,failed,3,8,7,312
+37,gpt-oss 120B,38,315,G6Q,repeal,repeal law 3,,,failed,2,11,7,317
+37,gpt-oss 120B,39,317,G6Q,tax,tax 5%,,,passed,15,3,7,319
+37,gpt-oss 120B,40,322,S2G,repeal,repeal law 5,,,failed,3,11,7,324
+37,gpt-oss 120B,41,326,G6Q,repeal,repeal law 3,,,failed,3,11,7,328
+37,gpt-oss 120B,42,330,G6Q,repeal,repeal law 3,,,failed,3,9,7,332
+37,gpt-oss 120B,43,334,S2G,repeal,repeal law 1,,,failed,2,12,7,336
+37,gpt-oss 120B,44,338,G6Q,repeal,repeal law 3,,,failed,1,15,7,340
+37,gpt-oss 120B,45,345,S2G,repeal,repeal law 11,,,failed,6,6,7,347
+37,gpt-oss 120B,46,349,S2G,repeal,repeal law 11,,,failed,3,10,7,351
+37,gpt-oss 120B,47,349,G6Q,repeal,repeal law 10,,,no quorum,2,2,7,351
+37,gpt-oss 120B,48,353,G6Q,repeal,repeal law 10,,,failed,6,9,7,355
+37,gpt-oss 120B,49,355,G6Q,repeal,repeal law 11,,,failed,5,8,7,357
+37,gpt-oss 120B,50,360,S2G,repeal,repeal law 11,,,passed,8,6,7,362
+37,gpt-oss 120B,51,363,S2G,law,killing another resident is prohibited,,20,passed,16,0,7,365
+37,gpt-oss 120B,52,363,G6Q,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,no quorum,5,0,7,365
+37,gpt-oss 120B,53,371,S2G,repeal,repeal law 10,,,failed,4,7,7,373
+37,gpt-oss 120B,54,375,S2G,repeal,repeal law 10,,,passed,9,5,7,377
+37,gpt-oss 120B,55,375,G6Q,repeal,repeal law 10,,,no quorum,4,0,7,377
+37,gpt-oss 120B,56,383,G6Q,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,passed,11,2,7,385
+37,gpt-oss 120B,57,387,C2N,tax,tax 0%,,,passed,15,2,7,389
+37,gpt-oss 120B,58,390,G6Q,tax,tax 5%,,,passed,14,1,7,392
+37,gpt-oss 120B,59,390,C2N,repeal,repeal law 5,,,no quorum,1,2,7,392
+37,gpt-oss 120B,60,393,C2N,repeal,repeal law 13,,,passed,10,6,7,395
+37,gpt-oss 120B,61,396,C2N,repeal,repeal law 5,,,passed,9,4,7,398
+37,gpt-oss 120B,62,398,G6Q,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,passed,13,0,7,400
+37,gpt-oss 120B,63,400,C2N,repeal,repeal law 6,,,failed,4,8,7,402
+37,gpt-oss 120B,64,402,N7P,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,9,3,7,404
+37,gpt-oss 120B,65,404,G6Q,repeal,repeal law 14,,,passed,11,2,7,406
+37,gpt-oss 120B,66,407,N7P,tax,tax 0%,,,passed,19,0,7,409
+37,gpt-oss 120B,67,409,G6Q,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,14,0,7,411
+37,gpt-oss 120B,68,411,G6Q,tax,tax 4%,,,passed,18,0,7,413
+37,gpt-oss 120B,69,417,G6Q,tax,tax 5%,,,passed,11,7,7,419
+37,gpt-oss 120B,70,429,G6Q,repeal,repeal law 6,,,passed,7,5,7,431
+37,gpt-oss 120B,71,435,G6Q,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,passed,13,0,7,437
+37,gpt-oss 120B,72,462,G6Q,tax,tax 2%,,,passed,18,0,7,464
+37,gpt-oss 120B,73,467,G6Q,tax,tax 1%,,,passed,19,0,7,469
+37,gpt-oss 120B,74,474,G6Q,tax,tax 0%,,,passed,19,0,7,476
+37,gpt-oss 120B,75,480,G6Q,tax,tax 1%,,,passed,14,0,7,482
+37,gpt-oss 120B,76,485,G6Q,tax,tax 0%,,,passed,13,0,7,487
+37,gpt-oss 120B,77,488,G6Q,tax,tax 2%,,,passed,15,2,7,490
+37,gpt-oss 120B,78,499,D2V,repeal,repeal law 17,,,passed,11,3,7,501
+37,gpt-oss 120B,79,502,D2V,tax,tax 3%,,,passed,12,4,7,504
+37,gpt-oss 120B,80,510,D2V,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,passed,16,0,7,512
+37,gpt-oss 120B,81,512,D2V,tax,tax 4%,,,failed,7,11,7,514
+37,gpt-oss 120B,82,515,D2V,tax,tax 5%,,,failed,6,9,7,517
+37,gpt-oss 120B,83,518,D2V,tax,tax 5%,,,failed,7,10,7,520
+37,gpt-oss 120B,84,520,D2V,repeal,repeal law 18,,,failed,5,10,7,522
+37,gpt-oss 120B,85,523,D2V,tax,tax 2%,,,passed,12,0,7,525
+37,gpt-oss 120B,86,528,D2V,tax,tax 4%,,,failed,7,11,7,530
+37,gpt-oss 120B,87,530,D2V,tax,tax 5%,,,passed,10,9,7,532
+37,gpt-oss 120B,88,532,D2V,repeal,repeal law 18,,,failed,3,12,7,534
+37,gpt-oss 120B,89,534,D2V,tax,tax 2%,,,passed,18,1,7,536
+37,gpt-oss 120B,90,536,D2V,repeal,repeal law 18,,,failed,2,11,7,538
+37,gpt-oss 120B,91,538,D2V,tax,tax 1%,,,passed,15,1,7,540
+37,gpt-oss 120B,92,541,D2V,tax,tax 3%,,,failed,7,8,7,543
+37,gpt-oss 120B,93,544,D2V,tax,tax 4%,,,failed,6,8,7,546
+37,gpt-oss 120B,94,546,D2V,tax,tax 5%,,,failed,4,9,7,548
+37,gpt-oss 120B,95,549,D2V,tax,tax 5%,,,failed,5,9,7,551
+37,gpt-oss 120B,96,553,D2V,repeal,repeal law 7,,,failed,4,9,7,555
+37,gpt-oss 120B,97,555,D2V,tax,tax 5%,,,failed,3,12,7,557
+37,gpt-oss 120B,98,582,S2G,tax,tax 0%,,,passed,12,1,6,584
+37,gpt-oss 120B,99,586,S2G,tax,tax 5%,,,passed,8,6,6,588
+37,gpt-oss 120B,100,626,Z6Z,tax,tax 2%,,,passed,9,4,6,628
+37,gpt-oss 120B,101,626,C6S,tax,tax 0%,,,passed,10,3,6,628
+37,gpt-oss 120B,102,630,C6S,tax,tax 0%,,,passed,12,3,6,632
+37,gpt-oss 120B,103,632,Z6Z,tax,tax 2%,,,passed,15,2,6,634
+37,gpt-oss 120B,104,636,Z6Z,tax,tax 3%,,,passed,9,5,6,638
+37,gpt-oss 120B,105,640,Z6Z,repeal,repeal law 1,,,failed,5,7,6,642
+37,gpt-oss 120B,106,652,Z6Z,repeal,repeal law 1,,,failed,2,10,6,654
+37,gpt-oss 120B,107,663,Z6Z,repeal,repeal law 1,,,failed,2,7,6,665
+37,gpt-oss 120B,108,683,Z6Z,repeal,repeal law 15,,,failed,1,11,6,685
+37,gpt-oss 120B,109,686,Z6Z,tax,tax 5%,,,passed,9,6,6,688
+37,gpt-oss 120B,110,694,Z6Z,repeal,repeal law 15,,,failed,2,8,6,696
+37,gpt-oss 120B,111,698,Z6Z,repeal,repeal law 15,,,failed,2,7,6,700
+37,gpt-oss 120B,112,839,B3M,tax,tax 0%,,,passed,12,0,6,841
+37,gpt-oss 120B,113,849,S2G,tax,tax 5%,,,passed,8,1,6,851
+37,gpt-oss 120B,114,982,J6R,office,make J6R the treasurer,,,passed,10,0,5,984
+38,Llama 70B,1,126,X4G,office,make X4G the hirer,,,passed,6,5,8,128
+38,Llama 70B,2,206,T9V,tax,tax 5%,,,failed,7,10,8,208
+38,Llama 70B,3,220,Q2X,office,make X4G the hirer,,,no quorum,1,0,8,222
+38,Llama 70B,4,223,X4G,tax,tax 10%,,,failed,5,9,8,225
+38,Llama 70B,5,239,S4X,office,make Q7P the hirer,,,no quorum,4,2,8,241
+38,Llama 70B,6,239,D6W,office,make X4G the hirer,,,no quorum,1,2,8,241
+38,Llama 70B,7,267,X4R,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,5,13,8,269
+38,Llama 70B,8,271,R3P,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,6,11,8,273
+38,Llama 70B,9,280,M2P,office,make X4G the hirer,,,no quorum,6,0,8,282
+38,Llama 70B,10,283,L9C,office,make L9C the hirer,,,failed,2,21,8,285
+38,Llama 70B,11,288,X4G,office,leave the office of hirer empty,,,no quorum,4,3,8,290
+38,Llama 70B,12,303,X6X,tax,tax 10%,,,failed,2,18,8,305
+38,Llama 70B,13,407,D3X,duty,Everyone gives the city store 1 material every 5 turns; what is not paid is owed,,,passed,22,2,10,409
+38,Llama 70B,14,407,Q7P,duty,Everyone gives the city store 2 materials every 5 turns; what is not paid is owed,,,no quorum,1,3,10,409
+38,Llama 70B,15,407,T7V,office,leave the office of treasurer empty,,,no quorum,1,0,10,409
+38,Llama 70B,16,421,J9D,office,make L9P the treasurer,,,no quorum,6,0,10,423
+38,Llama 70B,17,446,F7G,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,20,2,10,448
+38,Llama 70B,18,512,J6L,relief,"Each turn the city store gives 2 food to anyone who has none, while it has any",,,passed,11,1,9,514
+38,Llama 70B,19,512,X6X,duty,Everyone gives the city store 2 food every 10 turns; what is not paid is owed,,,no quorum,0,2,9,514
+38,Llama 70B,20,587,Q2X,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,failed,0,10,9,589
+38,Llama 70B,21,587,B4B,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,no quorum,1,0,9,589
+38,Llama 70B,22,595,L7C,limit,The tax cannot be above 20%,,,passed,22,3,9,597
+38,Llama 70B,23,703,J6L,limit,The tax cannot be above 10%,,,failed,10,11,9,705
+38,Llama 70B,24,718,J9D,office,make J9D the hirer,,,no quorum,2,0,9,720
+38,Llama 70B,25,886,X6X,office,leave the office of treasurer empty,,,failed,5,11,9,888
+38,Llama 70B,26,892,F7X,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,4,13,9,894
+39,Llama 70B,1,365,G2Z,office,make G2Z the hirer,,,passed,10,4,8,367
+39,Llama 70B,2,370,D6R,law,Neglecting a new resident results in a trial.,10,,no quorum,4,0,8,372
+39,Llama 70B,3,409,W4S,office,make W4S the hirer,,,no quorum,1,0,8,411
+39,Llama 70B,4,526,P6X,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,21,0,8,528
+39,Llama 70B,5,947,M7D,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,no quorum,4,3,8,949
+39,Llama 70B,6,947,Z7Z,limit,The city store hands out at most 5 at a time,,,no quorum,2,0,8,949
+39,Llama 70B,7,951,D2M,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,3,10,8,953
+40,Llama 70B,1,112,Z6Z,tax,tax 10%,,,failed,6,14,8,114
+40,Llama 70B,2,119,M4X,office,make N7P the hirer,,,passed,10,3,8,121
+40,Llama 70B,3,119,S2G,law,No resident can take more than 50 materials from the Woods at one time.,5,,no quorum,2,3,8,121
+40,Llama 70B,4,119,K6W,office,make M4X the treasurer,,,no quorum,0,0,8,121
+40,Llama 70B,5,122,G6Q,law,No resident can take more than 50 materials from the Woods at one time.,5,,passed,13,8,8,124
+40,Llama 70B,6,122,X3Z,office,make M4X the treasurer,,,no quorum,3,2,8,124
+40,Llama 70B,7,193,Q9F,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,passed,13,8,8,195
+40,Llama 70B,8,289,N7P,office,leave the office of treasurer empty,,,failed,2,6,8,291
+40,Llama 70B,9,292,G6Q,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,failed,7,16,8,294
+40,Llama 70B,10,292,C6S,office,make C6S the hirer,,,no quorum,1,0,8,294
+40,Llama 70B,11,292,N7P,office,make N7P the hirer,,,no quorum,0,0,8,294
+40,Llama 70B,12,301,F3T,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,failed,4,13,8,303
+40,Llama 70B,13,310,W6J,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,failed,2,12,8,312
+40,Llama 70B,14,315,C2B,duty,Everyone gives the city store 2 food every 5 turns; what is not paid is owed,,,failed,5,7,8,317
+40,Llama 70B,15,315,G6Q,duty,Everyone gives the city store 2 food every turn; what is not paid is owed,,,no quorum,1,6,8,317
+40,Llama 70B,16,318,B4C,office,make N7P the hirer,,,no quorum,0,3,8,320
+40,Llama 70B,17,329,M6J,duty,Everyone gives the city store 2 food every 5 turns; what is not paid is owed,,,failed,2,11,7,331
+40,Llama 70B,18,539,G6Q,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,failed,2,8,6,541
+40,Llama 70B,19,768,J6R,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,13,0,6,770
