@@ -632,7 +632,7 @@ DAY 24
   L7C (board): Let's continue discussing our city's growth and progress. What are everyone's thoughts on food distribution and new house construction?
 
 DAY 25
-  Election day: votes D6W 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: Let's work together to expand our food production.
   M2P: Let's keep farming for food!
   C6S: Let's keep farming for more food!
@@ -1159,7 +1159,7 @@ DAY 44
   Q4W (board): Let's finalize the building plan and assign tasks. Who can lead the building effort and what are our top priorities?
 
 DAY 45
-  Election day: votes L7C 0, P9Q 0, L9C 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   D6W: Let's farm some more food for our city's growth.
   C6S: I'll be at the Square to discuss the upcoming election.
   P9Q: I'm standing for mayor in the next election.
@@ -1647,7 +1647,7 @@ DAY 64
   F7G (board): Who's available to help with gathering materials in the Woods? We need to prioritize building the workshop and clinic.
 
 DAY 65
-  Election day: votes L9C 0, D3X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: I'll start making a tool to help with building.
   M2P: I'm heading to the Square to discuss the plan and assign tasks for the workshop and clinic.
   X4G: I'll go to the Woods to gather materials if others can help with building.
@@ -2150,7 +2150,7 @@ DAY 84
   X6X (board): Let's finalize the workshop and clinic plan today. Who's available to help with building?
 
 DAY 85
-  Election day: votes T9V 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: I'll keep gathering food for the city.
   M2P: I'll gather food for the city.
   D6W: Let's gather materials and finalize the workshop and clinic plan. Who's available to help with building?
@@ -4112,6 +4112,7 @@ DAY 164
   T3Q (board): What are the task assignments for the food storage project? I'm ready to help.
 
 DAY 165
+  Election day: nobody stood for mayor, so W2F stays mayor.
   X4R: Let's keep working on the food storage project after the election.
   M2P: Let's get started now!
   P9Q: I'll farm for food today.
@@ -4576,7 +4577,7 @@ DAY 184
   Q4W (board): I'll help with material collection for the food storage project if needed.
 
 DAY 185
-  Election day: votes L7C 0; W2F is mayor.
+  Election day: nobody voted, so W2F stays mayor.
   D6W: I don't think W2F should continue as mayor
   X4G: I'll farm for food today.
   F7G: I'll check the election status.
@@ -5044,6 +5045,7 @@ DAY 204
   P9Q (board): I'll help with gathering materials for the food storage project today. Let's work together.
 
 DAY 205
+  Election day: nobody stood for mayor, so W2F stays mayor.
   C6S: Let's gather materials for the food storage project.
   X4G: I'll farm for food today.
   P9Q: Let's work on the food storage project.
@@ -5528,7 +5530,7 @@ DAY 224
   Q7P (board): Let's finalize the plan for the food storage project. Who's ready to start building today? I'm ready to help with building and have some tools to share.
 
 DAY 225
-  W2F was elected mayor with 0 votes.
+  Election day: nobody voted, so W2F stays mayor.
   X4R: Going to the Workshop to see if we have enough tools for the food storage project.
   M2P: I'll head to the Fields to farm for the project.
   C6S: I'll discuss the upcoming election and the food storage project.
@@ -6039,6 +6041,7 @@ DAY 244
   P9Q (board): Looks like L9C is leading the food storage project. Let's finalize the plan and assign tasks today.
 
 DAY 245
+  Election day: nobody stood for mayor, so W2F stays mayor.
   D6W: I'm going to work some more.
   X4G: Farming some food for the storage project.
   F7G: I'll go farm some food for the storage project.
@@ -6518,6 +6521,7 @@ DAY 264
   L9C (board): Let's start building the food storage project today. Who's with me?
 
 DAY 265
+  Election day: nobody stood for mayor, so W2F stays mayor.
   X4R: Let's finalize the food storage project plan today.
   D6W: Let's discuss the food storage project plan here.
   X4G: Let's start building the food storage project today. Who's ready to start building?
@@ -7007,6 +7011,7 @@ DAY 284
   J9D (board): I'll finalize the food storage project plan today and start building now! Who's ready to help?
 
 DAY 285
+  Election day: nobody stood for mayor, so W2F stays mayor.
   X4R: Let's finalize the food storage project plan today and start building now!
   M2P: Let's finalize the food storage project plan and start building now! Who's with me?
   C6S: Let's finalize the food storage project plan today and start building now! Who's with me?

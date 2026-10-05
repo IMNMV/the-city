@@ -2708,6 +2708,7 @@ DAY 104
   B4B: T104. Farm 87. 100 HP, 198f, 3m, 20c. Skill 84. Store 690. 1T to el. Stable.
 
 DAY 105
+  Election day: nobody stood for mayor, so X4G stays mayor.
   X4R: T105. Farm 85. 100 HP, 194f, 3m, 20c. Skill 82. Election today. X4G not running. Who stands?
   M2P: T105. Vote X4G. 100 HP, 180f, 11c. Skill 78. Stable.
   D6W: T105. Vote X4G. 100 HP, 183f. Election day. Stable.
@@ -3227,6 +3228,7 @@ DAY 124
   B4B: T124. Farm 104. 100 HP, 247f, 3m, 20c. Skill 102. Store 874. 1T to el. Vote X4G. Stable.
 
 DAY 125
+  Election day: nobody stood for mayor, so X4G stays mayor.
   X4R: T125. Farm 103. 100 HP, 242f, 3m, 20c. Skill 98. Store 874. Election today. Stable.
   M2P: T125. Farm 97. 100 HP, 227f, 0m, 11c. Skill 97. Store 874. Election T125. Stable.
   C6S: T125. Farm 102. 100 HP, 255f, 0m, 20c. Skill 101. Store 874. Elected X4G. Stable.

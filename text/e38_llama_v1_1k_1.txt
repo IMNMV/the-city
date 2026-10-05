@@ -1044,7 +1044,7 @@ DAY 44
   Q4W (board): Who's ready to help build the Workshop and Clinic? Let's discuss our next steps!
 
 DAY 45
-  Election day: votes L9C 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: I'll gather materials in the Woods to help build the Workshop and Clinic.
   C6S: Farming for more food!
   F7X: I'll gather materials to start building the Workshop and Clinic.
@@ -1533,7 +1533,7 @@ DAY 64
   Q4W (board): I'll help gather materials in the Woods for the Workshop and Clinic. Who's with me?
 
 DAY 65
-  Election day: votes F7X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: Let's gather materials for the Workshop and Clinic!
   M2P: I'm going to the Square to find some food
   D6W: Let's gather materials for the Workshop and Clinic!
@@ -2979,6 +2979,7 @@ DAY 124
   X4G (board): Who can help with building the Clinic and Workshop today? Let's finalize the plan.
 
 DAY 125
+  Election day: nobody stood for mayor, so B4B stays mayor.
   X4R: Let's discuss our city's priorities for the next mayor.
   M2P: Let's discuss our city's priorities for the next mayor.
   C6S: Let's keep gathering food for the city!
@@ -5304,7 +5305,7 @@ DAY 224
 
 DAY 225
   Proposal 4 failed, 5 votes to 9: a tax of 10%.
-  Election day: votes L9C 0; T9V is mayor.
+  Election day: nobody voted, so T9V stays mayor.
   X4R: Going to discuss the election
   X4G: Going to the Square to discuss the election results.
   F7G: I'll go to the Square to discuss the tax proposal.
@@ -6302,6 +6303,7 @@ DAY 264
   L9P (board): Let's get the warehouse project moving. Who's ready to start construction?
 
 DAY 265
+  Election day: nobody stood for mayor, so D6W stays mayor.
   M2P: Discussing the upcoming election and city plans.
   C6S: Going to farm for food today
   F7G: I'll join the discussion on the city's growth plans and election
@@ -6761,7 +6763,7 @@ DAY 284
 
 DAY 285
   Proposal 10 failed, 2 votes to 21: making L9C the hirer.
-  Election day: votes T3Q 0; D6W is mayor.
+  Election day: nobody voted, so D6W stays mayor.
   X4R: I'm voting no on proposal 10
   M2P: I don't think L9C should be the hirer
   D6W: I'm voting no on proposal 10. We should keep X4G as the hirer.
@@ -7234,7 +7236,7 @@ DAY 304
 
 DAY 305
   Proposal 12 failed, 2 votes to 18: a tax of 10%.
-  Election day: votes C6S 0; D6W is mayor.
+  Election day: nobody voted, so D6W stays mayor.
   X4G: Going to the Town Hall to vote in the election
   T9V: Farming for food today
   X6X: It's time to decide on the tax proposal. Let's make our voices heard.
@@ -8707,6 +8709,7 @@ DAY 364
   J6L (board): I'm available to help with the food storage facility construction today. Let's finalize the design and assign tasks.
 
 DAY 365
+  Election day: nobody stood for mayor, so B4B stays mayor.
   X4R: I'll join the discussion on the food storage facility's design and construction plan.
   C6S: I'll bring some food to K4Q
   X4G: I'll gather food for the city today.
@@ -9834,7 +9837,7 @@ DAY 404
   Z6J → D6W: What's the plan for today? Should I work with you again for food?
 
 DAY 405
-  Election day: votes T9V 0; Q4W is mayor.
+  Election day: nobody voted, so Q4W stays mayor.
   X4R: Farming to increase food supply
   M2P: Farming to increase food supply
   F7G: Let's make our voices heard in the election today.
@@ -10942,6 +10945,7 @@ DAY 444
   F7G (board): Who can help with building the food storage facility today? Let's finalize the plans and start building.
 
 DAY 445
+  Election day: nobody stood for mayor, so L9P stays mayor.
   M2P: Going to see the election results
   D6W: Going to the Square to see the election results
   C6S: Going to the Square to check the election results
@@ -11493,6 +11497,7 @@ DAY 464
   T9V (board): Who can help with farming today? I have a lot of food to spare if needed.
 
 DAY 465
+  Election day: nobody stood for mayor, so L9P stays mayor.
   X4R: Going to the Square to vote for the new mayor
   D6W: Farming for food today
   C6S: Going to the Square to discuss the election and see the notices.
@@ -12052,6 +12057,7 @@ DAY 484
   L7C (board): Who's ready to help with the food storage facility construction today? Let's work together.
 
 DAY 485
+  Election day: nobody stood for mayor, so L9P stays mayor.
   X4R: I'm voting for myself as the next mayor. Let's work together to build a better city.
   C6S: Discussing the upcoming election and the food storage facility construction
   X4G: Farming for food today
@@ -13151,7 +13157,7 @@ DAY 524
   B4B (board): Let's finalize the food storage facility construction plan today and start building.
 
 DAY 525
-  Election day: votes D6W 0, X4R 0, B4B 0; Q4W is mayor.
+  Election day: nobody voted, so Q4W stays mayor.
   X4R: I'm running for mayor in the upcoming election
   C6S: Going to discuss the upcoming election and recent events
   F7G: Let's finalize the food storage facility construction plan today.
@@ -13702,7 +13708,7 @@ DAY 544
   L9C (board): Discussing the candidates' proposals for the upcoming election and the city's infrastructure plans.
 
 DAY 545
-  Election day: votes F7X 0, R3P 0; Q4W is mayor.
+  Election day: nobody voted, so Q4W stays mayor.
   X4R: Farming for food today
   C6S: Farming for food today
   X4G: Voting on the proposal to give the city store 1 food every 5 turns.
@@ -14768,7 +14774,7 @@ DAY 584
   Q4W → Q2X: What are your thoughts on the city's current state and your plans for the upcoming election?
 
 DAY 585
-  Election day: votes P9Q 0, T9V 0, J6L 0; Q2X is mayor.
+  Election day: nobody voted, so Q2X stays mayor.
   X4R: I think L9C would be a great mayor.
   M2P: I think P9Q would be a great mayor, let's give them a chance!
   F7G: I'm voting for L7C as the new mayor
@@ -16832,7 +16838,7 @@ DAY 664
   D3X (board): Let's work together to improve the city's infrastructure before the election.
 
 DAY 665
-  Election day: votes X4G 0; J6L is mayor.
+  Election day: nobody voted, so J6L stays mayor.
   M2P: Discussing the upcoming election and city development
   X4G: I'm running for mayor
   F7G: Discussing the upcoming election and city development
@@ -17891,7 +17897,7 @@ DAY 704
 
 DAY 705
   Proposal 23 failed, 10 votes to 11: a rule: "The tax cannot be above 10%".
-  Election day: votes X6X 0; Q2X is mayor.
+  Election day: nobody voted, so Q2X stays mayor.
   X4R: I'd like to gather at the Square to discuss the election results and city plans.
   D6W: Discussing city plans and the upcoming election. Share your thoughts on infrastructure and food storage.
   X4G: I'll think carefully before voting again
@@ -18435,6 +18441,7 @@ DAY 724
   F7X (board): I'd like to discuss the food storage facility plans and gather materials before the election. Let's finalize the details.
 
 DAY 725
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   M2P: Let's finalize the food storage facility plans today
   C6S: Going to the Square to discuss the upcoming election and city development plans.
   X4G: Going to discuss the upcoming election and city development plans.
@@ -18988,6 +18995,7 @@ DAY 744
   X4G (board): Let's gather materials for the food storage facility today at the Woods. Who can help?
 
 DAY 745
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   Q7P, J9D, P9Q and 2 others paid off part of what they owed the city store.
   X4R: Going to the Square to discuss the upcoming election
   D6W: Let's discuss the city plans and the upcoming election.
@@ -19541,6 +19549,7 @@ DAY 764
   L9C (board): Let's finalize the food storage facility plans today at the Workshop. Who's in charge and what's the plan?
 
 DAY 765
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Let's finalize the food storage facility plans today
   D6W: Let's finalize the plans and start building now.
   C6S: Let's finalize the food storage facility plans today
@@ -20073,6 +20082,7 @@ DAY 784
   S4X (board): I'll help with the food storage facility construction today
 
 DAY 785
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Let's finalize the food storage facility plans today
   M2P: Let's finalize the food storage facility plans now
   C6S: Let's finalize the food storage facility plans today
@@ -20608,6 +20618,7 @@ DAY 804
   L9C (board): Who can help with the food storage facility construction today?
 
 DAY 805
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   F7G: Let's finalize the plans and start building the food storage facility today
   T3Q: Let's start building the food storage facility today
   L9C: Let's finalize the food storage facility plans and start building today
@@ -21145,6 +21156,7 @@ DAY 824
   Q7P (board): Who's willing to work with me on the food storage facility today?
 
 DAY 825
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   F7G: Let's finalize the plans and start building the food storage facility today.
   T9V: Let's finalize the food storage plans and start building today.
   L9P: I'll gather food today.
@@ -21688,6 +21700,7 @@ DAY 844
   F7X (board): Who is in charge of the food storage facility construction?
 
 DAY 845
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: I'll gather materials for the food storage facility construction
   C6S: Let's finalize the plans and start building the food storage facility today!
   X4G: Let's finalize the food storage facility plans and start building today!
@@ -22269,6 +22282,7 @@ DAY 864
   T9V (board): I'm willing to help with the food storage facility construction project. Who's in charge of the project? Let's finalize the plans today at the Workshop!
 
 DAY 865
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Let's finalize the food storage facility plans today!
   M2P: Let's finalize the food storage facility plans and assign tasks today!
   D6W: Let's finalize the food storage facility plans today!
@@ -22832,6 +22846,7 @@ DAY 884
   R3P (board): Let's finalize the food storage facility plans today! Who's in charge of the project now? Let's meet at the Town Hall.
 
 DAY 885
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Let's finalize the food storage facility plans today!
   D6W: I'm going to the Town Hall to discuss the food storage facility plans and the upcoming election.
   X4G: I'm going to the Town Hall to see the proposals and laws.
@@ -23340,6 +23355,7 @@ DAY 904
   Q2X (board): Let's discuss the food storage facility construction plans. Who can provide materials and labor?
 
 DAY 905
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   M2P: Let's finalize the food storage facility plans today. Who's ready to start construction? I'm willing to provide labor.
   D6W: Checking the notice board for the election and the food storage facility plans
   T3Q: Let's finalize the details of the food storage facility construction. What materials are needed and who can provide labor?
@@ -23833,6 +23849,7 @@ DAY 924
   D6W (board): Let's finalize the plans and assign tasks for the food storage facility construction today. Who can provide labor and tools?
 
 DAY 925
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   C6S, Q7P, X4R and 9 others paid off part of what they owed the city store.
   M2P: Let's gather materials for the food storage facility today
   D6W: Discussing election and food storage plans
@@ -24347,6 +24364,7 @@ DAY 944
   Z6J (board): Let's get started on the food storage facility construction today. I'll help with labor. Who can provide the final plans and materials?
 
 DAY 945
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   L7C paid off part of what they owed the city store.
   M2P: I'll discuss the food storage facility plans and construction
   T3Q: Going to the Square to vote for the new mayor.
@@ -24880,6 +24898,7 @@ DAY 964
   C7D (board): Let's start building the food storage facility today! I'm ready to contribute my 39 materials.
 
 DAY 965
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Farming for food today
   M2P: Going to farm for food today
   C6S: Farming for food today
@@ -25382,6 +25401,7 @@ DAY 984
   F7X (board): I'll contribute my labor to the food storage facility construction. Let's finalize the plans and assign tasks today.
 
 DAY 985
+  Election day: nobody stood for mayor, so Q2X stays mayor.
   X4R: Discussing the food storage facility plans
   D6W: Going to farm for food today
   T3Q: Farming for food today

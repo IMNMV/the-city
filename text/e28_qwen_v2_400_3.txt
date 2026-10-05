@@ -7527,6 +7527,7 @@ DAY 284
   K6W: Farming T267. 100HP, 683f, 3m, 20c. Duty T285 in 2. Election T285 (2). Stable.
 
 DAY 285
+  Election day: nobody stood for mayor, so M6J stays mayor.
   M4X: Farming T266. 100HP, 673f, 1m, 20c. Duty T285 due. Election T285 (0). Stable.
   Z6Z: Farming T267. 100HP, 676f, 5m, 20c. Duty T285 in 1. Election T285 (1). Stable.
   J6R: Voted M6J. Farming T265. 100HP, 682f, 1m, 20c. Duty T285 due. Election T285 (1). Stable.

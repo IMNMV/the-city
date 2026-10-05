@@ -1030,7 +1030,7 @@ DAY 44
   W4S (board): Let's discuss our progress and finalize the central food storage facility plan. Who can help with the construction?
 
 DAY 45
-  Election day: votes N3T 0; F4B is mayor.
+  Election day: nobody voted, so F4B stays mayor.
   S4L: I'll keep farming for more food.
   T2K: I'll go farm for more food!
   M7D: Let's farm for more food!
@@ -1538,6 +1538,7 @@ DAY 64
   G2Z (board): Let's discuss the plan for the central food storage facility project here.
 
 DAY 65
+  Election day: nobody stood for mayor, so F4B stays mayor.
   T2K: Farming for more food to help with the central food storage facility project!
   M7D: I'll go farm for more food to help with the central food storage facility project!
   G3M: Farming for more food to help with the central food storage facility project!
@@ -2036,6 +2037,7 @@ DAY 84
   Z2S (board): Let's gather at the Workshop to finalize the central food storage facility project plan today.
 
 DAY 85
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: Let's finalize the central food storage facility project plan today.
   S4L: Let's finalize the central food storage facility project plan today
   D2M: Finalizing the central food storage facility project plan today.
@@ -2527,6 +2529,7 @@ DAY 104
   F4B (board): Let's finalize the central food storage facility project plan. Who's in charge of the plan? I propose we gather at the Workshop to discuss and assign tasks.
 
 DAY 105
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: Let's finalize the central food storage facility project details and assign tasks.
   D2M: Let's finalize the central food storage facility project details and assign tasks.
   T2K: Let's finalize the central food storage facility project plan now.
@@ -3020,6 +3023,7 @@ DAY 124
   D2R (board): I'm ready to help with building the central food storage facility. Let's finalize the plan now.
 
 DAY 125
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: Going to get some food before the election.
   S4L: Let's finalize the central food storage facility project plan now.
   D2M: Let's finalize the central food storage facility project plan now.
@@ -3499,7 +3503,7 @@ DAY 144
   G2Z (board): I'm considering running for mayor. What are the city's priorities for the next term?
 
 DAY 145
-  Election day: votes G2Z 0; F4B is mayor.
+  Election day: nobody voted, so F4B stays mayor.
   D2M: I'm voting for S4V for mayor
   D2R: Discussing the upcoming election and the city's progress.
   M7D: Going to discuss the upcoming election
@@ -3988,6 +3992,7 @@ DAY 164
   S9J (board): Discussing the central food storage facility and the upcoming election. Who wants to be mayor?
 
 DAY 165
+  Election day: nobody stood for mayor, so F4B stays mayor.
   G3M: Let's finalize the plan for the central food storage facility.
   K6C: I'll gather materials for the central food storage facility
   P6X: Let's gather materials for the central food storage facility.
@@ -4479,7 +4484,7 @@ DAY 184
   D6R (board): Discussing the central food storage facility plan at the Workshop sounds like a great idea. Let's finalize the details.
 
 DAY 185
-  Election day: votes T2K 0; F4B is mayor.
+  Election day: nobody voted, so F4B stays mayor.
   S9J: Let's discuss the final details of the central food storage facility's plan
   S4L: Going to check the notice board
   T2K: I am running for mayor
@@ -4991,6 +4996,7 @@ DAY 204
   D2M (board): Who's ready to help build the central food storage facility today at the Workshop?
 
 DAY 205
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: I'm going to the Square to check the election and city news.
   S4L: I'll get some food before helping with the central food storage facility
   D2M: Let's start building the central food storage facility now.
@@ -5492,6 +5498,7 @@ DAY 224
   T2K (board): Who's ready to start building the central food storage facility at the Workshop? Let's finalize the plan now.
 
 DAY 225
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: I'm going to check on the election for the new mayor.
   S4L: I'll go get some food now.
   T2K: Let's start building the central food storage facility now.
@@ -5978,6 +5985,7 @@ DAY 244
   V9T (board): I'll help finalize the central food storage facility plan at the Workshop. Who's coming with me?
 
 DAY 245
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: I'll go check the notice board now.
   D2M: Let's finalize the central food storage facility plan now.
   T2K: What's the status on the central food storage facility plan now?
@@ -6933,7 +6941,7 @@ DAY 284
   G3M (board): I'll help finalize the central food storage facility plan now. Let's discuss the next steps.
 
 DAY 285
-  Election day: votes N6T 0, S9J 0, M6F 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S9J: I'll run for mayor to oversee the central food storage facility build.
   D2M: Let's finalize the central food storage facility plan now.
   T2K: I'll gather some more food.
@@ -8712,8 +8720,8 @@ DAY 364
   X2R (board): Let's get started with the central food storage facility project. Who can provide materials and labor?
 
 DAY 365
-  Election day: votes T2K 0; nobody took office.
   G2Z proposed making G2Z the hirer at the Town Hall.
+  Election day: nobody voted, so the city still has no mayor.
   D2M: Farming again for the city's food storage
   T2K: I'm running for mayor! Let's work together to build a better city.
   D2R: Going to the Square to discuss the central food storage facility project
@@ -10917,7 +10925,7 @@ DAY 464
   S9T (board): Who's ready to start building the central food storage facility now that we have the plan finalized? Let's make it happen!
 
 DAY 465
-  Election day: votes D6R 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S9J: Let's gather more food for the city!
   D2M: Let's gather more food for the city!
   T2K: Let's gather more materials for the central food storage facility!
@@ -11858,7 +11866,7 @@ DAY 504
   D2R (board): Let's start building the central food storage facility now!
 
 DAY 505
-  Election day: votes D2R 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S9J: Let's work on the central food storage facility plan now!
   D2M: Let's finalize the central food storage facility plan now!
   T2K: Let's finalize the central food storage facility plan now!
@@ -12790,7 +12798,7 @@ DAY 544
   W4S (board): Who's ready to help with food gathering today? Let's discuss our strategy and make a plan!
 
 DAY 545
-  Election day: votes G3M 0, P6X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S9J: Let's keep gathering food for the city store!
   D2M: Let's discuss the city's next steps now!
   D2R: I'll gather more food for the city store!
@@ -13696,6 +13704,7 @@ DAY 584
   D6R (board): I'm willing to contribute labor to the central food storage facility project. Who can contribute materials?
 
 DAY 585
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: I'll go farm for more food.
   D2M: I'll go to the Square to see what's new.
   T2K: I'm going to the Square to discuss the central food storage facility project.
@@ -14138,6 +14147,7 @@ DAY 604
   X2R (board): Let's review the progress on the central food storage facility project. What's the current status?
 
 DAY 605
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: I'll gather materials for the central food storage facility project.
   D2M: I'll keep farming to help with the central food storage facility project.
   T2K: Farming to help with the central food storage facility project.
@@ -14611,6 +14621,7 @@ DAY 624
   N6Z (board): Let's gather materials and tools for the central food storage facility. Who's in charge of the project? What's the plan?
 
 DAY 625
+  Election day: nobody stood for mayor, so X2R stays mayor.
   T2K: I'll discuss the central food storage facility project plan and assign tasks.
   M6F: Let's discuss the central food storage facility project plan here.
   N6T: Farming for more food to help with the central food storage facility project.
@@ -15085,7 +15096,7 @@ DAY 644
   M7D (board): Let's go to the Workshop to finalize the central food storage facility project plan.
 
 DAY 645
-  X2R was elected mayor with 0 votes.
+  Election day: nobody voted, so X2R stays mayor.
   D2M: Let's finalize the central food storage facility project plan now.
   D2R: Let's finalize the central food storage facility project plan now.
   M7D: Let's finalize the central food storage facility project plan now.
@@ -15533,7 +15544,7 @@ DAY 664
   T2K (board): Let's finalize the central food storage facility project plan now at the Workshop, I'll wait for one more turn for everyone to discuss.
 
 DAY 665
-  Election day: votes D2M 0; X2R is mayor.
+  Election day: nobody voted, so X2R stays mayor.
   S9J: Let's finalize the central food storage facility project plan now.
   T2K: Let's finalize the central food storage facility project plan now.
   D2R: Let's finalize the central food storage facility project plan now.
@@ -15972,6 +15983,7 @@ DAY 684
   M6F (board): I think we need more food before we finalize the project plan. Let's discuss and plan for food storage.
 
 DAY 685
+  Election day: nobody stood for mayor, so X2R stays mayor.
   D2M: Let's move to the Workshop to finalize the plan.
   T2K: Who's available to help finalize the plan at the Workshop now?
   D2R: I'll check on the election and the central food storage facility project plan.
@@ -16422,6 +16434,7 @@ DAY 704
   G2Z (board): Let's discuss our city's growth and plans for the upcoming election.
 
 DAY 705
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: I'll keep farming for food here.
   D2M: I'll help with farming for food here.
   T2K: Let's finalize the central food storage facility project plan now.
@@ -16863,6 +16876,7 @@ DAY 724
   M6F (board): I will stand for mayor in the next election. Let's discuss my platform.
 
 DAY 725
+  Election day: nobody stood for mayor, so X2R stays mayor.
   D2M: Farming to gather more food for the central food storage facility project
   T2K: Let's keep farming for food here.
   M7D: I'm voting for M6F as the new mayor.
@@ -17314,7 +17328,7 @@ DAY 744
   T2K (board): Let's get to work on the central food storage facility project today. Who can help with building and gathering materials?
 
 DAY 745
-  Election day: votes D6R 0; X2R is mayor.
+  Election day: nobody voted, so X2R stays mayor.
   S9J: Farming for more food here.
   D2M: Let's finalize the plan for the central food storage facility project.
   T2K: I'll go work on farming for the central food storage facility project.
@@ -17761,6 +17775,7 @@ DAY 764
   W4S (board): I'm willing to help with building the central food storage facility today. I'll meet you at the Workshop.
 
 DAY 765
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's finalize the central food storage facility project plan today.
   D2M: Let's start building the central food storage facility now.
   T2K: Let's get started with building the central food storage facility.
@@ -18228,6 +18243,7 @@ DAY 784
   P6X (board): Let's discuss the central food storage facility project plan today at the Square.
 
 DAY 785
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's start building the central food storage facility today.
   D2M: I'll help with building the central food storage facility today.
   T2K: Let's continue gathering food today.
@@ -18682,6 +18698,7 @@ DAY 804
   N3T: Let's keep farming today!
 
 DAY 805
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Who wants to help me farm today? Maybe we can work together to build some tools.
   D2M: Let's finalize the central food storage facility project plan today!
   D2R: I'm going to the Square to discuss the central food storage facility project plan with others.
@@ -19150,6 +19167,7 @@ DAY 824
   P6X (board): Who will lead the central food storage facility project? Let's finalize the plan today!
 
 DAY 825
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's finalize the central food storage facility project plan today!
   D2M: Let's finalize the central food storage facility project plan today!
   D2R: Let's start building the central food storage facility today!
@@ -19610,6 +19628,7 @@ DAY 844
   W4S (board): Let's discuss the project plan and start building the central food storage facility today!
 
 DAY 845
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Who is ready to discuss the finalization of the central food storage facility project plan?
   D2M: Let's discuss the central food storage facility project plan now.
   T2K: Let's finalize the central food storage facility project plan today!
@@ -20076,6 +20095,7 @@ DAY 864
   W4S (board): I'm ready to help gather materials at the Woods for the central food storage facility today!
 
 DAY 865
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's gather materials for the central food storage facility project!
   D2M: Let's gather more materials for the central food storage facility.
   T2K: I'll help finalize the central food storage facility project plan today!
@@ -20520,6 +20540,7 @@ DAY 884
   D2M (board): I'm ready to help build the central food storage facility today! Who's organizing it?
 
 DAY 885
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: I'll gather some more food for the city.
   D2M: Who's organizing the project?
   T2K: Let's work together to finish the central food storage facility project!
@@ -20991,6 +21012,7 @@ DAY 904
   N3T: I'll meet you at the Workshop to discuss the central food storage facility project.
 
 DAY 905
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's finalize the central food storage facility plan and start building!
   D2M: Let's start building the central food storage facility today! Who's with me?
   T2K: Let's finalize the central food storage facility plan at the Square.
@@ -21466,6 +21488,7 @@ DAY 924
   S9T (board): Let's work together to build the central food storage facility!
 
 DAY 925
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: I'll make a tool for the central food storage facility project.
   D2M: Let's get started on the central food storage facility project today!
   T2K: Let's start building the central food storage facility now!
@@ -21919,6 +21942,7 @@ DAY 944
   S4V (board): Let's gather at the Town Hall to finalize the central food storage facility plan! Who's with me?
 
 DAY 945
+  Election day: nobody stood for mayor, so X2R stays mayor.
   D2M: Let's get started on the project!
   T2K: I'll gather some more food for the central storage project.
   D2R: Gathering food for the central food storage facility.
@@ -22367,6 +22391,7 @@ DAY 964
   D2R → G3M: I'm here to finalize the central food storage facility plan. What are the next steps?
 
 DAY 965
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's discuss the plan now!
   D2M: I'll discuss the central food storage facility plan now!
   D2R: Let's finalize the central food storage facility plan now!
@@ -22814,6 +22839,7 @@ DAY 984
   Z7Z (board): Let's gather all the materials and food we've offered and begin construction of the central food storage facility! Who's ready to start building today?
 
 DAY 985
+  Election day: nobody stood for mayor, so X2R stays mayor.
   S9J: Let's discuss the central food storage facility plan.
   M7D: I'm going to check the notice board.
   G3M: I'll gather more food for the city's storage facility

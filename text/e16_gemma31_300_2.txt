@@ -2128,6 +2128,7 @@ DAY 84
 
 DAY 85
   Mayor D2R gave P6X 10 food from the city store.
+  Election day: nobody stood for mayor, so D2R stays mayor.
   S9J: Continuing to farm to ensure our food reserves stay strong!
   S4L: I'm starving and have nothing to trade. Heading to the Square to find help or food.
   T2K: Thank you all so much for the food! I'm recovering now.
@@ -3893,6 +3894,7 @@ DAY 164
 
 DAY 165
   Mayor S4L gave themselves 1 food from the city store.
+  Election day: nobody stood for mayor, so S4L stays mayor.
   S9J: Gathering materials to help the city expand!
   S4L: One last meal before I head to the Square to organize the city.
   T2K: Gathering materials to help the city expand!

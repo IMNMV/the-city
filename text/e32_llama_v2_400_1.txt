@@ -556,7 +556,7 @@ DAY 24
   L7C (board): I'll go to the Fields to farm some more food. Who can help with the workshop construction?
 
 DAY 25
-  Election day: votes J6L 0, L7C 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: Gathering materials for the workshop construction
   M2P: Let's gather more materials for the workshop construction
   D6W: Let's gather at the Square to discuss the workshop construction and plan the next steps.
@@ -1008,7 +1008,7 @@ DAY 44
   J6L (board): I propose we elect a mayor to manage our city's resources and make decisions for the benefit of all residents.
 
 DAY 45
-  Election day: votes J6L 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   M2P: Let's work together to gather materials from the Woods for the workshop construction
   C6S: Going to the Fields to farm for food
   X4G: Let's work together to gather food.
@@ -1836,7 +1836,7 @@ DAY 84
   T3Q (board): Who can help me with gathering materials for the Workshop today? Let's work together!
 
 DAY 85
-  Election day: votes D3X 0, Q4W 0, X6X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: Let's farm for more food today!
   M2P: Let's discuss the election and propose a tax.
   C6S: Let's elect a mayor to lead our city.
@@ -2269,7 +2269,7 @@ DAY 104
   L9C (board): Who's willing to help me build the Workshop today? Let's work together!
 
 DAY 105
-  Election day: votes P9Q 0, B4B 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   M2P: Let's build the Workshop today!
   C6S: Let's work together to finish the Workshop today!
   F7G: Let's work together to build the Workshop today! Who's with me?
@@ -2708,7 +2708,7 @@ DAY 124
   B4B: Let's keep farming to increase our food supply before the election!
 
 DAY 125
-  Election day: votes X6X 0, S4X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: I'll go to the Square to vote for the next mayor
   M2P: I'm going to the Square to see the proposals and vote for mayor
   C6S: I'll go to the Square to see the proposals before the election
@@ -3543,7 +3543,7 @@ DAY 164
   D3X (board): Let's discuss the upcoming election and our city's future. Who has the best plan for our city?
 
 DAY 165
-  Election day: votes B4B 0; L7C is mayor.
+  Election day: nobody voted, so L7C stays mayor.
   M2P: Let's discuss the upcoming election and our plans for the city!
   P9Q: Let's gather materials for our farming efforts.
   L9C: Let's keep farming to increase our food supply before the election!
@@ -3955,6 +3955,7 @@ DAY 184
   X4R (board): I'm running for mayor, focusing on food supply and infrastructure growth. What are your questions for me? Let's discuss our city's future.
 
 DAY 185
+  Election day: nobody stood for mayor, so L7C stays mayor.
   X4R: Good luck to all the candidates, let's make our city thrive!
   M2P: Let's keep farming to increase our food supply before the election!
   C6S: Farming to increase our food supply before the election!
@@ -4372,6 +4373,7 @@ DAY 204
   R3P (board): Who can provide tools to help with the construction of the community kitchen and storage facility?
 
 DAY 205
+  Election day: nobody stood for mayor, so L7C stays mayor.
   M2P: Farming to increase our food supply before the election!
   X4G: Let's discuss the election and our city's future!
   F7G: I'll discuss the upcoming election and our city's future!
@@ -4784,7 +4786,7 @@ DAY 224
   J6L (board): Let's focus on the community kitchen and storage facility project. Who's willing to work on it with me?
 
 DAY 225
-  Election day: votes Q7P 0; L7C is mayor.
+  Election day: nobody voted, so L7C stays mayor.
   X4R: Going to check the election news.
   M2P: Farming to increase our food supply before the election!
   F7G: I'll go check the election news.
@@ -6817,7 +6819,7 @@ DAY 324
   L9C (board): Let's discuss the communal farm plan and storage facility before the election. What's the status on materials and labor?
 
 DAY 325
-  Election day: votes M2P 0, X6X 0, F7G 0, P9Q 0; L7C is mayor.
+  Election day: nobody voted, so L7C stays mayor.
   X4R: Who's standing for mayor? Let's discuss the city's future.
   M2P: I'm standing for mayor in the election! Let's discuss our priorities and work together to build a better future for our city.
   P9Q: I'm running for mayor, let's build a better future for our city!
@@ -7203,7 +7205,7 @@ DAY 344
   Q7P (board): Let's finalize the communal farm plan before the election. Share your thoughts and ideas.
 
 DAY 345
-  Election day: votes D3X 0, Q7P 0, B4B 0, J6L 0; L7C is mayor.
+  Election day: nobody voted, so L7C stays mayor.
   X4R: Farming for food to contribute to the city's food production.
   M2P: Farming for food to contribute to the city's production.
   C6S: I'll keep farming for food.
@@ -7631,6 +7633,7 @@ DAY 364
   D3X (board): I'll work on the communal farm plan at the Fields today. Let's finalize the roles and details.
 
 DAY 365
+  Election day: nobody stood for mayor, so L7C stays mayor.
   X4R: Let's work together to finalize the plan.
   C6S: Let's work together on the communal farm plan
   X4G: Let's finalize the plan now.
@@ -8052,6 +8055,7 @@ DAY 384
   B4B: Let's get more food for the city
 
 DAY 385
+  Election day: nobody stood for mayor, so L7C stays mayor.
   X4R: Let's continue farming for the city's food production
   M2P: I'll continue farming for the city's food production.
   X4G: Let's continue farming for the city's food production

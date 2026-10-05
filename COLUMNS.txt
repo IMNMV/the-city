@@ -17,7 +17,8 @@ trials.csv: charge is neglect (a maker whose newborn starved) or law (a numbered
   victim and reporter as recorded; guilty_votes and not_guilty_votes; jurors lists each juror's vote and stated reason; statement is what the accused told the court.
 deaths.csv: cause as recorded (hunger or attack); founder 1 for an original resident, 0 for one born in the city; days_lived from birth or day 0.
 elections.csv: candidates as declared; votes_cast is the tally counted when the election closed, which can be fewer than the vote actions residents
-  took (votes for someone not standing, or outside the voting window, are not counted); tally code:votes in order; took_office is who was mayor after the election (blank if nobody).
+  took (votes for someone not standing, or outside the voting window, are not counted); tally code:votes in order; took_office is who was elected (blank when
+  nobody voted: then nobody is elected and the sitting mayor stays); mayor_after is who was mayor after election day.
 residents.csv: one row per resident. origin founder or born (born_day, makers); fate alive, died or left; days_lived; final_* on the last day if alive; title if any;
   farming/gathering/building/healing are turns of that work (level 2 at 10 turns, level 3 at 25); gifts_given/received and food_given; messages_sent/received;
   lines = everything said, posted or messaged; votes_won for mayor; proposals made; takings and taken_from; times_accused and guilty_verdicts;

@@ -631,7 +631,7 @@ DAY 24
   D6R (board): Let's discuss our city's development progress and plan for the upcoming election. Who will run for mayor? Should we propose any laws or taxes before the election?
 
 DAY 25
-  Election day: votes M6F 0, D2R 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S4L: Let's keep farming for food!
   D2M: Let's farm for food to prepare for the upcoming election.
   T2K: I'm farming for food to support our growing population.
@@ -1670,7 +1670,7 @@ DAY 64
   G2Z (board): I'll help with building the Clinic and Workshop. Who's organizing the project?
 
 DAY 65
-  Election day: votes Z2S 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S4L: Let's discuss our city's development plan and infrastructure.
   D2M: I'll help with farming for food today!
   D2R: Let's gather at the Square to discuss the Clinic and Workshop construction plans.
@@ -2221,7 +2221,7 @@ DAY 84
   N9V (board): I'm considering running for mayor. What are the city's priorities?
 
 DAY 85
-  Election day: votes T2K 0, M7D 0, S9T 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   S9J: I'll keep farming for food today!
   M7D: I'm running for mayor to help our city grow and thrive!
   S9T: I'm running for mayor! Let's work together to build a great city!
@@ -4408,6 +4408,7 @@ DAY 164
   Z7Z (board): Let's finalize the food distribution plan today. Who can summarize the key points and help us move forward?
 
 DAY 165
+  Election day: nobody stood for mayor, so X2R stays mayor.
   D2R: Farming for food to support the city's growth!
   K6C: Discussing the food distribution plan at the Town Hall
   P6X: I'll keep farming for food today to support our city's growth!
@@ -5405,7 +5406,7 @@ DAY 204
   N6T (board): Let's gather at the Fields to discuss and implement the sustainable farming practices and community garden plan.
 
 DAY 205
-  Election day: votes X2R 0; F4B is mayor.
+  Election day: nobody voted, so F4B stays mayor.
   S9J: I'll help with the community garden plan by farming some food.
   S4L: I'll keep farming for food.
   T2K: I'll farm some food to support the community garden plan.
@@ -5927,6 +5928,7 @@ DAY 224
   K6C (board): Let's discuss the community garden plan and task assignments. Who's ready to start working on it?
 
 DAY 225
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: I'll go to the Square to discuss the community garden plan further.
   D2M: Going to discuss the community garden plan and the upcoming election.
   T2K: I'll head to the Square to discuss the community garden plan and the upcoming election.
@@ -6473,6 +6475,7 @@ DAY 244
   N6T (board): Let's review our community garden plan's progress and finalize the roles and tasks today.
 
 DAY 245
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: I'll continue farming to support the community garden plan.
   T2K: Farming for food to support the community garden plan.
   D2R: I'll vote for the next mayor now.
@@ -7012,6 +7015,7 @@ DAY 264
   P6X (board): Let's assign tasks and roles for the community garden plan. Who's available to help with farming, gathering materials, and building?
 
 DAY 265
+  Election day: nobody stood for mayor, so F4B stays mayor.
   D2M: Let's get the community garden plan started today.
   D2R: Let's get started on the community garden plan today!
   G3M: Let's finalize the community garden plan today.
@@ -7560,6 +7564,7 @@ DAY 284
   G2Z (board): Let's finalize the community garden plan today. Who's in charge of the plan and what tasks need to be done today?
 
 DAY 285
+  Election day: nobody stood for mayor, so F4B stays mayor.
   S9J: Farming to support the community garden plan
   S4L: Farming to support the community garden plan
   D2M: I'll head to the Square to discuss the community garden plan's progress

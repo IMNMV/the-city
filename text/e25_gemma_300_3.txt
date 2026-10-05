@@ -236,7 +236,7 @@ DAY 244
   N7P → M6J: Hey M6J, the election is on turn 245. Do you want to run for mayor or should we support someone else?
 
 DAY 245
-  Election day: votes N7P 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
 
 DAY 246
   N7P (board): Construction Group: We have finished the first houses. Let's coordinate on our next goal: building more housing for new residents or crafting more tools. Please message me with your preference.
@@ -322,6 +322,7 @@ DAY 281
   C6S → N7P: Since we have a huge surplus of materials and tools, I suggest we prioritize building more houses. Expanding the population will give us more workers for the city.
 
 DAY 285
+  Election day: nobody stood for mayor, so N7P stays mayor.
   C6S → N7P: Since we have a surplus of materials and tools, I suggest we prioritize building more houses to increase our population and workforce. What do you think?
 
 DAY 287

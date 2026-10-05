@@ -1616,7 +1616,7 @@ DAY 64
   F7G (board): I'll help with the food storage system plan and farming strategies at the Fields. Who's with me?
 
 DAY 65
-  Election day: votes B4B 0; F7G is mayor.
+  Election day: nobody voted, so F7G stays mayor.
   X4R: Let's discuss the upcoming election.
   D6W: Let's keep farming for more food!
   C6S: I'll go check the election results.
@@ -2160,7 +2160,7 @@ DAY 84
   J9D (board): I'm willing to work on the food storage system. Who can provide tools and help with building? Let's finalize the plan and assign tasks today.
 
 DAY 85
-  F7G was elected mayor with 0 votes.
+  Election day: nobody voted, so F7G stays mayor.
   X4R: Let's discuss the election and the city's progress.
   M2P: Let's discuss the upcoming election and the city's progress.
   D6W: I'm running for mayor to help our city grow and prosper.

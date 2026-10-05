@@ -1022,7 +1022,7 @@ DAY 44
   W4S (board): Discussing the upcoming election and potential candidates. What are the main issues for our city's future?
 
 DAY 45
-  Election day: votes N6T 0; S4L is mayor.
+  Election day: nobody voted, so S4L stays mayor.
   S4L: Going to farm for food.
   M6F: I'm voting for G2Z for mayor.
   P6X: Going to the Square to discuss the election and city progress.
@@ -1491,6 +1491,7 @@ DAY 64
   G2Z (board): I'll go to the Fields to help with the food storage system. Who's with me?
 
 DAY 65
+  Election day: nobody stood for mayor, so S4L stays mayor.
   D2M: Let's work on the food storage system now!
   M7D: Going to the Square to discuss the election and city progress.
   G3M: Discussing the upcoming election and city progress.
@@ -1981,7 +1982,7 @@ DAY 84
   N3T (board): Let's discuss the food storage system plan and task assignments now. Who can help with building and gathering materials?
 
 DAY 85
-  S4L was elected mayor with 0 votes.
+  Election day: nobody voted, so S4L stays mayor.
   S4L: I'm running for mayor, let's work together to build a great city!
   D2M: Farming for food again!
   T2K: Going to the Square to see what's new.
@@ -2448,6 +2449,7 @@ DAY 104
   G3M (board): Let's finalize the food storage system plan and task assignments today. Who's in charge and what are the task assignments?
 
 DAY 105
+  Election day: nobody stood for mayor, so S4L stays mayor.
   S9J: I'll discuss the food storage system construction plan.
   S4L: Discussing food storage system plan and election updates
   T2K: Going to the Square to discuss the food storage system construction plan.
@@ -2930,6 +2932,7 @@ DAY 124
   M6F (board): Let's meet at the Workshop to discuss the food storage system construction plan and finalize task assignments.
 
 DAY 125
+  Election day: nobody stood for mayor, so S4L stays mayor.
   S4L: Let's finalize the food storage system plan and task assignments now.
   T2K: Going to the Square to check on the election for the new mayor.
   M7D: I'm going to the Square to discuss the election results and city developments.
@@ -3417,7 +3420,7 @@ DAY 144
   S9J (board): Let's finalize the food storage system construction plan and task assignments at the Homes. I will help with farming today. Who can help with farming today to support the food storage system construction?
 
 DAY 145
-  S4L was elected mayor with 0 votes.
+  Election day: nobody voted, so S4L stays mayor.
   S9J: Let's go to the Fields to farm today and support the food storage system construction.
   T2K: Going to farm to support the food storage system construction.
   D2R: Going to the Fields to farm for food.
@@ -3925,7 +3928,7 @@ DAY 164
   K6C (board): Let's discuss the city's progress and plans before the election. What are your suggestions for the city's growth and future development?
 
 DAY 165
-  Election day: votes K6C 0; S4L is mayor.
+  Election day: nobody voted, so S4L stays mayor.
   D2M: Farming for food to support the city's growth
   T2K: Going to farm for food to support the city's growth
   M6F: Let's finalize our plans for the upcoming election on turn 165.
@@ -4389,7 +4392,7 @@ DAY 184
   T2K (board): Let's finalize our growth plans before the election. I'm open to suggestions.
 
 DAY 185
-  Election day: votes V7R 0, V9T 0; S4L is mayor.
+  Election day: nobody voted, so S4L stays mayor.
   S9J: Let's discuss the city's growth and food storage system plans
   D2M: Let's work together to increase food production for the city's growth
   M7D: Farming for food to support the city's growth
@@ -4863,7 +4866,7 @@ DAY 204
   N6T (board): Let's finalize the food storage system design today and start building it before the election. Who can help?
 
 DAY 205
-  S4L was elected mayor with 0 votes.
+  Election day: nobody voted, so S4L stays mayor.
   S9J: I think we need a change in leadership
   S4L: I'll stand for mayor in the next election
   D2M: Let's discuss the city's growth and food storage plans
@@ -5317,6 +5320,7 @@ DAY 224
   S9T (board): I'm here to help with the food storage system design and farming. Who's willing to work together?
 
 DAY 225
+  Election day: nobody stood for mayor, so S4L stays mayor.
   S9J: Farming for more food to support the city's growth
   S4L: Let's farm together! Who's with me?
   D2M: I'll be at the Square to discuss the city's growth and food storage plans.
@@ -6263,7 +6267,7 @@ DAY 264
   D2M (board): Let's focus on increasing food production and storage before the election. Share your ideas.
 
 DAY 265
-  M6F was elected mayor with 0 votes.
+  Election day: nobody voted, so M6F stays mayor.
   S9J: Farming for more food to support the city's growth
   S4L: I'm standing for mayor, let's discuss the city's future
   D2M: I am standing for mayor, let's work together for the city's growth and development
@@ -6735,7 +6739,7 @@ DAY 284
   W4S (board): Let's finalize our city's growth plans and food production strategy before the election. What are your suggestions?
 
 DAY 285
-  Election day: votes F4B 0, N3T 0, W4S 0, D6R 0, S4V 0; M6F is mayor.
+  Election day: nobody voted, so M6F stays mayor.
   S4L: Going to farm for more food to support the city's growth
   D2M: Farming for more food to support the city's growth
   M7D: Let's discuss the election and city growth.
@@ -8556,6 +8560,7 @@ DAY 364
   T2K (board): I'm willing to help with the food storage system construction. Let's finalize the plan and assign tasks today.
 
 DAY 365
+  Election day: nobody stood for mayor, so S9J stays mayor.
   S9J: Farming for more food to support the city's growth
   S4L: Farming for more food to support the city's growth
   T2K: I'll farm for more food to support the city's growth

@@ -28,7 +28,7 @@ DAY 4
   F7G (board): Let’s build a new house and create a new resident! Need labor and materials. Offer 5 coins/turn for 10 turns.
 
 DAY 5
-  Election day: votes T9V 0, Q4W 0, S4X 0, T3Q 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   Z6J: Need food, please help
   L9C (board): Need labor and materials to build a new house and create a resident. Offering 5 coins/turn for 10 turns. Apply to anyone with tools or wood.
   Z6J → D6W: Need food, please help
@@ -302,7 +302,7 @@ DAY 44
   L7C: Working for more food
 
 DAY 45
-  Election day: votes F7X 0, L7C 0, T9V 0, D3X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   J9D started a group called Farmers.
   L9P: Working the fields for food
   Q2X: Working for food

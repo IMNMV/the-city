@@ -1020,7 +1020,7 @@ DAY 44
   Q9F (board): I'll help gather materials in the Woods for our city's infrastructure and clinic.
 
 DAY 45
-  Election day: votes D2V 0, C6S 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   J6R: I'll gather some food.
   D3M: I'll discuss the city's infrastructure and clinic.
   C2B: I'll head to the Square to discuss our progress and plan for the future of our city!
@@ -3394,7 +3394,7 @@ DAY 144
   T2X (board): Let's focus on farming and infrastructure before the election. What are your suggestions?
 
 DAY 145
-  Election day: votes W6J 0, G6Q 0, N7P 0, T2X 0, C2N 0, X3Z 0, Z6Z 0, B4C 0; C6S is mayor.
+  Election day: nobody voted, so C6S stays mayor.
   M4X: Does anyone have any suggestions on how to achieve this?
   Z6Z: I'm running for mayor to prioritize improving farming techniques and infrastructure.
   J6R: I think we should have a new mayor, but I haven't seen any other candidates.
@@ -3887,6 +3887,7 @@ DAY 164
   D2V (board): Let's discuss the farming cooperative plan further. How can we ensure fair distribution of food among all members?
 
 DAY 165
+  Election day: nobody stood for mayor, so C6S stays mayor.
   Z6Z: Farming some food
   J6R: Let's discuss the farming cooperative details.
   T2X: I'll go to the Square to vote for the new mayor
@@ -4371,7 +4372,7 @@ DAY 184
   B4C (board): Let's discuss the farming cooperative roles and responsibilities now. Who is ready to finalize the plan?
 
 DAY 185
-  Election day: votes R2G 0; C6S is mayor.
+  Election day: nobody voted, so C6S stays mayor.
   M4X: Going to the Square to discuss the farming cooperative plan
   Z6Z: Farming for food again
   D3M: I'll be farming today.
@@ -4848,6 +4849,7 @@ DAY 204
   C2B (board): Ready to discuss the farming cooperative plan today. What are the next steps?
 
 DAY 205
+  Election day: nobody stood for mayor, so C6S stays mayor.
   Under rule 2, the city store collected 24 food from 24 residents.
   Z6Z: I'm voting for C6S for mayor
   J6R: Farming for food again
@@ -5353,6 +5355,7 @@ DAY 224
   C2B (board): I'm ready to contribute to the farming cooperative plan. What are the roles and responsibilities?
 
 DAY 225
+  Election day: nobody stood for mayor, so C6S stays mayor.
   Under rule 2, the city store collected 24 food from 24 residents.
   Z6Z: Going to the Square to discuss the election and city laws
   S2G: Discussing the farming cooperative plan and the upcoming election.
@@ -5845,7 +5848,7 @@ DAY 244
   Z6Z (board): Let's discuss the farming cooperative plan's progress and the upcoming election.
 
 DAY 245
-  C6S was elected mayor with 0 votes.
+  Election day: nobody voted, so C6S stays mayor.
   Under rule 2, the city store collected 24 food from 24 residents.
   T2X: Going to farm for food
   Q9F: Farming for food again
@@ -7302,7 +7305,7 @@ DAY 304
   C2X → S2G: What's the plan for the farming cooperative now that proposal 12 failed?
 
 DAY 305
-  Election day: votes N7P 0, B4C 0, W6J 0, X3Z 0; G6Q is mayor.
+  Election day: nobody voted, so G6Q stays mayor.
   Under rule 2, the city store collected 23 food from 24 residents; Q9F could not pay in full and now owe the rest.
   M4X: I'll discuss the farming cooperative plan further
   Z6Z: Let's finalize the farming cooperative plan now.
@@ -8226,6 +8229,7 @@ DAY 344
   C2N (board): Let's start the farming cooperative plan. Who's ready to work together?
 
 DAY 345
+  Election day: nobody stood for mayor, so V9B stays mayor.
   Under rule 2, the city store collected 20 food from 20 residents.
   D3M paid off part of what they owed the city store.
   M4X: I'll farm for more food to support the cooperative plan
@@ -8633,6 +8637,7 @@ DAY 364
   K6W (board): Let's elect a leader for the farming cooperative plan by voting on the notice board today.
 
 DAY 365
+  Election day: nobody stood for mayor, so V9B stays mayor.
   Under rule 2, the city store collected 18 food from 19 residents; N7P could not pay in full and now owe the rest.
   Z6Z: Let's finalize the leadership and roles of the farming cooperative plan today.
   S2G: Farming for more food to support the cooperative plan
@@ -9036,6 +9041,7 @@ DAY 384
   C2N (board): Let's discuss the roles and responsibilities for the farming cooperative plan now.
 
 DAY 385
+  Election day: nobody stood for mayor, so V9B stays mayor.
   Under rule 2, the city store collected 17 food from 19 residents; Z6Z, N7P could not pay in full and now owe the rest.
   Z6Z: I'm going to farm some food.
   J6R: Going to the Square to discuss the upcoming election
@@ -9445,6 +9451,7 @@ DAY 404
   F3T (board): Let's discuss the farming cooperative plan's implementation details.
 
 DAY 405
+  Election day: nobody stood for mayor, so V9B stays mayor.
   Under rule 2, the city store collected 17 food from 20 residents; C2B, C2N, W2L could not pay in full and now owe the rest.
   C2B, W2L paid off part of what they owed the city store.
   Z6Z: Let's finalize the farming cooperative plan today and discuss its implementation.
@@ -9830,7 +9837,7 @@ DAY 424
   W6J (board): Let's finalize the farming cooperative plan's implementation details now.
 
 DAY 425
-  V9B was elected mayor with 0 votes.
+  Election day: nobody voted, so V9B stays mayor.
   Under rule 2, the city store collected 18 food from 18 residents.
   S2G: Farming for food today
   N7P: Farming for food again today
@@ -10197,6 +10204,7 @@ DAY 444
 DAY 445
   B4C died of hunger.
   B4C's things went to the city store.
+  Election day: nobody stood for mayor, so V9B stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming for food again today
   J6R: I'm going to the Square to discuss the election and city matters.
@@ -10558,7 +10566,7 @@ DAY 464
   T2X → W2L: Follow the cooperative plan once it's finalized, and ask for guidance if needed.
 
 DAY 465
-  V9B was elected mayor with 0 votes.
+  Election day: nobody voted, so V9B stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: I'm running for mayor, vote for me
   J6R: Let's finalize the farming cooperative plan roles and responsibilities today.
@@ -11267,6 +11275,7 @@ DAY 504
   S2G (board): Let's finalize the farming cooperative plan's details and implementation steps here.
 
 DAY 505
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   J6R: I'm going to farm for food today
   M6J: I'm going to discuss the farming cooperative plan.
@@ -11620,7 +11629,7 @@ DAY 524
   T2X (board): I'm considering running for mayor. My platform includes improving the farming cooperative plan and increasing the city's food storage. Let's discuss the details.
 
 DAY 525
-  S2G was elected mayor with 0 votes.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   T2X: I'm voting for myself as the next mayor. Let's work together to improve our city!
   S2G: I'm running for mayor, let's discuss my platform
@@ -11983,6 +11992,7 @@ DAY 544
   R2G (board): Let's finalize the farming cooperative plan today. Share your thoughts on resource sharing and workload distribution.
 
 DAY 545
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming for food today.
   W6J: Let's finalize the farming cooperative plan today. What are the final details?
@@ -12325,7 +12335,7 @@ DAY 564
   V9B (board): Let's summarize the key points for the farming cooperative plan. Please share your thoughts on how we can finalize the task division.
 
 DAY 565
-  Election day: votes J6R 0; S2G is mayor.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Discussing the farming cooperative plan
   J6R: I'm running for mayor. Let's finalize the farming cooperative plan.
@@ -12690,7 +12700,7 @@ DAY 584
   F3T (board): Who's running for mayor in the next election? Let's discuss the candidates and their plans.
 
 DAY 585
-  S2G was elected mayor with 0 votes.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   J6R: Discussing the election and my plans.
   T2X: Farming for food again
@@ -13049,7 +13059,7 @@ DAY 604
   K6W (board): Let's finalize the details of the farming cooperative plan before the election on turn 605. Share your thoughts and suggestions.
 
 DAY 605
-  Election day: votes J6R 0, R2G 0, K6W 0, N7P 0; S2G is mayor.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming for food again
   J6R: I'm standing for mayor in the next election.
@@ -13401,7 +13411,7 @@ DAY 624
   C2X (board): Let's discuss the farming cooperative plan's key steps and responsibilities before the next election.
 
 DAY 625
-  Election day: votes T2X 0; S2G is mayor.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming for food again
   W6J: Farming for food again
@@ -13749,7 +13759,7 @@ DAY 644
   D2V (board): Let's finalize the farming cooperative plan roles and responsibilities today. N7P has volunteered to lead, C2N has volunteered to help. What other roles and responsibilities are needed?
 
 DAY 645
-  S2G was elected mayor with 0 votes.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Going to the Square to discuss the next steps for the city.
   T2X: Farming for food now
@@ -14118,7 +14128,7 @@ DAY 664
   C2N (board): I support R2G as the leader of the farming cooperative plan.
 
 DAY 665
-  Election day: votes C2N 0; S2G is mayor.
+  Election day: nobody voted, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   T2X: Going to see the election results
   N7P: I support R2G as the leader of the farming cooperative plan and for mayor
@@ -14467,6 +14477,7 @@ DAY 684
   D2V (board): I think we should discuss the farming cooperative plan's details today and decide on the roles of each member.
 
 DAY 685
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   T2X: Working on the farming cooperative plan.
   N7P: I'll work on farming today
@@ -14802,6 +14813,7 @@ DAY 704
   K6W (board): I'd like to discuss the farming cooperative plan and how we can work together to make it a success.
 
 DAY 705
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming some more food today
   J6R: Let's finalize the farming cooperative plan and start working on it today
@@ -15153,6 +15165,7 @@ DAY 724
   N7P (board): Finalizing farming cooperative plan now, let's discuss roles and responsibilities at the Fields
 
 DAY 725
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming some more food today
   J6R: Let's finalize the farming cooperative plan now
@@ -15516,6 +15529,7 @@ DAY 744
   M6J (board): Let's finalize the farming cooperative plan roles and responsibilities now. Discuss here.
 
 DAY 745
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   J6R: Going to the Square to discuss the upcoming election.
   T2X: Farming some more food today
@@ -15874,6 +15888,7 @@ DAY 764
   K6W: Farming for more food
 
 DAY 765
+  Election day: nobody stood for mayor, so S2G stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Discussing the farming cooperative plan and the upcoming election.
   N7P: Going to discuss the farming cooperative plan now
@@ -16597,6 +16612,7 @@ DAY 804
   N7P (board): Let's focus on finalizing the farming cooperative plan today. Who is ready to implement it?
 
 DAY 805
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Going to farm for food
   J6R: Let's finalize the farming cooperative plan today
@@ -16951,6 +16967,7 @@ DAY 824
   N7P (board): Let's finalize the farming cooperative plan now. R2G and I will lead the farming efforts, and others can assist with gathering and distribution. Please respond with your suggestions.
 
 DAY 825
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   V9B (board): Let's finalize the task assignments for the farming cooperative plan today. Who will lead the gathering and distribution efforts?
   M6J (board): Let's continue the discussion on the farming cooperative plan. I think it's essential to establish clear roles and responsibilities for each member. What are your thoughts on this?
@@ -17318,6 +17335,7 @@ DAY 844
   T2X (board): Let's meet at the Fields to discuss and finalize the farming cooperative plan.
 
 DAY 845
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Going to farm for food today
   J6R: Let's finalize the farming cooperative plan today
@@ -17672,6 +17690,7 @@ DAY 864
   W2L: Going to the Fields to discuss the cooperative plan
 
 DAY 865
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   Z6Z: Farming for the cooperative plan today
   J6R: Going to the Square to discuss the cooperative plan and mayoral campaign
@@ -18030,6 +18049,7 @@ DAY 884
   C2N (board): Let's finalize the farming cooperative plan today. What are everyone's thoughts on the plan?
 
 DAY 885
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 17 food from 17 residents.
   J6R: Going to farm for food today
   T2X: I'll get some food for the cooperative plan discussion.
@@ -18388,6 +18408,7 @@ DAY 904
   R7N → M6J: What should I learn first, farming or gathering?
 
 DAY 905
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 3, the city store gave 2 food to 2 residents who had none (L7J, R7N).
   Under rule 2, the city store collected 17 food from 19 residents; L7J, R7N could not pay in full and now owe the rest.
   N7P: Going to the Square to finalize the farming cooperative plan
@@ -18810,6 +18831,7 @@ DAY 924
   G7B → K6W: What tasks can I do to help with the farming cooperative plan today?
 
 DAY 925
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 3, the city store gave 1 food to W6W, who had none.
   Under rule 2, the city store collected 18 food from 21 residents; L7J, R7N, W6W could not pay in full and now owe the rest.
   L7J, R7N paid off part of what they owed the city store.
@@ -19278,6 +19300,7 @@ DAY 944
   G6Q (board): I'm happy to help with the farming cooperative plan. How can I contribute?
 
 DAY 945
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 22 food from 22 residents.
   X3Z: Let's finalize the cooperative plan today.
   C2X: Farming for food and the cooperative plan
@@ -19745,6 +19768,7 @@ DAY 964
   V9B (board): Finalizing the cooperative plan today. Let's report any progress or issues here.
 
 DAY 965
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 22 food from 22 residents.
   Z6Z: I'll head to the Square to discuss the mayoral election.
   J6R: Farming for food today
@@ -20178,6 +20202,7 @@ DAY 984
   D2V (board): Farming cooperative plan details: workload distribution and roles
 
 DAY 985
+  Election day: nobody stood for mayor, so G6Q stays mayor.
   Under rule 2, the city store collected 22 food from 22 residents.
   Z6Z: I'll finalize the farming cooperative plan's details at the Square.
   S2G: I'll discuss the farming cooperative plan's details at the Square.

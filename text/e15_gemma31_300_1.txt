@@ -110,7 +110,7 @@ DAY 4
   B4B: Let's get this harvest started!
 
 DAY 5
-  Election day: votes S4X 0, X4R 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   X4R: I'm running for mayor to help us get organized from the start!
   M2P: Still gathering! Let's build a stockpile.
   D6W: Keep it up, everyone! We need a solid stockpile.

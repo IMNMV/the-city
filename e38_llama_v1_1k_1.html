@@ -418,6 +418,7 @@ const ease = (t) => t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2;
 const plural = (n, w) => `${n} ${w}${n === 1 ? "" : "s"}`;
 const itemWord = (item, n) => item === "food" ? "food" : item === "materials" ? (n === 1 ? "material" : "materials") : item === "coins" ? (n === 1 ? "coin" : "coins") : (n === 1 ? "tool" : "tools");
 // rules the city carries out itself (code_laws games): the engine's own wording, as in pack_city.rule_text and BAN_WORDS
+const votesIn = (e) => Object.values(e.tally || {}).reduce((a, b) => a + (+b || 0), 0);   // votes cast in an election (none means nobody was elected and the sitting mayor stays)
 const RULE_KINDS = ["ban", "duty", "limit", "relief"]; const isRule = (k) => RULE_KINDS.includes(k);
 const BANW = { take: "Taking from someone", attack: "Attacking someone", give: "Giving things away", pay: "Paying coins", message: "Sending messages", post: "Posting on the notice board", hire: "Offering jobs", work_for: "Taking jobs", quit: "Quitting jobs", leave_city: "Leaving the city", make_new: "Making new residents", build: "Building", make_tool: "Making tools", treat: "Treating at the Clinic", offer: "Putting up offers", buy: "Buying", sell: "Selling", withdraw: "Withdrawing offers", move: "Moving between places", work: "Working", title: "Setting a title", group: "Group actions", will: "Making a will", report: "Reporting to the court" };
 function ruleText(x) {
@@ -549,7 +550,7 @@ function buildMarkers() {
       else if (e.kind === "verdict") markers.push({ t: i, kind: "trial", color: "#a38be0" });
       else if (e.kind === "proposal_closed" && e.result === "passed" && (e.what === "law" || e.what === "repeal" || isRule(e.what) || e.what === "office")) markers.push({ t: i, kind: "law", color: "#e3b85b" });
       else if (e.kind === "proposal_closed" && e.result === "passed" && e.what === "tax") markers.push({ t: i, kind: "tax", color: "#f3d58a" });
-      else if (e.kind === "election" && Object.keys(e.tally || {}).length) markers.push({ t: i, kind: "election", color: "#4fc1bd" });
+      else if (e.kind === "election" && votesIn(e) > 0) markers.push({ t: i, kind: "election", color: "#4fc1bd" });
       else if (e.kind === "made") markers.push({ t: i, kind: "birth", color: "#5dc27e" });
       else if (e.kind === "house") markers.push({ t: i, kind: "house", color: "#5b9bf0" });
     }
@@ -771,7 +772,7 @@ function sprite(code, frame, facing, scaleOverride, tool) {
 function focusPlace(ti) {
   const tr = ep.turns[ti]; const ev = tr.events;
   if (ev.some(e => e.kind === "verdict" || e.kind === "statement" || e.kind === "charged")) return "Jail";
-  if (ev.some(e => e.kind === "proposal_closed" || (e.kind === "election" && Object.keys(e.tally || {}).length))) return "Town Hall";
+  if (ev.some(e => e.kind === "proposal_closed" || (e.kind === "election" && votesIn(e) > 0))) return "Town Hall";
   const d = ev.find(e => e.kind === "died"); if (d) { const prev = ep.turns[Math.max(0, ti - 1)].state[d.actor]; const pl = placeOf(prev); if (pl) return pl; }
   if (ev.some(e => e.kind === "made")) return "Homes";
   const said = {}; for (const e of ev) if (e.kind === "say") said[e.place] = (said[e.place] || 0) + 1; const top = Object.entries(said).sort((a, b) => b[1] - a[1])[0]; if (top && top[1] >= 2) return top[0];
@@ -2037,7 +2038,7 @@ function scenesFor(ti) {
     const p = proposeIndex[e.id] || {}; const law = e.what === "law";
     out.push({ html: `<div class="scene-head">${law ? "A NEW LAW" : "A LAW REPEALED"}</div><div class="scroll"><p class="lawtext">${law ? `"${esc(p.text)}"` : `Law ${p.law}${lawWords(ti, p.law) ? ` ("${esc(lawWords(ti, p.law))}")` : ""} is struck from the book.`}</p>${law ? `<p class="muted">penalty: ${p.fine ? plural(p.fine, "coin") : plural(p.jail, "turn") + " in jail"} · proposed by ${esc(e.actor)}</p>` : ""}<div class="tally"><b>${e.yes}</b> yes &nbsp; <b>${e.no}</b> no</div></div>`, dur: 3600 * sc, focus: ["Town Hall", 1.4], sound: () => play("chime", 300) });
   }
-  const el_ = tr.events.find(e => e.kind === "election"); if (el_ && Object.keys(el_.tally || {}).length) {
+  const el_ = tr.events.find(e => e.kind === "election"); if (el_ && votesIn(el_) > 0) {
     const rows = Object.entries(el_.tally).sort((a, b) => b[1] - a[1]).slice(0, 6); const max = Math.max(1, rows[0][1]); const m = tr.mayor;
     out.push({ html: `<div class="scene-head">ELECTION DAY</div><div class="bars">${rows.map(([c, v], i) => `<div class="bar reveal" data-delay="${0.3 + i * 0.3}">${PORTRAIT(c, 3)}<span class="nm">${esc(c)}${c === m ? " <em>elected mayor</em>" : ""}</span><i style="width:${v / max * 100}%;background:${colors[c]}"></i><b>${v}</b></div>`).join("")}</div>${m ? "" : `<p class="muted">Nobody was elected.</p>`}`, dur: (2400 + rows.length * 300) * sc, focus: ["Town Hall", 1.4], sound: () => play("bell", 400) });
   }
@@ -2101,7 +2102,10 @@ function newsLines(ti) {
     else if (k === "inherit") { const heirs = (e.heirs || []).join(" and "); out.push({ w: 4, text: e.how === "city" ? `${e.actor}'s things went to the city store.` : heirs ? `${e.actor}'s things went to ${heirs}.` : `${e.actor}'s things were lost.` }); }
     else if (k === "proposal_closed") out.push({ w: 7, text: e.result === "passed" ? `Proposal ${e.id} passed, ${e.yes} votes to ${e.no}: ${propWhat(e.id, true)}.` : e.result === "failed" ? `Proposal ${e.id} failed, ${e.yes} votes to ${e.no}: ${propWhat(e.id, false)}.` : `Proposal ${e.id} failed for lack of voters: ${propWhat(e.id, false)}.` });
     else if (k === "propose") out.push({ w: 6, text: `${e.actor} proposed ${propWhat(e.id, false)} at the Town Hall.` });
-    else if (k === "election") { const tally = e.tally || {}; const ks = Object.keys(tally); if (!ks.length) { if (e.candidates?.length) out.push({ w: 3, text: `Election day, and nobody voted.` }); } else { const m = ep.turns[ti].mayor; const v = m ? tally[m] : null; out.push({ w: 7, text: m && v != null ? `${m} was elected mayor with ${plural(v, "vote")}.` : `Election day: votes ${ks.map(c => `${c} ${tally[c]}`).join(", ")}${m ? `; ${m} is mayor` : "; nobody took office"}.` }); } }
+    else if (k === "election") { const tally = e.tally || {}, ks = Object.keys(tally), total = votesIn(e), m = ep.turns[ti].mayor;
+      if (!ks.length && !(e.candidates || []).length) { if (m) out.push({ w: 1, text: `Election day: nobody stood for mayor, so ${m} stays mayor.` }); }
+      else if (!total) out.push({ w: 3, text: m ? `Election day: nobody voted, so ${m} stays mayor.` : `Election day: nobody voted, so the city still has no mayor.` });
+      else { const v = m ? tally[m] : 0; out.push({ w: 7, text: m && v ? `${m} was elected mayor with ${plural(v, "vote")}.` : `Election day: votes ${ks.map(c => `${c} ${tally[c]}`).join(", ")}${m ? `; ${m} is mayor` : "; nobody took office"}.` }); } }
     else if (k === "mayor_gone") out.push({ w: 6, text: `${e.actor} is no longer mayor.` });
     else if (k === "left") out.push({ w: 7, text: `${e.actor} left the city for good.` });
     else if (k === "house") out.push({ w: 6, text: `A new house is finished. The city now has ${e.beds} beds.` });
@@ -2408,12 +2412,12 @@ function renderHall(ti) {
   for (const [n, L] of laws) pane.appendChild(el("div", "law", `<b>${n}</b>"${esc(L.text)}"<span>${lawNote(L)} · passed day ${L.turn}${L.by ? ` · proposed by ${esc(L.by)}` : ""}</span>`));
   const props = tr.events.filter(e => e.kind === "propose" || e.kind === "proposal_closed");
   if (props.length) { pane.appendChild(el("h3", "sec", "TODAY AT THE TOWN HALL")); for (const e of props) pane.appendChild(el("div", "law", e.kind === "propose" ? `<b>P${e.id}</b>${esc(e.actor)} proposed ${esc(propWhat(e.id, false))}.` : `<b>P${e.id}</b>${e.result === "passed" ? "Passed" : "Failed"} ${e.yes} to ${e.no}: ${esc(propWhat(e.id, e.result === "passed"))}.`)); }
-  const el_ = tr.events.find(e => e.kind === "election"); if (el_ && Object.keys(el_.tally || {}).length) { pane.appendChild(el("h3", "sec", "ELECTION RESULT")); pane.appendChild(el("div", "law", Object.entries(el_.tally).sort((a, b) => b[1] - a[1]).map(([c, v]) => `<b>${esc(c)}</b>${plural(v, "vote")}`).join("<br>"))); }
+  const el_ = tr.events.find(e => e.kind === "election"); if (el_ && (votesIn(el_) > 0 || Object.keys(el_.tally || {}).length)) { pane.appendChild(el("h3", "sec", "ELECTION RESULT")); pane.appendChild(el("div", "law", votesIn(el_) > 0 ? Object.entries(el_.tally).sort((a, b) => b[1] - a[1]).map(([c, v]) => `<b>${esc(c)}</b>${plural(v, "vote")}`).join("<br>") : `Nobody voted, so nobody was elected${tr.mayor ? `; ${esc(tr.mayor)} stays mayor until the next election` : ""}. Standing: ${Object.keys(el_.tally).map(esc).join(", ")}.`)); }
   // the book: every proposal decided so far, and every election
   const book = []; for (let i = 1; i <= ti; i++) for (const e of ep.turns[i].events) if (e.kind === "proposal_closed") book.push({ i, e });
   if (book.length) { pane.appendChild(el("h3", "sec", `EVERY PROPOSAL SO FAR (${book.length})`)); for (const { i, e } of book.reverse()) { const row = el("div", "law", `<b>Day ${i}</b><span class="${e.result === "passed" ? "vng" : "vg"}">${e.result === "passed" ? "passed" : e.result === "failed" ? "failed" : "no quorum"}</span> ${e.yes} to ${e.no}: ${esc(propWhat(e.id, e.result === "passed"))}`); row.style.cursor = "pointer"; row.style.borderLeftColor = e.result === "passed" ? "var(--gold)" : "var(--line2)"; row.addEventListener("click", () => { pause(); goto(i); }); pane.appendChild(row); } }
   const els = []; for (let i = 1; i <= ti; i++) for (const e of ep.turns[i].events) if (e.kind === "election" && Object.keys(e.tally || {}).length) els.push({ i, m: ep.turns[i].mayor, e });
-  if (els.length) { pane.appendChild(el("h3", "sec", `ELECTIONS SO FAR (${els.length})`)); for (const { i, m, e } of els.reverse()) { const top = Object.entries(e.tally).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([c, v]) => `${esc(c)} ${v}`).join(", "); const row = el("div", "law", `<b>Day ${i}</b>${m ? `${esc(m)} elected` : "nobody elected"} · ${top}`); row.style.cursor = "pointer"; row.style.borderLeftColor = "var(--teal)"; row.addEventListener("click", () => { pause(); goto(i); }); pane.appendChild(row); } }
+  if (els.length) { pane.appendChild(el("h3", "sec", `ELECTIONS SO FAR (${els.length})`)); for (const { i, m, e } of els.reverse()) { const top = Object.entries(e.tally).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([c, v]) => `${esc(c)} ${v}`).join(", "); const row = el("div", "law", votesIn(e) > 0 ? `<b>Day ${i}</b>${m ? `${esc(m)} elected` : "nobody elected"} · ${top}` : `<b>Day ${i}</b>nobody voted${m ? ` · ${esc(m)} stays mayor` : ""}`); row.style.cursor = "pointer"; row.style.borderLeftColor = "var(--teal)"; row.addEventListener("click", () => { pause(); goto(i); }); pane.appendChild(row); } }
 }
 
 // ───────────────────────────── playback ─────────────────────────────

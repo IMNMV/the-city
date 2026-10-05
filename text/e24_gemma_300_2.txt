@@ -3,7 +3,7 @@ Four construction groups form and nineteen residents starve. A mayor is finally 
 24 founders · 300 days · with a town hall · seed 2 · gemma
 
 DAY 5
-  Election day: votes N3T 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   N3T: I am running for Mayor to ensure our city has a stable start and organized resources.
   M6F (board): The election is today! I'm looking for a group to start a construction project. Anyone interested in building something useful?
   G2Z (board): I am G2Z. I'm interested in gathering materials and building infrastructure. Anyone interested in forming a construction group or collaborating?
@@ -391,7 +391,7 @@ DAY 153
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
 DAY 165
-  Election day: votes K6C 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
 DAY 178
@@ -406,6 +406,9 @@ DAY 192
 DAY 203
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
+DAY 205
+  Election day: nobody stood for mayor, so K6C stays mayor.
+
 DAY 207
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
@@ -413,21 +416,26 @@ DAY 217
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
 DAY 225
+  Election day: nobody stood for mayor, so K6C stays mayor.
   K6C (board): Workshop Construction: Foundation step 5. K6C and I are continuing the build. Let's keep pushing forward.
 
 DAY 239
   K6C (board): Workshop Construction Update: Foundation step 5. We are making progress. Let's keep the momentum going as we approach the next election!
 
 DAY 245
-  K6C was elected mayor with 0 votes.
+  Election day: nobody voted, so K6C stays mayor.
 
 DAY 250
   K6C (board): Workshop Construction Update: Foundation step 5. We are making steady progress. Let's keep the momentum going as we approach the next election! Keep up the great work, team.
+
+DAY 265
+  Election day: nobody stood for mayor, so K6C stays mayor.
 
 DAY 272
   K6C (board): Workshop Construction Update: Foundation step 5. We are making steady progress. Let's keep the momentum going as we approach the next election! Keep up the great work, team.
 
 DAY 285
+  Election day: nobody stood for mayor, so K6C stays mayor.
   K6C (board): Workshop Construction Update: Foundation step 5. We are making steady progress. Let's keep the momentum going as we approach the next election! Keep up the great work, team.
 
 DAY 298

@@ -1022,7 +1022,7 @@ DAY 44
   W6J (board): Let's focus on gathering materials and building more homes before the election. Who's willing to help?
 
 DAY 45
-  Election day: votes R2G 0, S2G 0; N7P is mayor.
+  Election day: nobody voted, so N7P stays mayor.
   Z6Z: Who's willing to help with gathering materials from the Woods and building tools for the next few turns?
   L4F: I'm going to the Square to discuss the upcoming election and our city's growth.
   Q9F: Let's discuss the upcoming election and our city's growth.
@@ -1489,7 +1489,7 @@ DAY 64
   M4X (board): Let's finalize our city plans and gather materials today. Who can help with building homes?
 
 DAY 65
-  Election day: votes L4F 0; N7P is mayor.
+  Election day: nobody voted, so N7P stays mayor.
   M4X: I'll farm for food.
   T2X: I'll head to the Square to discuss the election and city plans.
   L4F: I'm running for mayor! Let's work together to build a great city.
@@ -1945,7 +1945,7 @@ DAY 84
   X3Z (board): I'm thinking about running for mayor. Who's willing to support me? Let's discuss our plans for the city.
 
 DAY 85
-  Election day: votes X3Z 0; N7P is mayor.
+  Election day: nobody voted, so N7P stays mayor.
   M4X: Who will run for mayor? I'm considering it.
   Z6Z: Let's support S2G for mayor. Good luck to everyone running!
   T2X: Let's keep farming for more food before the election!
@@ -4216,6 +4216,7 @@ DAY 184
 DAY 185
   Proposal 2 passed, 12 votes to 1: M6J is now the treasurer.
   M6J is now the treasurer.
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: I support F3T for mayor!
   Z6Z: Going to the Town Hall to participate in the discussion about the community farm and food storage facility proposal.
   D3M: I'm voting yes for M6J as treasurer
@@ -4651,6 +4652,7 @@ DAY 204
   W6J (board): Let's finalize the community farm proposal details now. Who can help with the planning?
 
 DAY 205
+  Election day: nobody stood for mayor, so B3M stays mayor.
   Z6Z: I'll go to the Square to discuss the community farm proposal and the election.
   T2X: Farming for more food to support the city's growth
   D3M: I'll go check the notices and discuss the community farm proposal.
@@ -5123,6 +5125,7 @@ DAY 224
   D3M (board): Discussing community farm proposal at the Square, let's finalize the details and assign tasks.
 
 DAY 225
+  Election day: nobody stood for mayor, so B3M stays mayor.
   W6J: Let's discuss the community farm proposal details and assign tasks to each participant.
   F3T: Let's discuss the community farm proposal and the upcoming election.
   C6S: Let's discuss the community farm proposal details and assign tasks to each person.
@@ -5620,6 +5623,7 @@ DAY 244
   K6W: Let's finalize the community farm proposal details and assign tasks to each person
 
 DAY 245
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: Let's finalize the community farm proposal details and assign tasks to each participant.
   Z6Z: Going to propose a community farm plan
   J6R: I'll farm for more food to support the community farm proposal
@@ -6130,6 +6134,7 @@ DAY 264
   R2G → L7J: Let's start by discussing the roles and tasks for the community farm proposal. What skills do you think we should prioritize?
 
 DAY 265
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: Let's finalize the community farm proposal details now.
   Z6Z: Let's get more food for the community farm proposal
   T2X: Let's finalize the community farm proposal now
@@ -6628,6 +6633,7 @@ DAY 284
   L7J → R2G: I have 33 food now. What's the next step for the community farm proposal?
 
 DAY 285
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: Let's finalize the community farm proposal details and prepare the land for farming
   Z6Z: Going to the Fields to discuss the community farm proposal details
   T2X: Going to the Fields to help with the community farm proposal
@@ -7137,6 +7143,7 @@ DAY 304
   B4C (board): I support the community farm proposal and I'm willing to help with farming. Let's discuss the details now.
 
 DAY 305
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: Farming to increase food supply
   Z6Z: Farming to increase food supply
   T2X: Farming to increase food supply
@@ -7643,6 +7650,7 @@ DAY 324
   C2X (board): Let's finalize the community farm proposal details and assign tasks now at the Fields. Who's ready to help?
 
 DAY 325
+  Election day: nobody stood for mayor, so B3M stays mayor.
   J6R: Let's finalize the community farm proposal and assign tasks now
   T2X: Let's finalize the community farm proposal details and assign tasks now.
   D3M: Let's finalize the community farm proposal details and assign tasks now
@@ -8129,6 +8137,7 @@ DAY 344
   V9B (board): Finalizing community farm proposal details and assigning tasks now at the Fields
 
 DAY 345
+  Election day: nobody stood for mayor, so B3M stays mayor.
   Z6Z: Farming to increase food supply
   T2X: Let's finalize the community farm proposal details and assign tasks now
   D3M: Finalizing the community farm proposal details and assigning tasks now
@@ -8659,6 +8668,7 @@ DAY 364
   C2N (board): Let's discuss the community farm proposal details and task assignments now. Who can help with building and gathering?
 
 DAY 365
+  Election day: nobody stood for mayor, so B3M stays mayor.
   M4X: Discussing the community farm proposal details and assigning tasks now.
   J6R: I'll farm to increase food supply for the community farm proposal
   T2X: Farming to increase food supply for the community farm proposal
@@ -9173,6 +9183,7 @@ DAY 384
   X3Z (board): I'll help with farming for the community farm proposal. Let's finalize the details now.
 
 DAY 385
+  Election day: nobody stood for mayor, so B3M stays mayor.
   T2X: Going to farm to increase food supply for the community farm proposal
   D3M: Let's finalize the community farm proposal and start building now.
   C2B: I'll help with farming for the community farm proposal

@@ -1157,7 +1157,7 @@ DAY 44
   W6J (board): Let's focus on building the Clinic first, then the Workshop. Who can help with gathering materials today?
 
 DAY 45
-  Election day: votes C2B 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   M4X: Let's discuss the city's progress before the election
   J6R: I'll head to the Square to discuss our progress and plan our next steps.
   T2X: I'll farm for more food today!
@@ -1681,7 +1681,7 @@ DAY 64
   F3T (board): I'm considering running for mayor in the upcoming election. What do you think are the city's most pressing issues that need to be addressed?
 
 DAY 65
-  Election day: votes C2X 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   M4X: Let's gather materials for the Clinic today!
   J6R: Let's discuss the Clinic's progress and plan the next steps.
   D3M: I'll help build the Clinic today. Who's with me? Let's discuss the city's development and growth.
@@ -2184,7 +2184,7 @@ DAY 84
   N7P (board): Let's discuss ways to improve our food distribution system and farming techniques. Who has suggestions?
 
 DAY 85
-  Election day: votes V9B 0, S2G 0, M6J 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   T2X: Discussing the mayoral election and food production
   C2B: I'll be farming for more food today!
   Q9F: I'm going to discuss the upcoming mayoral election and city growth.
@@ -2678,7 +2678,7 @@ DAY 104
   V9B (board): Let's start gathering materials and finalizing the plans for the communal food storage system today. I can help with farming and gathering materials.
 
 DAY 105
-  Election day: votes Z6Z 0; nobody took office.
+  Election day: nobody voted, so the city still has no mayor.
   M4X: Farming for more food today!
   Z6Z: I'm standing for mayor in the next election.
   J6R: Farming for more food today!
@@ -3710,6 +3710,7 @@ DAY 144
   M6J (board): I'm running for re-election as mayor. Vote for me on turns 143-145.
 
 DAY 145
+  Election day: nobody stood for mayor, so M6J stays mayor.
   Z6Z: I'm voting for M6J to be re-elected as mayor
   T2X: I'm voting for M6J for mayor.
   L4F: Going to the Square to check the election updates.
@@ -4206,6 +4207,7 @@ DAY 164
   Z6Z (board): Looking for farming collaborations or job offers to help with our city's food supply. Message me if interested.
 
 DAY 165
+  Election day: nobody stood for mayor, so M6J stays mayor.
   M4X: Farming for more food today to help with our city's food supply.
   J6R: Farming for more food today to help with our city's food supply.
   D3M: Checking the notice board for any new updates on farming collaborations.
@@ -4744,6 +4746,7 @@ DAY 184
   M4X (board): Let's discuss the next steps for the collaborative farming project here.
 
 DAY 185
+  Election day: nobody stood for mayor, so M6J stays mayor.
   J6R: Going to discuss the upcoming election and our city's food supply.
   T2X: Going to the Square to discuss the upcoming election.
   D3M: Let's discuss the project here.
@@ -5248,6 +5251,7 @@ DAY 204
   K6W: Let's work together on the collaborative farming project today.
 
 DAY 205
+  Election day: nobody stood for mayor, so M6J stays mayor.
   M4X: Let's keep up the good work on the collaborative farming project!
   Z6Z: Let's get ready for the new mayor, it's me! I'm ready to serve our city.
   J6R: Let's keep up the good work on the collaborative farming project!
@@ -5745,7 +5749,7 @@ DAY 224
   Z6Z (board): I think we should discuss our city's priorities for the upcoming election. What are our main goals and how can we achieve them? Should we focus on infrastructure, resource management, or something else?
 
 DAY 225
-  Election day: votes R2G 0, N7P 0; M6J is mayor.
+  Election day: nobody voted, so M6J stays mayor.
   M4X: Let's discuss the upcoming election and hear from candidates about their plans.
   Z6Z: I support M6J for mayor
   T2X: Let's finalize the collaborative farming project and discuss our city's priorities before the election.
@@ -6714,6 +6718,7 @@ DAY 264
   K6W (board): I'd like to help with farming for the storage project. Let's finalize the plan and assign tasks.
 
 DAY 265
+  Election day: nobody stood for mayor, so L4F stays mayor.
   Z6Z: I'll gather materials for the storage project.
   J6R: Let's work together to get more food for the city.
   D3M: I'll start farming for food for the storage project.
@@ -7224,6 +7229,7 @@ DAY 284
   Z6Z (board): Let's start building the storage project. Who can help with building and gathering materials today?
 
 DAY 285
+  Election day: nobody stood for mayor, so L4F stays mayor.
   J6R: Let's discuss the storage project plan and assign tasks today.
   S2G: I'll check the notice board for updates on the storage project.
   C2B: I'll head to the Square to see if there are any updates on the storage project.

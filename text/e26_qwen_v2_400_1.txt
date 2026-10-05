@@ -1182,7 +1182,7 @@ DAY 44
   B4B: Farming turn 29. 100 HP, 56 food, 3 mats, 20 coins. No tool. Store 121 food. Election today (turn 45). Stable.
 
 DAY 45
-  Election day: votes Q4W 0; R3P is mayor.
+  Election day: nobody voted, so R3P stays mayor.
   Under rule 1, the city store gave 3 food to 3 residents who had none (Z6J, J9D, Q4W).
   X4R: Voted R3P. Farming turn 26. 100 HP, 48 food, 9 mats, 20 coins. No tool. Store 126 food. Stable.
   M2P: Voted R3P for mayor. Farming turn 29. 100 HP, 50 food, 3 mats, 20 coins. No tool. Store 126 food. Election closes. Stable.
