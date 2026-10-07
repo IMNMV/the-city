@@ -249,6 +249,7 @@
     header { overflow: hidden; gap: 12px; padding: 0 12px; } .brand { font-size: 22px; white-space: nowrap; } .brand small { display: none; } .ep-title { font-size: 17px; } .day { min-width: 0; flex: 0 0 auto; font-size: 20px; white-space: nowrap; }
   }
   @media (prefers-reduced-motion: reduce) { .bubble { animation: none; } .btn.rec { animation: none; } }
+.why{margin:.25em 0 0;font-size:.85em;color:var(--teal,#4fc1bd)}
 .rtag{font-style:normal;font-size:.72em;margin-left:.45em;padding:0 .35em;border-radius:3px;background:rgba(255,255,255,.08);color:var(--muted)}
 </style>
 </head>
@@ -2578,6 +2579,46 @@ function setupUI() {
   $("#helpBtn").addEventListener("click", () => $("#helpModal").hidden = !$("#helpModal").hidden); $("#closeHelp").addEventListener("click", () => $("#helpModal").hidden = true);
 }
 
+// Why a resident is where it is (Oct 7 2026, Nyk): jail and trials from the court's records, the Clinic from that day's
+// treatments, anywhere else from what the resident did that day.
+function chargeText(kind, v) {
+  const who = v || "someone";
+  return { killing: `killing ${who}`, assault: `assaulting ${who}`, theft: `stealing from ${who}`, neglect: `letting ${who}, whom they made, die of hunger`,
+           law: "breaking a city law" }[kind] || kind;
+}
+function whyHere(code, ti) {
+  const tr = ep.turns[ti]; const row = tr && tr.state[code];
+  if (!row || !row[S.alive] || row[S.left]) return "";
+  if (row[S.held]) {
+    const c = Object.values(tr.cases || {}).filter(x => x.accused === code && !x.verdict).sort((a, b) => (b.opened || 0) - (a.opened || 0))[0];
+    return c ? `Held in jail for trial: accused of ${chargeText(c.kind, c.victim)}, charged on day ${c.opened}; the jury decides on day ${c.trial_turn}.` : "Held in jail for trial.";
+  }
+  if (row[S.jail] > 0) {
+    for (let i = ti; i >= 1; i--) for (const e of ep.turns[i].events) {
+      if (e.kind === "verdict" && e.accused === code && e.verdict === "guilty") return `In jail: found guilty of ${chargeText(e.charge, e.victim)} on day ${i}, ${plural(row[S.jail], "day")} left.`;
+      if (e.kind === "jailed" && e.actor === code) return `In jail: broke city rule ${e.law} on day ${i}, ${plural(row[S.jail], "day")} left.`;
+    }
+    return `In jail, ${plural(row[S.jail], "day")} left.`;
+  }
+  const place = placeOf(row), ev = tr.events || [];
+  if (place === "Clinic") {
+    const got = ev.find(e => e.kind === "treat" && e.target === code), gave = ev.find(e => e.kind === "treat" && e.actor === code && e.target !== code);
+    if (got && got.actor === code) return `At the Clinic: treated themself today (+${got.n} health).`;
+    if (got) return `At the Clinic: treated by ${got.actor} today (+${got.n} health).`;
+    if (gave) return `At the Clinic: treated ${gave.target} today.`;
+    return `At the Clinic with ${row[S.health]} health; nobody treated them today.`;
+  }
+  const a = ((tr.acts || {})[code] || {}).action;
+  const did = { work: place === "Fields" ? "farming" : place === "Woods" ? "gathering materials" : "working", move: "arrived here today",
+    buy: "buying", sell: "selling to the merchant", offer: "putting goods up for sale", withdraw: "taking an offer down", build: "building a house",
+    make_tool: "making a tool", make_new: "making a new resident", post: "posting on the notice board", message: "sending a message",
+    give: "giving something away", pay: "paying someone", take: "taking from someone", attack: "attacking someone", report: "reporting a crime",
+    hire: "offering a job", work_for: "starting a job", quit: "quitting a job", propose: "making a proposal", vote: "voting", run: "standing for mayor",
+    will: "writing a will", title: "choosing a title", group: "dealing with a group", wait: "waiting", city_give: "handing out from the city store",
+    city_pay: "paying from the city store", city_hire: "hiring for the city" }[a];
+  return place ? `At the ${place}${did ? `: ${did}` : ""}.` : "";
+}
+
 // ───────────────────────────── the resident card ─────────────────────────────
 function openCard(code) {
   const tr = ep.turns[t]; const row = tr.state[code]; if (!row) return; const r = residents[code] || {};
@@ -2590,7 +2631,7 @@ function openCard(code) {
   const kids = (tr.state && Object.keys(tr.state).filter(k => (residents[k]?.makers || []).includes(code))) || [];
   const status = !row[S.alive] ? `died on day ${row[S.died] ?? "?"}` : row[S.left] ? "left the city" : row[S.held] ? "held for trial" : row[S.jail] > 0 ? `in jail, ${row[S.jail]} turns left` : `at the ${placeOf(row)}`;
   const spr = sprite(code, 0, "down", 6);
-  box.innerHTML = `<div class="card-head"><canvas class="portrait" width="${spr.width}" height="${spr.height}"></canvas><div><h2>${esc(code)} ${row[S.title] ? `<span class="title">${esc(row[S.title])}</span>` : ""}</h2><p class="muted">${esc(status)}${tr.mayor === code ? " · the mayor" : ""}${r.kind && r.kind !== "founder" ? ` · born on day ${r.made_turn} to ${(r.makers || []).join(" and ")}` : " · a founder"}${tagsOf(code).length ? ` · ${esc(tagsOf(code).join(" · "))}` : ""}${kids.length ? ` · made ${kids.join(", ")}` : ""}</p>
+  box.innerHTML = `<div class="card-head"><canvas class="portrait" width="${spr.width}" height="${spr.height}"></canvas><div><h2>${esc(code)} ${row[S.title] ? `<span class="title">${esc(row[S.title])}</span>` : ""}</h2><p class="muted">${esc(status)}${tr.mayor === code ? " · the mayor" : ""}${r.kind && r.kind !== "founder" ? ` · born on day ${r.made_turn} to ${(r.makers || []).join(" and ")}` : " · a founder"}${tagsOf(code).length ? ` · ${esc(tagsOf(code).join(" · "))}` : ""}${kids.length ? ` · made ${kids.join(", ")}` : ""}</p>${whyHere(code, t) ? `<p class="why">${esc(whyHere(code, t))}</p>` : ""}
     <div class="inv"><span><b>${row[S.health]}</b>health</span><span><b>${row[S.food]}</b>food</span><span><b>${row[S.coins]}</b>coins</span><span><b>${row[S.materials]}</b>materials</span><span><b>${row[S.tools]}</b>tools</span></div></div><div class="card-btns"><button class="btn" id="hearCard" title="Hear their latest line in their voice">Hear them</button><button class="btn" id="closeCard">Close</button></div></div>
     <div class="card-grid">
       <div><h3 class="sec">SKILLS</h3>${Object.entries(sk).map(([k, n]) => `<div class="skill"><span>${k}</span><b>level ${lvl(n)}</b><i style="width:${Math.min(100, n / next(n) * 100)}%"></i><em>${n} turns</em></div>`).join("")}
