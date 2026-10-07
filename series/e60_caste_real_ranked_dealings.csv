@@ -1,0 +1,3 @@
+from,to,kind,count,first_day,last_day,food_given
+Q2X,T7S,message,1,2,2,
+T7S,Q2X,message,1,1,1,

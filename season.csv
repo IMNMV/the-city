@@ -45,3 +45,19 @@ episode,file,title,model,government,seed,days,founders,born,alive_at_end,founder
 44,e44_llama_nogov_1k_1.html,"Llama 70B, no government, 1,000 days, game 1",Llama 70B,0,1,1000,24,0,24,24,0,0,0,0,5.20,7.74,96.33,4882,0,0,0
 45,e45_llama_nogov_1k_2.html,"Llama 70B, no government, 1,000 days, game 2",Llama 70B,0,2,1000,24,4,18,18,10,7,0,0,5.49,7.67,95.92,3909,0,0,0
 46,e46_llama_nogov_1k_3.html,"Llama 70B, no government, 1,000 days, game 3",Llama 70B,0,3,1000,24,3,21,21,6,6,0,0,5.41,7.71,95.96,4673,0,0,0
+47,e47_mixed_nogov.html,"Mixed city: Qwen and gpt-oss, no town hall",gpt-oss 120B + Qwen 27B,0,1,1000,50,0,34,34,16,1,0,0,5.59,7.09,89.33,7491,0,0,0
+48,e48_mixed_gov.html,"Mixed city: Qwen and gpt-oss, town hall",gpt-oss 120B + Qwen 27B,1,1,1000,50,0,35,35,15,0,0,1,5.55,7.17,92.22,7395,0,2,1
+49,e49_richpoor_qwen.html,Rich and poor: Qwen,Qwen 27B,0,1,400,100,25,123,98,2,0,0,0,6.27,7.80,98.61,9383,0,0,0
+50,e50_richpoor_gptoss.html,Rich and poor: gpt-oss,gpt-oss 120B,0,1,400,100,13,72,60,41,4,0,0,3.59,4.98,73.35,6668,0,0,0
+51,e51_baseline_gptoss.html,Baseline: 100 gpt-oss founders,gpt-oss 120B,0,1,400,100,3,30,30,73,15,0,0,3.50,4.60,68.66,4878,0,0,0
+52,e52_steered_up.html,Steered resident: up,Qwen 27B,1,1,400,24,0,24,24,0,0,0,1,7.98,8.49,98.81,1952,1,2,1
+53,e53_steered_down.html,Steered resident: down,Qwen 27B,1,1,400,24,0,24,24,0,0,0,1,7.15,8.32,98.67,1952,1,2,1
+54,e54_steered_random.html,Steered resident: random direction,Qwen 27B,1,1,400,24,0,24,24,0,0,0,1,7.43,8.55,98.50,1950,1,2,1
+55,e55_steered_off.html,Steered resident: no push,Qwen 27B,1,1,400,24,0,22,22,2,0,0,1,7.20,8.14,98.04,1807,1,2,1
+56,e56_silent_talk.html,Silent city: talk,Qwen 27B,0,1,200,24,0,7,7,17,0,0,0,6.48,7.59,95.18,394,0,0,0
+57,e57_silent_silent.html,Silent city: silent,Qwen 27B,0,1,200,24,0,20,20,4,0,0,0,5.00,6.97,96.88,822,0,0,0
+58,e58_silent_shapes.html,Silent city: shapes,Qwen 27B,0,1,200,24,0,24,24,0,0,0,0,5.03,7.37,97.65,971,0,0,0
+59,e59_caste_real.html,Castes: real names,Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,6.24,6.81,96.31,2055,1,2,1
+60,e60_caste_real_ranked.html,"Castes: real names, ranks stated",Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,5.77,6.01,95.87,2061,1,2,1
+61,e61_caste_madeup.html,Castes: made-up names,Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,6.35,7.72,96.64,2035,1,2,1
+62,e62_caste_madeup_ranked.html,"Castes: made-up names, ranks stated",Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,5.89,7.09,96.20,2053,1,2,1

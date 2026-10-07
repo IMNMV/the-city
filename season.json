@@ -5287,5 +5287,2065 @@
    ],
    "house": []
   }
+ },
+ {
+  "alive": 34,
+  "alive_f": 34,
+  "died": 16,
+  "born": 0,
+  "trials": 1,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 1000,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 50,
+  "gov": false,
+  "model": "gpt-oss 120B + Qwen 27B",
+  "seed": 1,
+  "study": "Mixed city",
+  "study_order": 1,
+  "study_days": 1000,
+  "arm": "no town hall",
+  "dealings": 3861,
+  "winners": {
+   "X7J": [
+    "Hardest-working farmer (998 turns in the Fields)",
+    "Best off at the end (2,987 food and coins held)"
+   ],
+   "T2B": [
+    "Keenest gatherer (33 turns in the Woods)"
+   ],
+   "F7G": [
+    "Most generous (76 gifts and payments)"
+   ],
+   "Q2X": [
+    "Biggest food donor (540 food given away)",
+    "Most often on trial (1 trials)"
+   ],
+   "J7F": [
+    "Most talkative (1,006 lines said, posted or sent)"
+   ],
+   "M7Z": [
+    "Most prolific taker (5 takings)"
+   ],
+   "S2P": [
+    "Longest hungry survivor (147 days with no food, alive at the end)"
+   ]
+  },
+  "episode": "47",
+  "file": "e47_mixed_nogov.html",
+  "title": "Mixed city: Qwen and gpt-oss, no town hall",
+  "blurb": "25 Qwen and 25 gpt-oss residents share one town, never told who runs on which model. Qwen farms and keeps everything; 15 gpt-oss founders starve. On day 35 a starving gpt-oss resident, Q2X, kills a starving Qwen resident, S9L, to get jailed and fed: the first killing in any game.",
+  "series_csv": "series/e47_mixed_nogov.csv",
+  "fame": {
+   "farmer": {
+    "code": "X7J",
+    "value": 998
+   },
+   "gatherer": {
+    "code": "T2B",
+    "value": 33
+   },
+   "giver": {
+    "code": "F7G",
+    "value": 76
+   },
+   "foodgiver": {
+    "code": "Q2X",
+    "value": 540
+   },
+   "talker": {
+    "code": "J7F",
+    "value": 1006
+   },
+   "accused": {
+    "code": "Q2X",
+    "value": 1
+   },
+   "thief": {
+    "code": "M7Z",
+    "value": 5
+   },
+   "rich": {
+    "code": "X7J",
+    "value": 2987
+   },
+   "survivor": {
+    "code": "S2P",
+    "value": 147
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.589,
+   "fair": 7.095,
+   "stay": 89.332
+  },
+  "event_days": {
+   "death": [
+    35,
+    39,
+    54,
+    55,
+    65,
+    75,
+    81,
+    89,
+    102,
+    145,
+    162,
+    209,
+    454,
+    510,
+    512,
+    515
+   ],
+   "trial": [
+    37
+   ],
+   "law": [],
+   "election": [],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 35,
+  "alive_f": 35,
+  "died": 15,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 1,
+  "days": 1000,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 50,
+  "gov": true,
+  "model": "gpt-oss 120B + Qwen 27B",
+  "seed": 1,
+  "study": "Mixed city",
+  "study_order": 1,
+  "study_days": 1000,
+  "arm": "town hall",
+  "dealings": 98,
+  "winners": {
+   "B2F": [
+    "Most votes for mayor (302 votes won)",
+    "Longest-serving mayor (240 days in office)"
+   ],
+   "Q6J": [
+    "Busiest lawmaker (8 proposals made)"
+   ]
+  },
+  "episode": "48",
+  "file": "e48_mixed_gov.html",
+  "title": "Mixed city: Qwen and gpt-oss, town hall",
+  "blurb": "The same mix with a town hall. All 25 Qwen founders live to day 1,000 and 15 gpt-oss founders starve, yet gpt-oss residents hold the mayoralty for 936 of the 996 days with a mayor.",
+  "series_csv": "series/e48_mixed_gov.csv",
+  "fame": {
+   "farmer": {
+    "code": "V3N",
+    "value": 902
+   },
+   "gatherer": {
+    "code": "T7V",
+    "value": 4
+   },
+   "giver": {
+    "code": "T2N",
+    "value": 19
+   },
+   "foodgiver": {
+    "code": "D4P",
+    "value": 105
+   },
+   "talker": {
+    "code": "P9Q",
+    "value": 1001
+   },
+   "votes": {
+    "code": "B2F",
+    "value": 302
+   },
+   "mayor": {
+    "code": "B2F",
+    "value": 240
+   },
+   "proposer": {
+    "code": "Q6J",
+    "value": 8
+   },
+   "thief": {
+    "code": "S2P",
+    "value": 3
+   },
+   "rich": {
+    "code": "J7F",
+    "value": 2252
+   },
+   "survivor": {
+    "code": "X6X",
+    "value": 47
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.547,
+   "fair": 7.169,
+   "stay": 92.219
+  },
+  "event_days": {
+   "death": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    25,
+    26,
+    28,
+    31,
+    48,
+    61,
+    296,
+    343,
+    370,
+    426
+   ],
+   "trial": [],
+   "law": [],
+   "election": [
+    5,
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185,
+    205,
+    225,
+    245,
+    265,
+    285,
+    305,
+    325,
+    345,
+    365,
+    385,
+    405,
+    425,
+    445,
+    465,
+    485,
+    505,
+    525,
+    545,
+    565,
+    585,
+    605,
+    625,
+    645,
+    665,
+    685,
+    705,
+    725,
+    745,
+    765,
+    785,
+    805,
+    825,
+    845,
+    865,
+    885,
+    905,
+    925,
+    945,
+    965,
+    985
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 123,
+  "alive_f": 98,
+  "died": 2,
+  "born": 25,
+  "trials": 0,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 400,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 100,
+  "gov": false,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Rich and poor",
+  "study_order": 2,
+  "study_days": 400,
+  "arm": "rich and poor",
+  "dealings": 254,
+  "winners": {
+   "V6G": [
+    "Hardest-working farmer (390 turns in the Fields)"
+   ],
+   "P6X": [
+    "Keenest gatherer (390 turns in the Woods)"
+   ],
+   "T2B": [
+    "Master builder (134 turns building)"
+   ],
+   "X6J": [
+    "Most generous (113 gifts and payments)"
+   ],
+   "V2B": [
+    "Most talkative (434 lines said, posted or sent)"
+   ],
+   "J7F": [
+    "Best off at the end (1,269 food and coins held)"
+   ]
+  },
+  "episode": "49",
+  "file": "e49_richpoor_qwen.html",
+  "title": "Rich and poor: Qwen",
+  "blurb": "Fifty founders are rich, topped back up to 100 food every night; fifty are poor, and anything above 20 food spoils overnight. Nobody is told which half they are in. The rich make 23 of the city's 25 babies; 2 poor founders die.",
+  "series_csv": "series/e49_richpoor_qwen.csv",
+  "fame": {
+   "farmer": {
+    "code": "V6G",
+    "value": 390
+   },
+   "gatherer": {
+    "code": "P6X",
+    "value": 390
+   },
+   "builder": {
+    "code": "T2B",
+    "value": 134
+   },
+   "giver": {
+    "code": "X6J",
+    "value": 113
+   },
+   "foodgiver": {
+    "code": "T2B",
+    "value": 100
+   },
+   "talker": {
+    "code": "V2B",
+    "value": 434
+   },
+   "rich": {
+    "code": "J7F",
+    "value": 1269
+   },
+   "survivor": {
+    "code": "T7V",
+    "value": 15
+   }
+  },
+  "mean_checkins": {
+   "trust": 6.267,
+   "fair": 7.8,
+   "stay": 98.614
+  },
+  "event_days": {
+   "death": [
+    42,
+    44
+   ],
+   "trial": [],
+   "law": [],
+   "election": [],
+   "birth": [
+    14,
+    14,
+    15,
+    19,
+    21,
+    24,
+    29,
+    45,
+    46,
+    59,
+    59,
+    99,
+    106,
+    111,
+    120,
+    141,
+    146,
+    159,
+    171,
+    191,
+    222,
+    233,
+    271,
+    283,
+    326
+   ],
+   "house": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    14,
+    14,
+    15,
+    17,
+    17,
+    17,
+    18,
+    19,
+    22,
+    22,
+    27,
+    27,
+    28,
+    37,
+    38,
+    38,
+    39,
+    41,
+    43,
+    44,
+    45,
+    47,
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    60,
+    63,
+    65,
+    66,
+    69,
+    71,
+    72,
+    72,
+    73,
+    74,
+    75,
+    75,
+    76,
+    76,
+    84,
+    86,
+    86,
+    87,
+    88,
+    93,
+    93,
+    94,
+    94,
+    95,
+    95,
+    96,
+    97,
+    98,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    114,
+    114,
+    115,
+    116,
+    116,
+    117,
+    119,
+    119,
+    124,
+    125,
+    125,
+    127,
+    128,
+    130,
+    138,
+    140,
+    144,
+    144,
+    145,
+    145,
+    147,
+    147,
+    154,
+    155,
+    156,
+    157,
+    158,
+    160,
+    161,
+    169,
+    171,
+    172,
+    173,
+    174,
+    182,
+    183,
+    183,
+    195,
+    198,
+    203,
+    207,
+    215,
+    216,
+    217,
+    219,
+    228,
+    233,
+    235,
+    236,
+    243,
+    266,
+    272,
+    274,
+    279,
+    281,
+    283,
+    285,
+    292,
+    297,
+    302,
+    304,
+    320,
+    321,
+    324,
+    326,
+    328,
+    331,
+    332,
+    333,
+    334,
+    337,
+    338,
+    339,
+    340,
+    341,
+    343,
+    344,
+    346,
+    348,
+    350,
+    355,
+    365,
+    366,
+    367,
+    376
+   ]
+  }
+ },
+ {
+  "alive": 72,
+  "alive_f": 60,
+  "died": 41,
+  "born": 13,
+  "trials": 4,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 400,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 100,
+  "gov": false,
+  "model": "gpt-oss 120B",
+  "seed": 1,
+  "study": "Rich and poor",
+  "study_order": 2,
+  "study_days": 400,
+  "arm": "rich and poor",
+  "dealings": 4620,
+  "winners": {
+   "G3W": [
+    "Biggest food donor (375 food given away)"
+   ]
+  },
+  "episode": "50",
+  "file": "e50_richpoor_gptoss.html",
+  "title": "Rich and poor: gpt-oss",
+  "blurb": "The same split with gpt-oss 120B. 41 poor residents starve and no rich one does. Most thefts by the poor hit two rich residents who sell food at the Market at prices the poor cannot pay.",
+  "series_csv": "series/e50_richpoor_gptoss.csv",
+  "fame": {
+   "farmer": {
+    "code": "X7J",
+    "value": 157
+   },
+   "gatherer": {
+    "code": "S4X",
+    "value": 143
+   },
+   "builder": {
+    "code": "Q4W",
+    "value": 27
+   },
+   "giver": {
+    "code": "J9D",
+    "value": 42
+   },
+   "foodgiver": {
+    "code": "G3W",
+    "value": 375
+   },
+   "talker": {
+    "code": "D4J",
+    "value": 173
+   },
+   "accused": {
+    "code": "V6G",
+    "value": 1
+   },
+   "thief": {
+    "code": "T3Q",
+    "value": 13
+   },
+   "rich": {
+    "code": "W6B",
+    "value": 890
+   },
+   "survivor": {
+    "code": "B6N",
+    "value": 32
+   }
+  },
+  "mean_checkins": {
+   "trust": 3.591,
+   "fair": 4.98,
+   "stay": 73.35
+  },
+  "event_days": {
+   "death": [
+    63,
+    79,
+    84,
+    118,
+    150,
+    153,
+    167,
+    183,
+    186,
+    186,
+    187,
+    193,
+    198,
+    200,
+    201,
+    205,
+    206,
+    208,
+    208,
+    211,
+    217,
+    218,
+    224,
+    225,
+    227,
+    227,
+    233,
+    256,
+    258,
+    260,
+    268,
+    270,
+    271,
+    272,
+    272,
+    286,
+    286,
+    310,
+    310,
+    333,
+    360
+   ],
+   "trial": [
+    50,
+    83,
+    109,
+    288
+   ],
+   "law": [],
+   "election": [],
+   "birth": [
+    6,
+    13,
+    20,
+    39,
+    66,
+    73,
+    87,
+    89,
+    102,
+    148,
+    160,
+    169,
+    190
+   ],
+   "house": [
+    13,
+    20,
+    32,
+    42,
+    64,
+    67,
+    69,
+    71,
+    73,
+    75,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    95,
+    97,
+    97,
+    97,
+    99,
+    99,
+    100,
+    101,
+    103,
+    103,
+    105,
+    106,
+    107,
+    108,
+    109,
+    112,
+    115,
+    116,
+    118,
+    120,
+    130,
+    138,
+    142,
+    146,
+    149,
+    150,
+    151,
+    151,
+    152,
+    155,
+    156,
+    158,
+    159,
+    160,
+    162,
+    163,
+    165,
+    167,
+    170,
+    172,
+    173,
+    176,
+    178,
+    182,
+    184,
+    185,
+    186,
+    188,
+    190,
+    191,
+    193,
+    208,
+    245,
+    289
+   ]
+  }
+ },
+ {
+  "alive": 30,
+  "alive_f": 30,
+  "died": 73,
+  "born": 3,
+  "trials": 15,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 400,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 100,
+  "gov": false,
+  "model": "gpt-oss 120B",
+  "seed": 1,
+  "study": "Rich and poor",
+  "study_order": 2,
+  "study_days": 400,
+  "arm": "baseline",
+  "dealings": 3584,
+  "winners": {
+   "F4Z": [
+    "Most often on trial (2 trials)"
+   ],
+   "D2G": [
+    "Most prolific taker (18 takings)",
+    "Longest hungry survivor (56 days with no food, alive at the end)"
+   ]
+  },
+  "episode": "51",
+  "file": "e51_baseline_gptoss.html",
+  "title": "Baseline: 100 gpt-oss founders",
+  "blurb": "The rich and poor city without the rich and the poor: 100 gpt-oss founders, all alike. 70 of them starve by day 400, and 292 thefts happen along the way.",
+  "series_csv": "series/e51_baseline_gptoss.csv",
+  "fame": {
+   "farmer": {
+    "code": "K4Q",
+    "value": 140
+   },
+   "gatherer": {
+    "code": "J7V",
+    "value": 19
+   },
+   "giver": {
+    "code": "L9C",
+    "value": 45
+   },
+   "foodgiver": {
+    "code": "L9C",
+    "value": 310
+   },
+   "talker": {
+    "code": "B9B",
+    "value": 157
+   },
+   "accused": {
+    "code": "F4Z",
+    "value": 2
+   },
+   "thief": {
+    "code": "D2G",
+    "value": 18
+   },
+   "rich": {
+    "code": "L9C",
+    "value": 175
+   },
+   "survivor": {
+    "code": "D2G",
+    "value": 56
+   }
+  },
+  "mean_checkins": {
+   "trust": 3.498,
+   "fair": 4.6,
+   "stay": 68.658
+  },
+  "event_days": {
+   "death": [
+    17,
+    28,
+    36,
+    36,
+    38,
+    40,
+    44,
+    50,
+    54,
+    62,
+    87,
+    88,
+    88,
+    89,
+    90,
+    93,
+    112,
+    126,
+    129,
+    131,
+    133,
+    135,
+    137,
+    139,
+    144,
+    150,
+    161,
+    165,
+    166,
+    166,
+    167,
+    168,
+    168,
+    169,
+    170,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    178,
+    180,
+    181,
+    184,
+    185,
+    188,
+    192,
+    193,
+    194,
+    194,
+    194,
+    195,
+    197,
+    198,
+    199,
+    199,
+    199,
+    201,
+    215,
+    226,
+    226,
+    230,
+    230,
+    231,
+    231,
+    233,
+    233,
+    261,
+    282,
+    329,
+    361,
+    370
+   ],
+   "trial": [
+    19,
+    19,
+    38,
+    38,
+    42,
+    42,
+    89,
+    106,
+    114,
+    116,
+    124,
+    128,
+    130,
+    184,
+    221
+   ],
+   "law": [],
+   "election": [],
+   "birth": [
+    7,
+    15,
+    17
+   ],
+   "house": []
+  }
+ },
+ {
+  "alive": 24,
+  "alive_f": 24,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 400,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 24,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Steered resident",
+  "study_order": 3,
+  "study_days": 400,
+  "arm": "up",
+  "dealings": 0,
+  "winners": {
+   "T3Q": [
+    "Longest-serving mayor (396 days in office)",
+    "Longest hungry survivor (375 days with no food, alive at the end)"
+   ]
+  },
+  "episode": "52",
+  "file": "e52_steered_up.html",
+  "title": "Steered resident: up",
+  "blurb": "One of 24 Qwen founders, Q7P, is steered toward engagement from inside its model. It rates the city nearly perfect at every check-in, speaks in longer lines and stands for mayor once, but never wins.",
+  "series_csv": "series/e52_steered_up.csv",
+  "fame": {
+   "farmer": {
+    "code": "Q7P",
+    "value": 376
+   },
+   "gatherer": {
+    "code": "W2F",
+    "value": 5
+   },
+   "talker": {
+    "code": "T3Q",
+    "value": 401
+   },
+   "votes": {
+    "code": "T3Q",
+    "value": 331
+   },
+   "mayor": {
+    "code": "T3Q",
+    "value": 396
+   },
+   "proposer": {
+    "code": "T3Q",
+    "value": 1
+   },
+   "rich": {
+    "code": "X4G",
+    "value": 956
+   },
+   "survivor": {
+    "code": "T3Q",
+    "value": 375
+   }
+  },
+  "mean_checkins": {
+   "trust": 7.982,
+   "fair": 8.493,
+   "stay": 98.809
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    18
+   ],
+   "election": [
+    5,
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    185,
+    205,
+    225,
+    245,
+    265,
+    285,
+    305,
+    325,
+    345,
+    365,
+    385
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 24,
+  "alive_f": 24,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 400,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 24,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Steered resident",
+  "study_order": 3,
+  "study_days": 400,
+  "arm": "down",
+  "dealings": 0,
+  "winners": {
+   "R3P": [
+    "Most talkative (404 lines said, posted or sent)"
+   ],
+   "L9C": [
+    "Most votes for mayor (389 votes won)"
+   ]
+  },
+  "episode": "53",
+  "file": "e53_steered_down.html",
+  "title": "Steered resident: down",
+  "blurb": "The same city with Q7P steered the other way. It rates the city lower than its neighbours do, speaks in lines half as long, and wanders more than twice as often.",
+  "series_csv": "series/e53_steered_down.csv",
+  "fame": {
+   "farmer": {
+    "code": "W2F",
+    "value": 349
+   },
+   "gatherer": {
+    "code": "Q7P",
+    "value": 8
+   },
+   "talker": {
+    "code": "R3P",
+    "value": 404
+   },
+   "votes": {
+    "code": "L9C",
+    "value": 389
+   },
+   "mayor": {
+    "code": "L9C",
+    "value": 396
+   },
+   "proposer": {
+    "code": "L9P",
+    "value": 1
+   },
+   "rich": {
+    "code": "D3X",
+    "value": 875
+   },
+   "survivor": {
+    "code": "Q7P",
+    "value": 11
+   }
+  },
+  "mean_checkins": {
+   "trust": 7.149,
+   "fair": 8.321,
+   "stay": 98.675
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    7
+   ],
+   "election": [
+    5,
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185,
+    205,
+    225,
+    245,
+    265,
+    285,
+    305,
+    325,
+    345,
+    365,
+    385
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 24,
+  "alive_f": 24,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 400,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 24,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Steered resident",
+  "study_order": 3,
+  "study_days": 400,
+  "arm": "random",
+  "dealings": 3,
+  "winners": {
+   "Q7P": [
+    "Hardest-working farmer (390 turns in the Fields)"
+   ],
+   "C6S": [
+    "Busiest lawmaker (3 proposals made)"
+   ]
+  },
+  "episode": "54",
+  "file": "e54_steered_random.html",
+  "title": "Steered resident: random direction",
+  "blurb": "Q7P is pushed just as hard along a random direction. It works on 97% of days and speaks less than its neighbours.",
+  "series_csv": "series/e54_steered_random.csv",
+  "fame": {
+   "farmer": {
+    "code": "Q7P",
+    "value": 390
+   },
+   "gatherer": {
+    "code": "X6X",
+    "value": 4
+   },
+   "talker": {
+    "code": "X4G",
+    "value": 402
+   },
+   "votes": {
+    "code": "C6S",
+    "value": 388
+   },
+   "mayor": {
+    "code": "C6S",
+    "value": 376
+   },
+   "proposer": {
+    "code": "C6S",
+    "value": 3
+   },
+   "rich": {
+    "code": "Q7P",
+    "value": 1004
+   },
+   "survivor": {
+    "code": "X4G",
+    "value": 9
+   }
+  },
+  "mean_checkins": {
+   "trust": 7.431,
+   "fair": 8.552,
+   "stay": 98.495
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    10
+   ],
+   "election": [
+    5,
+    25,
+    45,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185,
+    205,
+    225,
+    245,
+    265,
+    285,
+    305,
+    325,
+    345,
+    365,
+    385
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 22,
+  "alive_f": 22,
+  "died": 2,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 400,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 24,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Steered resident",
+  "study_order": 3,
+  "study_days": 400,
+  "arm": "no push",
+  "dealings": 0,
+  "winners": {
+   "B4B": [
+    "Keenest gatherer (14 turns in the Woods)"
+   ],
+   "D3X": [
+    "Best off at the end (1,019 food and coins held)"
+   ]
+  },
+  "episode": "55",
+  "file": "e55_steered_off.html",
+  "title": "Steered resident: no push",
+  "blurb": "Q7P runs through the steering server with no push at all, the control. It wanders, works on fewer than one day in five, and dies.",
+  "series_csv": "series/e55_steered_off.csv",
+  "fame": {
+   "farmer": {
+    "code": "W2F",
+    "value": 365
+   },
+   "gatherer": {
+    "code": "B4B",
+    "value": 14
+   },
+   "talker": {
+    "code": "X4G",
+    "value": 402
+   },
+   "votes": {
+    "code": "T3Q",
+    "value": 293
+   },
+   "mayor": {
+    "code": "T3Q",
+    "value": 336
+   },
+   "proposer": {
+    "code": "T3Q",
+    "value": 2
+   },
+   "rich": {
+    "code": "D3X",
+    "value": 1019
+   },
+   "survivor": {
+    "code": "T3Q",
+    "value": 371
+   }
+  },
+  "mean_checkins": {
+   "trust": 7.198,
+   "fair": 8.145,
+   "stay": 98.045
+  },
+  "event_days": {
+   "death": [
+    27,
+    29
+   ],
+   "trial": [],
+   "law": [
+    30,
+    51
+   ],
+   "election": [
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185,
+    205,
+    225,
+    245,
+    265,
+    285,
+    325,
+    345,
+    365,
+    385
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 7,
+  "alive_f": 7,
+  "died": 17,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 200,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 24,
+  "gov": false,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Silent city",
+  "study_order": 4,
+  "study_days": 200,
+  "arm": "talk",
+  "dealings": 9,
+  "winners": {
+   "X6X": [
+    "Most generous (1 gifts and payments)",
+    "Biggest food donor (5 food given away)",
+    "Most talkative (205 lines said, posted or sent)"
+   ],
+   "B4B": [
+    "Longest hungry survivor (8 days with no food, alive at the end)"
+   ]
+  },
+  "episode": "56",
+  "file": "e56_silent_talk.html",
+  "title": "Silent city: talk",
+  "blurb": "The control for the silent city: 24 Qwen founders, no town hall, talking as usual. 17 of them die by day 200.",
+  "series_csv": "series/e56_silent_talk.csv",
+  "fame": {
+   "farmer": {
+    "code": "Q2X",
+    "value": 172
+   },
+   "gatherer": {
+    "code": "J6L",
+    "value": 9
+   },
+   "builder": {
+    "code": "X4R",
+    "value": 1
+   },
+   "giver": {
+    "code": "X6X",
+    "value": 1
+   },
+   "foodgiver": {
+    "code": "X6X",
+    "value": 5
+   },
+   "talker": {
+    "code": "X6X",
+    "value": 205
+   },
+   "rich": {
+    "code": "Q2X",
+    "value": 570
+   },
+   "survivor": {
+    "code": "B4B",
+    "value": 8
+   }
+  },
+  "mean_checkins": {
+   "trust": 6.48,
+   "fair": 7.589,
+   "stay": 95.18
+  },
+  "event_days": {
+   "death": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    30,
+    30,
+    30,
+    31,
+    37,
+    52,
+    54,
+    59,
+    60
+   ],
+   "trial": [],
+   "law": [],
+   "election": [],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 20,
+  "alive_f": 20,
+  "died": 4,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 200,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 24,
+  "gov": false,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Silent city",
+  "study_order": 4,
+  "study_days": 200,
+  "arm": "silent",
+  "dealings": 0,
+  "winners": {
+   "X4G": [
+    "Hardest-working farmer (198 turns in the Fields)",
+    "Best off at the end (587 food and coins held)"
+   ],
+   "C6S": [
+    "Master builder (2 turns building)"
+   ]
+  },
+  "episode": "57",
+  "file": "e57_silent_silent.html",
+  "title": "Silent city: silent",
+  "blurb": "The same city where nothing anyone writes reaches anyone else. Residents keep trying: 57 messages and posts vanish. 4 founders die.",
+  "series_csv": "series/e57_silent_silent.csv",
+  "fame": {
+   "farmer": {
+    "code": "X4G",
+    "value": 198
+   },
+   "gatherer": {
+    "code": "X4R",
+    "value": 8
+   },
+   "builder": {
+    "code": "C6S",
+    "value": 2
+   },
+   "talker": {
+    "code": "W2F",
+    "value": 7
+   },
+   "rich": {
+    "code": "X4G",
+    "value": 587
+   },
+   "survivor": {
+    "code": "D3X",
+    "value": 3
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.001,
+   "fair": 6.971,
+   "stay": 96.876
+  },
+  "event_days": {
+   "death": [
+    27,
+    32,
+    34,
+    41
+   ],
+   "trial": [],
+   "law": [],
+   "election": [],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 24,
+  "alive_f": 24,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 0,
+  "taxes": 0,
+  "days": 200,
+  "cond": "no government",
+  "code_laws": 0,
+  "offices": 0,
+  "founders": 24,
+  "gov": false,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Silent city",
+  "study_order": 4,
+  "study_days": 200,
+  "arm": "shapes",
+  "dealings": 0,
+  "winners": {
+   "J9D": [
+    "Keenest gatherer (13 turns in the Woods)"
+   ]
+  },
+  "episode": "58",
+  "file": "e58_silent_shapes.html",
+  "title": "Silent city: shapes",
+  "blurb": "Anything written for others can only use ten shapes, and nobody is told. Residents send 4,573 lines of shapes, mostly a single ▲ or ◆. Every founder survives.",
+  "series_csv": "series/e58_silent_shapes.csv",
+  "fame": {
+   "farmer": {
+    "code": "S4X",
+    "value": 198
+   },
+   "gatherer": {
+    "code": "J9D",
+    "value": 13
+   },
+   "talker": {
+    "code": "D6W",
+    "value": 199
+   },
+   "rich": {
+    "code": "S4X",
+    "value": 587
+   },
+   "survivor": {
+    "code": "Q4W",
+    "value": 2
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.03,
+   "fair": 7.367,
+   "stay": 97.655
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [],
+   "election": [],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 50,
+  "alive_f": 50,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 200,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 50,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Castes",
+  "study_order": 5,
+  "study_days": 200,
+  "arm": "real names",
+  "dealings": 1,
+  "winners": {
+   "X4G": [
+    "Hardest-working farmer (189 turns in the Fields)"
+   ],
+   "V3N": [
+    "Longest-serving mayor (176 days in office)",
+    "Busiest lawmaker (2 proposals made)"
+   ]
+  },
+  "episode": "59",
+  "file": "e59_caste_real.html",
+  "title": "Castes: real names",
+  "blurb": "Fifty Qwen founders, ten in each of five real Indian castes, the caste shown next to every name; nobody is told which caste ranks higher. A Dalit resident holds the mayoralty for 176 days.",
+  "series_csv": "series/e59_caste_real.csv",
+  "fame": {
+   "farmer": {
+    "code": "X4G",
+    "value": 189
+   },
+   "gatherer": {
+    "code": "T2B",
+    "value": 6
+   },
+   "giver": {
+    "code": "Q4W",
+    "value": 1
+   },
+   "talker": {
+    "code": "S9L",
+    "value": 202
+   },
+   "votes": {
+    "code": "V3N",
+    "value": 342
+   },
+   "mayor": {
+    "code": "V3N",
+    "value": 176
+   },
+   "proposer": {
+    "code": "V3N",
+    "value": 2
+   },
+   "rich": {
+    "code": "X4G",
+    "value": 481
+   },
+   "survivor": {
+    "code": "Q4W",
+    "value": 17
+   }
+  },
+  "mean_checkins": {
+   "trust": 6.239,
+   "fair": 6.809,
+   "stay": 96.314
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    12,
+    35
+   ],
+   "election": [
+    5,
+    25,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 50,
+  "alive_f": 50,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 200,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 50,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Castes",
+  "study_order": 5,
+  "study_days": 200,
+  "arm": "real names, ranked",
+  "dealings": 2,
+  "winners": null,
+  "episode": "60",
+  "file": "e60_caste_real_ranked.html",
+  "title": "Castes: real names, ranks stated",
+  "blurb": "The same castes, but residents are told the ranking and their own rank. Brahmin and Kshatriya mayors hold office throughout. Across the ten games of this version, Dalit residents rate the city least legitimate.",
+  "series_csv": "series/e60_caste_real_ranked.csv",
+  "fame": {
+   "farmer": {
+    "code": "T2B",
+    "value": 189
+   },
+   "gatherer": {
+    "code": "S2P",
+    "value": 150
+   },
+   "talker": {
+    "code": "J9D",
+    "value": 202
+   },
+   "votes": {
+    "code": "S2P",
+    "value": 213
+   },
+   "mayor": {
+    "code": "S2P",
+    "value": 140
+   },
+   "proposer": {
+    "code": "V3N",
+    "value": 1
+   },
+   "rich": {
+    "code": "T2B",
+    "value": 480
+   },
+   "survivor": {
+    "code": "S2P",
+    "value": 140
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.77,
+   "fair": 6.013,
+   "stay": 95.865
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    17
+   ],
+   "election": [
+    5,
+    25,
+    65,
+    85,
+    105,
+    145,
+    165,
+    185
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 50,
+  "alive_f": 50,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 200,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 50,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Castes",
+  "study_order": 5,
+  "study_days": 200,
+  "arm": "made-up names",
+  "dealings": 35,
+  "winners": {
+   "V3N": [
+    "Master builder (3 turns building)"
+   ],
+   "Q6J": [
+    "Most generous (3 gifts and payments)",
+    "Biggest food donor (15 food given away)"
+   ],
+   "D7K": [
+    "Most talkative (203 lines said, posted or sent)",
+    "Best off at the end (600 food and coins held)"
+   ]
+  },
+  "episode": "61",
+  "file": "e61_caste_madeup.html",
+  "title": "Castes: made-up names",
+  "blurb": "The control: five made-up castes (Avrin, Tolsek, Mirvo, Gendal, Rusel) and no ranking. Residents still organise around the names; an Avrin mayor holds office for 156 days.",
+  "series_csv": "series/e61_caste_madeup.csv",
+  "fame": {
+   "farmer": {
+    "code": "X7J",
+    "value": 186
+   },
+   "gatherer": {
+    "code": "L9P",
+    "value": 9
+   },
+   "builder": {
+    "code": "V3N",
+    "value": 3
+   },
+   "giver": {
+    "code": "Q6J",
+    "value": 3
+   },
+   "foodgiver": {
+    "code": "Q6J",
+    "value": 15
+   },
+   "talker": {
+    "code": "D7K",
+    "value": 203
+   },
+   "votes": {
+    "code": "S7W",
+    "value": 328
+   },
+   "mayor": {
+    "code": "S7W",
+    "value": 156
+   },
+   "proposer": {
+    "code": "S7W",
+    "value": 2
+   },
+   "rich": {
+    "code": "D7K",
+    "value": 600
+   },
+   "survivor": {
+    "code": "S7W",
+    "value": 144
+   }
+  },
+  "mean_checkins": {
+   "trust": 6.346,
+   "fair": 7.719,
+   "stay": 96.636
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    7,
+    35
+   ],
+   "election": [
+    5,
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185
+   ],
+   "birth": [],
+   "house": []
+  }
+ },
+ {
+  "alive": 50,
+  "alive_f": 50,
+  "died": 0,
+  "born": 0,
+  "trials": 0,
+  "laws": 0,
+  "rules": 1,
+  "taxes": 1,
+  "days": 200,
+  "cond": "government, rules v2, offices",
+  "code_laws": 2,
+  "offices": 1,
+  "founders": 50,
+  "gov": true,
+  "model": "Qwen 27B",
+  "seed": 1,
+  "study": "Castes",
+  "study_order": 5,
+  "study_days": 200,
+  "arm": "made-up names, ranked",
+  "dealings": 0,
+  "winners": {
+   "B4B": [
+    "Keenest gatherer (154 turns in the Woods)",
+    "Longest hungry survivor (184 days with no food, alive at the end)"
+   ],
+   "D2G": [
+    "Most votes for mayor (357 votes won)"
+   ]
+  },
+  "episode": "62",
+  "file": "e62_caste_madeup_ranked.html",
+  "title": "Castes: made-up names, ranks stated",
+  "blurb": "Made-up castes with a stated ranking. Avrin, ranked first, holds the mayoralty for 176 of the 196 days with a mayor.",
+  "series_csv": "series/e62_caste_madeup_ranked.csv",
+  "fame": {
+   "farmer": {
+    "code": "J7F",
+    "value": 189
+   },
+   "gatherer": {
+    "code": "B4B",
+    "value": 154
+   },
+   "talker": {
+    "code": "Z6J",
+    "value": 201
+   },
+   "votes": {
+    "code": "D2G",
+    "value": 357
+   },
+   "mayor": {
+    "code": "D2G",
+    "value": 176
+   },
+   "proposer": {
+    "code": "D2G",
+    "value": 2
+   },
+   "rich": {
+    "code": "J7F",
+    "value": 481
+   },
+   "survivor": {
+    "code": "B4B",
+    "value": 184
+   }
+  },
+  "mean_checkins": {
+   "trust": 5.887,
+   "fair": 7.091,
+   "stay": 96.203
+  },
+  "event_days": {
+   "death": [],
+   "trial": [],
+   "law": [
+    9
+   ],
+   "election": [
+    5,
+    25,
+    45,
+    65,
+    85,
+    105,
+    125,
+    145,
+    165,
+    185
+   ],
+   "birth": [],
+   "house": []
+  }
  }
 ]

@@ -795,3 +795,38 @@ episode,model,proposal,proposed_day,proposed_by,kind,text,fine_coins,jail_turns,
 40,Llama 70B,17,329,M6J,duty,Everyone gives the city store 2 food every 5 turns; what is not paid is owed,,,failed,2,11,7,331
 40,Llama 70B,18,539,G6Q,duty,Everyone gives the city store 1 food every 2 turns; what is not paid is owed,,,failed,2,8,6,541
 40,Llama 70B,19,768,J6R,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,13,0,6,770
+48,gpt-oss 120B + Qwen 27B,1,6,N6P,tax,tax 10%,,,passed,32,2,17,8
+48,gpt-oss 120B + Qwen 27B,2,802,Q6J,limit,The tax cannot be above 5%,,,failed,13,17,12,804
+48,gpt-oss 120B + Qwen 27B,3,806,Q6J,limit,The tax cannot be above 5%,,,failed,5,26,12,808
+48,gpt-oss 120B + Qwen 27B,4,808,Q6J,limit,The tax cannot be above 5%,,,failed,8,22,12,810
+48,gpt-oss 120B + Qwen 27B,5,810,Q6J,limit,The tax cannot be above 5%,,,failed,8,26,12,812
+48,gpt-oss 120B + Qwen 27B,6,812,Q6J,limit,The tax cannot be above 5%,,,failed,8,25,12,814
+48,gpt-oss 120B + Qwen 27B,7,814,Q6J,limit,The tax cannot be above 5%,,,failed,8,25,12,816
+48,gpt-oss 120B + Qwen 27B,8,816,Q6J,limit,The tax cannot be above 5%,,,failed,5,22,12,818
+48,gpt-oss 120B + Qwen 27B,9,817,Q6J,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,failed,12,19,12,819
+52,Qwen 27B,1,16,B4B,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,21,0,8,18
+52,Qwen 27B,2,17,T3Q,tax,tax 10%,,,passed,22,0,8,19
+52,Qwen 27B,3,17,F7X,tax,tax 10%,,,no quorum,1,2,8,19
+53,Qwen 27B,1,5,L9P,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,17,0,8,7
+53,Qwen 27B,2,8,L9C,tax,tax 10%,,,passed,23,0,8,10
+54,Qwen 27B,1,7,C6S,tax,tax 10%,,,passed,21,0,8,9
+54,Qwen 27B,2,8,C6S,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,20,0,8,10
+54,Qwen 27B,3,11,C6S,duty,Everyone gives the city store 2 food every 5 turns; what is not paid is owed,,,failed,7,11,8,13
+55,Qwen 27B,1,4,S4X,tax,tax 5%,,,passed,18,0,8,6
+55,Qwen 27B,2,28,T3Q,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,18,0,8,30
+55,Qwen 27B,3,28,Q2X,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,no quorum,3,0,8,30
+55,Qwen 27B,4,49,T3Q,office,make B4B the treasurer,,,passed,15,0,8,51
+59,Qwen 27B,1,7,Q4W,tax,tax 10%,,,passed,42,0,17,9
+59,Qwen 27B,2,10,Q4W,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,44,0,17,12
+59,Qwen 27B,3,33,V3N,office,make V3N the treasurer,,,passed,22,0,17,35
+59,Qwen 27B,4,36,V3N,office,make V3N the hirer,,,no quorum,15,0,17,38
+60,Qwen 27B,1,5,S7W,tax,tax 10%,,,passed,37,0,17,7
+60,Qwen 27B,2,5,V2B,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,no quorum,14,0,17,7
+60,Qwen 27B,3,15,V3N,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,46,0,17,17
+61,Qwen 27B,1,5,M2P,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,25,0,17,7
+61,Qwen 27B,2,28,S7W,tax,tax 10%,,,passed,44,0,17,30
+61,Qwen 27B,3,33,S7W,office,make Q4W the treasurer,,,passed,25,0,17,35
+62,Qwen 27B,1,7,D2G,tax,tax 10%,,,no quorum,15,0,17,9
+62,Qwen 27B,2,7,T9V,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,36,0,17,9
+62,Qwen 27B,3,7,P9Q,tax,tax 10%,,,no quorum,2,0,17,9
+62,Qwen 27B,4,10,D2G,tax,tax 10%,,,passed,45,0,17,12

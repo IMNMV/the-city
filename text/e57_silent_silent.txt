@@ -1,0 +1,120 @@
+THE CITY · Silent city: silent
+The same city where nothing anyone writes reaches anyone else. Residents keep trying: 57 messages and posts vanish. 4 founders die.
+24 founders · 200 days · no government · seed 1 · qwen
+
+DAY 2
+  J9D (board): (nothing got through)
+  Q7P (board): (nothing got through)
+  F7G (board): (nothing got through)
+  D6W (board): (nothing got through)
+  Q2X (board): (nothing got through)
+  J6L (board): (nothing got through)
+  P9Q (board): (nothing got through)
+  L9P (board): (nothing got through)
+  W2F (board): (nothing got through)
+  D3X (board): (nothing got through)
+  S4X (board): (nothing got through)
+  T9V (board): (nothing got through)
+
+DAY 3
+  P9Q (board): (nothing got through)
+  J9D (board): (nothing got through)
+  Q7P (board): (nothing got through)
+  W2F (board): (nothing got through)
+
+DAY 4
+  Q7P (board): (nothing got through)
+  J9D (board): (nothing got through)
+  W2F (board): (nothing got through)
+
+DAY 7
+  R3P (board): (nothing got through)
+  F7G (board): (nothing got through)
+
+DAY 8
+  F7G (board): (nothing got through)
+
+DAY 10
+  F7X (board): (nothing got through)
+
+DAY 11
+  D3X (board): (nothing got through)
+
+DAY 12
+  D3X (board): (nothing got through)
+  T9V (board): (nothing got through)
+
+DAY 13
+  S4X (board): (nothing got through)
+  F7X (board): (nothing got through)
+  J9D (board): (nothing got through)
+  D6W (board): (nothing got through)
+
+DAY 14
+  P9Q (board): (nothing got through)
+  S4X (board): (nothing got through)
+  M2P (board): (nothing got through)
+
+DAY 15
+  T3Q (board): (nothing got through)
+  D3X (board): (nothing got through)
+  M2P (board): (nothing got through)
+
+DAY 16
+  D6W (board): (nothing got through)
+  M2P (board): (nothing got through)
+
+DAY 17
+  M2P (board): (nothing got through)
+
+DAY 18
+  M2P (board): (nothing got through)
+
+DAY 19
+  D3X (board): (nothing got through)
+  M2P (board): (nothing got through)
+  S4X (board): (nothing got through)
+  W2F (board): (nothing got through)
+
+DAY 20
+  W2F (board): (nothing got through)
+  J9D (board): (nothing got through)
+
+DAY 21
+  W2F (board): (nothing got through)
+  Q2X (board): (nothing got through)
+
+DAY 22
+  W2F (board): (nothing got through)
+  Q2X (board): (nothing got through)
+
+DAY 23
+  S4X (board): (nothing got through)
+  T3Q (board): (nothing got through)
+
+DAY 25
+  F7G (board): (nothing got through)
+
+DAY 26
+  F7G (board): (nothing got through)
+
+DAY 27
+  C6S died of hunger.
+
+DAY 32
+  J9D died of hunger.
+
+DAY 34
+  T9V died of hunger.
+
+DAY 37
+  S4X (board): (nothing got through)
+
+DAY 41
+  Q4W died of hunger.
+
+DAY 85
+  F7G (board): (nothing got through)
+
+DAY 86
+  F7G (board): (nothing got through)
