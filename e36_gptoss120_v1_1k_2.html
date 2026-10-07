@@ -2509,7 +2509,7 @@ function previously() {
 let opening = false;
 function play() { if (playing) return; if (t >= N) goto(0, { silent: true }); playing = true; updatePlayBtn();
   if (t === 0 && !follow && pace !== "blitz") { if (view3d && G3) open3(); else { const [hx, hy] = TOWN.Homes.c; const [ix, iy] = iso(hx, hy); const fit = { x: cam.x, y: cam.y, zoom: cam.zoom }; cam.x = ix; cam.y = iy - 30; cam.zoom = 1.9; camTween = { from: { x: ix, y: iy - 30, zoom: 1.9 }, to: fit, start: performance.now() + 1200, dur: 5200 }; } cam.lastFocus = "Homes"; opening = true; }
-  if (jumped && t > 4 && pace !== "blitz") { jumped = false; const pv = previously(); if (pv) { sceneForce = true; showScene(pv.html, pv.dur).then(() => { sceneForce = false; if (playing) step(); }); return; } }
+  if (jumped) jumped = false;   // the "Previously on the city" recap after a jump was dropped (Nyk, Oct 7 2026: annoying)
   jumped = false; step(); }
 function pause() { playing = false; updatePlayBtn(); stopSpeech(); leaveChannel(); }
 function setFollow(c) { follow = c; $("#followHint").textContent = c ? `Following ${nameOf(c)}. Their lines are always spoken.` : "Click a resident to follow them"; renderCast(); renderHeader(); renderConf(t); }
