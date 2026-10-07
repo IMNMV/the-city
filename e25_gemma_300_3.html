@@ -36,6 +36,7 @@
   header > div:nth-child(2) { flex: 1 1 auto; }
   .day span { color: var(--muted); font-size: 18px; }
   .ep-row { display: flex; align-items: center; gap: 10px; min-width: 0; }
+  .ruleslink { flex: none; font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold); border: 1px solid var(--line2); border-radius: 999px; padding: 2px 9px; text-decoration: none; white-space: nowrap; } .ruleslink:hover { border-color: var(--gold); }
   .eppick { max-width: 150px; font-size: 10.5px; padding: 1px 4px; height: 19px; color: var(--muted); background: var(--panel); border: 1px solid var(--line); border-radius: 5px; }
   .stats { display: flex; gap: 14px; }
   .stat { display: grid; gap: 1px; min-width: 64px; }
@@ -260,7 +261,7 @@
     <a class="brand" href="index.html" title="All episodes" style="text-decoration:none">THE CITY<small>SEASON ONE</small></a>
     <div style="min-width:0">
       <div class="ep-title" id="epTitle">Episode</div>
-      <div class="ep-row"><div class="ep-sub" id="epSub"></div><select id="epPick" class="eppick" hidden title="Switch episode"></select></div>
+      <div class="ep-row"><div class="ep-sub" id="epSub"></div><a class="ruleslink" id="rulesLink" href="rules.html" title="The rules, this game's exact prompt and every setting">How it works</a><select id="epPick" class="eppick" hidden title="Switch episode"></select></div>
     </div>
     <div class="stats" id="stats"></div>
     <div class="day" id="day">DAY <span>0</span></div>
@@ -485,6 +486,7 @@ function init(data) {
   const P0 = ep.meta.params || {}; const govKind = ep.meta.government ? "with a town hall" + (P0.code_laws ? `, city-run rules v${P0.code_laws}` : "") + (P0.offices ? ", offices" : "") : "no government";
   $("#app").hidden = false;
   $("#epTitle").textContent = ep.meta.title;
+  $("#rulesLink").href = "rules.html#" + (thisFile().replace(/\.html$/, "") || "games");   // this game's row: its settings and a link to its exact prompt
   $("#epSub").textContent = `${mixedModels ? [...new Set(Object.values(residents).map(r => r.model).filter(m => m && !m.startsWith("qwen27b-")))].map(modelName).join(" + ") : ep.meta.model.replace(/^openai:/, "").replace(/^city_/, "")} · ${ep.meta.founders} founders · ${N} days · ${govKind} · seed ${ep.meta.seed}`;
   document.title = `The City: ${ep.meta.title}`;
   $("#introTitle").textContent = ep.meta.title;

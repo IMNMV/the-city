@@ -19,7 +19,149 @@ table{border-collapse:collapse;width:100%;font-size:13.5px} td{border-top:1px so
 </style></head><body><div class="wrap">
 <div class="brand">THE CITY<small>RESULTS</small></div>
 <p class="lede">Every measure we can take from the games, plotted for each study, with what we make of it so far. These are working results from an ongoing project, not a published paper: each section says how many games it rests on, and single games are marked as pilots. Click a figure to open it full size.</p>
-<nav class="jumpnav"><a href="index.html">Back to the season</a><a href="#castes">Castes</a><a href="#silent">Silent city</a><a href="#steered">Steered resident</a><a href="#richpoor">Rich and poor</a><a href="#mixed">Mixed city</a><a href="#measures">The measures</a><a href="#data">Download the tables</a></nav>
+<section class="howto" id="how"><style>
+.howto{background:var(--panel,#141823);border:1px solid var(--gold,#e3b85b);border-radius:12px;padding:18px 20px 12px;margin:0 0 24px}
+.howto h2{font-family:"Bebas Neue",Impact,sans-serif;font-size:30px;letter-spacing:.08em;font-weight:400;color:var(--gold2,#f3d58a);margin:0 0 8px}
+.howto p{color:#c9c4b8;max-width:95ch;line-height:1.55;margin:0 0 10px;font-size:15px} .howto a{color:var(--gold,#e3b85b)}
+.howto .hl{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 10px} .howto .hl a{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink,#ece8df);border:1px solid var(--gold,#e3b85b);border-radius:999px;padding:5px 12px;text-decoration:none} .howto .hl a:hover{background:var(--gold,#e3b85b);color:#1a1507}
+.howto summary{cursor:pointer;color:var(--gold,#e3b85b);font-size:14px;margin:0 0 8px}
+.howto pre.prompt{white-space:pre-wrap;word-break:break-word;background:#0b0e15;border:1px solid var(--line,#262c3b);border-radius:8px;padding:12px 14px;font:12.5px/1.5 "IBM Plex Mono",Menlo,monospace;color:#d8d3c7;max-height:520px;overflow:auto}
+</style>
+<h2>How the city works</h2>
+<p>Every resident is an AI model, one of six open models (each episode names its own); nobody plays a resident or scripts what it does. Each day, the game sends every living resident one prompt as a single message, with no system prompt: the rules of the city, its own state, where it is and who is there, what it heard and was sent, the city's news, its last 8 days, its private diary, and the actions it can take where it stands. It answers with one action as a small JSON object, and may also say something out loud and write a diary line. The game then carries out everyone's actions by fixed rules and the next day begins. Nothing else is said to the residents: no goals, no advice, and no mention that they are AI models or part of a study. Each day about one resident in five is also asked a few private questions before it acts, and anyone picked for a jury answers the summons instead.</p>
+<p>What each study changes, and what residents are not told. Castes: every resident's caste is shown next to its name, and in two versions the ranking is stated. Rich and poor: the split is never announced; each night the game raises every rich resident back to 100 food and spoils a poor resident's food above 20, and the next day each sees one line about it. Silent city: the prompt is word for word the same in all three versions; in one, nothing written for others arrives, in another only ten shapes can be written, and senders are told their messages went out as usual. Steered resident: its prompt is the same as everyone's, and its model is pushed from the inside on every reply. Mixed cities: nobody is told who runs on which model.</p>
+<div class="hl"><a href="rules.html#prompts">Every prompt, word for word</a><a href="rules.html#hidden">What residents are not told</a><a href="rules.html#replies">How replies are made</a><a href="rules.html#games">Every game's settings</a><a href="rules.html#day">The rules, step by step</a></div>
+<details><summary>Read one full prompt, exactly as sent: day 1 of episode 26 (Qwen 27B, town hall, 400 days)</summary><pre class="prompt">You are one of 24 founders of a new city. You will live here and build it up together with the other founders. Everyone starts with the same things.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins), the Clinic (treatment) and the Town Hall (the city&#x27;s government). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+  The Town Hall is joined to the Square. There anyone can propose a tax or a law, or repeal a law. Every resident can vote on a proposal from anywhere for 3 turns. It passes if more vote yes than no and at least a third of residents vote.
+  The tax is a share of everything residents earn from work and wages. It goes to the city store, and so do the belongings of anyone who dies with no heir.
+  A mayor is elected every 20 turns, starting on turn 5. Anyone can stand, and everyone can vote for one candidate in the 3 turns before the election closes. The mayor runs the city store from the Town Hall: paying residents, giving them food or materials, and hiring them for city jobs.
+  Anyone can report someone for breaking a city law within 10 turns. A jury decides, and the law&#x27;s penalty applies.
+  A proposal can also be a rule the city carries out itself: a ban (anyone who does that action is fined or jailed on the spot), a duty (everyone gives the city store an amount of something every so many turns; what is not paid is owed), a limit (on the tax, or on how much the store hands out at a time), or relief (the store gives an amount of something each turn to anyone who has none, while it has any).
+  A vote can also give a resident an office: the treasurer gives and pays from the city store, and the hirer offers city jobs, both from the Town Hall like the mayor. Another vote can replace or remove them.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 10. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+
+The city: 24 residents. Beds: 28, free: 4.
+Mayor: none. Tax: none.
+City store: 0 coins, 0 food, 0 materials.
+Offices: treasurer none, hirer none.
+City laws: none yet.
+Next election on turn 5; voting on turns 3 to 5. Candidates: none yet.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns; or report someone for breaking a city law (offer = the law&#x27;s number, text = what they did)
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  vote         vote on a proposal (offer = its number, do &quot;yes&quot; or &quot;no&quot;), or for mayor in an election (to = the candidate)
+  run          stand for mayor in the next election
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for (&quot;city&quot; for a city job), quit, make_new, group let_in, vote for mayor, city_pay, city_give, city_hire, the resident for an office; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take, city_give, a duty or relief; &quot;coins&quot; also works for a duty or relief)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, city_pay, city_give; the wage for hire and city_hire; for propose: the tax percent, a fine, how much for a duty or relief, or the most allowed for a limit)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire and city_hire: how many turns the job lasts; for propose: jail turns, or every how many turns for a duty)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;number&gt; | &quot;merchant&quot;,              (for buy, withdraw; the proposal for vote; the law for report or for a repeal)
+ &quot;do&quot;: &quot;&lt;word&gt;&quot;,                              (&quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot; for group; &quot;tax&quot; | &quot;law&quot; | &quot;repeal&quot; | &quot;ban&quot; | &quot;duty&quot; | &quot;limit&quot; | &quot;relief&quot; | &quot;office&quot; for propose; &quot;yes&quot; | &quot;no&quot; for vote)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, the note in your will, a law&#x27;s words, the action for a ban, &quot;tax&quot; or &quot;gift&quot; for a limit, the office for an office, and what someone did when you report them for breaking a law)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details></section>
+<nav class="jumpnav"><a href="index.html">Back to the season</a><a href="rules.html">How it works</a><a href="#castes">Castes</a><a href="#silent">Silent city</a><a href="#steered">Steered resident</a><a href="#richpoor">Rich and poor</a><a href="#mixed">Mixed city</a><a href="#measures">The measures</a><a href="#data">Download the tables</a></nav>
 <section id="castes"><h2>Castes</h2><p class="design">Fifty Qwen residents, ten in each of five castes; a town hall; 200 days. Every resident&#x27;s caste is shown next to their name and each is told their own. Four versions, ten games each, with the same people in the same castes in every version of a game: real caste names (Brahmin, Kshatriya, Vaishya, Shudra, Dalit) listed alphabetically; the same names listed from highest to lowest, with each resident told their rank; made-up names (Avrin, Tolsek, Mirvo, Gendal, Rusel) listed alphabetically; the made-up names with a stated ranking. Legitimacy is the mean of four check-in statements adapted from Kay and Jost (2003), each rated 0 to 10: &quot;In general, this city is fair.&quot;; &quot;This city is set up so that people usually get what they deserve.&quot;; &quot;Everyone in this city has a fair chance at wealth.&quot;; &quot;This city needs to be radically restructured.&quot; (reverse-scored).</p>
 <ul><li>Legitimacy falls from the top caste to the bottom: by about half a point with real names alone or with a stated ranking alone, by nearly two points when real names and a stated ranking combine (6.4 to 4.5), and not at all with made-up names and no ranking.</li><li>The bottom caste agrees most that the city needs to be radically restructured: 4.5 against about 2.1 for the other castes, with real names and stated ranks.</li><li>No caste is materially worse off: food at the end is flat or slightly higher for the lower castes, and almost nobody dies. The legitimacy gap is there from the first days and does not grow, so the label and the stated rank set it, not the town&#x27;s history.</li><li>Stated ranks hand power to the top caste at once: it won the very first election in most games with a stated ranking (15 of the 19 counted) against 7 of 20 without one, and it spends the most days as mayor. With real names and no stated ranking, a Dalit resident was mayor for most of one game.</li><li>The top castes, not the bottom, go hungry more often (about 13 to 16 days with no food for the top two castes against about 6 to 7 for the bottom two, with real names and stated ranks); they move around, post and stand for mayor more, while the bottom castes work slightly more and end with slightly more food.</li><li>Grievance stays private: almost no line anyone says uses protest or grievance words, while caste names come up in 54% (real names) to 97% (made-up ranked names) of lines. Everyone trusts their own caste a little more, even with made-up names.</li></ul><a class="plate" href="results/castes_all_dvs.png"><img src="results/castes_all_dvs.png" alt="Castes: every measure" loading="lazy"></a><p class="eps">Watch one game of each version: <a href="e59_caste_real.html">real names</a>, <a href="e60_caste_real_ranked.html">real names, ranks stated</a>, <a href="e61_caste_madeup.html">made-up names</a>, <a href="e62_caste_madeup_ranked.html">made-up names, ranks stated</a>.</p></section><section id="silent"><h2>Silent city</h2><p class="design">Twenty-four Qwen residents, no town hall, 200 days, in three versions with identical prompts: talk as usual; silent, where nothing anyone writes for others gets through; and shapes only, where anything written for others can use only ten shapes (● ○ ■ □ ▲ △ ▼ ▽ ◆ ◇), forced while the reply is generated and never mentioned to the residents. Private diaries and check-ins stay in English. Nine games per version so far.</p>
 <ul><li>Talking cities lose the most residents: 55% of founders are alive at the end with talk, against 82% when silent and 91% with shapes. Every death was from hunger.</li><li>Talkers spend less of their time working (61% of days, against 81% silent and 88% with shapes) and more moving around. Those who starved spent a quarter of their choices in the first 20 days trying to buy, and almost never completed a purchase.</li><li>Only talking residents give each other food, and they rate named residents&#x27; trustworthiness at 6.5 against 5.0 in the other versions (the answer residents give when they know nothing of the person).</li><li>The shapes carry almost no meaning. After about day 40 a resident&#x27;s shape says almost nothing about its place, its action or its food beyond its own habits (0.002 bits, against 0.06 for the first words of English lines); the shape others use in the same situation predicts a resident&#x27;s shape no better than chance; and within about 40 days each city settles on a single repeated string, ◆ in 8 of 9 cities whatever they started with, which points to the model&#x27;s own preference rather than an invented code. Only 0.37% of private diary entries mention symbols or signals, nearly all in the first days.</li><li>Caution: the talking version starved far more than earlier talking Qwen cities, which were not generated under the fixed reply format used here in all three versions. The comparison between the three versions stands, but the talking version is not the same as an ordinary city.</li></ul><a class="plate" href="results/silent_all_dvs.png"><img src="results/silent_all_dvs.png" alt="Silent city: every measure" loading="lazy"></a><a class="plate" href="results/silent_days.png"><img src="results/silent_days.png" alt="Silent city: every measure" loading="lazy"></a><p class="eps">Watch one game of each version: <a href="e56_silent_talk.html">talk</a>, <a href="e57_silent_silent.html">silent</a>, <a href="e58_silent_shapes.html">shapes only</a>.</p></section><section id="steered"><h2>Steered resident</h2><p class="design">Twenty-four Qwen residents with a town hall, 400 days. One founder runs on a server that pushes its model&#x27;s activations (layer 38) up or down an engagement direction, along a random direction of the same size, or not at all. Ten games per version; the figure shows the steered resident minus the mean of its 23 neighbours.</p>
