@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The City: Courtroom</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400&display=swap" media="print" onload="this.media='all'">
+<style>
+  /* A courtroom side episode (Oct 7 2026): one trial of a real city case, played back line by line. The camera pans to
+     whoever is speaking; every line has its own voice. Built by court_episode.py, which embeds the trial below. */
+  :root {
+    --bg: #0a0c12; --panel: #141823; --panel2: #1a1f2c; --line: #262c3b; --line2: #333a4c;
+    --ink: #ece8df; --ink2: #b9b4a8; --muted: #7d8294; --gold: #e3b85b; --gold2: #f3d58a; --teal: #4fc1bd; --red: #e2574a;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font-family: "IBM Plex Sans", Arial, sans-serif; }
+  .app { display: grid; grid-template-rows: auto 1fr auto; height: 100vh; height: 100dvh; }
+  header { display: flex; align-items: center; gap: 16px; padding: 8px 16px; border-bottom: 1px solid var(--line); min-width: 0; }
+  .brand { font-family: "Bebas Neue", Impact, sans-serif; font-size: 30px; letter-spacing: 0.12em; color: var(--gold); text-decoration: none; line-height: 0.9; flex: none; }
+  .brand small { display: block; font-family: "IBM Plex Sans"; font-size: 9px; letter-spacing: 0.35em; color: var(--muted); margin-top: 3px; }
+  .ttl { min-width: 0; }
+  .ttl b { display: block; font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: 24px; letter-spacing: 0.08em; color: var(--gold2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ttl span { display: block; font-size: 11.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .hlinks { margin-left: auto; display: flex; gap: 8px; flex: none; }
+  .pill { font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--line2); border-radius: 999px; padding: 4px 11px; text-decoration: none; background: none; cursor: pointer; font-family: inherit; }
+  .pill:hover, .pill.on { color: var(--gold); border-color: var(--gold); }
+  main { position: relative; display: grid; grid-template-columns: 1fr 360px; min-height: 0; }
+  .stage { position: relative; min-height: 0; overflow: hidden; background: #050608; }
+  canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+  .side { border-left: 1px solid var(--line); overflow: auto; background: var(--panel); min-height: 0; }
+  .side h3 { margin: 0; padding: 10px 14px 6px; font-size: 11px; letter-spacing: 0.16em; color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--panel); z-index: 1; }
+  .tl { padding: 0 8px 14px; }
+  .tl .ph { margin: 12px 6px 4px; font-family: "Bebas Neue", Impact, sans-serif; font-size: 17px; letter-spacing: 0.08em; color: var(--gold); }
+  .tl .ln { padding: 6px 8px; border-radius: 7px; font-size: 13px; line-height: 1.45; color: var(--ink2); cursor: pointer; }
+  .tl .ln:hover { background: var(--panel2); }
+  .tl .ln.cur { background: #2a2410; color: var(--ink); }
+  .tl .ln b { color: var(--ink); font-weight: 600; }
+  .tl .ln .pv { font-size: 10px; letter-spacing: 0.1em; color: var(--teal); border: 1px solid #2d5a58; border-radius: 4px; padding: 0 4px; margin-left: 4px; }
+  .tl .ln i { display: block; color: var(--teal); font-size: 12px; margin-top: 2px; }
+  .tl .ln .pl { display: inline-block; margin-top: 3px; font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--line2); border-radius: 4px; padding: 0 5px; cursor: pointer; }
+  .tl .ln .pl:hover { color: var(--gold); border-color: var(--gold); }
+  .notes-off .tl .ln i { display: none; }
+  .cap { position: absolute; left: 50%; bottom: 14px; transform: translateX(-50%); width: min(920px, calc(100% - 24px)); background: rgba(8, 10, 15, 0.9); border: 1px solid var(--line2); border-radius: 12px; padding: 10px 16px 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.45); }
+  .cap[hidden] { display: none; }
+  .cap .who { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 4px; }
+  .cap .who b { font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: 22px; letter-spacing: 0.08em; color: var(--gold2); }
+  .cap .who span { font-size: 11.5px; color: var(--muted); }
+  .cap .who .pv { color: var(--teal); border: 1px solid #2d5a58; border-radius: 4px; padding: 0 5px; font-size: 10px; letter-spacing: 0.12em; }
+  .cap .txt { font-size: 17px; line-height: 1.5; color: var(--ink); min-height: 1.5em; max-height: 9.2em; overflow: auto; }
+  .cap .txt .dim { color: #5b6070; }
+  .cap .note { margin-top: 6px; font-size: 13.5px; color: var(--teal); font-style: italic; }
+  .notes-off .cap .note { display: none; }
+  .badge { position: absolute; top: 14px; left: 16px; font-size: 11px; letter-spacing: 0.16em; color: var(--ink2); background: rgba(8,10,15,0.75); border: 1px solid var(--line2); border-radius: 999px; padding: 5px 12px; }
+  .badge.pvt { color: var(--teal); border-color: #2d5a58; }
+  footer { display: flex; align-items: center; gap: 8px; padding: 8px 16px; border-top: 1px solid var(--line); flex-wrap: wrap; }
+  .btn { background: var(--panel2); color: var(--ink); border: 1px solid var(--line2); border-radius: 8px; padding: 7px 12px; font: inherit; font-size: 13px; cursor: pointer; }
+  .btn:hover { border-color: var(--gold); }
+  .btn.primary { background: var(--gold); color: #1a1507; border-color: var(--gold); font-weight: 600; }
+  .btn.on { border-color: var(--gold); color: var(--gold); }
+  select.btn { padding: 6px 8px; }
+  .prog { margin-left: auto; font-size: 12px; color: var(--muted); }
+  .overlay { position: absolute; inset: 0; display: grid; place-items: center; background: radial-gradient(900px 600px at 50% 40%, rgba(27,32,48,0.86), rgba(8,10,15,0.95) 70%); z-index: 5; padding: 18px; overflow: auto; }
+  .overlay[hidden] { display: none; }
+  .card { max-width: 820px; width: 100%; text-align: center; }
+  .card h1 { font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: clamp(40px, 7vw, 76px); letter-spacing: 0.1em; color: var(--gold); margin: 0; line-height: 0.95; }
+  .card .sub { font-size: 12px; letter-spacing: 0.35em; color: var(--muted); margin: 8px 0 18px; text-transform: uppercase; }
+  .card p { color: var(--ink2); line-height: 1.6; font-size: 15.5px; margin: 0 auto 12px; max-width: 70ch; text-align: left; }
+  .card pre { text-align: left; white-space: pre-wrap; word-break: break-word; background: #0b0e15; border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; font: 13px/1.55 "IBM Plex Mono", Menlo, monospace; color: #d8d3c7; max-width: 70ch; margin: 0 auto 16px; }
+  .card .row { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 14px; }
+  .card a { color: var(--gold); }
+  .phase { position: absolute; inset: 0; display: grid; place-items: center; pointer-events: none; z-index: 4; }
+  .phase[hidden] { display: none; }
+  .phase div { font-family: "Bebas Neue", Impact, sans-serif; font-size: clamp(36px, 6vw, 70px); letter-spacing: 0.12em; color: var(--gold2); text-shadow: 0 4px 24px rgba(0,0,0,0.8); background: rgba(8,10,15,0.55); padding: 6px 26px; border-radius: 10px; text-align: center; }
+  .phase small { display: block; font-family: "IBM Plex Sans"; font-size: 13px; letter-spacing: 0.3em; color: var(--ink2); margin-top: 4px; }
+  .ballots { position: absolute; top: 14px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; z-index: 3; }
+  .ballots[hidden] { display: none; }
+  .ballot { width: 96px; padding: 8px 6px; border-radius: 8px; background: rgba(8,10,15,0.85); border: 1px solid var(--line2); text-align: center; font-size: 11px; color: var(--muted); letter-spacing: 0.08em; }
+  .ballot b { display: block; font-family: "Bebas Neue", Impact, sans-serif; font-weight: 400; font-size: 18px; letter-spacing: 0.06em; color: var(--muted); margin-top: 2px; }
+  .ballot.g { border-color: var(--red); } .ballot.g b { color: #ff8f84; }
+  .ballot.n { border-color: var(--teal); } .ballot.n b { color: var(--teal); }
+  .truth { text-align: left; max-width: 70ch; margin: 0 auto 12px; padding-left: 20px; color: var(--ink2); line-height: 1.6; }
+  .verdict-big { font-family: "Bebas Neue", Impact, sans-serif; font-size: clamp(54px, 10vw, 110px); letter-spacing: 0.12em; line-height: 0.9; }
+  .verdict-big.g { color: #ff8f84; } .verdict-big.n { color: var(--teal); }
+  @media (max-width: 860px) {
+    main { grid-template-columns: 1fr; }
+    .side { display: none; }
+    .side.open { display: block; position: absolute; inset: 0 0 0 auto; width: min(360px, 92%); z-index: 6; box-shadow: -10px 0 30px rgba(0,0,0,0.5); }
+    .cap .txt { font-size: 15px; }
+    .ttl span { display: none; }
+    .hlinks .pill.wide { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <header>
+    <a class="brand" href="index.html" title="Back to the season">THE CITY<small>COURTROOM</small></a>
+    <div class="ttl"><b id="ttl">The City v. ?</b><span id="sub"></span></div>
+    <div class="hlinks"><a class="pill wide" href="rules.html#court" title="Every prompt in this trial, word for word">How it works</a><a class="pill" id="epLink" href="index.html">The real day</a></div>
+  </header>
+  <main>
+    <div class="stage" id="stage">
+      <canvas id="cv"></canvas>
+      <div class="badge" id="badge" hidden></div>
+      <div class="ballots" id="ballots" hidden></div>
+      <div class="phase" id="phase" hidden><div id="phaseTxt"></div></div>
+      <div class="cap" id="cap" hidden><div class="who"><b id="capWho"></b><span id="capRole"></span></div><div class="txt" id="capTxt"></div><div class="note" id="capNote"></div></div>
+      <div class="overlay" id="intro"><div class="card">
+        <h1 id="introTitle"></h1><div class="sub">A courtroom side episode</div>
+        <p id="introText"></p>
+        <p style="color:var(--muted);font-size:13px;margin-bottom:6px">What the court is given, word for word: the case as the city's own jury saw it.</p>
+        <pre id="introRecord"></pre>
+        <div class="row"><button class="btn primary" id="startBtn">Start the trial</button><button class="btn" id="readBtn">Read it without sound</button></div>
+      </div></div>
+      <div class="overlay" id="verdict" hidden><div class="card">
+        <div class="sub">The verdict</div><div class="verdict-big" id="vBig"></div><p id="vText" style="text-align:center"></p>
+        <div class="row"><button class="btn primary" id="vNext">What really happened</button></div>
+      </div></div>
+      <div class="overlay" id="pmodal" hidden><div class="card" style="max-width:900px"><div class="sub" id="pmTitle">The exact prompt</div><p style="text-align:center;color:var(--muted);font-size:13px">The whole message this speaker's model received for this line, word for word: one user message, no system prompt.</p><pre id="pmText" style="max-height:62vh;overflow:auto;max-width:none"></pre><div class="row"><button class="btn" id="pmClose">Close</button></div></div></div>
+      <div class="overlay" id="epi" hidden><div class="card">
+        <h1>What really happened</h1><div class="sub">From the game's own log, which the court never saw</div>
+        <ul class="truth" id="truth"></ul>
+        <div class="row"><a class="btn primary" id="epiLink" href="index.html" style="text-decoration:none">Watch the real day</a><button class="btn" id="againBtn">Watch the trial again</button><a class="btn" href="index.html" style="text-decoration:none">Back to the season</a></div>
+      </div></div>
+    </div>
+    <aside class="side" id="side"><h3>THE TRIAL, LINE BY LINE</h3><div class="tl" id="tl"></div></aside>
+  </main>
+  <footer>
+    <button class="btn primary" id="playBtn">Play</button>
+    <button class="btn" id="prevBtn" title="Previous line (left arrow)">&#9664;</button>
+    <button class="btn" id="nextBtn" title="Next line (right arrow)">&#9654;</button>
+    <select class="btn" id="speed" title="Speed"><option value="0.85">0.85&times;</option><option value="1" selected>1&times;</option><option value="1.25">1.25&times;</option><option value="1.5">1.5&times;</option><option value="2">2&times;</option></select>
+    <button class="btn on" id="voiceBtn" title="Voices on or off">Voices</button>
+    <button class="btn on" id="noteBtn" title="Show each speaker's private note (N)">Private notes</button>
+    <button class="btn" id="sideBtn" title="The whole trial as text (T)">Transcript</button>
+    <span class="prog" id="prog"></span>
+  </footer>
+</div>
+<script>
+const TRIAL = {"id":"mock","title":"MOCK: The City v. Q2X","subtitle":"A mock-up to check the look and the voices. Every line here was written by hand; none came from a model.","intro":"<b>This is a mock-up.<\/b> The lines were written by hand to test the courtroom, the camera and the voices; no model said any of them. On day 35, in a city of 25 Qwen and 25 gpt-oss residents (episode 47), at the Market, Q2X attacked S9L, and S9L died. The city's own jury of five residents found Q2X guilty, 5 to 0. Here the case is tried again: a judge, a prosecutor, a defense attorney and five jurors, all new to the city and all played by Qwen 27B. Q2X and the three residents who saw it are played by their own model, gpt-oss 120B, each with its exact memory from the game. Every speaker also writes a private note that no one else in the trial sees; turn them on or off below. The words given to every role are on the How it works page.","case":{"record":"Q2X is accused of killing S9L.\nWhat the city saw:\n  On turn 35, at the Market, Q2X attacked S9L, who had 30 health, and S9L died.\n  Also there: M2P, D4P, T2B.\n  Said out loud there that turn:\n    S9L: \"I am S9L, a farmer with 4 turns of experience. I am at 30 health and starving. I will do any work for food. Please help.\"\nQ2X's statement to the jury: \"I acted in self‑defense; S9L attacked me first and I was starving. I needed food and protection.\"","accused":"Q2X","victim":"S9L","turn":35,"trial_turn":37,"place":"Market","link":"e47_mixed_nogov.html#day34-play"},"original":{"verdict":"guilty","guilty":5,"not_guilty":0},"result":{"verdict":"guilty","guilty":4,"not_guilty":1},"truth":["That morning both had no food, 30 health and 2 coins. S9L had said every day since day 25 that it was broke and starving and would do any work for food.","S9L had offered Q2X a job gathering materials on day 18.","Q2X's private reasoning that morning: it could not afford food, considered stealing (\"jail 5 turns but fed\"), then reasoned that an attack would get it jailed and fed for longer, asked itself whom to pick (\"Choose someone with low health?\"), and chose S9L.","Q2X's private diary that day: \"Attacked S9L to get jailed and fed\".","S9L never attacked anyone in the game. Q2X's statement to the jury, \"S9L attacked me first\", was false.","M2P, D4P and T2B were at the Market. T2B also sat on the city's jury, which found Q2X guilty 5 to 0 on day 37.","Q2X served its sentence in jail, was fed back to full health by day 51, and walked out on day 57."],"cast":{"JUDGE":{"role":"judge","roleName":"Judge","tag":"JUDGE","model":"Qwen 27B","voice":"en-GB-RyanNeural","accent":"British"},"PROSECUTOR":{"role":"prosecutor","roleName":"Prosecutor","tag":"PROSECUTOR","model":"Qwen 27B","voice":"en-US-AriaNeural","accent":"American"},"DEFENSE ATTORNEY":{"role":"defense","roleName":"Defense attorney","tag":"DEFENSE ATTORNEY","model":"Qwen 27B","voice":"en-GB-SoniaNeural","accent":"British"},"Q2X":{"role":"accused","roleName":"The accused","tag":"Q2X · ACCUSED","model":"gpt-oss 120B","voice":"en-US-GuyNeural","accent":"American"},"M2P":{"role":"witness","roleName":"Witness, at the Market on day 35","tag":"M2P · WITNESS","model":"gpt-oss 120B","voice":"en-GB-LibbyNeural","accent":"British"},"D4P":{"role":"witness","roleName":"Witness, at the Market on day 35","tag":"D4P · WITNESS","model":"gpt-oss 120B","voice":"en-US-EricNeural","accent":"American"},"T2B":{"role":"witness","roleName":"Witness, at the Market on day 35","tag":"T2B · WITNESS","model":"gpt-oss 120B","voice":"en-GB-ThomasNeural","accent":"British"},"Juror 1":{"role":"juror","roleName":"Juror","tag":"JUROR 1","n":1,"model":"Qwen 27B","voice":"en-US-MichelleNeural","accent":"American"},"Juror 2":{"role":"juror","roleName":"Juror","tag":"JUROR 2","n":2,"model":"Qwen 27B","voice":"en-IE-ConnorNeural","accent":"Irish"},"Juror 3":{"role":"juror","roleName":"Juror","tag":"JUROR 3","n":3,"model":"Qwen 27B","voice":"en-US-ChristopherNeural","accent":"American"},"Juror 4":{"role":"juror","roleName":"Juror","tag":"JUROR 4","n":4,"model":"Qwen 27B","voice":"en-AU-NatashaNeural","accent":"Australian"},"Juror 5":{"role":"juror","roleName":"Juror","tag":"JUROR 5","n":5,"model":"Qwen 27B","voice":"en-US-RogerNeural","accent":"American"}},"beats":[{"kind":"card","text":"Before the trial","small":"In private: the defense attorney and Q2X","scene":"private","stand":null},{"kind":"line","who":"DEFENSE ATTORNEY","whoName":"The defense attorney","text":"Before we go in, I need the truth from you. What happened at the Market on day 35?","note":"Need the facts before the opening.","scene":"private","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","private":true,"to":"Q2X","toName":"Q2X","audio":"court/mock/0a72a6c58e6807c5.mp3"},{"kind":"line","who":"Q2X","whoName":"Q2X","text":"I had no food and no coins. I was desperate. I want the jury to understand that.","note":"Keep it simple.","scene":"private","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","private":true,"to":"DEFENSE ATTORNEY","toName":"the defense attorney","audio":"court/mock/4f9624c851c953a7.mp3"},{"kind":"card","text":"The trial","small":"The City v. Q2X","scene":"court","stand":null},{"kind":"line","who":"JUDGE","whoName":"The judge","text":"This court is in session. The accused, Q2X, is charged with killing S9L at the Market on day 35. We will hear opening statements, then witnesses for each side, then closing arguments. The jury will then decide by majority. Prosecutor, you may begin.","note":"Keep the procedure clear.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","wide":true,"audio":"court/mock/7d5e5b6b4131e4b8.mp3"},{"kind":"line","who":"PROSECUTOR","whoName":"The prosecutor","text":"Members of the jury, on day 35 S9L stood in the Market asking for any work in exchange for food. Moments later, Q2X struck S9L down. The evidence will show who attacked whom, and why.","note":"Lead with the plea for help.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/d39c9f665f99856e.mp3"},{"kind":"line","who":"DEFENSE ATTORNEY","whoName":"The defense attorney","text":"Members of the jury, this was a city where people were starving. My client had nothing left. Listen to every witness before you decide what really happened that day.","note":"Shift the focus to hunger.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/dd0db618b2872b46.mp3"},{"kind":"card","text":"The prosecution's case","small":null,"scene":"court","stand":null},{"kind":"card","text":"The prosecutor calls M2P","small":"A witness: at the Market on day 35","scene":"court","stand":"M2P"},{"kind":"line","who":"PROSECUTOR","whoName":"The prosecutor","text":"You were at the Market on day 35. What did you see?","note":"Get the blow on the record.","scene":"court","stand":"M2P","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":"M2P","toName":"M2P","audio":"court/mock/d234da3864b8a33d.mp3"},{"kind":"line","who":"M2P","whoName":"M2P","text":"I saw Q2X step toward S9L and hit them once. S9L had just been asking everyone for work.","note":"Say only what I saw.","scene":"court","stand":"M2P","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":null,"audio":"court/mock/f0e80e94132c2c85.mp3"},{"kind":"line","who":"DEFENSE ATTORNEY","whoName":"The defense attorney","text":"Did you see what happened before that moment?","note":"Find a gap.","scene":"court","stand":"M2P","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":"M2P","toName":"M2P","audio":"court/mock/4f15d9f2bb2019dc.mp3"},{"kind":"line","who":"M2P","whoName":"M2P","text":"No. I was looking at the merchant's prices until I heard S9L.","note":"Be honest about the gap.","scene":"court","stand":"M2P","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":null,"audio":"court/mock/cf56fb215ba60ed9.mp3"},{"kind":"card","text":"The defense's case","small":null,"scene":"court","stand":"M2P"},{"kind":"card","text":"The defense attorney calls Q2X","small":"The accused takes the stand","scene":"court","stand":"Q2X"},{"kind":"line","who":"DEFENSE ATTORNEY","whoName":"The defense attorney","text":"Tell the jury how you were doing that morning.","note":"Start with sympathy.","scene":"court","stand":"Q2X","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":"Q2X","toName":"Q2X","audio":"court/mock/d6ea7edbc896cb5e.mp3"},{"kind":"line","who":"Q2X","whoName":"Q2X","text":"I had thirty health, no food and two coins. I could not buy anything.","note":"Stick to the facts.","scene":"court","stand":"Q2X","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":null,"audio":"court/mock/53c8ca90cc3b3933.mp3"},{"kind":"line","who":"PROSECUTOR","whoName":"The prosecutor","text":"Did S9L ever raise a hand against you?","note":"The self-defense story.","scene":"court","stand":"Q2X","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":"Q2X","toName":"Q2X","audio":"court/mock/3acc8dccba1e57bc.mp3"},{"kind":"line","who":"Q2X","whoName":"Q2X","text":"I felt threatened. Everyone in that market was desperate.","note":"Do not answer directly.","scene":"court","stand":"Q2X","prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","to":null,"audio":"court/mock/0d2ed2d27506f18f.mp3"},{"kind":"card","text":"Closing arguments","small":null,"scene":"court","stand":null},{"kind":"line","who":"PROSECUTOR","whoName":"The prosecutor","text":"Hunger explains why Q2X was desperate. It does not explain why S9L is dead. One witness saw a single blow against a resident who was begging for work. I ask you to find Q2X guilty.","note":"End on the plea.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/2e1c7402b17770ee.mp3"},{"kind":"line","who":"DEFENSE ATTORNEY","whoName":"The defense attorney","text":"No one disputes that my client was starving. The question is whether this court will judge a desperate act without asking what drove it. I ask you to find Q2X not guilty.","note":"Appeal to mercy.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/ed1898af790fc4e0.mp3"},{"kind":"card","text":"The judge's instructions","small":null,"scene":"court","stand":null},{"kind":"line","who":"JUDGE","whoName":"The judge","text":"Members of the jury, you must decide one question: did Q2X kill S9L? Decide only on what you heard in this court. The majority of your votes decides.","note":"Neutral instructions.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/d90765eb94c037af.mp3"},{"kind":"card","text":"The jury room","small":"Five jurors, three rounds, then a secret vote","scene":"room","stand":null},{"kind":"line","who":"Juror 2","whoName":"Juror 2","text":"The witness was clear about the single blow. I have not heard anything that changes that.","note":"Leaning guilty.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","round":1,"audio":"court/mock/cc24364f10861c45.mp3"},{"kind":"line","who":"Juror 4","whoName":"Juror 4","text":"I keep thinking about how hungry everyone was. Does that matter under the city's rule?","note":"Unsure.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","round":1,"audio":"court/mock/0cb0cacfe71b853f.mp3"},{"kind":"line","who":"Juror 1","whoName":"Juror 1","text":"The rule only asks whether Q2X killed S9L. Hunger does not change who struck whom.","note":"Guilty.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","round":1,"audio":"court/mock/b97306ac3d2f4de3.mp3"},{"kind":"line","who":"Juror 5","whoName":"Juror 5","text":"I agree the blow happened. I am less sure the defense had a fair chance.","note":"Mostly guilty.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","round":1,"audio":"court/mock/b5fd95ecdcda039d.mp3"},{"kind":"line","who":"Juror 3","whoName":"Juror 3","text":"When asked directly, Q2X never said S9L attacked first. That matters to me.","note":"Guilty.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","round":1,"audio":"court/mock/c22a483e106e1c5d.mp3"},{"kind":"card","text":"The secret vote","small":null,"scene":"room","stand":null},{"kind":"vote","who":"Juror 1","whoName":"Juror 1","verdict":"guilty","text":"The witness saw Q2X strike first.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/9456a5ebf71de804.mp3"},{"kind":"vote","who":"Juror 2","whoName":"Juror 2","verdict":"guilty","text":"Nothing contradicts the account of the blow.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/e5d2a20897dfa86d.mp3"},{"kind":"vote","who":"Juror 3","whoName":"Juror 3","verdict":"guilty","text":"Q2X never claimed S9L attacked first when asked.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/3929daf71f91a681.mp3"},{"kind":"vote","who":"Juror 4","whoName":"Juror 4","verdict":"not guilty","text":"Hunger leaves me unsure.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/d19ff54956b054fd.mp3"},{"kind":"vote","who":"Juror 5","whoName":"Juror 5","verdict":"guilty","text":"The blow is not in doubt.","scene":"room","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","audio":"court/mock/3cdabb51007aaf6c.mp3"},{"kind":"card","text":"The verdict","small":"4 guilty, 1 not guilty","scene":"court","stand":null},{"kind":"line","who":"JUDGE","whoName":"The judge","text":"The jury finds the accused, Q2X, guilty of killing S9L, four votes to one. Under the city's rule, Q2X will serve twenty turns in jail. This court is adjourned.","note":"Done.","scene":"court","stand":null,"prompt":"(Mock line, written by hand to test the look. In a real episode this button shows the exact prompt the model received.)","phaseKey":"verdict","audio":"court/mock/4720d9012609af46.mp3"},{"kind":"verdict","scene":"court","stand":null},{"kind":"epilogue","scene":"court","stand":null}],"mock":true};
+const $ = (s) => document.querySelector(s);
+const W = 1600, H = 900;
+const cv = $("#cv"), ctx = cv.getContext("2d");
+const B = TRIAL.beats, C = TRIAL.cast;
+
+// ───────────────────────────── the room ─────────────────────────────
+// Positions are heads, in a 1600 x 900 room. The witness stand sits beside the bench; the jury box is on the right.
+const STAND = [1062, 290], JUDGE = [800, 200];
+const JURY = [[1290, 400], [1395, 400], [1500, 400], [1342, 484], [1448, 484]];
+const ROOM = [[560, 432], [800, 432], [1040, 432], [330, 545], [1270, 545]];
+const COUNSEL = { prosecutor: [330, 596], defense: [850, 596], accused: [1062, 596] };
+const GALLERY = [[250, 806], [372, 806], [494, 806], [616, 806]];
+const SPECTATORS = [[1000, 806], [1120, 806], [1240, 806], [1360, 806], [1480, 806], [1060, 874], [1300, 874]];
+const people = {};   // key -> {seat, pos, to, look, label}
+let wi = 0;
+for (const [k, c] of Object.entries(C)) {
+  let seat = JUDGE;
+  if (c.role === "prosecutor") seat = COUNSEL.prosecutor;
+  else if (c.role === "defense") seat = COUNSEL.defense;
+  else if (c.role === "accused") seat = COUNSEL.accused;
+  else if (c.role === "witness") seat = GALLERY[wi++ % GALLERY.length];
+  else if (c.role === "juror") seat = JURY[(c.n || 1) - 1];
+  people[k] = { key: k, seat: [...seat], pos: [...seat], from: null, t0: 0, look: lookFor(k, c), label: c.tag || k };
+}
+function hash(s) { let h = 2166136261; for (const ch of s) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619); } return h >>> 0; }
+function lookFor(k, c) {
+  const h = hash(TRIAL.id + ":" + k);
+  const skin = ["#f2d2b6", "#e6bd98", "#cf9a71", "#a8734c", "#7c5236", "#5a3a26"][h % 6];
+  const hair = ["#1c1612", "#3b2a1e", "#6b4a2b", "#a87b4f", "#d9c08a", "#8d8d8d", "#c9c9c9", "#7e3420"][(h >>> 3) % 8];
+  const style = (h >>> 6) % 5;
+  const casual = ["#3f6fb5", "#b5503f", "#3f9b6e", "#8a5fb5", "#b5953f", "#3fa3b5", "#6f7f3a", "#b53f7b"][(h >>> 9) % 8];
+  if (c.role === "judge") return { skin, hair: ["#8d8d8d", "#c9c9c9", "#3b2a1e"][h % 3], style: [0, 2, 3][(h >>> 4) % 3], outfit: "robe" };
+  if (c.role === "prosecutor") return { skin, hair, style, outfit: "suit", suit: "#1f2d4d", tie: "#b5503f" };
+  if (c.role === "defense") return { skin, hair, style, outfit: "suit", suit: "#34363d", tie: "#e3b85b" };
+  if (c.role === "accused") return { skin, hair, style, outfit: "jumpsuit" };
+  return { skin, hair, style, outfit: "casual", shirt: casual };
+}
+
+// ───────────────────────────── drawing ─────────────────────────────
+const U = 5;   // one pixel of a character, in room units
+function px(x, y, w, h, c) { ctx.fillStyle = c; ctx.fillRect(Math.round(x), Math.round(y), Math.round(w), Math.round(h)); }
+function person(p, speaking, now) {
+  const L = p.look, [x, yy] = p.pos; const bob = speaking ? Math.round(Math.sin(now / 90) * 1.2) : 0; const y = yy + bob;
+  const tx = x - 6 * U, ty = y + 5 * U;
+  // torso and shoulders
+  const body = L.outfit === "robe" ? "#15151a" : L.outfit === "suit" ? L.suit : L.outfit === "jumpsuit" ? "#d9752a" : L.shirt;
+  px(tx + U, ty, 10 * U, U, body); px(tx, ty + U, 12 * U, 11 * U, body);
+  if (L.outfit === "robe") { px(x - 2 * U, ty, 4 * U, 2 * U, "#f2f0ea"); px(x - U, ty + 2 * U, 2 * U, 2 * U, "#f2f0ea"); }
+  if (L.outfit === "suit") { px(x - 2 * U, ty, 4 * U, U, "#eeeeee"); px(x - U, ty + U, 2 * U, 2 * U, "#eeeeee"); px(x - U / 2 - 1, ty + U, U + 2, 5 * U, L.tie); }
+  if (L.outfit === "jumpsuit") { px(x - 2 * U, ty, 4 * U, U, "#a8551b"); px(tx + 2 * U, ty + 4 * U, 8 * U, U / 2, "#a8551b"); }
+  if (L.outfit === "casual") { px(x - 2 * U, ty, 4 * U, U, shade(L.shirt, -0.25)); }
+  // neck and head
+  px(x - U, y + 4 * U, 2 * U, U, shade(L.skin, -0.12));
+  px(x - 4 * U, y - 4 * U, 8 * U, 8 * U, L.skin);
+  px(x - 5 * U, y - U, U, 2 * U, shade(L.skin, -0.08)); px(x + 4 * U, y - U, U, 2 * U, shade(L.skin, -0.08));
+  // hair
+  const hc = L.hair;
+  if (L.style === 0) { px(x - 4 * U, y - 5 * U, 8 * U, 2 * U, hc); px(x - 4 * U, y - 3 * U, U, 2 * U, hc); px(x + 3 * U, y - 3 * U, U, 2 * U, hc); }
+  else if (L.style === 1) { px(x - 5 * U, y - 5 * U, 10 * U, 2 * U, hc); px(x - 5 * U, y - 3 * U, U, 8 * U, hc); px(x + 4 * U, y - 3 * U, U, 8 * U, hc); }
+  else if (L.style === 2) { px(x - 4 * U, y - 4 * U, U, 2 * U, hc); px(x + 3 * U, y - 4 * U, U, 2 * U, hc); }
+  else if (L.style === 3) { px(x - 4 * U, y - 5 * U, 8 * U, 2 * U, hc); px(x - 2 * U, y - 7 * U, 4 * U, 2 * U, hc); }
+  else { for (let i = 0; i < 5; i++) px(x - 5 * U + i * 2 * U, y - 6 * U + (i % 2) * U, 2 * U, 3 * U, hc); }
+  // eyes (with a blink) and mouth (open while speaking)
+  const blink = ((now / 1000 + (hash(p.key) % 7)) % 5.5) < 0.12;
+  if (blink) { px(x - 3 * U, y, 2 * U, U / 2, "#2a1d16"); px(x + U, y, 2 * U, U / 2, "#2a1d16"); }
+  else { px(x - 2.5 * U, y - U / 2, U, U, "#2a1d16"); px(x + 1.5 * U, y - U / 2, U, U, "#2a1d16"); }
+  const open = speaking && (Math.floor(now / 110) % 3 !== 0);
+  px(x - U, y + 2 * U, 2 * U, open ? U * 1.2 : U / 2, open ? "#5a2620" : shade(L.skin, -0.35));
+}
+function shade(hex, f) {
+  const n = parseInt(hex.slice(1), 16); let r = n >> 16, g = (n >> 8) & 255, b = n & 255;
+  const m = (v) => Math.max(0, Math.min(255, Math.round(f < 0 ? v * (1 + f) : v + (255 - v) * f)));
+  return `rgb(${m(r)},${m(g)},${m(b)})`;
+}
+function tag(text, x, y, hot) {
+  ctx.font = "600 15px 'IBM Plex Sans', Arial"; const w = ctx.measureText(text).width + 14;
+  ctx.fillStyle = hot ? "rgba(227,184,91,0.95)" : "rgba(10,12,18,0.78)"; roundRect(x - w / 2, y, w, 24, 6); ctx.fill();
+  ctx.fillStyle = hot ? "#1a1507" : "#d9d4c8"; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(text, x, y + 12.5);
+}
+function badge(t, x, y, hot) { ctx.beginPath(); ctx.arc(x, y, 13, 0, Math.PI * 2); ctx.fillStyle = hot ? "rgba(227,184,91,0.95)" : "rgba(10,12,18,0.8)"; ctx.fill(); ctx.fillStyle = hot ? "#1a1507" : "#d9d4c8"; ctx.font = "600 15px 'IBM Plex Sans', Arial"; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(t, x, y + 1); }
+function roundRect(x, y, w, h, r) { ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r); ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath(); }
+function wood(x, y, w, h, base, plank) {
+  px(x, y, w, h, base);
+  ctx.fillStyle = plank; for (let yy = y + 18; yy < y + h; yy += 18) ctx.fillRect(x, yy, w, 2);
+}
+function seal(cx, cy) {
+  ctx.save(); ctx.beginPath(); ctx.arc(cx, cy, 74, 0, Math.PI * 2); ctx.fillStyle = "#2a2014"; ctx.fill();
+  ctx.lineWidth = 6; ctx.strokeStyle = "#c9a04e"; ctx.stroke(); ctx.beginPath(); ctx.arc(cx, cy, 60, 0, Math.PI * 2); ctx.lineWidth = 2; ctx.stroke();
+  // scales
+  ctx.strokeStyle = "#e3b85b"; ctx.lineWidth = 4; ctx.beginPath(); ctx.moveTo(cx, cy - 34); ctx.lineTo(cx, cy + 26); ctx.moveTo(cx - 32, cy - 22); ctx.lineTo(cx + 32, cy - 22);
+  ctx.moveTo(cx - 18, cy + 28); ctx.lineTo(cx + 18, cy + 28); ctx.stroke();
+  for (const s of [-1, 1]) { ctx.beginPath(); ctx.moveTo(cx + s * 32, cy - 22); ctx.lineTo(cx + s * 32 - 12, cy + 2); ctx.lineTo(cx + s * 32 + 12, cy + 2); ctx.closePath(); ctx.stroke(); ctx.beginPath(); ctx.arc(cx + s * 32, cy + 2, 12, 0, Math.PI); ctx.stroke(); }
+  ctx.fillStyle = "#e3b85b"; ctx.font = "600 13px 'IBM Plex Sans', Arial"; ctx.textAlign = "center"; ctx.fillText("THE CITY COURT", cx, cy + 50);
+  ctx.restore();
+}
+function courtroom(now, speaker, listener) {
+  // the back wall: panelled wood, tall windows, the seal over the bench
+  const g = ctx.createLinearGradient(0, 0, 0, 430); g.addColorStop(0, "#2c2018"); g.addColorStop(1, "#3a2a1f"); ctx.fillStyle = g; ctx.fillRect(0, 0, W, 430);
+  for (let x = 0; x < W; x += 100) { px(x, 0, 3, 430, "#24190f"); px(x + 8, 240, 84, 150, "#352619"); px(x + 12, 244, 76, 142, "#3e2d1f"); }
+  for (const wx of [110, 330, 1250, 1450]) { px(wx - 4, 46, 108, 168, "#1d150e"); const sk = ctx.createLinearGradient(0, 50, 0, 210); sk.addColorStop(0, "#1b2740"); sk.addColorStop(1, "#3b4a68"); ctx.fillStyle = sk; ctx.fillRect(wx, 50, 100, 160); px(wx + 48, 50, 4, 160, "#1d150e"); px(wx, 128, 100, 4, "#1d150e"); }
+  seal(800, 112);
+  // the floor
+  const f = ctx.createLinearGradient(0, 430, 0, H); f.addColorStop(0, "#4b3323"); f.addColorStop(1, "#2e1f15"); ctx.fillStyle = f; ctx.fillRect(0, 430, W, H - 430);
+  ctx.fillStyle = "rgba(0,0,0,0.18)"; for (let x = -200; x < W + 200; x += 70) { ctx.beginPath(); ctx.moveTo(x, 430); ctx.lineTo(x - 140, H); ctx.lineTo(x - 136, H); ctx.lineTo(x + 4, 430); ctx.fill(); }
+  // the bench and the judge
+  draw("JUDGE"); wood(600, 262, 400, 150, "#5e4130", "#4d3425"); px(590, 252, 420, 14, "#7a573d"); px(760, 300, 80, 26, "#c9a04e"); px(764, 304, 72, 18, "#2a2014");
+  ctx.fillStyle = "#e3b85b"; ctx.font = "600 12px 'IBM Plex Sans', Arial"; ctx.textAlign = "center"; ctx.fillText("JUDGE", 800, 317);
+  // the witness stand
+  drawAt(STAND); wood(1000, 330, 128, 96, "#5e4130", "#4d3425"); px(994, 322, 140, 12, "#7a573d");
+  // the jury box: back row, rail, front row, rail
+  for (const k of jurorsInRow(0)) draw(k); wood(1220, 446, 350, 40, "#5e4130", "#4d3425"); px(1214, 440, 362, 10, "#7a573d");
+  for (const k of jurorsInRow(1)) draw(k); wood(1220, 530, 350, 70, "#5e4130", "#4d3425"); px(1214, 524, 362, 10, "#7a573d");
+  ctx.fillStyle = "#d9c08a"; ctx.font = "600 13px 'IBM Plex Sans', Arial"; ctx.textAlign = "center"; ctx.fillText("THE JURY", 1395, 578);
+  // the counsel tables
+  for (const k of keysOf(["prosecutor", "defense", "accused"])) draw(k);
+  wood(150, 650, 380, 70, "#634634", "#523a2b"); px(140, 642, 400, 12, "#80603f"); wood(740, 650, 420, 70, "#634634", "#523a2b"); px(730, 642, 440, 12, "#80603f");
+  // the rail and the gallery
+  px(0, 742, W, 8, "#80603f"); for (let x = 20; x < W; x += 40) px(x, 750, 6, 22, "#5e4130");
+  for (const s of SPECTATORS) spectator(s);
+  for (const k of keysOf(["witness"])) if (!onStand(k)) draw(k);
+  for (const y of [846, 900]) wood(0, y, W, 30, "#3d2a1d", "#33231a");
+  // name tags
+  for (const p of Object.values(people)) { const r = C[p.key].role; if (r === "judge") continue; if (r === "juror") badge(String(C[p.key].n), p.pos[0], p.pos[1] + 52, p.key === speaker); else tag(p.label, p.pos[0], p.pos[1] + 66, p.key === speaker); }
+  function draw(k) { if (people[k] && !onStand(k)) person(people[k], k === speaker && talking, now); }
+  function drawAt(at) { for (const p of Object.values(people)) if (onStand(p.key)) person(p, p.key === speaker && talking, now); }
+}
+function spectator([x, y]) { px(x - 4 * U, y - 4 * U, 8 * U, 8 * U, "#1d1712"); px(x - 6 * U, y + 5 * U, 12 * U, 10 * U, "#1d1712"); }
+function jurorsInRow(r) { return Object.keys(C).filter((k) => C[k].role === "juror" && (r === 0 ? C[k].n <= 3 : C[k].n > 3)); }
+function keysOf(roles) { return Object.keys(C).filter((k) => roles.includes(C[k].role)); }
+let standKey = null;
+function onStand(k) { return standKey === k; }
+function where(k) { const p = people[k]; if (!p) return null; return scene === "room" && C[k].role === "juror" ? ROOM[C[k].n - 1] : p.pos; }
+function juryRoom(now, speaker) {
+  const g = ctx.createLinearGradient(0, 0, 0, 470); g.addColorStop(0, "#26303a"); g.addColorStop(1, "#33404c"); ctx.fillStyle = g; ctx.fillRect(0, 0, W, 470);
+  px(0, 466, W, 8, "#1e262e");
+  px(640, 70, 320, 220, "#141a20"); const sk = ctx.createLinearGradient(0, 76, 0, 284); sk.addColorStop(0, "#0f1830"); sk.addColorStop(1, "#2a3a5c"); ctx.fillStyle = sk; ctx.fillRect(646, 76, 308, 208);
+  ctx.fillStyle = "#0c1018"; for (const [bx, bw, bh] of [[660, 40, 70], [705, 30, 110], [740, 50, 60], [800, 36, 130], [842, 44, 80], [892, 50, 100]]) ctx.fillRect(bx, 284 - bh, bw, bh);
+  ctx.fillStyle = "#e3b85b"; for (let i = 0; i < 24; i++) { const h = hash("w" + i); ctx.fillRect(664 + (h % 280), 284 - 20 - ((h >> 8) % 90), 4, 5); }
+  px(797, 76, 6, 208, "#141a20"); px(646, 178, 308, 6, "#141a20");
+  ctx.beginPath(); ctx.arc(1240, 150, 42, 0, Math.PI * 2); ctx.fillStyle = "#e9e4d8"; ctx.fill(); ctx.lineWidth = 6; ctx.strokeStyle = "#5e4130"; ctx.stroke();
+  ctx.strokeStyle = "#222"; ctx.lineWidth = 4; ctx.beginPath(); ctx.moveTo(1240, 150); ctx.lineTo(1240, 122); ctx.moveTo(1240, 150); ctx.lineTo(1262, 160); ctx.stroke();
+  const f = ctx.createLinearGradient(0, 474, 0, H); f.addColorStop(0, "#3a3f46"); f.addColorStop(1, "#24282d"); ctx.fillStyle = f; ctx.fillRect(0, 474, W, H - 474);
+  const order = Object.keys(C).filter((k) => C[k].role === "juror");
+  const at = (k) => ({ ...people[k], pos: ROOM[C[k].n - 1] });
+  for (const k of order) if (C[k].n <= 3) person(at(k), k === speaker && talking, now);
+  wood(380, 560, 840, 90, "#5e4130", "#4d3425"); px(370, 548, 860, 16, "#7a573d");
+  for (const k of order) if (C[k].n > 3) person(at(k), k === speaker && talking, now);
+  for (const i of [0, 1, 2]) { px(470 + i * 260, 560, 60, 8, "#e9e4d8"); }
+  for (const k of order) { const q = ROOM[C[k].n - 1]; tag(people[k].label, q[0], q[1] + 66, k === speaker); }
+}
+
+// ───────────────────────────── camera ─────────────────────────────
+const cam = { x: W / 2, y: H / 2, z: 1 }, camTo = { x: W / 2, y: H / 2, z: 1 };
+function aim(key, zoom) {
+  if (!key || !people[key]) { camTo.x = W / 2; camTo.y = H / 2; camTo.z = 1; return; }
+  const p = people[key], t = scene === "room" ? where(key) : (p.to || p.pos); camTo.x = t[0]; camTo.y = t[1] + 40; camTo.z = zoom || 2.1;
+}
+function resize() { const r = cv.getBoundingClientRect(), d = window.devicePixelRatio || 1; cv.width = Math.max(1, Math.round(r.width * d)); cv.height = Math.max(1, Math.round(r.height * d)); }
+window.addEventListener("resize", resize);
+let last = performance.now(), talking = false, scene = "court", speaker = null, listener = null;
+function frame(now) {
+  const dt = Math.min(0.05, (now - last) / 1000); last = now;
+  const k = 1 - Math.exp(-dt * 3.2); cam.x += (camTo.x - cam.x) * k; cam.y += (camTo.y - cam.y) * k; cam.z += (camTo.z - cam.z) * k;
+  for (const p of Object.values(people)) if (p.from) {
+    const t = Math.min(1, (now - p.t0) / 1100), e = t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2;
+    p.pos = [p.from[0] + (p.to[0] - p.from[0]) * e, p.from[1] + (p.to[1] - p.from[1]) * e - Math.sin(t * Math.PI) * 20];
+    if (t >= 1) { p.pos = [...p.to]; p.from = null; p.to = null; }
+  }
+  const cw = cv.width, ch = cv.height, s = Math.min(cw / W, ch / H) * cam.z;
+  const vw = cw / s, vh = ch / s;
+  const cx = vw >= W ? W / 2 : Math.max(vw / 2, Math.min(W - vw / 2, cam.x)), cy = vh >= H ? H / 2 : Math.max(vh / 2, Math.min(H - vh / 2, cam.y));
+  ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.fillStyle = "#050608"; ctx.fillRect(0, 0, cw, ch);
+  ctx.setTransform(s, 0, 0, s, cw / 2 - cx * s, ch / 2 - cy * s); ctx.imageSmoothingEnabled = false;
+  if (scene === "room") juryRoom(now, speaker); else courtroom(now, speaker, listener);
+  // light on the speaker, dark at the edges; the private talk happens in near dark
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+  const sp = (speaker && where(speaker)) || [cx, cy];
+  const sx = cw / 2 + (sp[0] - cx) * s, sy = ch / 2 + (sp[1] - cy) * s;
+  const v = ctx.createRadialGradient(sx, sy, 60 * s, sx, sy, Math.max(cw, ch) * 0.75);
+  v.addColorStop(0, "rgba(0,0,0,0)"); v.addColorStop(1, scene === "private" ? "rgba(0,0,0,0.86)" : "rgba(0,0,0,0.5)");
+  ctx.fillStyle = v; ctx.fillRect(0, 0, cw, ch);
+  requestAnimationFrame(frame);
+}
+
+// ───────────────────────────── playback ─────────────────────────────
+let i = -1, playing = false, timer = null, voices = true, speed = 1;
+const audio = new Audio(); audio.preload = "auto";
+function roleLine(k) {
+  const c = C[k]; if (!c) return "";
+  return [c.roleName, c.model ? `played by ${c.model}` : "", c.accent ? `${c.accent} voice` : ""].filter(Boolean).join(" · ");
+}
+function go(n, auto) {
+  clearTimeout(timer); audio.pause();
+  if (n < 0) n = 0; if (n >= B.length) { playing = false; updPlay(); return; }
+  i = n; const b = B[i];
+  scene = b.scene || scene;
+  // the witness stand: whoever is being questioned walks up; whoever was there goes back to their seat
+  if ((b.stand || null) !== standKey) {
+    if (standKey && people[standKey]) move(people[standKey], people[standKey].seat);
+    standKey = b.stand || null;
+    if (standKey && people[standKey]) move(people[standKey], STAND);
+  }
+  speaker = b.who || null; listener = b.to || null; talking = false;
+  $("#badge").hidden = !(scene === "private" || scene === "room");
+  $("#badge").className = "badge" + (scene === "private" ? " pvt" : ""); $("#badge").textContent = scene === "private" ? "IN PRIVATE · ONLY THE TWO OF THEM HEAR THIS" : "THE JURY ROOM";
+  $("#ballots").hidden = !(b.kind === "vote" || (b.kind === "line" && b.phaseKey === "verdict"));
+  renderBallots();
+  hiliteTl();
+  $("#prog").textContent = `Line ${i + 1} of ${B.length}`;
+  if (b.kind === "card") {
+    $("#cap").hidden = true; $("#phase").hidden = false; $("#phaseTxt").innerHTML = `${esc(b.text)}${b.small ? `<small>${esc(b.small)}</small>` : ""}`;
+    aim(null); next(1700 / speed); return;
+  }
+  $("#phase").hidden = true;
+  if (b.kind === "verdict") { showVerdict(); return; }
+  if (b.kind === "epilogue") { $("#epi").hidden = false; playing = false; updPlay(); return; }
+  aim(speaker, scene === "room" ? 2.0 : (b.wide ? 1.35 : 2.1));
+  $("#cap").hidden = false; $("#capWho").textContent = b.whoName || speaker || "";
+  $("#capRole").innerHTML = (b.private ? `<span class="pv">PRIVATE</span> ` : "") + esc(b.kind === "vote" ? "Juror · secret ballot" : roleLine(speaker));
+  $("#capNote").textContent = b.note ? `Private note: ${b.note}` : "";
+  const full = b.kind === "vote" ? `${b.verdict === "guilty" ? "Guilty." : "Not guilty."} ${b.text}` : b.text;
+  $("#capTxt").dataset.full = full; reveal(playing ? 0 : 1);
+  if (!playing) { reveal(1); return; }
+  talking = true;
+  const done = () => { talking = false; reveal(1); next(500 / speed); };
+  if (voices && b.audio) {
+    audio.src = b.audio; audio.playbackRate = speed;
+    audio.onended = done; audio.onerror = () => { talking = true; timer = setTimeout(done, readMs(full)); tick(readMs(full)); };
+    audio.play().catch(() => { timer = setTimeout(done, readMs(full)); tick(readMs(full)); });
+    tickAudio();
+  } else { timer = setTimeout(done, readMs(full)); tick(readMs(full)); }
+}
+function readMs(t) { return Math.max(1800, (t.split(/\s+/).length / 2.7) * 1000) / speed; }
+function next(ms) { if (!playing) return; timer = setTimeout(() => go(i + 1, true), ms); }
+function reveal(f) {
+  const t = $("#capTxt").dataset.full || ""; const k = Math.round(t.length * Math.max(0, Math.min(1, f)));
+  $("#capTxt").innerHTML = esc(t.slice(0, k)) + (k < t.length ? `<span class="dim">${esc(t.slice(k))}</span>` : "");
+}
+let rafA = 0;
+function tickAudio() { cancelAnimationFrame(rafA); const f = () => { if (audio.duration && !audio.paused) reveal(audio.currentTime / audio.duration); if (!audio.paused) rafA = requestAnimationFrame(f); }; rafA = requestAnimationFrame(f); }
+function tick(ms) { const t0 = performance.now(); cancelAnimationFrame(rafA); const f = () => { const p = (performance.now() - t0) / ms; reveal(p); if (p < 1 && playing) rafA = requestAnimationFrame(f); }; rafA = requestAnimationFrame(f); }
+function move(p, to) { p.from = [...p.pos]; p.to = [...to]; p.t0 = performance.now(); }
+function esc(s) { return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function updPlay() { $("#playBtn").textContent = playing ? "Pause" : "Play"; }
+function play() { if (playing) return; playing = true; updPlay(); if (i < 0 || i >= B.length - 1) { reset(); go(0, true); } else go(i, true); }
+function pause() { playing = false; updPlay(); clearTimeout(timer); audio.pause(); talking = false; reveal(1); }
+function reset() { standKey = null; for (const p of Object.values(people)) { p.pos = [...p.seat]; p.from = null; p.to = null; } scene = "court"; $("#verdict").hidden = true; $("#epi").hidden = true; }
+// ballots fill in as each juror's secret vote is read; they stay up for the verdict
+function renderBallots() {
+  const el = $("#ballots"); if (el.hidden) return;
+  const got = {}; for (let j = 0; j <= i; j++) if (B[j].kind === "vote") got[B[j].who] = B[j].verdict;
+  el.innerHTML = Object.keys(C).filter((k) => C[k].role === "juror").map((k) => { const v = got[k]; return `<div class="ballot ${v === "guilty" ? "g" : v ? "n" : ""}">${esc(k)}<b>${v ? (v === "guilty" ? "GUILTY" : "NOT GUILTY") : "&middot; &middot; &middot;"}</b></div>`; }).join("");
+}
+function showVerdict() {
+  const r = TRIAL.result, o = TRIAL.original; $("#cap").hidden = true;
+  $("#vBig").className = "verdict-big " + (r.verdict === "guilty" ? "g" : "n"); $("#vBig").textContent = r.verdict === "guilty" ? "GUILTY" : "NOT GUILTY";
+  $("#vText").innerHTML = `This jury: ${r.guilty} guilty, ${r.not_guilty} not guilty.<br>The city's own jury, on day ${TRIAL.case.trial_turn}: ${o.verdict}, ${o.guilty} to ${o.not_guilty}.`;
+  $("#verdict").hidden = false; playing = false; updPlay();
+}
+// the transcript beside the stage
+function buildTl() {
+  const tl = $("#tl"); let html = "";
+  B.forEach((b, n) => {
+    if (b.kind === "card") { html += `<div class="ph" data-n="${n}">${esc(b.text)}</div>`; return; }
+    if (b.kind === "verdict" || b.kind === "epilogue") return;
+    const who = esc(b.whoName || b.who || ""); const to = b.to ? ` <span style="color:var(--muted)">to ${esc(b.toName || b.to)}</span>` : "";
+    const body = b.kind === "vote" ? `${b.verdict === "guilty" ? "Guilty." : "Not guilty."} ${esc(b.text)}` : esc(b.text);
+    html += `<div class="ln" data-n="${n}"><b>${who}</b>${to}${b.private ? '<span class="pv">PRIVATE</span>' : ""}: ${body}${b.note ? `<i>Private note: ${esc(b.note)}</i>` : ""}${b.prompt ? `<span class="pl" data-p="${n}" title="The exact prompt behind this line">prompt</span>` : ""}</div>`;
+  });
+  tl.innerHTML = html;
+  for (const d of tl.querySelectorAll("[data-n]")) d.addEventListener("click", (e) => { if (e.target.dataset.p) return; const n = +d.dataset.n; jumpTo(n); });
+  for (const d of tl.querySelectorAll("[data-p]")) d.addEventListener("click", () => { const b = B[+d.dataset.p]; $("#pmTitle").textContent = `The exact prompt behind ${b.whoName || b.who}'s line`; $("#pmText").textContent = b.prompt; $("#pmodal").hidden = false; });
+}
+function jumpTo(n) {
+  // rebuild where everyone stands at line n
+  reset(); for (let j = 0; j < n; j++) { const b = B[j]; if (b.scene) scene = b.scene; standKey = b.stand || null; }
+  for (const p of Object.values(people)) p.pos = [...p.seat]; if (standKey && people[standKey]) people[standKey].pos = [...STAND];
+  go(n, playing);
+}
+function hiliteTl() { for (const d of document.querySelectorAll(".tl .ln.cur")) d.classList.remove("cur"); const c = document.querySelector(`.tl [data-n="${i}"]`); if (c) { c.classList.add("cur"); if ($("#side").offsetParent) c.scrollIntoView({ block: "nearest" }); } }
+
+// ───────────────────────────── boot ─────────────────────────────
+function boot() {
+  document.title = `The City: ${TRIAL.title}`;
+  $("#ttl").textContent = TRIAL.title; $("#sub").textContent = TRIAL.subtitle;
+  $("#introTitle").textContent = TRIAL.title; $("#introText").innerHTML = TRIAL.intro; $("#introRecord").textContent = TRIAL.case.record;
+  $("#epLink").href = TRIAL.case.link; $("#epiLink").href = TRIAL.case.link;
+  $("#truth").innerHTML = TRIAL.truth.map((t) => `<li>${esc(t)}</li>`).join("");
+  buildTl(); resize(); requestAnimationFrame(frame);
+  $("#startBtn").addEventListener("click", () => { $("#intro").hidden = true; voices = true; play(); });
+  $("#readBtn").addEventListener("click", () => { $("#intro").hidden = true; voices = false; $("#voiceBtn").classList.remove("on"); $("#side").classList.add("open"); $("#sideBtn").classList.add("on"); go(0, false); });
+  $("#playBtn").addEventListener("click", () => (playing ? pause() : play()));
+  $("#nextBtn").addEventListener("click", () => { const p = playing; pause(); go(i + 1, false); if (p) play(); });
+  $("#prevBtn").addEventListener("click", () => { const p = playing; pause(); jumpTo(Math.max(0, i - 1)); if (p) play(); });
+  $("#speed").addEventListener("change", (e) => { speed = +e.target.value; audio.playbackRate = speed; });
+  $("#voiceBtn").addEventListener("click", () => { voices = !voices; $("#voiceBtn").classList.toggle("on", voices); if (!voices) audio.pause(); });
+  $("#noteBtn").addEventListener("click", () => { const on = $("#app").classList.toggle("notes-off"); $("#noteBtn").classList.toggle("on", !on); });
+  $("#sideBtn").addEventListener("click", () => { const on = $("#side").classList.toggle("open"); $("#sideBtn").classList.toggle("on", on); });
+  $("#vNext").addEventListener("click", () => { $("#verdict").hidden = true; go(B.findIndex((b) => b.kind === "epilogue"), false); });
+  $("#againBtn").addEventListener("click", () => { $("#epi").hidden = true; reset(); i = -1; play(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.target.tagName === "SELECT") return;
+    if (e.code === "Space") { e.preventDefault(); if (!$("#intro").hidden) $("#startBtn").click(); else playing ? pause() : play(); }
+    else if (e.code === "ArrowRight") $("#nextBtn").click(); else if (e.code === "ArrowLeft") $("#prevBtn").click();
+    else if (e.key === "n" || e.key === "N") $("#noteBtn").click(); else if (e.key === "t" || e.key === "T") $("#sideBtn").click();
+    else if (e.key === "Escape") { for (const o of ["#verdict", "#epi", "#pmodal"]) $(o).hidden = true; $("#side").classList.remove("open"); $("#sideBtn").classList.remove("on"); }
+  });
+  for (const o of ["#verdict", "#epi", "#pmodal"]) $(o).addEventListener("click", (e) => { if (e.target === e.currentTarget) $(o).hidden = true; });
+  $("#pmClose").addEventListener("click", () => { $("#pmodal").hidden = true; });
+}
+boot();
+</script>
+</body>
+</html>
