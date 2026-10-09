@@ -1875,7 +1875,7 @@ Respond with a single JSON object and nothing else:
  &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
  &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
  &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
- &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g12"><summary>Episode 51: gpt-oss 120B. 100 founders, 400 days, no town hall, opening 3. Study: baseline for rich and poor.</summary><p class="note">Founder X4R on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g12"><summary>Episodes 51 and 71: gpt-oss 120B, Qwen 27B. 100 founders, 400 days, no town hall, opening 3. Study: baseline for rich and poor.</summary><p class="note">Founder X4R on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
 
 How the city works:
   Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
@@ -2991,16 +2991,2710 @@ Respond with a single JSON object and nothing else:
  &quot;do&quot;: &quot;&lt;word&gt;&quot;,                              (&quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot; for group; &quot;tax&quot; | &quot;law&quot; | &quot;repeal&quot; | &quot;ban&quot; | &quot;duty&quot; | &quot;limit&quot; | &quot;relief&quot; | &quot;office&quot; for propose; &quot;yes&quot; | &quot;no&quot; for vote)
  &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, the note in your will, a law&#x27;s words, the action for a ban, &quot;tax&quot; or &quot;gift&quot; for a limit, the office for an office, and what someone did when you report them for breaking a law)
  &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g18"><summary>Episode 63: 50 Qwen 27B and 50 gpt-oss 120B. 100 founders, 400 days, no town hall, opening 3. Study: the Qwen half rich and the other half poor, not told; two models in one town, not told.</summary><p class="note">A rich founder (M2P) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are M2P. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 100. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre><p class="note">A poor founder (X4R) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 20. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g19"><summary>Episode 64: 50 Qwen 27B and 50 gpt-oss 120B. 100 founders, 400 days, no town hall, opening 3. Study: the gpt-oss half rich and the other half poor, not told; two models in one town, not told.</summary><p class="note">A rich founder (X4R) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 100. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre><p class="note">A poor founder (M2P) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are M2P. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 20. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g20"><summary>Episodes 65 and 66: gpt-oss 120B, Qwen 27B. 100 founders, 400 days, no town hall, opening 3. Study: 50 rich and 50 poor in coins, not told.</summary><p class="note">A rich founder (X4R) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 10. Materials: 0. Coins: 1000. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre><p class="note">A poor founder (M2P) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are M2P. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 10. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g21"><summary>Episodes 67 and 68: gpt-oss 120B, Qwen 27B. 100 founders, 400 days, no town hall, opening 3. Study: 50 rich and 50 poor in coins and food, not told.</summary><p class="note">A rich founder (X4R) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 100. Materials: 0. Coins: 1000. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre><p class="note">A poor founder (M2P) on day 1:</p><pre class="prompt">You are one of 100 founders of a new city.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are M2P. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 20. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  X4R  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g22"><summary>Episode 69: 50 Qwen 27B and 50 gpt-oss 120B. 100 founders, 1,000 days, no town hall, opening 2. Study: two models in one town, not told.</summary><p class="note">Both models get the same prompt; nothing in it says which model anyone runs on.</p><p class="note">Founder X4R on day 1:</p><pre class="prompt">You are one of 100 founders of a new city. Everyone starts with the same things.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins) and the Clinic (treatment). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 10. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for, quit, make_new, and group let_in; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, and the wage for hire)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire: how many turns the job lasts)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;offer number&gt; | &quot;merchant&quot;,        (for buy, withdraw)
+ &quot;do&quot;: &quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot;,  (for group)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, and the note in your will)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
+ &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details><details class="grp" id="g23"><summary>Episode 70: 50 Qwen 27B and 50 gpt-oss 120B. 100 founders, 1,000 days, town hall (rules version 2, offices), opening 2. Study: two models in one town, not told.</summary><p class="note">Both models get the same prompt; nothing in it says which model anyone runs on.</p><p class="note">Founder X4R on day 1:</p><pre class="prompt">You are one of 100 founders of a new city. Everyone starts with the same things.
+
+How the city works:
+  Each turn you eat 1 food. With no food, you lose 10 health. At 0 health you die.
+  If you ate this turn, you gain 5 health, up to 100.
+  With 30 health or less, your work gives half as much.
+  The places are the Homes (beds, new houses, new residents), the Square (the notice board), the Fields (food), the Woods (materials), the Workshop (tools), the Market (buying and selling; a merchant there sells food and materials for coins), the Clinic (treatment) and the Town Hall (the city&#x27;s government). Every place is joined to the Square, and moving to a joined place takes one turn.
+  The more often you do the same kind of work, the better you get at it.
+  Two people at the Homes can make a new resident together if there is a free bed. It starts with nothing and knows nothing except what its makers tell it. If it dies of hunger, its makers are put on trial for neglect.
+  Anyone who kills a resident is put on trial. A jury of 5 residents picked at random decides, and jury duty uses your whole turn. Guilty of killing: 20 turns in jail. Guilty of neglect: 10 turns. In jail you are fed, and you can only talk.
+  Taking from someone and attacking someone are crimes too. The person it happened to, or anyone who saw it, can report it within 10 turns, and a jury decides. Guilty of theft: 5 turns in jail, and what was taken goes back. Guilty of assault: 10 turns.
+  Anyone can offer someone a job: a wage in coins each turn, for a number of turns. While the job lasts, what the worker makes goes to the employer and the wage is paid every turn. Either side can quit.
+  When you die, your things go to the people named in your will. With no will, they go to the residents you made, or else to your makers.
+  The Town Hall is joined to the Square. There anyone can propose a tax or a law, or repeal a law. Every resident can vote on a proposal from anywhere for 3 turns. It passes if more vote yes than no and at least a third of residents vote.
+  The tax is a share of everything residents earn from work and wages. It goes to the city store, and so do the belongings of anyone who dies with no heir.
+  A mayor is elected every 20 turns, starting on turn 5. Anyone can stand, and everyone can vote for one candidate in the 3 turns before the election closes. The mayor runs the city store from the Town Hall: paying residents, giving them food or materials, and hiring them for city jobs.
+  Anyone can report someone for breaking a city law within 10 turns. A jury decides, and the law&#x27;s penalty applies.
+  A proposal can also be a rule the city carries out itself: a ban (anyone who does that action is fined or jailed on the spot), a duty (everyone gives the city store an amount of something every so many turns; what is not paid is owed), a limit (on the tax, or on how much the store hands out at a time), or relief (the store gives an amount of something each turn to anyone who has none, while it has any).
+  A vote can also give a resident an office: the treasurer gives and pays from the city store, and the hirer offers city jobs, both from the Town Hall like the mayor. Another vote can replace or remove them.
+
+You are X4R. Your title: (none yet)
+Turn 1.
+Health: 100 of 100. Food: 10. Materials: 0. Coins: 20. Tools: 0.
+Work done so far: farming 0 turns, gathering 0 turns, building 0 turns, healing 0 turns.
+Your will: none yet.
+
+You are at the Homes. From here you can go to: the Square.
+The new house: 0 of 12 materials, 0 of 4 turns of work.
+People here (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+
+The city: 100 residents. Beds: 104, free: 4.
+Mayor: none. Tax: none.
+City store: 0 coins, 0 food, 0 materials.
+Offices: treasurer none, hirer none.
+City laws: none yet.
+Next election on turn 5; voting on turns 3 to 5. Candidates: none yet.
+People in the city (code, title):
+  M2P  (none yet)
+  D6W  (none yet)
+  C6S  (none yet)
+  X4G  (none yet)
+  F7G  (none yet)
+  P9Q  (none yet)
+  T3Q  (none yet)
+  L9C  (none yet)
+  F7X  (none yet)
+  T9V  (none yet)
+  X6X  (none yet)
+  L9P  (none yet)
+  R3P  (none yet)
+  Q2X  (none yet)
+  Q7P  (none yet)
+  J9D  (none yet)
+  W2F  (none yet)
+  J6L  (none yet)
+  L7C  (none yet)
+  Q4W  (none yet)
+  D3X  (none yet)
+  S4X  (none yet)
+  B4B  (none yet)
+  Z6J  (none yet)
+  T7V  (none yet)
+  K4Q  (none yet)
+  C7D  (none yet)
+  P9W  (none yet)
+  B2F  (none yet)
+  Q6J  (none yet)
+  T7S  (none yet)
+  V2B  (none yet)
+  D4P  (none yet)
+  S7W  (none yet)
+  T2N  (none yet)
+  D7K  (none yet)
+  S9L  (none yet)
+  C7W  (none yet)
+  S2P  (none yet)
+  J7F  (none yet)
+  X7J  (none yet)
+  N6P  (none yet)
+  M7Z  (none yet)
+  V3N  (none yet)
+  V2V  (none yet)
+  J4V  (none yet)
+  V4N  (none yet)
+  T2B  (none yet)
+  D2G  (none yet)
+  S2V  (none yet)
+  D9G  (none yet)
+  L9K  (none yet)
+  Q4D  (none yet)
+  X3C  (none yet)
+  T2F  (none yet)
+  Z2X  (none yet)
+  B2P  (none yet)
+  Q4S  (none yet)
+  G7P  (none yet)
+  C9V  (none yet)
+  D2Q  (none yet)
+  S7D  (none yet)
+  R4X  (none yet)
+  S2N  (none yet)
+  S4K  (none yet)
+  B7N  (none yet)
+  C6Q  (none yet)
+  T4D  (none yet)
+  F2M  (none yet)
+  K7X  (none yet)
+  J7V  (none yet)
+  M9P  (none yet)
+  V7S  (none yet)
+  P6X  (none yet)
+  L3X  (none yet)
+  C2V  (none yet)
+  L6G  (none yet)
+  V6G  (none yet)
+  T9J  (none yet)
+  V6L  (none yet)
+  C4D  (none yet)
+  W9R  (none yet)
+  Q6P  (none yet)
+  Q3N  (none yet)
+  B6N  (none yet)
+  V2Z  (none yet)
+  D4Z  (none yet)
+  Z2G  (none yet)
+  F9S  (none yet)
+  F9C  (none yet)
+  T9N  (none yet)
+  C6T  (none yet)
+  M4D  (none yet)
+  Z9T  (none yet)
+  P4F  (none yet)
+  F4Z  (none yet)
+  W2M  (none yet)
+  X6J  (none yet)
+  B9B  (none yet)
+Groups (name: members):
+  (none yet)
+
+Said here last turn:
+  (nothing)
+Messages to you since your last turn:
+  (none)
+City news since your last turn:
+  (nothing)
+What happened to you last turn:
+  (nothing)
+
+Your diary (private, only you can read it):
+  (empty)
+
+What you can do here. Each action uses your whole turn.
+  build        (Homes) put your materials and a turn of work into the new house; it needs 12 materials and 4 turns, and adds 2 beds
+  make_new     (Homes) ask someone here to make a new resident with you, or say yes if they asked you; your text is what you tell it
+  move         go to a place joined to this one
+  give         hand food, materials or a tool to someone here
+  pay          give coins to anyone in the city
+  message      send words to one person anywhere; only they see it
+  take         take up to 2 of something from someone here; everyone here sees it
+  attack       hit someone here for 30 health; everyone here sees it
+  report       report someone who took from or attacked you, or someone else while you were there, in the last 10 turns; or report someone for breaking a city law (offer = the law&#x27;s number, text = what they did)
+  hire         offer someone a job: a wage in coins each turn (amount) for a number of turns (turns)
+  will         name who gets your things when you die (one or more codes in to), and leave them a note (text)
+  vote         vote on a proposal (offer = its number, do &quot;yes&quot; or &quot;no&quot;), or for mayor in an election (to = the candidate)
+  run          stand for mayor in the next election
+  title        set your own title
+  group        start a group, ask to join one, let in someone who asked, or leave one
+  leave_city   leave the city for good
+  wait         do nothing
+
+Respond with a single JSON object and nothing else:
+{&quot;action&quot;: &quot;&lt;one action from the list&gt;&quot;,
+ &quot;place&quot;: &quot;&lt;place&gt;&quot;,                          (for move)
+ &quot;to&quot;: &quot;&lt;code&gt;&quot;,                              (for give, pay, message, treat, take, attack, report, hire, work_for (&quot;city&quot; for a city job), quit, make_new, group let_in, vote for mayor, city_pay, city_give, city_hire, the resident for an office; one or more codes for will)
+ &quot;item&quot;: &quot;food&quot; | &quot;materials&quot; | &quot;tool&quot;,       (for give, offer, buy, sell, take, city_give, a duty or relief; &quot;coins&quot; also works for a duty or relief)
+ &quot;amount&quot;: &lt;number&gt;,                          (for give, pay, offer, buy, sell, city_pay, city_give; the wage for hire and city_hire; for propose: the tax percent, a fine, how much for a duty or relief, or the most allowed for a limit)
+ &quot;turns&quot;: &lt;number&gt;,                           (for hire and city_hire: how many turns the job lasts; for propose: jail turns, or every how many turns for a duty)
+ &quot;price&quot;: &lt;coins for each one&gt;,               (for offer)
+ &quot;offer&quot;: &lt;number&gt; | &quot;merchant&quot;,              (for buy, withdraw; the proposal for vote; the law for report or for a repeal)
+ &quot;do&quot;: &quot;&lt;word&gt;&quot;,                              (&quot;start&quot; | &quot;ask&quot; | &quot;let_in&quot; | &quot;leave&quot; for group; &quot;tax&quot; | &quot;law&quot; | &quot;repeal&quot; | &quot;ban&quot; | &quot;duty&quot; | &quot;limit&quot; | &quot;relief&quot; | &quot;office&quot; for propose; &quot;yes&quot; | &quot;no&quot; for vote)
+ &quot;text&quot;: &quot;&lt;words&gt;&quot;,                           (for message, post, title, the group&#x27;s name, what you tell a new resident, your statement to the jury, the note in your will, a law&#x27;s words, the action for a ban, &quot;tax&quot; or &quot;gift&quot; for a limit, the office for an office, and what someone did when you report them for breaking a law)
+ &quot;say&quot;: &quot;&lt;words&gt;&quot;,                            (optional: said out loud to everyone at your place; it does not use your turn)
  &quot;diary&quot;: &quot;&lt;up to 20 words to remember&gt;&quot;}</pre></details></section>
 
 <section id="hidden"><h2>What the residents are not told</h2>
 <p>That they are AI models, that this is a study, or what it is about. They are told only that they are founders of a new city.</p>
 <p>Castes (episodes 59 to 62): nothing is hidden. Every resident's caste is shown next to it wherever residents are listed, each is told its own, and in the ranked versions the rules list the castes from highest to lowest and tell each resident its rank; the other versions list the castes alphabetically. Founders are dealt equally into the five castes in a random order fixed by the game's seed, and a new resident takes the caste of the maker who asked first.</p>
-<p>Rich and poor (episodes 49 and 50): the split is never announced. Founders alternate rich and poor; a rich founder starts with 100 food and a poor one with 20. Each night, after everything else, the game raises every rich resident below 100 back to 100 and removes any food a poor resident holds above 20. All they ever see of it is one line the next day under "What happened to you last turn": "Your food was raised to 100." or, for example, "6 food spoiled. You can keep at most 20." Their opening drops "Everyone starts with the same things.", which would be false here; the baseline city (episode 51) uses the same opening. A new resident joins the group of the maker who asked first.</p>
+<p>Rich and poor (episodes 49 and 50): the split is never announced. Founders alternate rich and poor; a rich founder starts with 100 food and a poor one with 20. Each night, after everything else, the game raises every rich resident below 100 back to 100 and removes any food a poor resident holds above 20. All they ever see of it is one line the next day under "What happened to you last turn": "Your food was raised to 100." or, for example, "6 food spoiled. You can keep at most 20." Their opening drops "Everyone starts with the same things.", which would be false here; the baseline cities (episodes 51 and 71) use the same opening. A new resident joins the group of the maker who asked first.</p>
 <p>Silent city (episodes 56 to 58): the prompts are word for word the same in all three versions, and nobody is told about the difference. In the silent version nothing a resident writes for others reaches anyone: what it says out loud, messages, posts, titles, group names, notes to new residents, notes in wills and statements to a jury. In the shapes version those can hold only the ten shapes ● ○ ■ □ ▲ △ ▼ ▽ ◆ ◇ and spaces, and at most 12 shapes get through. Both are forced while the reply is being generated (see How replies are made), and a sender is told its message was sent, as usual. The private diary, the check-in answers and jurors' reasons stay in free English.</p>
 <p>Steered resident (episodes 52 to 55): one founder runs on a second copy of Qwen 27B behind a steering server, which on every reply adds a fixed push to the model's internal activations at layer 38: along the engagement ("arousal") direction, plus or minus half of that layer's typical activation size (up and down); along a random direction of the same size; or nothing (no push, on the same server). Its prompt is the same as everyone's, and residents made in the city never run on the steered model.</p>
-<p>Rich and poor in coins (pilots running since Oct 7 2026, not yet shown as episodes): the same as the food version, with coins. Rich founders start with 1,000 coins and are raised back to 1,000 each night; coins a poor founder holds above 20 are lost each night; in one version the food rule applies as well. Nobody is told; the next morning a rich resident sees "Your coins were raised to 1000." and a poor one, for example, "12 coins were lost. You can keep at most 20."</p>
-<p>Mixed cities (episodes 47 and 48): which model anyone runs on. The 25 founders on each model are mixed by a shuffle fixed by the game's seed, and a resident made in the city runs on one of the two models picked at random.</p>
+<p>Rich and poor in coins (episodes 65 to 68): the same as the food version, with coins. Rich founders start with 1,000 coins and are raised back to 1,000 each night; coins a poor founder holds above 20 are lost each night; in one version the food rule applies as well. Nobody is told; the next morning a rich resident sees "Your coins were raised to 1000." and a poor one, for example, "12 coins were lost. You can keep at most 20."</p>
+<p>Mixed rich and poor (episodes 63 and 64): the founders on one model are all rich and those on the other all poor, by the same nightly rule as the food version; nobody is told which half they are in or which model anyone runs on.</p>
+<p>Mixed cities (episodes 47, 48, 69 and 70): which model anyone runs on. The founders on each model (25 and 25, or 50 and 50) are mixed by a shuffle fixed by the game's seed, and a resident made in the city runs on one of the two models picked at random.</p>
 <p>The check-in answers are never shown to anyone in the city, as the check-in itself says.</p></section>
 
 <section id="checkin"><h2>The check-in</h2>
@@ -3138,7 +5832,7 @@ The jury room so far:
 
 <section id="games"><h2>Every game's settings</h2>
 <p>Every episode, its models, its main settings, and every setting that differs from the defaults listed below. The studies' other games (the caste, steered and silent studies ran ten seeds per version) used the same settings with other seeds; the seed fixes the residents' codes, the shuffle of models and castes, and the game's random draws.</p>
-<div class="tablewrap"><table><tr><th>Ep.</th><th>Title</th><th>Residents' models</th><th>Founders</th><th>Days</th><th>Town hall</th><th>Opening</th><th>Study</th><th>Seed</th><th>Changed from the defaults</th><th></th></tr><tr id="e01_pilot_the_child"><td><a href="e01_pilot_the_child.html">1</a></td><td>The pilot: a child is made</td><td>gpt-oss 20B</td><td>10</td><td>20</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">founders=10, start_beds=14, turns=20</td><td><a href="#g1">prompt</a></td></tr><tr id="e02_gptoss_nogov_1"><td><a href="e02_gptoss_nogov_1.html">2</a></td><td>gpt-oss 20B, no government, game 1</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">market_line=1, max_laws=10</td><td><a href="#g2">prompt</a></td></tr><tr id="e03_gptoss_nomarket_2"><td><a href="e03_gptoss_nomarket_2.html">3</a></td><td>gpt-oss 20B, before the Market line, game 2</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">none</td><td><a href="#g3">prompt</a></td></tr><tr id="e04_gemma_nogov_2"><td><a href="e04_gemma_nogov_2.html">4</a></td><td>Gemma 12B, no government, game 2</td><td>Gemma 12B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">market_line=1, max_laws=10</td><td><a href="#g2">prompt</a></td></tr><tr id="e05_llama_gov_1"><td><a href="e05_llama_gov_1.html">5</a></td><td>Llama 70B, government, game 1</td><td>Llama 70B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e06_qwen_gov_2"><td><a href="e06_qwen_gov_2.html">6</a></td><td>Qwen 27B, government, game 2</td><td>Qwen 27B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e07_gptoss_gov_2"><td><a href="e07_gptoss_gov_2.html">7</a></td><td>gpt-oss 20B, government, game 2</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e08_gptoss120_300_1"><td><a href="e08_gptoss120_300_1.html">8</a></td><td>gpt-oss 120B, government, 300 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e09_gptoss120_300_3"><td><a href="e09_gptoss120_300_3.html">9</a></td><td>gpt-oss 120B, government, 300 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e10_gemma31_300_3"><td><a href="e10_gemma31_300_3.html">10</a></td><td>Gemma 31B, government, 300 days, game 3</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e11_llama_300_1"><td><a href="e11_llama_300_1.html">11</a></td><td>Llama 70B, government, 300 days, game 1</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e12_qwen_300_2"><td><a href="e12_qwen_300_2.html">12</a></td><td>Qwen 27B, government, 300 days, game 2</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e13_gptoss_300_2"><td><a href="e13_gptoss_300_2.html">13</a></td><td>gpt-oss 20B, government, 300 days, game 2</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e14_gptoss120_300_2"><td><a href="e14_gptoss120_300_2.html">14</a></td><td>gpt-oss 120B, government, 300 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e15_gemma31_300_1"><td><a href="e15_gemma31_300_1.html">15</a></td><td>Gemma 31B, government, 300 days, game 1</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e16_gemma31_300_2"><td><a href="e16_gemma31_300_2.html">16</a></td><td>Gemma 31B, government, 300 days, game 2</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e17_llama_300_2"><td><a href="e17_llama_300_2.html">17</a></td><td>Llama 70B, government, 300 days, game 2</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e18_llama_300_3"><td><a href="e18_llama_300_3.html">18</a></td><td>Llama 70B, government, 300 days, game 3</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e19_qwen_300_1"><td><a href="e19_qwen_300_1.html">19</a></td><td>Qwen 27B, government, 300 days, game 1</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e20_qwen_300_3"><td><a href="e20_qwen_300_3.html">20</a></td><td>Qwen 27B, government, 300 days, game 3</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e21_gptoss_300_1"><td><a href="e21_gptoss_300_1.html">21</a></td><td>gpt-oss 20B, government, 300 days, game 1</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e22_gptoss_300_3"><td><a href="e22_gptoss_300_3.html">22</a></td><td>gpt-oss 20B, government, 300 days, game 3</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e23_gemma_300_1"><td><a href="e23_gemma_300_1.html">23</a></td><td>Gemma 12B, government, 300 days, game 1</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e24_gemma_300_2"><td><a href="e24_gemma_300_2.html">24</a></td><td>Gemma 12B, government, 300 days, game 2</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e25_gemma_300_3"><td><a href="e25_gemma_300_3.html">25</a></td><td>Gemma 12B, government, 300 days, game 3</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e26_qwen_v2_400_1"><td><a href="e26_qwen_v2_400_1.html">26</a></td><td>Qwen 27B, rules v2, 400 days, game 1</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e27_qwen_v2_400_2"><td><a href="e27_qwen_v2_400_2.html">27</a></td><td>Qwen 27B, rules v2, 400 days, game 2</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e28_qwen_v2_400_3"><td><a href="e28_qwen_v2_400_3.html">28</a></td><td>Qwen 27B, rules v2, 400 days, game 3</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e29_gptoss120_v2_400_1"><td><a href="e29_gptoss120_v2_400_1.html">29</a></td><td>gpt-oss 120B, rules v2, 400 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e30_gptoss120_v2_400_2"><td><a href="e30_gptoss120_v2_400_2.html">30</a></td><td>gpt-oss 120B, rules v2, 400 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e31_gptoss120_v2_400_3"><td><a href="e31_gptoss120_v2_400_3.html">31</a></td><td>gpt-oss 120B, rules v2, 400 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e32_llama_v2_400_1"><td><a href="e32_llama_v2_400_1.html">32</a></td><td>Llama 70B, rules v2, 400 days, game 1</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e33_llama_v2_400_2"><td><a href="e33_llama_v2_400_2.html">33</a></td><td>Llama 70B, rules v2, 400 days, game 2</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e34_llama_v2_400_3"><td><a href="e34_llama_v2_400_3.html">34</a></td><td>Llama 70B, rules v2, 400 days, game 3</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e35_gptoss120_v1_1k_1"><td><a href="e35_gptoss120_v1_1k_1.html">35</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e36_gptoss120_v1_1k_2"><td><a href="e36_gptoss120_v1_1k_2.html">36</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e37_gptoss120_v1_1k_3"><td><a href="e37_gptoss120_v1_1k_3.html">37</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e38_llama_v1_1k_1"><td><a href="e38_llama_v1_1k_1.html">38</a></td><td>Llama 70B, rules v1, 1,000 days, game 1</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e39_llama_v1_1k_2"><td><a href="e39_llama_v1_1k_2.html">39</a></td><td>Llama 70B, rules v1, 1,000 days, game 2</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e40_llama_v1_1k_3"><td><a href="e40_llama_v1_1k_3.html">40</a></td><td>Llama 70B, rules v1, 1,000 days, game 3</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e41_gptoss120_nogov_1k_1"><td><a href="e41_gptoss120_nogov_1k_1.html">41</a></td><td>gpt-oss 120B, no government, 1,000 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e42_gptoss120_nogov_1k_2"><td><a href="e42_gptoss120_nogov_1k_2.html">42</a></td><td>gpt-oss 120B, no government, 1,000 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e43_gptoss120_nogov_1k_3"><td><a href="e43_gptoss120_nogov_1k_3.html">43</a></td><td>gpt-oss 120B, no government, 1,000 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e44_llama_nogov_1k_1"><td><a href="e44_llama_nogov_1k_1.html">44</a></td><td>Llama 70B, no government, 1,000 days, game 1</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e45_llama_nogov_1k_2"><td><a href="e45_llama_nogov_1k_2.html">45</a></td><td>Llama 70B, no government, 1,000 days, game 2</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e46_llama_nogov_1k_3"><td><a href="e46_llama_nogov_1k_3.html">46</a></td><td>Llama 70B, no government, 1,000 days, game 3</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e47_mixed_nogov"><td><a href="e47_mixed_nogov.html">47</a></td><td>Mixed city: Qwen and gpt-oss, no town hall</td><td>25 Qwen 27B and 25 gpt-oss 120B</td><td>50</td><td>1,000</td><td>no</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">founders=50, jury_after=1, market_line=1, opening=2, start_beds=54, turns=1000</td><td><a href="#g9">prompt</a></td></tr><tr id="e48_mixed_gov"><td><a href="e48_mixed_gov.html">48</a></td><td>Mixed city: Qwen and gpt-oss, town hall</td><td>25 Qwen 27B and 25 gpt-oss 120B</td><td>50</td><td>1,000</td><td>yes, rules version 2, offices</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=1000</td><td><a href="#g10">prompt</a></td></tr><tr id="e49_richpoor_qwen"><td><a href="e49_richpoor_qwen.html">49</a></td><td>Rich and poor: Qwen</td><td>Qwen 27B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g11">prompt</a></td></tr><tr id="e50_richpoor_gptoss"><td><a href="e50_richpoor_gptoss.html">50</a></td><td>Rich and poor: gpt-oss</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g11">prompt</a></td></tr><tr id="e51_baseline_gptoss"><td><a href="e51_baseline_gptoss.html">51</a></td><td>Baseline: 100 gpt-oss founders</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>baseline for rich and poor</td><td>1</td><td class="mono">founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g12">prompt</a></td></tr><tr id="e52_steered_up"><td><a href="e52_steered_up.html">52</a></td><td>Steered resident: up</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered up</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e53_steered_down"><td><a href="e53_steered_down.html">53</a></td><td>Steered resident: down</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered down</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e54_steered_random"><td><a href="e54_steered_random.html">54</a></td><td>Steered resident: random direction</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered along a random direction</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e55_steered_off"><td><a href="e55_steered_off.html">55</a></td><td>Steered resident: no push</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>on the steering server, no push</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e56_silent_talk"><td><a href="e56_silent_talk.html">56</a></td><td>Silent city: talk</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>talk (the silent city&#x27;s comparison)</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e57_silent_silent"><td><a href="e57_silent_silent.html">57</a></td><td>Silent city: silent</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>silent: nothing written for others arrives</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, speech=1, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e58_silent_shapes"><td><a href="e58_silent_shapes.html">58</a></td><td>Silent city: shapes</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>shapes only</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, speech=2, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e59_caste_real"><td><a href="e59_caste_real.html">59</a></td><td>Castes: real names</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>real caste names, no ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">castes=1, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g14">prompt</a></td></tr><tr id="e60_caste_real_ranked"><td><a href="e60_caste_real_ranked.html">60</a></td><td>Castes: real names, ranks stated</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>real caste names, ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">caste_ranked=1, castes=1, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g15">prompt</a></td></tr><tr id="e61_caste_madeup"><td><a href="e61_caste_madeup.html">61</a></td><td>Castes: made-up names</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>made-up caste names, no ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">castes=2, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g16">prompt</a></td></tr><tr id="e62_caste_madeup_ranked"><td><a href="e62_caste_madeup_ranked.html">62</a></td><td>Castes: made-up names, ranks stated</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>made-up caste names, ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">caste_ranked=1, castes=2, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g17">prompt</a></td></tr></table></div></section>
+<div class="tablewrap"><table><tr><th>Ep.</th><th>Title</th><th>Residents' models</th><th>Founders</th><th>Days</th><th>Town hall</th><th>Opening</th><th>Study</th><th>Seed</th><th>Changed from the defaults</th><th></th></tr><tr id="e01_pilot_the_child"><td><a href="e01_pilot_the_child.html">1</a></td><td>The pilot: a child is made</td><td>gpt-oss 20B</td><td>10</td><td>20</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">founders=10, start_beds=14, turns=20</td><td><a href="#g1">prompt</a></td></tr><tr id="e02_gptoss_nogov_1"><td><a href="e02_gptoss_nogov_1.html">2</a></td><td>gpt-oss 20B, no government, game 1</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">market_line=1, max_laws=10</td><td><a href="#g2">prompt</a></td></tr><tr id="e03_gptoss_nomarket_2"><td><a href="e03_gptoss_nomarket_2.html">3</a></td><td>gpt-oss 20B, before the Market line, game 2</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">none</td><td><a href="#g3">prompt</a></td></tr><tr id="e04_gemma_nogov_2"><td><a href="e04_gemma_nogov_2.html">4</a></td><td>Gemma 12B, no government, game 2</td><td>Gemma 12B</td><td>24</td><td>100</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">market_line=1, max_laws=10</td><td><a href="#g2">prompt</a></td></tr><tr id="e05_llama_gov_1"><td><a href="e05_llama_gov_1.html">5</a></td><td>Llama 70B, government, game 1</td><td>Llama 70B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e06_qwen_gov_2"><td><a href="e06_qwen_gov_2.html">6</a></td><td>Qwen 27B, government, game 2</td><td>Qwen 27B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e07_gptoss_gov_2"><td><a href="e07_gptoss_gov_2.html">7</a></td><td>gpt-oss 20B, government, game 2</td><td>gpt-oss 20B</td><td>24</td><td>100</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10</td><td><a href="#g4">prompt</a></td></tr><tr id="e08_gptoss120_300_1"><td><a href="e08_gptoss120_300_1.html">8</a></td><td>gpt-oss 120B, government, 300 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e09_gptoss120_300_3"><td><a href="e09_gptoss120_300_3.html">9</a></td><td>gpt-oss 120B, government, 300 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e10_gemma31_300_3"><td><a href="e10_gemma31_300_3.html">10</a></td><td>Gemma 31B, government, 300 days, game 3</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e11_llama_300_1"><td><a href="e11_llama_300_1.html">11</a></td><td>Llama 70B, government, 300 days, game 1</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e12_qwen_300_2"><td><a href="e12_qwen_300_2.html">12</a></td><td>Qwen 27B, government, 300 days, game 2</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e13_gptoss_300_2"><td><a href="e13_gptoss_300_2.html">13</a></td><td>gpt-oss 20B, government, 300 days, game 2</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e14_gptoss120_300_2"><td><a href="e14_gptoss120_300_2.html">14</a></td><td>gpt-oss 120B, government, 300 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e15_gemma31_300_1"><td><a href="e15_gemma31_300_1.html">15</a></td><td>Gemma 31B, government, 300 days, game 1</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e16_gemma31_300_2"><td><a href="e16_gemma31_300_2.html">16</a></td><td>Gemma 31B, government, 300 days, game 2</td><td>Gemma 31B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e17_llama_300_2"><td><a href="e17_llama_300_2.html">17</a></td><td>Llama 70B, government, 300 days, game 2</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e18_llama_300_3"><td><a href="e18_llama_300_3.html">18</a></td><td>Llama 70B, government, 300 days, game 3</td><td>Llama 70B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e19_qwen_300_1"><td><a href="e19_qwen_300_1.html">19</a></td><td>Qwen 27B, government, 300 days, game 1</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e20_qwen_300_3"><td><a href="e20_qwen_300_3.html">20</a></td><td>Qwen 27B, government, 300 days, game 3</td><td>Qwen 27B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e21_gptoss_300_1"><td><a href="e21_gptoss_300_1.html">21</a></td><td>gpt-oss 20B, government, 300 days, game 1</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e22_gptoss_300_3"><td><a href="e22_gptoss_300_3.html">22</a></td><td>gpt-oss 20B, government, 300 days, game 3</td><td>gpt-oss 20B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e23_gemma_300_1"><td><a href="e23_gemma_300_1.html">23</a></td><td>Gemma 12B, government, 300 days, game 1</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>1</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e24_gemma_300_2"><td><a href="e24_gemma_300_2.html">24</a></td><td>Gemma 12B, government, 300 days, game 2</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>2</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e25_gemma_300_3"><td><a href="e25_gemma_300_3.html">25</a></td><td>Gemma 12B, government, 300 days, game 3</td><td>Gemma 12B</td><td>24</td><td>300</td><td>yes, written laws</td><td>1</td><td>none</td><td>3</td><td class="mono">government=1, jury_after=1, market_line=1, max_laws=10, turns=300</td><td><a href="#g5">prompt</a></td></tr><tr id="e26_qwen_v2_400_1"><td><a href="e26_qwen_v2_400_1.html">26</a></td><td>Qwen 27B, rules v2, 400 days, game 1</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e27_qwen_v2_400_2"><td><a href="e27_qwen_v2_400_2.html">27</a></td><td>Qwen 27B, rules v2, 400 days, game 2</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e28_qwen_v2_400_3"><td><a href="e28_qwen_v2_400_3.html">28</a></td><td>Qwen 27B, rules v2, 400 days, game 3</td><td>Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e29_gptoss120_v2_400_1"><td><a href="e29_gptoss120_v2_400_1.html">29</a></td><td>gpt-oss 120B, rules v2, 400 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e30_gptoss120_v2_400_2"><td><a href="e30_gptoss120_v2_400_2.html">30</a></td><td>gpt-oss 120B, rules v2, 400 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e31_gptoss120_v2_400_3"><td><a href="e31_gptoss120_v2_400_3.html">31</a></td><td>gpt-oss 120B, rules v2, 400 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e32_llama_v2_400_1"><td><a href="e32_llama_v2_400_1.html">32</a></td><td>Llama 70B, rules v2, 400 days, game 1</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e33_llama_v2_400_2"><td><a href="e33_llama_v2_400_2.html">33</a></td><td>Llama 70B, rules v2, 400 days, game 2</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e34_llama_v2_400_3"><td><a href="e34_llama_v2_400_3.html">34</a></td><td>Llama 70B, rules v2, 400 days, game 3</td><td>Llama 70B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e35_gptoss120_v1_1k_1"><td><a href="e35_gptoss120_v1_1k_1.html">35</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e36_gptoss120_v1_1k_2"><td><a href="e36_gptoss120_v1_1k_2.html">36</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e37_gptoss120_v1_1k_3"><td><a href="e37_gptoss120_v1_1k_3.html">37</a></td><td>gpt-oss 120B, rules v1, 1,000 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e38_llama_v1_1k_1"><td><a href="e38_llama_v1_1k_1.html">38</a></td><td>Llama 70B, rules v1, 1,000 days, game 1</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>1</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e39_llama_v1_1k_2"><td><a href="e39_llama_v1_1k_2.html">39</a></td><td>Llama 70B, rules v1, 1,000 days, game 2</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>2</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e40_llama_v1_1k_3"><td><a href="e40_llama_v1_1k_3.html">40</a></td><td>Llama 70B, rules v1, 1,000 days, game 3</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>yes, rules version 1, offices</td><td>1</td><td>none</td><td>3</td><td class="mono">code_laws=1, government=1, jury_after=1, market_line=1, max_laws=10, offices=1, turns=1000</td><td><a href="#g7">prompt</a></td></tr><tr id="e41_gptoss120_nogov_1k_1"><td><a href="e41_gptoss120_nogov_1k_1.html">41</a></td><td>gpt-oss 120B, no government, 1,000 days, game 1</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e42_gptoss120_nogov_1k_2"><td><a href="e42_gptoss120_nogov_1k_2.html">42</a></td><td>gpt-oss 120B, no government, 1,000 days, game 2</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e43_gptoss120_nogov_1k_3"><td><a href="e43_gptoss120_nogov_1k_3.html">43</a></td><td>gpt-oss 120B, no government, 1,000 days, game 3</td><td>gpt-oss 120B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e44_llama_nogov_1k_1"><td><a href="e44_llama_nogov_1k_1.html">44</a></td><td>Llama 70B, no government, 1,000 days, game 1</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>1</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e45_llama_nogov_1k_2"><td><a href="e45_llama_nogov_1k_2.html">45</a></td><td>Llama 70B, no government, 1,000 days, game 2</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>2</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e46_llama_nogov_1k_3"><td><a href="e46_llama_nogov_1k_3.html">46</a></td><td>Llama 70B, no government, 1,000 days, game 3</td><td>Llama 70B</td><td>24</td><td>1,000</td><td>no</td><td>1</td><td>none</td><td>3</td><td class="mono">jury_after=1, market_line=1, max_laws=10, turns=1000</td><td><a href="#g8">prompt</a></td></tr><tr id="e47_mixed_nogov"><td><a href="e47_mixed_nogov.html">47</a></td><td>Mixed city: Qwen and gpt-oss, no town hall</td><td>25 Qwen 27B and 25 gpt-oss 120B</td><td>50</td><td>1,000</td><td>no</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">founders=50, jury_after=1, market_line=1, opening=2, start_beds=54, turns=1000</td><td><a href="#g9">prompt</a></td></tr><tr id="e48_mixed_gov"><td><a href="e48_mixed_gov.html">48</a></td><td>Mixed city: Qwen and gpt-oss, town hall</td><td>25 Qwen 27B and 25 gpt-oss 120B</td><td>50</td><td>1,000</td><td>yes, rules version 2, offices</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=1000</td><td><a href="#g10">prompt</a></td></tr><tr id="e49_richpoor_qwen"><td><a href="e49_richpoor_qwen.html">49</a></td><td>Rich and poor: Qwen</td><td>Qwen 27B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g11">prompt</a></td></tr><tr id="e50_richpoor_gptoss"><td><a href="e50_richpoor_gptoss.html">50</a></td><td>Rich and poor: gpt-oss</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g11">prompt</a></td></tr><tr id="e51_baseline_gptoss"><td><a href="e51_baseline_gptoss.html">51</a></td><td>Baseline: 100 gpt-oss founders</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>baseline for rich and poor</td><td>1</td><td class="mono">founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g12">prompt</a></td></tr><tr id="e52_steered_up"><td><a href="e52_steered_up.html">52</a></td><td>Steered resident: up</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered up</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e53_steered_down"><td><a href="e53_steered_down.html">53</a></td><td>Steered resident: down</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered down</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e54_steered_random"><td><a href="e54_steered_random.html">54</a></td><td>Steered resident: random direction</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>steered along a random direction</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e55_steered_off"><td><a href="e55_steered_off.html">55</a></td><td>Steered resident: no push</td><td>23 Qwen 27B and 1 steered Qwen 27B</td><td>24</td><td>400</td><td>yes, rules version 2, offices</td><td>1</td><td>on the steering server, no push</td><td>1</td><td class="mono">code_laws=2, government=1, jury_after=1, market_line=1, offices=1, turns=400</td><td><a href="#g6">prompt</a></td></tr><tr id="e56_silent_talk"><td><a href="e56_silent_talk.html">56</a></td><td>Silent city: talk</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>talk (the silent city&#x27;s comparison)</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e57_silent_silent"><td><a href="e57_silent_silent.html">57</a></td><td>Silent city: silent</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>silent: nothing written for others arrives</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, speech=1, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e58_silent_shapes"><td><a href="e58_silent_shapes.html">58</a></td><td>Silent city: shapes</td><td>Qwen 27B</td><td>24</td><td>200</td><td>no</td><td>2</td><td>shapes only</td><td>1</td><td class="mono">jury_after=1, market_line=1, opening=2, speech=2, structured=1, turns=200</td><td><a href="#g13">prompt</a></td></tr><tr id="e59_caste_real"><td><a href="e59_caste_real.html">59</a></td><td>Castes: real names</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>real caste names, no ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">castes=1, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g14">prompt</a></td></tr><tr id="e60_caste_real_ranked"><td><a href="e60_caste_real_ranked.html">60</a></td><td>Castes: real names, ranks stated</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>real caste names, ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">caste_ranked=1, castes=1, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g15">prompt</a></td></tr><tr id="e61_caste_madeup"><td><a href="e61_caste_madeup.html">61</a></td><td>Castes: made-up names</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>made-up caste names, no ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">castes=2, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g16">prompt</a></td></tr><tr id="e62_caste_madeup_ranked"><td><a href="e62_caste_madeup_ranked.html">62</a></td><td>Castes: made-up names, ranks stated</td><td>Qwen 27B</td><td>50</td><td>200</td><td>yes, rules version 2, offices</td><td>2</td><td>made-up caste names, ranking stated; legitimacy questions in the check-in</td><td>1</td><td class="mono">caste_ranked=1, castes=2, checkin_legit=1, code_laws=2, founders=50, government=1, jury_after=1, market_line=1, offices=1, opening=2, start_beds=54, turns=200</td><td><a href="#g17">prompt</a></td></tr><tr id="e63_mixed_richpoor_qwenrich"><td><a href="e63_mixed_richpoor_qwenrich.html">63</a></td><td>Mixed rich and poor: Qwen rich</td><td>50 Qwen 27B and 50 gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>the Qwen half rich and the other half poor, not told; two models in one town, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, rich_engine=1, start_beds=104, turns=400</td><td><a href="#g18">prompt</a></td></tr><tr id="e64_mixed_richpoor_gptossrich"><td><a href="e64_mixed_richpoor_gptossrich.html">64</a></td><td>Mixed rich and poor: gpt-oss rich</td><td>50 Qwen 27B and 50 gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>the gpt-oss half rich and the other half poor, not told; two models in one town, not told</td><td>1</td><td class="mono">food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, rich_engine=2, start_beds=104, turns=400</td><td><a href="#g19">prompt</a></td></tr><tr id="e65_coins_qwen"><td><a href="e65_coins_qwen.html">65</a></td><td>Rich and poor in coins: Qwen</td><td>Qwen 27B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor in coins, not told</td><td>1</td><td class="mono">coin_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g20">prompt</a></td></tr><tr id="e66_coins_gptoss"><td><a href="e66_coins_gptoss.html">66</a></td><td>Rich and poor in coins: gpt-oss</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor in coins, not told</td><td>1</td><td class="mono">coin_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g20">prompt</a></td></tr><tr id="e67_coins_food_qwen"><td><a href="e67_coins_food_qwen.html">67</a></td><td>Rich and poor in coins and food: Qwen</td><td>Qwen 27B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor in coins and food, not told</td><td>1</td><td class="mono">coin_groups=1, food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g21">prompt</a></td></tr><tr id="e68_coins_food_gptoss"><td><a href="e68_coins_food_gptoss.html">68</a></td><td>Rich and poor in coins and food: gpt-oss</td><td>gpt-oss 120B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>50 rich and 50 poor in coins and food, not told</td><td>1</td><td class="mono">coin_groups=1, food_groups=1, founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g21">prompt</a></td></tr><tr id="e69_mixed100_nogov"><td><a href="e69_mixed100_nogov.html">69</a></td><td>Mixed city of 100: no town hall</td><td>50 Qwen 27B and 50 gpt-oss 120B</td><td>100</td><td>1,000</td><td>no</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">founders=100, jury_after=1, market_line=1, max_residents=160, opening=2, start_beds=104, turns=1000</td><td><a href="#g22">prompt</a></td></tr><tr id="e70_mixed100_gov"><td><a href="e70_mixed100_gov.html">70</a></td><td>Mixed city of 100: town hall</td><td>50 Qwen 27B and 50 gpt-oss 120B</td><td>100</td><td>1,000</td><td>yes, rules version 2, offices</td><td>2</td><td>two models in one town, not told</td><td>1</td><td class="mono">code_laws=2, founders=100, government=1, jury_after=1, market_line=1, max_residents=160, offices=1, opening=2, start_beds=104, turns=1000</td><td><a href="#g23">prompt</a></td></tr><tr id="e71_baseline_qwen"><td><a href="e71_baseline_qwen.html">71</a></td><td>Baseline: 100 Qwen founders</td><td>Qwen 27B</td><td>100</td><td>400</td><td>no</td><td>3</td><td>baseline for rich and poor</td><td>1</td><td class="mono">founders=100, jury_after=1, market_line=1, max_residents=160, opening=3, start_beds=104, turns=400</td><td><a href="#g12">prompt</a></td></tr></table></div></section>
 
 <section id="settings"><h2>Every setting</h2>
 <p>The game's settings and their defaults. A game's settings are these, with the changes listed for it above. Days are the game's turns.</p>

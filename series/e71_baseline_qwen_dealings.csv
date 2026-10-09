@@ -1,0 +1,7 @@
+from,to,kind,count,first_day,last_day,food_given
+B2F,K7X,message,1,20,20,
+K7X,B2F,gift,1,21,21,0
+T4D,C9V,message,1,20,20,
+X3C,X4R,message,1,1,1,
+Z2G,X4R,message,1,1,1,
+Z9T,X4R,message,1,1,1,

@@ -6,7 +6,7 @@ fetches its drawing engine (three.js r128) from a public CDN; offline, the episo
 index.html           the season: totals, charts, hall of fame, every episode
 channel.html         the live channel: every episode back to back, four seconds a day, in step with the clock
 search.html          search everything said, posted, messaged or told the court across every episode
-eNN_*.html           one episode each (62 episodes); open directly or from the index
+eNN_*.html           one episode each (71 episodes); open directly or from the index
 thumbs/eNN_*.jpg     the still shown on each episode card
 season.csv           one row per episode: model, government, seed, days, founders, born, alive (and founders alive), died, trials, laws, tax votes, mean check-in answers, check-ins
 season.json          the same, plus the hall-of-fame winners and the day of every death, trial, law, election, birth and house
@@ -26,4 +26,4 @@ Deep links: eNN.html#day55-hall opens day 55 with the Town Hall panel; -followB4
 -play starts playing; -highlights plays only marked days; -paceblitz; -findtax searches; -boardCoins opens a hiscores board;
 -binge rolls on to the next episode from the end card; -quiet starts silent. Press ? in an episode for every control.
 
-Built 2026-10-07 03:09 by polity/city/show/season.py from the game databases. Nothing here changes the games.
+Built 2026-10-09 12:03 by polity/city/show/season.py from the game databases. Nothing here changes the games.

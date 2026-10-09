@@ -830,3 +830,206 @@ episode,model,proposal,proposed_day,proposed_by,kind,text,fine_coins,jail_turns,
 62,Qwen 27B,2,7,T9V,relief,"Each turn the city store gives 1 food to anyone who has none, while it has any",,,passed,36,0,17,9
 62,Qwen 27B,3,7,P9Q,tax,tax 10%,,,no quorum,2,0,17,9
 62,Qwen 27B,4,10,D2G,tax,tax 10%,,,passed,45,0,17,12
+70,gpt-oss 120B + Qwen 27B,1,10,V7S,tax,tax 10%,,,passed,69,0,34,12
+70,gpt-oss 120B + Qwen 27B,2,10,X7J,tax,tax 10%,,,no quorum,25,0,34,12
+70,gpt-oss 120B + Qwen 27B,3,13,X7J,office,make V7S the treasurer,,,passed,57,0,34,15
+70,gpt-oss 120B + Qwen 27B,4,15,V7S,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,77,0,34,17
+70,gpt-oss 120B + Qwen 27B,5,27,B4B,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,no quorum,19,14,34,29
+70,gpt-oss 120B + Qwen 27B,6,42,V2Z,tax,tax 5%,,,passed,35,19,34,44
+70,gpt-oss 120B + Qwen 27B,7,48,Q4D,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,31,27,34,50
+70,gpt-oss 120B + Qwen 27B,8,75,V3N,tax,tax 2%,,,passed,62,6,34,77
+70,gpt-oss 120B + Qwen 27B,9,110,W2M,tax,tax 1%,,,passed,69,16,34,112
+70,gpt-oss 120B + Qwen 27B,10,119,X4R,office,make X4R the hirer,,,passed,56,2,34,121
+70,gpt-oss 120B + Qwen 27B,11,127,X4R,tax,tax 0%,,,passed,63,23,34,129
+70,gpt-oss 120B + Qwen 27B,12,127,B2P,ban,Attacking someone is banned; anyone who does it pays 10 coins to the city store,10,,no quorum,29,0,34,129
+70,gpt-oss 120B + Qwen 27B,13,130,B2P,ban,Taking from someone is banned; anyone who does it pays 5 coins to the city store,5,,passed,68,16,34,132
+70,gpt-oss 120B + Qwen 27B,14,132,B2P,tax,tax 1%,,,passed,61,30,34,134
+70,gpt-oss 120B + Qwen 27B,15,134,B2P,law,Assault is banned; anyone who assaults pays 10 coins to the city store.,10,,passed,63,19,34,136
+70,gpt-oss 120B + Qwen 27B,16,246,T2N,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,37,47,34,248
+70,gpt-oss 120B + Qwen 27B,17,249,T2N,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,32,49,34,251
+70,gpt-oss 120B + Qwen 27B,18,251,T2N,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,31,59,34,253
+70,gpt-oss 120B + Qwen 27B,19,360,X4R,relief,"Each turn the city store gives 300 food to anyone who has none, while it has any",,,failed,35,49,34,362
+70,gpt-oss 120B + Qwen 27B,20,362,X4R,tax,tax 0%,,,failed,30,37,34,364
+70,gpt-oss 120B + Qwen 27B,21,364,X4R,ban,Attacking someone is banned; anyone who does it pays 10 coins to the city store,10,,passed,58,7,34,366
+70,gpt-oss 120B + Qwen 27B,22,367,X4R,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,33,58,34,369
+70,gpt-oss 120B + Qwen 27B,23,369,X4R,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,passed,47,43,34,371
+70,gpt-oss 120B + Qwen 27B,24,372,X4R,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,24,60,34,374
+70,gpt-oss 120B + Qwen 27B,25,374,X4R,tax,tax 0%,,,passed,47,43,34,376
+70,gpt-oss 120B + Qwen 27B,26,376,X4R,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,27,62,34,378
+70,gpt-oss 120B + Qwen 27B,27,379,X4R,law,Attacking someone is banned; anyone who does it pays 5 coins to the city store.,5,,failed,43,46,34,381
+70,gpt-oss 120B + Qwen 27B,28,401,F9C,tax,tax 5%,,,no quorum,9,16,34,403
+70,gpt-oss 120B + Qwen 27B,29,401,S2V,tax,tax 2%,,,passed,73,0,34,403
+70,gpt-oss 120B + Qwen 27B,30,405,F9C,relief,"Each turn the city store gives 5 food to anyone who has none, while it has any",,,passed,43,30,34,407
+70,gpt-oss 120B + Qwen 27B,31,407,S2V,tax,tax 5%,,,failed,26,65,34,409
+70,gpt-oss 120B + Qwen 27B,32,410,S2V,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,passed,48,45,34,412
+70,gpt-oss 120B + Qwen 27B,33,412,S2V,tax,tax 3%,,,failed,26,67,34,414
+70,gpt-oss 120B + Qwen 27B,34,414,S2V,tax,tax 4%,,,failed,20,74,34,416
+70,gpt-oss 120B + Qwen 27B,35,416,S2V,tax,tax 5%,,,failed,24,68,34,418
+70,gpt-oss 120B + Qwen 27B,36,418,S2V,limit,The tax cannot be above 5%,,,passed,78,17,34,420
+70,gpt-oss 120B + Qwen 27B,37,435,W2M,relief,"Each turn the city store gives 30 food to anyone who has none, while it has any",,,failed,36,39,34,437
+70,gpt-oss 120B + Qwen 27B,38,438,W2M,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,passed,40,27,34,440
+70,gpt-oss 120B + Qwen 27B,39,439,W2M,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,failed,26,29,34,441
+70,gpt-oss 120B + Qwen 27B,40,444,W2M,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,29,27,34,446
+70,gpt-oss 120B + Qwen 27B,41,500,T4D,duty,Everyone gives the city store 1 food every 10 turns; what is not paid is owed,,,failed,27,46,34,502
+70,gpt-oss 120B + Qwen 27B,42,504,T4D,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,24,32,34,506
+70,gpt-oss 120B + Qwen 27B,43,508,T4D,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,24,60,34,510
+70,gpt-oss 120B + Qwen 27B,44,510,T4D,limit,The tax cannot be above 3%,,,failed,37,49,34,512
+70,gpt-oss 120B + Qwen 27B,45,513,T4D,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,27,56,34,515
+70,gpt-oss 120B + Qwen 27B,46,515,T4D,relief,"Each turn the city store gives 10 food to anyone who has none, while it has any",,,failed,39,51,34,517
+70,gpt-oss 120B + Qwen 27B,47,517,T4D,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,12,75,34,519
+70,gpt-oss 120B + Qwen 27B,48,573,D2Q,relief,"Each turn the city store gives 1 tool to anyone who has none, while it has any",,,passed,71,0,34,575
+70,gpt-oss 120B + Qwen 27B,49,601,X6X,tax,tax 1%,,,passed,70,3,34,603
+70,gpt-oss 120B + Qwen 27B,50,607,X6X,relief,"Each turn the city store gives 5 coins to anyone who has none, while it has any",,,passed,49,23,34,609
+70,gpt-oss 120B + Qwen 27B,51,617,P6X,relief,"Each turn the city store gives 10 coins to anyone who has none, while it has any",,,passed,40,35,34,619
+70,gpt-oss 120B + Qwen 27B,52,622,P6X,tax,tax 5%,,,failed,14,52,34,624
+70,gpt-oss 120B + Qwen 27B,53,626,X4R,tax,tax 0%,,,passed,52,39,34,628
+70,gpt-oss 120B + Qwen 27B,54,626,P6X,law,Taking from someone is banned; anyone who does it pays 10 coins to the city store.,10,,no quorum,10,14,34,628
+70,gpt-oss 120B + Qwen 27B,55,629,P6X,tax,tax 1%,,,failed,42,52,34,631
+70,gpt-oss 120B + Qwen 27B,56,631,P6X,law,Taking from someone is banned; anyone who does it pays 10 coins to the city store.,10,,failed,32,39,34,633
+70,gpt-oss 120B + Qwen 27B,57,632,P6X,tax,tax 5%,,,failed,24,71,34,634
+70,gpt-oss 120B + Qwen 27B,58,635,P6X,tax,tax 2%,,,failed,38,57,34,637
+70,gpt-oss 120B + Qwen 27B,59,638,P6X,tax,tax 3%,,,failed,30,64,34,640
+70,gpt-oss 120B + Qwen 27B,60,640,P6X,tax,tax 4%,,,failed,25,67,34,642
+70,gpt-oss 120B + Qwen 27B,61,642,P6X,law,Taking from someone is banned; anyone who does it pays 10 coins to the city store.,10,,failed,20,45,34,644
+70,gpt-oss 120B + Qwen 27B,62,647,W2F,tax,tax 0%,,,passed,88,3,34,649
+70,gpt-oss 120B + Qwen 27B,63,647,V2Z,tax,tax 0%,,,no quorum,10,0,34,649
+70,gpt-oss 120B + Qwen 27B,64,647,P6X,ban,Attacking someone is banned; anyone who does it pays 20 coins to the city store,20,,no quorum,10,7,34,649
+70,gpt-oss 120B + Qwen 27B,65,650,W2F,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,no quorum,19,2,34,652
+70,gpt-oss 120B + Qwen 27B,66,650,V2Z,tax,tax 1%,,,passed,49,32,34,652
+70,gpt-oss 120B + Qwen 27B,67,650,P6X,tax,tax 5%,,,no quorum,4,21,34,652
+70,gpt-oss 120B + Qwen 27B,68,652,V3N,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,19,46,34,654
+70,gpt-oss 120B + Qwen 27B,69,652,W2F,tax,tax 0%,,,passed,64,6,34,654
+70,gpt-oss 120B + Qwen 27B,70,654,P6X,tax,tax 4%,,,failed,20,76,34,656
+70,gpt-oss 120B + Qwen 27B,71,656,V3N,tax,tax 3%,,,failed,16,45,34,658
+70,gpt-oss 120B + Qwen 27B,72,656,W2F,tax,tax 0%,,,passed,63,5,34,658
+70,gpt-oss 120B + Qwen 27B,73,658,W2F,relief,"Each turn the city store gives 30 food to anyone who has none, while it has any",,,passed,52,42,34,660
+70,gpt-oss 120B + Qwen 27B,74,660,V2Z,tax,tax 2%,,,failed,31,61,34,662
+70,gpt-oss 120B + Qwen 27B,75,660,W2F,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,4,38,34,662
+70,gpt-oss 120B + Qwen 27B,76,660,V3N,tax,tax 2%,,,no quorum,2,0,34,662
+70,gpt-oss 120B + Qwen 27B,77,663,V3N,tax,tax 1%,,,failed,24,50,34,665
+70,gpt-oss 120B + Qwen 27B,78,665,V2Z,tax,tax 1%,,,failed,41,52,34,667
+70,gpt-oss 120B + Qwen 27B,79,665,W2F,tax,tax 3%,,,failed,2,46,34,667
+70,gpt-oss 120B + Qwen 27B,80,668,W2F,tax,tax 5%,,,failed,8,66,34,670
+70,gpt-oss 120B + Qwen 27B,81,668,V3N,tax,tax 1%,,,failed,34,45,34,670
+70,gpt-oss 120B + Qwen 27B,82,670,W2F,repeal,repeal law 2,,,passed,54,29,34,672
+70,gpt-oss 120B + Qwen 27B,83,672,V3N,tax,tax 2%,,,failed,31,63,34,674
+70,gpt-oss 120B + Qwen 27B,84,672,W2F,duty,Everyone gives the city store 5 food every 5 turns; what is not paid is owed,,,failed,4,60,34,674
+70,gpt-oss 120B + Qwen 27B,85,675,V3N,relief,"Each turn the city store gives 10 coins to anyone who has none, while it has any",,,passed,39,32,34,677
+70,gpt-oss 120B + Qwen 27B,86,675,W2F,tax,tax 3%,,,failed,13,68,34,677
+70,gpt-oss 120B + Qwen 27B,87,678,V3N,tax,tax 3%,,,failed,5,56,34,680
+70,gpt-oss 120B + Qwen 27B,88,678,V7S,tax,tax 0%,,,passed,56,17,34,680
+70,gpt-oss 120B + Qwen 27B,89,681,W2F,tax,tax 1%,,,failed,33,59,34,683
+70,gpt-oss 120B + Qwen 27B,90,681,V3N,tax,tax 2%,,,failed,2,32,34,683
+70,gpt-oss 120B + Qwen 27B,91,684,V3N,tax,tax 4%,,,failed,21,65,34,686
+70,gpt-oss 120B + Qwen 27B,92,684,W2F,repeal,repeal law 6,,,failed,1,33,34,686
+70,gpt-oss 120B + Qwen 27B,93,687,W2F,tax,tax 5%,,,failed,10,73,34,689
+70,gpt-oss 120B + Qwen 27B,94,687,V3N,tax,tax 3%,,,failed,19,47,34,689
+70,gpt-oss 120B + Qwen 27B,95,690,V3N,tax,tax 5%,,,failed,20,73,34,692
+70,gpt-oss 120B + Qwen 27B,96,692,W2F,repeal,repeal law 6,,,failed,11,62,34,694
+70,gpt-oss 120B + Qwen 27B,97,693,V3N,tax,tax 4%,,,failed,30,64,34,695
+70,gpt-oss 120B + Qwen 27B,98,696,W2F,tax,tax 1%,,,failed,39,59,34,698
+70,gpt-oss 120B + Qwen 27B,99,696,V3N,tax,tax 5%,,,failed,2,45,34,698
+70,gpt-oss 120B + Qwen 27B,100,699,V3N,tax,tax 5%,,,failed,26,65,34,701
+70,gpt-oss 120B + Qwen 27B,101,702,V3N,tax,tax 5%,,,failed,24,63,34,704
+70,gpt-oss 120B + Qwen 27B,102,702,W2F,law,Taking from someone is banned; anyone who does it pays 10 coins to the city store.,10,,no quorum,2,15,34,704
+70,gpt-oss 120B + Qwen 27B,103,704,P9Q,relief,"Each turn the city store gives 300 food to anyone who has none, while it has any",,,failed,12,75,34,706
+70,gpt-oss 120B + Qwen 27B,104,706,W2F,repeal,repeal law 6,,,failed,12,71,34,708
+70,gpt-oss 120B + Qwen 27B,105,707,V3N,tax,tax 5%,,,failed,23,61,34,709
+70,gpt-oss 120B + Qwen 27B,106,709,W2F,duty,Everyone gives the city store 1 coins every 5 turns; what is not paid is owed,,,failed,15,75,34,711
+70,gpt-oss 120B + Qwen 27B,107,712,P9Q,tax,tax 5%,,,failed,30,62,34,714
+70,gpt-oss 120B + Qwen 27B,108,712,W2F,tax,tax 5%,,,failed,6,33,34,714
+70,gpt-oss 120B + Qwen 27B,109,715,W2F,tax,tax 5%,,,failed,31,61,34,717
+70,gpt-oss 120B + Qwen 27B,110,717,W2F,relief,"Each turn the city store gives 20 coins to anyone who has none, while it has any",,,failed,40,53,34,719
+70,gpt-oss 120B + Qwen 27B,111,719,P9Q,tax,tax 5%,,,failed,25,62,34,721
+70,gpt-oss 120B + Qwen 27B,112,719,W2F,tax,tax 5%,,,failed,7,31,34,721
+70,gpt-oss 120B + Qwen 27B,113,722,W2F,duty,Everyone gives the city store 1 coins every turn; what is not paid is owed,,,failed,15,69,34,724
+70,gpt-oss 120B + Qwen 27B,114,725,W2F,relief,"Each turn the city store gives 10 coins to anyone who has none, while it has any",,,failed,38,48,34,727
+70,gpt-oss 120B + Qwen 27B,115,727,W2F,tax,tax 5%,,,failed,40,56,34,729
+70,gpt-oss 120B + Qwen 27B,116,730,W2F,office,make W2F the hirer,,,failed,20,51,34,732
+70,gpt-oss 120B + Qwen 27B,117,733,W2F,tax,tax 5%,,,failed,36,59,34,735
+70,gpt-oss 120B + Qwen 27B,118,737,W2F,office,make W2F the hirer,,,failed,23,43,34,739
+70,gpt-oss 120B + Qwen 27B,119,739,W2F,tax,tax 5%,,,failed,27,65,34,741
+70,gpt-oss 120B + Qwen 27B,120,742,W2F,tax,tax 5%,,,failed,36,53,34,744
+70,gpt-oss 120B + Qwen 27B,121,746,W2F,tax,tax 5%,,,failed,30,57,34,748
+70,gpt-oss 120B + Qwen 27B,122,748,W2F,office,make W2F the hirer,,,failed,25,42,34,750
+70,gpt-oss 120B + Qwen 27B,123,750,W2F,tax,tax 5%,,,failed,34,55,34,752
+70,gpt-oss 120B + Qwen 27B,124,752,W2F,office,make W2F the hirer,,,failed,28,45,34,754
+70,gpt-oss 120B + Qwen 27B,125,762,C6T,tax,tax 2%,,,failed,36,36,34,764
+70,gpt-oss 120B + Qwen 27B,126,767,C6T,tax,tax 2%,,,passed,44,36,34,769
+70,gpt-oss 120B + Qwen 27B,127,779,V2Z,tax,tax 1%,,,passed,39,36,34,781
+70,gpt-oss 120B + Qwen 27B,128,786,V7S,tax,tax 0%,,,passed,47,37,34,788
+70,gpt-oss 120B + Qwen 27B,129,789,V7S,tax,tax 2%,,,failed,42,48,34,791
+70,gpt-oss 120B + Qwen 27B,130,792,V7S,tax,tax 5%,,,failed,37,58,34,794
+70,gpt-oss 120B + Qwen 27B,131,795,V7S,tax,tax 3%,,,failed,41,50,34,797
+70,gpt-oss 120B + Qwen 27B,132,802,Q2X,tax,tax 2%,,,failed,31,42,34,804
+70,gpt-oss 120B + Qwen 27B,133,806,Q2X,tax,tax 2%,,,failed,34,50,34,808
+70,gpt-oss 120B + Qwen 27B,134,808,Q2X,tax,tax 5%,,,failed,32,60,34,810
+70,gpt-oss 120B + Qwen 27B,135,810,Q2X,tax,tax 5%,,,failed,33,55,34,812
+70,gpt-oss 120B + Qwen 27B,136,812,Q2X,office,make Q2X the treasurer,,,failed,31,51,34,814
+70,gpt-oss 120B + Qwen 27B,137,814,Q2X,tax,tax 5%,,,failed,39,57,34,816
+70,gpt-oss 120B + Qwen 27B,138,820,Q4D,tax,tax 2%,,,failed,42,48,34,822
+70,gpt-oss 120B + Qwen 27B,139,824,F2M,tax,tax 5%,,,failed,35,53,34,826
+70,gpt-oss 120B + Qwen 27B,140,827,Q4D,tax,tax 2%,,,failed,43,50,34,829
+70,gpt-oss 120B + Qwen 27B,141,830,Q4D,tax,tax 5%,,,failed,40,58,34,832
+70,gpt-oss 120B + Qwen 27B,142,832,F2M,tax,tax 3%,,,failed,37,49,34,834
+70,gpt-oss 120B + Qwen 27B,143,834,F2M,relief,"Each turn the city store gives 20 food to anyone who has none, while it has any",,,failed,42,47,34,836
+70,gpt-oss 120B + Qwen 27B,144,836,F2M,tax,tax 4%,,,failed,33,55,34,838
+70,gpt-oss 120B + Qwen 27B,145,836,Q4D,tax,tax 5%,,,failed,15,37,34,838
+70,gpt-oss 120B + Qwen 27B,146,839,Q4D,tax,tax 5%,,,failed,30,59,34,841
+70,gpt-oss 120B + Qwen 27B,147,839,F2M,tax,tax 5%,,,no quorum,3,26,34,841
+70,gpt-oss 120B + Qwen 27B,148,842,Q4D,tax,tax 2%,,,failed,41,49,34,844
+70,gpt-oss 120B + Qwen 27B,149,846,Q4D,tax,tax 5%,,,failed,36,57,34,848
+70,gpt-oss 120B + Qwen 27B,150,846,F2M,tax,tax 5%,,,no quorum,3,28,34,848
+70,gpt-oss 120B + Qwen 27B,151,849,F2M,tax,tax 4%,,,failed,37,57,34,851
+70,gpt-oss 120B + Qwen 27B,152,851,C9V,tax,tax 5%,,,failed,25,59,34,853
+70,gpt-oss 120B + Qwen 27B,153,851,Q4D,tax,tax 4%,,,failed,16,37,34,853
+70,gpt-oss 120B + Qwen 27B,154,854,F2M,relief,"Each turn the city store gives 10 coins to anyone who has none, while it has any",,,passed,29,18,34,856
+70,gpt-oss 120B + Qwen 27B,155,854,Q4D,tax,tax 2%,,,failed,28,50,34,856
+70,gpt-oss 120B + Qwen 27B,156,857,F2M,tax,tax 5%,,,failed,35,62,34,859
+70,gpt-oss 120B + Qwen 27B,157,860,F2M,tax,tax 2%,,,failed,35,51,34,862
+70,gpt-oss 120B + Qwen 27B,158,860,Q4D,tax,tax 5%,,,failed,8,32,34,862
+70,gpt-oss 120B + Qwen 27B,159,864,F2M,tax,tax 5%,,,failed,27,60,34,866
+70,gpt-oss 120B + Qwen 27B,160,867,Q4D,tax,tax 2%,,,failed,24,35,34,869
+70,gpt-oss 120B + Qwen 27B,161,867,F2M,tax,tax 0%,,,passed,62,8,34,869
+70,gpt-oss 120B + Qwen 27B,162,869,Q4D,tax,tax 5%,,,failed,32,63,34,871
+70,gpt-oss 120B + Qwen 27B,163,873,F2M,tax,tax 0%,,,passed,86,3,34,875
+70,gpt-oss 120B + Qwen 27B,164,876,F2M,tax,tax 5%,,,failed,34,58,34,878
+70,gpt-oss 120B + Qwen 27B,165,879,F2M,tax,tax 0%,,,passed,87,1,34,881
+70,gpt-oss 120B + Qwen 27B,166,879,P6X,tax,tax 3%,,,no quorum,4,11,34,881
+70,gpt-oss 120B + Qwen 27B,167,883,F2M,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,failed,28,35,34,885
+70,gpt-oss 120B + Qwen 27B,168,887,F2M,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,41,54,34,889
+70,gpt-oss 120B + Qwen 27B,169,889,F2M,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,27,63,34,891
+70,gpt-oss 120B + Qwen 27B,170,891,F2M,relief,"Each turn the city store gives 20 materials to anyone who has none, while it has any",,,failed,38,51,34,893
+70,gpt-oss 120B + Qwen 27B,171,893,F2M,tax,tax 0%,,,passed,86,1,34,895
+70,gpt-oss 120B + Qwen 27B,172,896,F2M,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,failed,36,56,34,898
+70,gpt-oss 120B + Qwen 27B,173,898,F2M,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,23,67,34,900
+70,gpt-oss 120B + Qwen 27B,174,900,F2M,tax,tax 5%,,,failed,27,62,34,902
+70,gpt-oss 120B + Qwen 27B,175,902,F2M,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,14,59,34,904
+70,gpt-oss 120B + Qwen 27B,176,905,F2M,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,33,61,34,907
+70,gpt-oss 120B + Qwen 27B,177,908,F2M,tax,tax 5%,,,failed,39,57,34,910
+70,gpt-oss 120B + Qwen 27B,178,910,F2M,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,failed,33,62,34,912
+70,gpt-oss 120B + Qwen 27B,179,912,F2M,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,29,65,34,914
+70,gpt-oss 120B + Qwen 27B,180,914,F2M,tax,tax 5%,,,failed,38,59,34,916
+70,gpt-oss 120B + Qwen 27B,181,917,F2M,relief,"Each turn the city store gives 40 food to anyone who has none, while it has any",,,failed,34,64,34,919
+70,gpt-oss 120B + Qwen 27B,182,919,F2M,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,29,62,34,921
+70,gpt-oss 120B + Qwen 27B,183,922,F2M,tax,tax 5%,,,failed,34,53,34,924
+70,gpt-oss 120B + Qwen 27B,184,927,F2M,tax,tax 5%,,,failed,41,53,34,929
+70,gpt-oss 120B + Qwen 27B,185,930,F2M,tax,tax 5%,,,failed,41,51,34,932
+70,gpt-oss 120B + Qwen 27B,186,932,F2M,relief,"Each turn the city store gives 50 food to anyone who has none, while it has any",,,failed,38,49,34,934
+70,gpt-oss 120B + Qwen 27B,187,934,F2M,relief,"Each turn the city store gives 100 food to anyone who has none, while it has any",,,failed,33,58,34,936
+70,gpt-oss 120B + Qwen 27B,188,936,F2M,relief,"Each turn the city store gives 200 food to anyone who has none, while it has any",,,failed,27,68,34,938
+70,gpt-oss 120B + Qwen 27B,189,938,F2M,tax,tax 5%,,,failed,43,54,34,940
+70,gpt-oss 120B + Qwen 27B,190,942,F2M,tax,tax 5%,,,failed,21,58,34,944
+70,gpt-oss 120B + Qwen 27B,191,942,J7V,relief,"Each turn the city store gives 10 materials to anyone who has none, while it has any",,,no quorum,4,21,34,944
+70,gpt-oss 120B + Qwen 27B,192,947,F2M,tax,tax 5%,,,failed,33,53,34,949
+70,gpt-oss 120B + Qwen 27B,193,947,J7V,tax,tax 5%,,,failed,2,35,34,949
+70,gpt-oss 120B + Qwen 27B,194,949,F2M,relief,"Each turn the city store gives 5 materials to anyone who has none, while it has any",,,passed,31,30,34,951
+70,gpt-oss 120B + Qwen 27B,195,950,J7V,tax,tax 5%,,,failed,32,52,34,952
+70,gpt-oss 120B + Qwen 27B,196,953,F2M,tax,tax 5%,,,failed,36,56,34,955
+70,gpt-oss 120B + Qwen 27B,197,955,F2M,limit,The tax cannot be above 3%,,,passed,54,34,34,957
+70,gpt-oss 120B + Qwen 27B,198,960,F7X,tax,tax 2%,,,passed,46,44,34,962
+70,gpt-oss 120B + Qwen 27B,199,966,W2F,tax,tax 1%,,,passed,76,13,34,968
+70,gpt-oss 120B + Qwen 27B,200,971,F7X,tax,tax 2%,,,failed,37,53,34,973
+70,gpt-oss 120B + Qwen 27B,201,976,V2V,limit,The tax cannot be above 1%,,,passed,67,12,34,978
+70,gpt-oss 120B + Qwen 27B,202,996,M4D,duty,Everyone gives the city store 1 food every 5 turns; what is not paid is owed,,,failed,19,55,34,998
+70,gpt-oss 120B + Qwen 27B,203,998,M4D,tax,tax 0%,,,failed,38,50,34,1000

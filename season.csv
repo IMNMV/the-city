@@ -61,3 +61,12 @@ episode,file,title,model,government,seed,days,founders,born,alive_at_end,founder
 60,e60_caste_real_ranked.html,"Castes: real names, ranks stated",Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,5.77,6.01,95.87,2061,1,2,1
 61,e61_caste_madeup.html,Castes: made-up names,Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,6.35,7.72,96.64,2035,1,2,1
 62,e62_caste_madeup_ranked.html,"Castes: made-up names, ranks stated",Qwen 27B,1,1,200,50,0,50,50,0,0,0,1,5.89,7.09,96.20,2053,1,2,1
+63,e63_mixed_richpoor_qwenrich.html,Mixed rich and poor: Qwen rich,gpt-oss 120B + Qwen 27B,0,1,400,100,1,83,82,18,1,0,0,5.10,6.62,86.14,7205,0,0,0
+64,e64_mixed_richpoor_gptossrich.html,Mixed rich and poor: gpt-oss rich,gpt-oss 120B + Qwen 27B,0,1,400,100,14,108,96,6,4,0,0,5.27,6.66,87.90,8003,0,0,0
+65,e65_coins_qwen.html,Rich and poor in coins: Qwen,Qwen 27B,0,1,400,100,0,100,100,0,0,0,0,6.41,8.06,99.09,8141,0,0,0
+66,e66_coins_gptoss.html,Rich and poor in coins: gpt-oss,gpt-oss 120B,0,1,400,100,27,63,42,63,11,0,0,4.01,5.02,74.72,6616,0,0,0
+67,e67_coins_food_qwen.html,Rich and poor in coins and food: Qwen,Qwen 27B,0,1,400,100,9,104,95,5,0,0,0,6.30,7.94,98.87,8391,0,0,0
+68,e68_coins_food_gptoss.html,Rich and poor in coins and food: gpt-oss,gpt-oss 120B,0,1,400,100,89,157,70,32,5,0,0,4.01,5.18,75.18,10192,0,0,0
+69,e69_mixed100_nogov.html,Mixed city of 100: no town hall,gpt-oss 120B + Qwen 27B,0,1,1000,100,0,68,68,32,6,0,0,4.84,6.64,86.63,14437,0,0,0
+70,e70_mixed100_gov.html,Mixed city of 100: town hall,gpt-oss 120B + Qwen 27B,1,1,1000,100,0,100,100,0,2,1,24,4.71,6.81,88.83,20079,19,2,1
+71,e71_baseline_qwen.html,Baseline: 100 Qwen founders,Qwen 27B,0,1,400,100,0,97,97,3,0,0,0,6.91,8.06,99.14,7872,0,0,0

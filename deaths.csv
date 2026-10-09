@@ -512,3 +512,162 @@ episode,model,code,day,cause,born_day,founder,days_lived
 57,Qwen 27B,J9D,32,hunger,0,1,32
 57,Qwen 27B,T9V,34,hunger,0,1,34
 57,Qwen 27B,Q4W,41,hunger,0,1,41
+63,gpt-oss 120B + Qwen 27B,T9J,42,hunger,0,1,42
+63,gpt-oss 120B + Qwen 27B,D3X,43,hunger,0,1,43
+63,gpt-oss 120B + Qwen 27B,J9D,47,hunger,0,1,47
+63,gpt-oss 120B + Qwen 27B,S9L,55,hunger,0,1,55
+63,gpt-oss 120B + Qwen 27B,B4B,61,hunger,0,1,61
+63,gpt-oss 120B + Qwen 27B,L6G,64,hunger,0,1,64
+63,gpt-oss 120B + Qwen 27B,J7V,67,hunger,0,1,67
+63,gpt-oss 120B + Qwen 27B,X6X,77,hunger,0,1,77
+63,gpt-oss 120B + Qwen 27B,V2V,98,hunger,0,1,98
+63,gpt-oss 120B + Qwen 27B,D6W,110,hunger,0,1,110
+63,gpt-oss 120B + Qwen 27B,V2Z,119,hunger,0,1,119
+63,gpt-oss 120B + Qwen 27B,J4V,125,hunger,0,1,125
+63,gpt-oss 120B + Qwen 27B,C9V,126,hunger,0,1,126
+63,gpt-oss 120B + Qwen 27B,L7C,126,hunger,0,1,126
+63,gpt-oss 120B + Qwen 27B,F7G,237,hunger,0,1,237
+63,gpt-oss 120B + Qwen 27B,W2F,287,hunger,0,1,287
+63,gpt-oss 120B + Qwen 27B,L9K,302,hunger,0,1,302
+63,gpt-oss 120B + Qwen 27B,T3Q,316,hunger,0,1,316
+64,gpt-oss 120B + Qwen 27B,M7Z,36,hunger,0,1,36
+64,gpt-oss 120B + Qwen 27B,R3P,36,hunger,0,1,36
+64,gpt-oss 120B + Qwen 27B,S2N,38,hunger,0,1,38
+64,gpt-oss 120B + Qwen 27B,Q2M,39,hunger,24,0,15
+64,gpt-oss 120B + Qwen 27B,C6S,42,hunger,0,1,42
+64,gpt-oss 120B + Qwen 27B,F2K,134,hunger,99,0,35
+66,gpt-oss 120B,C6Q,40,hunger,0,1,40
+66,gpt-oss 120B,X4R,66,hunger,0,1,66
+66,gpt-oss 120B,F7X,67,hunger,0,1,67
+66,gpt-oss 120B,L7C,73,hunger,0,1,73
+66,gpt-oss 120B,M2P,74,hunger,0,1,74
+66,gpt-oss 120B,V2V,79,hunger,0,1,79
+66,gpt-oss 120B,B4B,85,hunger,0,1,85
+66,gpt-oss 120B,D9G,112,hunger,0,1,112
+66,gpt-oss 120B,V6G,119,hunger,0,1,119
+66,gpt-oss 120B,W2F,125,hunger,0,1,125
+66,gpt-oss 120B,W2M,125,hunger,0,1,125
+66,gpt-oss 120B,Q4D,129,hunger,0,1,129
+66,gpt-oss 120B,R4X,135,hunger,0,1,135
+66,gpt-oss 120B,C7W,136,hunger,0,1,136
+66,gpt-oss 120B,S4K,145,hunger,0,1,145
+66,gpt-oss 120B,B2P,149,hunger,0,1,149
+66,gpt-oss 120B,T2N,151,hunger,0,1,151
+66,gpt-oss 120B,D2Q,155,hunger,0,1,155
+66,gpt-oss 120B,D3X,155,hunger,0,1,155
+66,gpt-oss 120B,V4N,155,hunger,0,1,155
+66,gpt-oss 120B,T9J,158,hunger,0,1,158
+66,gpt-oss 120B,B6N,163,hunger,0,1,163
+66,gpt-oss 120B,F2M,169,hunger,0,1,169
+66,gpt-oss 120B,Z2G,175,hunger,0,1,175
+66,gpt-oss 120B,L9K,176,hunger,0,1,176
+66,gpt-oss 120B,V7S,177,hunger,0,1,177
+66,gpt-oss 120B,L6G,180,hunger,0,1,180
+66,gpt-oss 120B,C6T,181,hunger,0,1,181
+66,gpt-oss 120B,R3P,181,hunger,0,1,181
+66,gpt-oss 120B,P4F,187,hunger,0,1,187
+66,gpt-oss 120B,G7P,188,hunger,0,1,188
+66,gpt-oss 120B,F9C,190,hunger,0,1,190
+66,gpt-oss 120B,C6S,191,hunger,0,1,191
+66,gpt-oss 120B,D4Z,193,hunger,0,1,193
+66,gpt-oss 120B,X6X,194,hunger,0,1,194
+66,gpt-oss 120B,F7G,196,hunger,0,1,196
+66,gpt-oss 120B,C7D,198,hunger,0,1,198
+66,gpt-oss 120B,D7J,198,hunger,188,0,10
+66,gpt-oss 120B,F9S,215,hunger,0,1,215
+66,gpt-oss 120B,D4P,217,hunger,0,1,217
+66,gpt-oss 120B,C4N,218,hunger,208,0,10
+66,gpt-oss 120B,B7N,232,hunger,0,1,232
+66,gpt-oss 120B,D2G,255,hunger,0,1,255
+66,gpt-oss 120B,V2B,267,hunger,0,1,267
+66,gpt-oss 120B,Q6P,275,hunger,0,1,275
+66,gpt-oss 120B,T7F,279,hunger,11,0,268
+66,gpt-oss 120B,S2P,284,hunger,0,1,284
+66,gpt-oss 120B,M7Z,285,hunger,0,1,285
+66,gpt-oss 120B,V2Z,287,hunger,0,1,287
+66,gpt-oss 120B,C9V,306,hunger,0,1,306
+66,gpt-oss 120B,C4D,307,hunger,0,1,307
+66,gpt-oss 120B,S4X,307,hunger,0,1,307
+66,gpt-oss 120B,K7F,314,hunger,294,0,20
+66,gpt-oss 120B,Q3N,326,hunger,0,1,326
+66,gpt-oss 120B,T9N,338,hunger,0,1,338
+66,gpt-oss 120B,Z9T,351,hunger,0,1,351
+66,gpt-oss 120B,L3X,356,hunger,0,1,356
+66,gpt-oss 120B,J9D,373,hunger,0,1,373
+66,gpt-oss 120B,T2F,374,hunger,0,1,374
+66,gpt-oss 120B,D2R,378,hunger,199,0,179
+66,gpt-oss 120B,Q4W,382,hunger,0,1,382
+66,gpt-oss 120B,J4V,387,hunger,0,1,387
+66,gpt-oss 120B,X7J,397,hunger,0,1,397
+67,Qwen 27B,F9S,39,hunger,0,1,39
+67,Qwen 27B,T9J,39,hunger,0,1,39
+67,Qwen 27B,Q4D,41,hunger,0,1,41
+67,Qwen 27B,D2Q,44,hunger,0,1,44
+67,Qwen 27B,R3P,68,hunger,0,1,68
+68,gpt-oss 120B,W2M,72,hunger,0,1,72
+68,gpt-oss 120B,T7S,91,hunger,0,1,91
+68,gpt-oss 120B,C4D,105,hunger,0,1,105
+68,gpt-oss 120B,V2V,108,hunger,0,1,108
+68,gpt-oss 120B,S4K,119,hunger,0,1,119
+68,gpt-oss 120B,R4X,121,hunger,0,1,121
+68,gpt-oss 120B,Q6P,123,hunger,0,1,123
+68,gpt-oss 120B,T2F,128,hunger,0,1,128
+68,gpt-oss 120B,W2F,128,hunger,0,1,128
+68,gpt-oss 120B,T9J,132,hunger,0,1,132
+68,gpt-oss 120B,D4P,137,hunger,0,1,137
+68,gpt-oss 120B,F7G,140,hunger,0,1,140
+68,gpt-oss 120B,B2P,145,hunger,0,1,145
+68,gpt-oss 120B,S2P,186,hunger,0,1,186
+68,gpt-oss 120B,C7D,200,hunger,0,1,200
+68,gpt-oss 120B,L7C,203,hunger,0,1,203
+68,gpt-oss 120B,L3X,205,hunger,0,1,205
+68,gpt-oss 120B,G3W,228,hunger,31,0,197
+68,gpt-oss 120B,B4B,231,hunger,0,1,231
+68,gpt-oss 120B,F9S,233,hunger,0,1,233
+68,gpt-oss 120B,F7X,240,hunger,0,1,240
+68,gpt-oss 120B,T7F,250,hunger,4,0,246
+68,gpt-oss 120B,T9N,252,hunger,0,1,252
+68,gpt-oss 120B,C6Q,273,hunger,0,1,273
+68,gpt-oss 120B,G7P,296,hunger,0,1,296
+68,gpt-oss 120B,T7V,315,hunger,0,1,315
+68,gpt-oss 120B,X7J,321,hunger,0,1,321
+68,gpt-oss 120B,B9B,339,hunger,0,1,339
+68,gpt-oss 120B,S9L,361,hunger,0,1,361
+68,gpt-oss 120B,M2P,372,hunger,0,1,372
+68,gpt-oss 120B,Q4D,372,hunger,0,1,372
+68,gpt-oss 120B,B6N,375,hunger,0,1,375
+69,gpt-oss 120B + Qwen 27B,S7D,25,hunger,0,1,25
+69,gpt-oss 120B + Qwen 27B,Q2X,26,hunger,0,1,26
+69,gpt-oss 120B + Qwen 27B,C6T,28,hunger,0,1,28
+69,gpt-oss 120B + Qwen 27B,N6P,28,hunger,0,1,28
+69,gpt-oss 120B + Qwen 27B,D9G,29,hunger,0,1,29
+69,gpt-oss 120B + Qwen 27B,Q3N,29,hunger,0,1,29
+69,gpt-oss 120B + Qwen 27B,V6L,29,hunger,0,1,29
+69,gpt-oss 120B + Qwen 27B,R3P,37,hunger,0,1,37
+69,gpt-oss 120B + Qwen 27B,D3X,39,hunger,0,1,39
+69,gpt-oss 120B + Qwen 27B,X3C,40,hunger,0,1,40
+69,gpt-oss 120B + Qwen 27B,J9D,44,hunger,0,1,44
+69,gpt-oss 120B + Qwen 27B,V3N,46,hunger,0,1,46
+69,gpt-oss 120B + Qwen 27B,M2P,47,hunger,0,1,47
+69,gpt-oss 120B + Qwen 27B,C9V,52,hunger,0,1,52
+69,gpt-oss 120B + Qwen 27B,D2Q,53,hunger,0,1,53
+69,gpt-oss 120B + Qwen 27B,F9C,57,hunger,0,1,57
+69,gpt-oss 120B + Qwen 27B,V2V,63,hunger,0,1,63
+69,gpt-oss 120B + Qwen 27B,J7V,64,hunger,0,1,64
+69,gpt-oss 120B + Qwen 27B,S4X,67,hunger,0,1,67
+69,gpt-oss 120B + Qwen 27B,W2M,77,hunger,0,1,77
+69,gpt-oss 120B + Qwen 27B,F2M,84,hunger,0,1,84
+69,gpt-oss 120B + Qwen 27B,T4D,92,hunger,0,1,92
+69,gpt-oss 120B + Qwen 27B,L9K,107,hunger,0,1,107
+69,gpt-oss 120B + Qwen 27B,T9J,121,hunger,0,1,121
+69,gpt-oss 120B + Qwen 27B,D6W,124,hunger,0,1,124
+69,gpt-oss 120B + Qwen 27B,J4V,132,hunger,0,1,132
+69,gpt-oss 120B + Qwen 27B,S2V,139,hunger,0,1,139
+69,gpt-oss 120B + Qwen 27B,W2F,222,hunger,0,1,222
+69,gpt-oss 120B + Qwen 27B,Q7P,288,hunger,0,1,288
+69,gpt-oss 120B + Qwen 27B,P6X,522,hunger,0,1,522
+69,gpt-oss 120B + Qwen 27B,Q4D,584,hunger,0,1,584
+69,gpt-oss 120B + Qwen 27B,T2F,892,hunger,0,1,892
+71,Qwen 27B,Z6J,30,hunger,0,1,30
+71,Qwen 27B,C9V,32,hunger,0,1,32
+71,Qwen 27B,K7X,35,hunger,0,1,35
